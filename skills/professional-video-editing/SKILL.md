@@ -51,7 +51,7 @@ When there are options, deliver one version or three clearly different variation
 | `place-film.md` | City reels, tourism campaigns, architecture/project films | 1.2–3.3 s (architecture 4–16 s) | A frame for the place; composed shots, little small text |
 | `construction-aec.md` | Construction-tech launches, site case studies, megaproject docs, robot-on-site demos | launch 1.7–2.3 s; case 2.5–5.2 s | Real site, crew in PPE, person for scale, named voices, drone reveal |
 | `deeptech-hardware.md` | Defense, aerospace, drone and autonomy reveals, manifestos, field tests | 1.05–4.17 s | Real UI, human in the loop, named facts; the proof take is longest |
-| `brand-documentary.md` | Short docs paid for by a brand: activist/mission film, athlete or adventure portrait, nature doc, founder mini-doc | ≈1.1–2.0 s trailers; longer takes in the film | The brand is almost invisible; the film belongs to a real person, place or cause |
+| `brand-documentary.md` | Brand, platform or imprint docs and doc trailers: activist, nature/place, athlete, founder mini-doc | 1.1–2.0 s trailers; 2.3–2.7 s portraits; 3.9–4.8 s place docs | Brand invisible, real people, archive as objects, late title |
 | `opening-credits.md` | Places, teams, events, recaps, brag reels | 3.25 s (measured, metronome-even) | Composed shots, small two-line credits in empty space, 2.39:1, one song |
 
 Exact numbers (shot lengths, type sizes, hold times, loudness, silences) live in each style file and in `references/measured-numbers.md`. Use them to set timings instead of guessing. Each style file lists its reference films by title (search for them on the brand's official channel) with an internal research id (`company/example`); numbers marked ≈ were judged by eye.

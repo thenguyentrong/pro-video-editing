@@ -1,6 +1,6 @@
 # Pro Video Editing for Claude
 
-A professional video editing team for Claude Code: a director plus specialists for style, script, images, footage, music, voice, sound, editing and quality control, built on editing styles measured from 358 published films by 114 brands, studios, publishers, broadcasters, creators and hardware companies.
+A professional video editing team for Claude Code: a director plus specialists for style, script, images, footage, music, voice, sound, editing and quality control, built on editing styles measured from 365 published films by 115 brands, studios, publishers, broadcasters, creators and hardware companies.
 
 The goal is simple: videos made with Claude should look like they were made by people with taste, not stitched together by a machine. Every rule here comes from studying how professional teams actually cut: shot lengths, where the fastest cutting sits, how long text stays on screen, where the silence goes before the big hit, how loud the master is.
 
