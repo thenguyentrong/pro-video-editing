@@ -1,0 +1,536 @@
+{
+ "name": "hermes_barenia",
+ "file": "hermes_barenia.webm",
+ "duration_s": 60.101,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 33,
+ "shot_count": 34,
+ "asl_s": 1.77,
+ "median_s": 1.28,
+ "pct_shots_under_1s": 20.6,
+ "pct_shots_over_3s": 11.8,
+ "shots_per_minute": 33.9,
+ "asl_quarters_s": [
+  1.5,
+  1.37,
+  1.37,
+  3.01
+ ],
+ "longest": [
+  {
+   "start": 49.56,
+   "len": 8.64
+  },
+  {
+   "start": 25.96,
+   "len": 4.4
+  },
+  {
+   "start": 41.36,
+   "len": 3.36
+  }
+ ],
+ "shortest": [
+  {
+   "start": 11.0,
+   "len": 0.36
+  },
+  {
+   "start": 30.36,
+   "len": 0.52
+  },
+  {
+   "start": 14.56,
+   "len": 0.8
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 10,
+  "20-30": 5,
+  "30-40": 8,
+  "40-50": 5,
+  "50-60": 1,
+  "60-70": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 26,
+  "only_in_other": [
+   35.8
+  ],
+  "only_in_this": [
+   9.12,
+   11.0,
+   11.36,
+   17.56,
+   22.2,
+   30.36,
+   33.68,
+   46.32
+  ]
+ },
+ "mean_luma": 0.328,
+ "soft_transition_candidates": [
+  {
+   "t": 7.7,
+   "score": 0.934
+  },
+  {
+   "t": 21.3,
+   "score": 1.27
+  },
+  {
+   "t": 26.9,
+   "score": 0.983
+  },
+  {
+   "t": 28.7,
+   "score": 1.326
+  },
+  {
+   "t": 29.5,
+   "score": 1.186
+  },
+  {
+   "t": 36.0,
+   "score": 1.29
+  },
+  {
+   "t": 40.6,
+   "score": 0.912
+  },
+  {
+   "t": 42.3,
+   "score": 0.439
+  },
+  {
+   "t": 48.6,
+   "score": 0.889
+  },
+  {
+   "t": 52.7,
+   "score": 1.812
+  },
+  {
+   "t": 53.5,
+   "score": 2.235
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 11.0,
+   "end": 11.1
+  },
+  {
+   "start": 11.2,
+   "end": 11.4
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 1.84,
+   "len": 1.84
+  },
+  {
+   "i": 2,
+   "start": 1.84,
+   "end": 3.08,
+   "len": 1.24
+  },
+  {
+   "i": 3,
+   "start": 3.08,
+   "end": 6.16,
+   "len": 3.08
+  },
+  {
+   "i": 4,
+   "start": 6.16,
+   "end": 9.12,
+   "len": 2.96
+  },
+  {
+   "i": 5,
+   "start": 9.12,
+   "end": 11.0,
+   "len": 1.88
+  },
+  {
+   "i": 6,
+   "start": 11.0,
+   "end": 11.36,
+   "len": 0.36
+  },
+  {
+   "i": 7,
+   "start": 11.36,
+   "end": 12.44,
+   "len": 1.08
+  },
+  {
+   "i": 8,
+   "start": 12.44,
+   "end": 13.32,
+   "len": 0.88
+  },
+  {
+   "i": 9,
+   "start": 13.32,
+   "end": 14.56,
+   "len": 1.24
+  },
+  {
+   "i": 10,
+   "start": 14.56,
+   "end": 15.36,
+   "len": 0.8
+  },
+  {
+   "i": 11,
+   "start": 15.36,
+   "end": 16.4,
+   "len": 1.04
+  },
+  {
+   "i": 12,
+   "start": 16.4,
+   "end": 17.56,
+   "len": 1.16
+  },
+  {
+   "i": 13,
+   "start": 17.56,
+   "end": 18.64,
+   "len": 1.08
+  },
+  {
+   "i": 14,
+   "start": 18.64,
+   "end": 19.6,
+   "len": 0.96
+  },
+  {
+   "i": 15,
+   "start": 19.6,
+   "end": 20.44,
+   "len": 0.84
+  },
+  {
+   "i": 16,
+   "start": 20.44,
+   "end": 22.2,
+   "len": 1.76
+  },
+  {
+   "i": 17,
+   "start": 22.2,
+   "end": 23.24,
+   "len": 1.04
+  },
+  {
+   "i": 18,
+   "start": 23.24,
+   "end": 24.76,
+   "len": 1.52
+  },
+  {
+   "i": 19,
+   "start": 24.76,
+   "end": 25.96,
+   "len": 1.2
+  },
+  {
+   "i": 20,
+   "start": 25.96,
+   "end": 30.36,
+   "len": 4.4
+  },
+  {
+   "i": 21,
+   "start": 30.36,
+   "end": 30.88,
+   "len": 0.52
+  },
+  {
+   "i": 22,
+   "start": 30.88,
+   "end": 32.32,
+   "len": 1.44
+  },
+  {
+   "i": 23,
+   "start": 32.32,
+   "end": 33.68,
+   "len": 1.36
+  },
+  {
+   "i": 24,
+   "start": 33.68,
+   "end": 34.64,
+   "len": 0.96
+  },
+  {
+   "i": 25,
+   "start": 34.64,
+   "end": 37.08,
+   "len": 2.44
+  },
+  {
+   "i": 26,
+   "start": 37.08,
+   "end": 38.4,
+   "len": 1.32
+  },
+  {
+   "i": 27,
+   "start": 38.4,
+   "end": 39.64,
+   "len": 1.24
+  },
+  {
+   "i": 28,
+   "start": 39.64,
+   "end": 41.36,
+   "len": 1.72
+  },
+  {
+   "i": 29,
+   "start": 41.36,
+   "end": 44.72,
+   "len": 3.36
+  },
+  {
+   "i": 30,
+   "start": 44.72,
+   "end": 46.32,
+   "len": 1.6
+  },
+  {
+   "i": 31,
+   "start": 46.32,
+   "end": 47.4,
+   "len": 1.08
+  },
+  {
+   "i": 32,
+   "start": 47.4,
+   "end": 49.56,
+   "len": 2.16
+  },
+  {
+   "i": 33,
+   "start": 49.56,
+   "end": 58.2,
+   "len": 8.64
+  },
+  {
+   "i": 34,
+   "start": 58.2,
+   "end": 60.101,
+   "len": 1.901
+  }
+ ],
+ "cuts": [
+  1.84,
+  3.08,
+  6.16,
+  9.12,
+  11.0,
+  11.36,
+  12.44,
+  13.32,
+  14.56,
+  15.36,
+  16.4,
+  17.56,
+  18.64,
+  19.6,
+  20.44,
+  22.2,
+  23.24,
+  24.76,
+  25.96,
+  30.36,
+  30.88,
+  32.32,
+  33.68,
+  34.64,
+  37.08,
+  38.4,
+  39.64,
+  41.36,
+  44.72,
+  46.32,
+  47.4,
+  49.56,
+  58.2
+ ],
+ "loudness": {
+  "integrated_lufs": -20.6,
+  "loudness_range_lu": 12.5,
+  "true_peak_dbtp": -5.2
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 3.05,
+    "end": 4.3,
+    "len": 1.25
+   },
+   {
+    "start": 6.25,
+    "end": 6.55,
+    "len": 0.3
+   },
+   {
+    "start": 59.5,
+    "end": 60.05,
+    "len": 0.55
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 3.35,
+    "end": 4.3,
+    "len": 0.95,
+    "level_before_db": -43.5,
+    "floor_db": -80.3,
+    "next_peak_db": -31.1,
+    "next_peak_t": 4.85
+   }
+  ],
+  "hits": [
+   {
+    "t": 22.15,
+    "level_dbfs": -13.5,
+    "rise_db": 22.7
+   },
+   {
+    "t": 54.35,
+    "level_dbfs": -14.2,
+    "rise_db": 16.3
+   },
+   {
+    "t": 24.35,
+    "level_dbfs": -14.3,
+    "rise_db": 17.7
+   },
+   {
+    "t": 15.5,
+    "level_dbfs": -14.9,
+    "rise_db": 22.2
+   },
+   {
+    "t": 14.35,
+    "level_dbfs": -15.4,
+    "rise_db": 26.6
+   },
+   {
+    "t": 29.9,
+    "level_dbfs": -15.5,
+    "rise_db": 18.5
+   },
+   {
+    "t": 21.05,
+    "level_dbfs": -15.6,
+    "rise_db": 21.0
+   },
+   {
+    "t": 18.8,
+    "level_dbfs": -15.6,
+    "rise_db": 19.1
+   },
+   {
+    "t": 56.6,
+    "level_dbfs": -15.8,
+    "rise_db": 18.7
+   },
+   {
+    "t": 12.65,
+    "level_dbfs": -16.2,
+    "rise_db": 26.3
+   },
+   {
+    "t": 58.8,
+    "level_dbfs": -17.2,
+    "rise_db": 18.1
+   },
+   {
+    "t": 10.3,
+    "level_dbfs": -25.9,
+    "rise_db": 21.6
+   },
+   {
+    "t": 8.2,
+    "level_dbfs": -26.0,
+    "rise_db": 25.2
+   },
+   {
+    "t": 11.4,
+    "level_dbfs": -26.9,
+    "rise_db": 21.5
+   },
+   {
+    "t": 7.1,
+    "level_dbfs": -29.2,
+    "rise_db": 26.1
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 4.3,
+    "level_dbfs": -34.5,
+    "rise_db": 45.8
+   },
+   {
+    "t": 0.5,
+    "level_dbfs": -42.3,
+    "rise_db": 45.3
+   },
+   {
+    "t": 14.35,
+    "level_dbfs": -15.4,
+    "rise_db": 26.6
+   },
+   {
+    "t": 6.55,
+    "level_dbfs": -33.1,
+    "rise_db": 26.5
+   },
+   {
+    "t": 12.65,
+    "level_dbfs": -16.2,
+    "rise_db": 26.3
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 29.65,
+   "rms_dbfs": -18.2
+  },
+  "median_rms_dbfs": -24.9
+ },
+ "sync": {
+  "onsets_per_s": 1.85,
+  "cuts_on_onset_pct": 39,
+  "chance_pct": 36,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [35.8] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

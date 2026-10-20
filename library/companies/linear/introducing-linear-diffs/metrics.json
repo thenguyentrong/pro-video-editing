@@ -1,0 +1,267 @@
+{
+ "name": "linear_introducing-linear-diffs",
+ "file": "linear_introducing-linear-diffs.mp4",
+ "duration_s": 51.914,
+ "fps": 30.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 10,
+ "shot_count": 11,
+ "asl_s": 4.72,
+ "median_s": 3.73,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 72.7,
+ "shots_per_minute": 12.7,
+ "asl_quarters_s": [
+  3.24,
+  4.33,
+  4.33,
+  3.24
+ ],
+ "longest": [
+  {
+   "start": 14.967,
+   "len": 10.333
+  },
+  {
+   "start": 31.967,
+   "len": 8.833
+  },
+  {
+   "start": 6.733,
+   "len": 6.034
+  }
+ ],
+ "shortest": [
+  {
+   "start": 12.767,
+   "len": 2.2
+  },
+  {
+   "start": 25.3,
+   "len": 2.333
+  },
+  {
+   "start": 0.0,
+   "len": 3.0
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 2,
+  "20-30": 2,
+  "30-40": 1,
+  "40-50": 3,
+  "50-60": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 44.1,
+   "len": 3.15
+  },
+  {
+   "start": 47.25,
+   "len": 4.66
+  }
+ ],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 0,
+  "only_in_other": [],
+  "only_in_this": [
+   3.0,
+   6.733,
+   12.767,
+   14.967,
+   25.3,
+   27.633,
+   31.967,
+   40.8
+  ]
+ },
+ "mean_luma": 0.062,
+ "soft_transition_candidates": [
+  {
+   "t": 1.2,
+   "score": 0.313
+  },
+  {
+   "t": 4.8,
+   "score": 0.301
+  },
+  {
+   "t": 8.8,
+   "score": 0.598
+  },
+  {
+   "t": 11.3,
+   "score": 0.408
+  },
+  {
+   "t": 13.8,
+   "score": 0.212
+  },
+  {
+   "t": 16.0,
+   "score": 0.406
+  },
+  {
+   "t": 17.1,
+   "score": 0.304
+  },
+  {
+   "t": 18.5,
+   "score": 0.395
+  },
+  {
+   "t": 19.2,
+   "score": 0.446
+  },
+  {
+   "t": 21.4,
+   "score": 0.408
+  },
+  {
+   "t": 22.1,
+   "score": 0.413
+  },
+  {
+   "t": 23.7,
+   "score": 0.219
+  },
+  {
+   "t": 30.0,
+   "score": 0.145
+  },
+  {
+   "t": 36.3,
+   "score": 0.303
+  },
+  {
+   "t": 37.8,
+   "score": 0.118
+  },
+  {
+   "t": 42.6,
+   "score": 0.127
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.0,
+   "len": 3.0
+  },
+  {
+   "i": 2,
+   "start": 3.0,
+   "end": 6.733,
+   "len": 3.733
+  },
+  {
+   "i": 3,
+   "start": 6.733,
+   "end": 12.767,
+   "len": 6.034
+  },
+  {
+   "i": 4,
+   "start": 12.767,
+   "end": 14.967,
+   "len": 2.2
+  },
+  {
+   "i": 5,
+   "start": 14.967,
+   "end": 25.3,
+   "len": 10.333
+  },
+  {
+   "i": 6,
+   "start": 25.3,
+   "end": 27.633,
+   "len": 2.333
+  },
+  {
+   "i": 7,
+   "start": 27.633,
+   "end": 31.967,
+   "len": 4.334
+  },
+  {
+   "i": 8,
+   "start": 31.967,
+   "end": 40.8,
+   "len": 8.833
+  },
+  {
+   "i": 9,
+   "start": 40.8,
+   "end": 44.1,
+   "len": 3.3
+  },
+  {
+   "i": 10,
+   "start": 44.1,
+   "end": 47.25,
+   "len": 3.15
+  },
+  {
+   "i": 11,
+   "start": 47.25,
+   "end": 51.914,
+   "len": 4.664
+  }
+ ],
+ "cuts": [
+  3.0,
+  6.733,
+  12.767,
+  14.967,
+  25.3,
+  27.633,
+  31.967,
+  40.8,
+  44.1,
+  47.25
+ ],
+ "loudness": {
+  "integrated_lufs": -13.9,
+  "loudness_range_lu": 7.6,
+  "true_peak_dbtp": 0.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 51.0,
+    "end": 51.9,
+    "len": 0.9
+   }
+  ],
+  "dropouts": [],
+  "hits": [],
+  "biggest_rises": [],
+  "loudest_0_5s": {
+   "t": 26.75,
+   "rms_dbfs": -10.8
+  },
+  "median_rms_dbfs": -18.5
+ },
+ "sync": {
+  "onsets_per_s": 0.12,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 2,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "true peak 0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

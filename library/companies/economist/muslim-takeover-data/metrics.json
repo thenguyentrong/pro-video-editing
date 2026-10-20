@@ -1,0 +1,704 @@
+{
+ "name": "econ_muslimdata",
+ "source": {
+  "title": "Is Europe facing a \"Muslim takeover\"? The data says otherwise | The Economist",
+  "full_duration_s": "665",
+  "upload_date": "20260912",
+  "channel": "The Economist",
+  "url": "https://www.youtube.com/watch?v=To8r_IWYhZ0"
+ },
+ "analysed_window_s": [
+  0,
+  150.0
+ ],
+ "video": "r_frame_rate=0/0",
+ "fps": 25.0,
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 150.0,
+  "shots": 17,
+  "ASL": 8.82,
+  "median": 6.2,
+  "ASL_quarters": [
+   7.5,
+   12.5,
+   6.25,
+   6.25
+  ],
+  "longest": [
+   [
+    18.56,
+    32.84
+   ],
+   [
+    99.4,
+    16.56
+   ],
+   [
+    62.96,
+    14.72
+   ],
+   [
+    51.4,
+    11.56
+   ]
+  ],
+  "shortest": [
+   [
+    96.96,
+    2.44
+   ],
+   [
+    6.2,
+    2.8
+   ],
+   [
+    145.68,
+    4.32
+   ],
+   [
+    9.0,
+    4.32
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 88,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [],
+  "cuts_per_10s": [
+   2,
+   2,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   3,
+   0,
+   1,
+   1,
+   1,
+   2
+  ],
+  "cut_times": [
+   6.2,
+   9.0,
+   13.32,
+   18.56,
+   51.4,
+   62.96,
+   77.68,
+   82.84,
+   90.16,
+   96.96,
+   99.4,
+   115.96,
+   126.04,
+   135.36,
+   140.64,
+   145.68
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 17,
+   "asl": 8.82
+  },
+  "0.25": {
+   "n_shots": 17,
+   "asl": 8.82
+  },
+  "0.3": {
+   "n_shots": 17,
+   "asl": 8.82
+  },
+  "0.35": {
+   "n_shots": 17,
+   "asl": 8.82
+  },
+  "0.4": {
+   "n_shots": 17,
+   "asl": 8.82
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   0.4,
+   0.255
+  ],
+  [
+   55.3,
+   0.111
+  ],
+  [
+   58.0,
+   0.11
+  ],
+  [
+   60.3,
+   0.116
+  ],
+  [
+   61.2,
+   0.128
+  ],
+  [
+   81.2,
+   0.103
+  ],
+  [
+   141.7,
+   0.107
+  ],
+  [
+   142.6,
+   0.101
+  ],
+  [
+   144.4,
+   0.103
+  ],
+  [
+   147.2,
+   0.139
+  ]
+ ],
+ "dips_to_black_or_white": [],
+ "loudness": {
+  "integrated_lufs": -22.6,
+  "loudest_t_s": 41.5,
+  "loudest_momentary_lufs": -12.5,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 9.5,
+    "end": 10.0,
+    "len": 0.5,
+    "ref": -21.1,
+    "floor": -36.1,
+    "rise_after": 17.8,
+    "next_peak": -18.3
+   },
+   {
+    "start": 17.5,
+    "end": 19.0,
+    "len": 1.5,
+    "ref": -24.4,
+    "floor": -55.6,
+    "rise_after": 38.9,
+    "next_peak": -16.7
+   }
+  ],
+  "biggest_rises": [
+   [
+    38.8,
+    19.0,
+    -16.8
+   ],
+   [
+    37.8,
+    19.5,
+    -17.8
+   ],
+   [
+    27.2,
+    20.0,
+    -16.7
+   ],
+   [
+    17.8,
+    10.5,
+    -18.3
+   ],
+   [
+    16.9,
+    10.0,
+    -19.2
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 4.4,
+    "len": 0.15,
+    "ref": -25.5,
+    "floor": -58.2,
+    "next_peak": -24.9,
+    "peak_t": 4.65
+   },
+   {
+    "start": 8.95,
+    "len": 0.9,
+    "ref": -26.7,
+    "floor": -60.4,
+    "next_peak": -18.3,
+    "peak_t": 9.9
+   },
+   {
+    "start": 10.8,
+    "len": 0.15,
+    "ref": -31.7,
+    "floor": -58.2,
+    "next_peak": -20.8,
+    "peak_t": 11.35
+   },
+   {
+    "start": 14.5,
+    "len": 0.2,
+    "ref": -29.4,
+    "floor": -60.2,
+    "next_peak": -21.8,
+    "peak_t": 14.75
+   },
+   {
+    "start": 15.45,
+    "len": 0.3,
+    "ref": -30.2,
+    "floor": -56.4,
+    "next_peak": -19.9,
+    "peak_t": 16.2
+   },
+   {
+    "start": 17.15,
+    "len": 1.4,
+    "ref": -34.4,
+    "floor": -65.1,
+    "next_peak": -15.2,
+    "peak_t": 19.05
+   },
+   {
+    "start": 22.0,
+    "len": 0.4,
+    "ref": -27.1,
+    "floor": -61.2,
+    "next_peak": -13.5,
+    "peak_t": 22.45
+   },
+   {
+    "start": 26.5,
+    "len": 0.35,
+    "ref": -29.0,
+    "floor": -60.0,
+    "next_peak": -13.7,
+    "peak_t": 27.0
+   },
+   {
+    "start": 29.65,
+    "len": 0.35,
+    "ref": -28.7,
+    "floor": -59.9,
+    "next_peak": -10.9,
+    "peak_t": 30.2
+   },
+   {
+    "start": 31.9,
+    "len": 0.5,
+    "ref": -27.8,
+    "floor": -60.0,
+    "next_peak": -17.0,
+    "peak_t": 32.7
+   },
+   {
+    "start": 34.2,
+    "len": 0.2,
+    "ref": -28.0,
+    "floor": -57.2,
+    "next_peak": -11.5,
+    "peak_t": 34.6
+   },
+   {
+    "start": 37.25,
+    "len": 0.25,
+    "ref": -25.1,
+    "floor": -57.5,
+    "next_peak": -13.4,
+    "peak_t": 37.7
+   },
+   {
+    "start": 40.45,
+    "len": 0.55,
+    "ref": -27.8,
+    "floor": -58.7,
+    "next_peak": -13.2,
+    "peak_t": 41.1
+   },
+   {
+    "start": 43.55,
+    "len": 0.3,
+    "ref": -26.5,
+    "floor": -57.4,
+    "next_peak": -16.5,
+    "peak_t": 44.05
+   },
+   {
+    "start": 45.1,
+    "len": 0.3,
+    "ref": -31.5,
+    "floor": -58.6,
+    "next_peak": -17.1,
+    "peak_t": 45.55
+   },
+   {
+    "start": 47.3,
+    "len": 0.35,
+    "ref": -28.4,
+    "floor": -57.7,
+    "next_peak": -12.8,
+    "peak_t": 47.85
+   },
+   {
+    "start": 49.1,
+    "len": 0.2,
+    "ref": -25.8,
+    "floor": -55.7,
+    "next_peak": -17.2,
+    "peak_t": 49.6
+   },
+   {
+    "start": 51.1,
+    "len": 0.15,
+    "ref": -27.5,
+    "floor": -59.6,
+    "next_peak": -22.8,
+    "peak_t": 51.8
+   },
+   {
+    "start": 51.35,
+    "len": 0.25,
+    "ref": -29.8,
+    "floor": -120.0,
+    "next_peak": -22.8,
+    "peak_t": 51.8
+   },
+   {
+    "start": 55.45,
+    "len": 0.15,
+    "ref": -28.4,
+    "floor": -61.2,
+    "next_peak": -22.9,
+    "peak_t": 55.65
+   },
+   {
+    "start": 56.2,
+    "len": 0.2,
+    "ref": -29.0,
+    "floor": -58.5,
+    "next_peak": -23.8,
+    "peak_t": 56.45
+   },
+   {
+    "start": 62.9,
+    "len": 0.15,
+    "ref": -33.9,
+    "floor": -56.6,
+    "next_peak": -15.2,
+    "peak_t": 63.2
+   },
+   {
+    "start": 70.65,
+    "len": 0.2,
+    "ref": -30.6,
+    "floor": -56.1,
+    "next_peak": -28.4,
+    "peak_t": 71.15
+   },
+   {
+    "start": 72.3,
+    "len": 0.15,
+    "ref": -33.5,
+    "floor": -54.6,
+    "next_peak": -18.4,
+    "peak_t": 72.6
+   },
+   {
+    "start": 76.1,
+    "len": 0.2,
+    "ref": -33.8,
+    "floor": -53.7,
+    "next_peak": -20.2,
+    "peak_t": 76.65
+   },
+   {
+    "start": 77.5,
+    "len": 0.2,
+    "ref": -33.0,
+    "floor": -53.3,
+    "next_peak": -24.3,
+    "peak_t": 77.95
+   },
+   {
+    "start": 79.15,
+    "len": 0.4,
+    "ref": -31.0,
+    "floor": -56.1,
+    "next_peak": -21.0,
+    "peak_t": 79.6
+   },
+   {
+    "start": 84.7,
+    "len": 0.45,
+    "ref": -32.9,
+    "floor": -56.3,
+    "next_peak": -19.4,
+    "peak_t": 85.3
+   },
+   {
+    "start": 89.05,
+    "len": 0.15,
+    "ref": -34.6,
+    "floor": -55.1,
+    "next_peak": -19.6,
+    "peak_t": 89.4
+   },
+   {
+    "start": 90.85,
+    "len": 0.4,
+    "ref": -35.1,
+    "floor": -58.9,
+    "next_peak": -21.0,
+    "peak_t": 91.45
+   },
+   {
+    "start": 98.8,
+    "len": 0.2,
+    "ref": -35.5,
+    "floor": -57.9,
+    "next_peak": -18.7,
+    "peak_t": 99.3
+   },
+   {
+    "start": 101.15,
+    "len": 0.2,
+    "ref": -35.6,
+    "floor": -56.5,
+    "next_peak": -19.9,
+    "peak_t": 101.7
+   },
+   {
+    "start": 102.3,
+    "len": 0.15,
+    "ref": -32.0,
+    "floor": -55.8,
+    "next_peak": -17.3,
+    "peak_t": 102.6
+   },
+   {
+    "start": 105.15,
+    "len": 0.35,
+    "ref": -31.8,
+    "floor": -59.3,
+    "next_peak": -15.2,
+    "peak_t": 105.55
+   },
+   {
+    "start": 105.9,
+    "len": 0.25,
+    "ref": -33.0,
+    "floor": -59.6,
+    "next_peak": -16.0,
+    "peak_t": 106.3
+   },
+   {
+    "start": 108.0,
+    "len": 0.25,
+    "ref": -32.2,
+    "floor": -57.8,
+    "next_peak": -22.3,
+    "peak_t": 108.3
+   },
+   {
+    "start": 110.6,
+    "len": 0.15,
+    "ref": -30.3,
+    "floor": -56.1,
+    "next_peak": -27.3,
+    "peak_t": 110.85
+   },
+   {
+    "start": 111.35,
+    "len": 0.35,
+    "ref": -30.8,
+    "floor": -61.4,
+    "next_peak": -23.6,
+    "peak_t": 111.8
+   },
+   {
+    "start": 112.3,
+    "len": 0.15,
+    "ref": -31.7,
+    "floor": -55.7,
+    "next_peak": -20.4,
+    "peak_t": 113.0
+   },
+   {
+    "start": 115.5,
+    "len": 0.35,
+    "ref": -30.0,
+    "floor": -58.4,
+    "next_peak": -24.2,
+    "peak_t": 116.1
+   },
+   {
+    "start": 117.4,
+    "len": 0.15,
+    "ref": -32.3,
+    "floor": -55.1,
+    "next_peak": -27.9,
+    "peak_t": 117.6
+   },
+   {
+    "start": 119.4,
+    "len": 0.2,
+    "ref": -35.9,
+    "floor": -57.3,
+    "next_peak": -18.3,
+    "peak_t": 120.05
+   },
+   {
+    "start": 122.95,
+    "len": 0.15,
+    "ref": -31.4,
+    "floor": -56.3,
+    "next_peak": -28.8,
+    "peak_t": 123.6
+   },
+   {
+    "start": 123.3,
+    "len": 0.2,
+    "ref": -31.9,
+    "floor": -56.0,
+    "next_peak": -26.5,
+    "peak_t": 124.05
+   },
+   {
+    "start": 126.55,
+    "len": 0.25,
+    "ref": -31.4,
+    "floor": -54.7,
+    "next_peak": -20.4,
+    "peak_t": 127.35
+   },
+   {
+    "start": 130.45,
+    "len": 0.2,
+    "ref": -32.5,
+    "floor": -55.1,
+    "next_peak": -23.6,
+    "peak_t": 130.75
+   },
+   {
+    "start": 131.7,
+    "len": 0.2,
+    "ref": -33.2,
+    "floor": -58.4,
+    "next_peak": -21.9,
+    "peak_t": 132.15
+   },
+   {
+    "start": 133.5,
+    "len": 0.35,
+    "ref": -32.3,
+    "floor": -59.4,
+    "next_peak": -26.0,
+    "peak_t": 134.0
+   },
+   {
+    "start": 146.95,
+    "len": 0.15,
+    "ref": -28.3,
+    "floor": -56.3,
+    "next_peak": -30.9,
+    "peak_t": 147.65
+   },
+   {
+    "start": 147.3,
+    "len": 0.35,
+    "ref": -32.2,
+    "floor": -56.2,
+    "next_peak": -22.2,
+    "peak_t": 147.85
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -10.9,
+    49.0,
+    30.2
+   ],
+   [
+    -11.5,
+    45.7,
+    34.6
+   ],
+   [
+    -11.8,
+    43.5,
+    33.05
+   ],
+   [
+    -12.5,
+    45.6,
+    35.8
+   ],
+   [
+    -12.8,
+    44.9,
+    47.85
+   ],
+   [
+    -13.2,
+    44.2,
+    41.1
+   ],
+   [
+    -13.3,
+    37.7,
+    23.1
+   ],
+   [
+    -13.4,
+    44.1,
+    37.7
+   ],
+   [
+    -13.5,
+    25.1,
+    31.55
+   ],
+   [
+    -13.7,
+    46.2,
+    27.0
+   ],
+   [
+    -14.1,
+    37.6,
+    109.35
+   ],
+   [
+    -14.6,
+    45.0,
+    0.5
+   ],
+   [
+    -14.6,
+    29.0,
+    19.9
+   ],
+   [
+    -15.2,
+    44.1,
+    105.55
+   ],
+   [
+    -15.2,
+    41.4,
+    63.2
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 3.1 cuts on onset (+-0.1s) 56 % vs chance 59 %",
+ "empty_frame": "mostly-empty 0% (on dark 0%, on light 0%), median empty share 22%"
+}

@@ -1,0 +1,400 @@
+{
+ "name": "dyson_v15detect_laser",
+ "url": "https://www.youtube.com/watch?v=Yh_jmGso64E",
+ "duration_s": 66.01,
+ "fps": 25.0,
+ "shots": {
+  "name": "dyson_v15detect_laser",
+  "length": 56.0,
+  "shots": 10,
+  "ASL": 5.6,
+  "median": 3.92,
+  "ASL_quarters": [
+   14.0,
+   3.5,
+   3.5,
+   3.5
+  ],
+  "longest": [
+   [
+    0.0,
+    16.2
+   ],
+   [
+    39.2,
+    7.52
+   ],
+   [
+    16.2,
+    6.92
+   ],
+   [
+    28.76,
+    6.48
+   ]
+  ],
+  "shortest": [
+   [
+    54.0,
+    2.0
+   ],
+   [
+    23.12,
+    2.64
+   ],
+   [
+    25.76,
+    3.0
+   ],
+   [
+    46.72,
+    3.4
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 70,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "cuts_s": [
+  16.2,
+  23.12,
+  25.76,
+  28.76,
+  35.24,
+  39.2,
+  46.72,
+  50.12,
+  54.0
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 11,
+   "asl": 6.0
+  },
+  "0.25": {
+   "n_shots": 10,
+   "asl": 6.6
+  },
+  "0.3": {
+   "n_shots": 9,
+   "asl": 7.33
+  },
+  "0.35": {
+   "n_shots": 8,
+   "asl": 8.25
+  },
+  "0.4": {
+   "n_shots": 7,
+   "asl": 9.43
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   5.6,
+   1.045
+  ],
+  [
+   10.9,
+   1.233
+  ],
+  [
+   12.0,
+   1.198
+  ],
+  [
+   13.3,
+   0.526
+  ],
+  [
+   17.5,
+   1.207
+  ],
+  [
+   27.6,
+   0.355
+  ],
+  [
+   31.5,
+   0.536
+  ],
+  [
+   33.0,
+   0.329
+  ],
+  [
+   33.8,
+   0.33
+  ],
+  [
+   37.5,
+   0.25
+  ],
+  [
+   40.3,
+   0.626
+  ],
+  [
+   42.1,
+   0.672
+  ],
+  [
+   43.9,
+   0.387
+  ],
+  [
+   45.6,
+   0.225
+  ],
+  [
+   48.2,
+   0.215
+  ],
+  [
+   51.8,
+   0.722
+  ],
+  [
+   56.5,
+   4.151
+  ]
+ ],
+ "black_dips_s": [],
+ "loudness": {
+  "integrated_lufs": -23.1,
+  "median_dbfs_50ms": -25.1,
+  "dropouts_ebu": [
+   {
+    "start": 60.0,
+    "end": 66.5,
+    "len": 6.5,
+    "ref": -24.9,
+    "floor": -150.3,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 11.5,
+   "loudest_M": -19.8,
+   "big_hits_near_peak": [
+    [
+     16.6,
+     1.0,
+     -24.1
+    ],
+    [
+     15.8,
+     1.5,
+     -24.9
+    ],
+    [
+     6.0,
+     5.5,
+     -24.4
+    ]
+   ],
+   "biggest_rises": [
+    [
+     16.6,
+     1.0,
+     -24.1
+    ],
+    [
+     15.8,
+     1.5,
+     -24.9
+    ],
+    [
+     12.6,
+     0.5,
+     -28.1
+    ],
+    [
+     6.0,
+     5.5,
+     -24.4
+    ],
+    [
+     5.6,
+     6.0,
+     -24.8
+    ]
+   ]
+  },
+  "gaps_50ms": [],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -24.0,
+    22.0,
+    57.3
+   ],
+   [
+    -24.3,
+    17.7,
+    2.8
+   ],
+   [
+    -34.7,
+    18.7,
+    0.55
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 0.53,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 10
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 17,
+  "on_dark_pct": 14,
+  "on_light_pct": 0,
+  "median_empty_share_pct": 38
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 1.0,
+  "segs": [
+   {
+    "s": 0.3,
+    "e": 4.3,
+    "t": "Dyson's latest vacuum is the only one to use a laser.",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 4.3,
+    "e": 8.3,
+    "t": "It's precisely angled to reveal invisible dust.",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 8.3,
+    "e": 12.3,
+    "t": "The Slim Fluffy Cleanerhead's anti-static carbon fibre filaments",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 12.3,
+    "e": 15.3,
+    "t": "pick up those microscopic particles.",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 16.3,
+    "e": 18.3,
+    "t": "Suction is increased when needed",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 18.3,
+    "e": 20.3,
+    "t": "thanks to this special sensor,",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 20.3,
+    "e": 22.3,
+    "t": "which counts each size",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 22.3,
+    "e": 25.3,
+    "t": "and gives you scientific proof.",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 25.3,
+    "e": 28.3,
+    "t": "It also comes with Dyson's pioneering technology,",
+    "nsp": 0.03,
+    "lp": -0.13
+   },
+   {
+    "s": 28.3,
+    "e": 31.3,
+    "t": "a high-torque cleanerhead that automatically adjusts",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 31.3,
+    "e": 34.3,
+    "t": "across different floors and dust amounts.",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 34.3,
+    "e": 39.3,
+    "t": "Fourteen redesigned cyclones to maintain no loss of suction,",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 39.3,
+    "e": 42.3,
+    "t": "the power of this hypodinium motor,",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 42.3,
+    "e": 47.3,
+    "t": "and five-stage filtration capturing 99.99% of dust,",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 47.3,
+    "e": 50.3,
+    "t": "for the most powerful deep clean,",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 50.3,
+    "e": 53.3,
+    "t": "all around your home.",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 53.3,
+    "e": 56.3,
+    "t": "By direct from the people who made it,",
+    "nsp": 0.01,
+    "lp": -0.17
+   },
+   {
+    "s": 56.3,
+    "e": 59.3,
+    "t": "free delivery from Dyson.",
+    "nsp": 0.03,
+    "lp": -0.09
+   }
+  ]
+ },
+ "manual_notes": "Stats and grade trimmed to 56.0 s (56-66 = black YouTube end screen). 9 hard cuts verified; most changes are continuous CG camera moves with zoom-through (10.5-11 into the dust macro, 15-16 whoosh out) and x-ray cutaways (30-33, 39-43). VO all the way (whisper, en 1.00). Integrated -23.1 LUFS = broadcast (EBU R128) master.",
+ "grade_2fps": {
+  "frames": 112,
+  "end_s": "56",
+  "median_frame_luma": 99.3,
+  "pct_frames_dark_lt40": 0,
+  "pct_frames_bright_gt170": 6,
+  "median_saturation_pct": 13.7,
+  "p90_saturation_pct": 39.7,
+  "median_R_minus_B": 2.0,
+  "median_contrast_p95_minus_p5": 160.3,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

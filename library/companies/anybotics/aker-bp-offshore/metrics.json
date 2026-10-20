@@ -1,0 +1,375 @@
+{
+ "name": "anybotics_aker-bp-offshore",
+ "file": "anybotics_aker-bp-offshore.webm",
+ "duration_s": 123.901,
+ "fps": 30.0,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 5,
+ "shot_count": 6,
+ "asl_s": 20.65,
+ "median_s": 5.98,
+ "pct_shots_under_1s": 33.3,
+ "pct_shots_over_3s": 66.7,
+ "shots_per_minute": 2.9,
+ "asl_quarters_s": [
+  10.33,
+  30.98,
+  30.98,
+  7.74
+ ],
+ "longest": [
+  {
+   "start": 23.2,
+   "len": 88.6
+  },
+  {
+   "start": 0.167,
+   "len": 23.033
+  },
+  {
+   "start": 111.8,
+   "len": 7.966
+  }
+ ],
+ "shortest": [
+  {
+   "start": 123.767,
+   "len": 0.134
+  },
+  {
+   "start": 0.0,
+   "len": 0.167
+  },
+  {
+   "start": 119.766,
+   "len": 4.001
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 0,
+  "20-30": 1,
+  "30-40": 0,
+  "40-50": 0,
+  "50-60": 0,
+  "60-70": 0,
+  "70-80": 0,
+  "80-90": 0,
+  "90-100": 0,
+  "100-110": 0,
+  "110-120": 2,
+  "120-130": 1
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 0.0,
+   "len": 0.17
+  },
+  {
+   "start": 123.77,
+   "len": 0.13
+  }
+ ],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 4,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.472,
+ "soft_transition_candidates": [
+  {
+   "t": 6.2,
+   "score": 0.146
+  },
+  {
+   "t": 8.7,
+   "score": 0.109
+  },
+  {
+   "t": 10.5,
+   "score": 0.11
+  },
+  {
+   "t": 15.7,
+   "score": 0.113
+  },
+  {
+   "t": 21.2,
+   "score": 0.121
+  },
+  {
+   "t": 40.9,
+   "score": 0.449
+  },
+  {
+   "t": 45.8,
+   "score": 0.112
+  },
+  {
+   "t": 59.4,
+   "score": 0.186
+  },
+  {
+   "t": 60.2,
+   "score": 0.176
+  },
+  {
+   "t": 64.7,
+   "score": 0.101
+  },
+  {
+   "t": 69.7,
+   "score": 0.113
+  },
+  {
+   "t": 70.6,
+   "score": 0.123
+  },
+  {
+   "t": 72.3,
+   "score": 0.363
+  },
+  {
+   "t": 80.8,
+   "score": 0.137
+  },
+  {
+   "t": 82.1,
+   "score": 0.147
+  },
+  {
+   "t": 84.6,
+   "score": 0.168
+  },
+  {
+   "t": 86.4,
+   "score": 0.151
+  },
+  {
+   "t": 87.1,
+   "score": 0.131
+  },
+  {
+   "t": 94.2,
+   "score": 0.155
+  },
+  {
+   "t": 95.0,
+   "score": 0.176
+  },
+  {
+   "t": 96.2,
+   "score": 0.162
+  },
+  {
+   "t": 101.1,
+   "score": 0.145
+  },
+  {
+   "t": 104.8,
+   "score": 0.27
+  },
+  {
+   "t": 105.6,
+   "score": 0.216
+  },
+  {
+   "t": 106.2,
+   "score": 0.123
+  },
+  {
+   "t": 108.1,
+   "score": 0.299
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 0.167,
+   "len": 0.167
+  },
+  {
+   "i": 2,
+   "start": 0.167,
+   "end": 23.2,
+   "len": 23.033
+  },
+  {
+   "i": 3,
+   "start": 23.2,
+   "end": 111.8,
+   "len": 88.6
+  },
+  {
+   "i": 4,
+   "start": 111.8,
+   "end": 119.766,
+   "len": 7.966
+  },
+  {
+   "i": 5,
+   "start": 119.766,
+   "end": 123.767,
+   "len": 4.001
+  },
+  {
+   "i": 6,
+   "start": 123.767,
+   "end": 123.901,
+   "len": 0.134
+  }
+ ],
+ "cuts": [
+  0.167,
+  23.2,
+  111.8,
+  119.766,
+  123.767
+ ],
+ "loudness": {
+  "integrated_lufs": -13.5,
+  "loudness_range_lu": 9.6,
+  "true_peak_dbtp": 0.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 123.5,
+    "end": 123.85,
+    "len": 0.35
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 15.0,
+    "level_dbfs": -9.9,
+    "rise_db": 21.4
+   },
+   {
+    "t": 12.4,
+    "level_dbfs": -10.0,
+    "rise_db": 19.2
+   },
+   {
+    "t": 13.7,
+    "level_dbfs": -10.1,
+    "rise_db": 17.5
+   },
+   {
+    "t": 16.3,
+    "level_dbfs": -10.2,
+    "rise_db": 16.8
+   },
+   {
+    "t": 11.1,
+    "level_dbfs": -10.3,
+    "rise_db": 16.3
+   },
+   {
+    "t": 0.65,
+    "level_dbfs": -10.4,
+    "rise_db": 20.3
+   },
+   {
+    "t": 8.5,
+    "level_dbfs": -10.4,
+    "rise_db": 16.2
+   },
+   {
+    "t": 61.95,
+    "level_dbfs": -10.5,
+    "rise_db": 16.0
+   },
+   {
+    "t": 17.6,
+    "level_dbfs": -10.7,
+    "rise_db": 19.8
+   },
+   {
+    "t": 1.95,
+    "level_dbfs": -10.7,
+    "rise_db": 18.1
+   },
+   {
+    "t": 5.9,
+    "level_dbfs": -10.7,
+    "rise_db": 17.1
+   },
+   {
+    "t": 9.8,
+    "level_dbfs": -10.8,
+    "rise_db": 18.8
+   },
+   {
+    "t": 82.85,
+    "level_dbfs": -10.8,
+    "rise_db": 15.4
+   },
+   {
+    "t": 7.2,
+    "level_dbfs": -11.0,
+    "rise_db": 20.1
+   },
+   {
+    "t": 3.25,
+    "level_dbfs": -11.0,
+    "rise_db": 16.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 15.0,
+    "level_dbfs": -9.9,
+    "rise_db": 21.4
+   },
+   {
+    "t": 4.6,
+    "level_dbfs": -11.2,
+    "rise_db": 20.8
+   },
+   {
+    "t": 0.65,
+    "level_dbfs": -10.4,
+    "rise_db": 20.3
+   },
+   {
+    "t": 7.2,
+    "level_dbfs": -11.0,
+    "rise_db": 20.1
+   },
+   {
+    "t": 17.6,
+    "level_dbfs": -10.7,
+    "rise_db": 19.8
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 64.55,
+   "rms_dbfs": -11.9
+  },
+  "median_rms_dbfs": -14.2
+ },
+ "sync": {
+  "onsets_per_s": 0.48,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 9,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak 0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

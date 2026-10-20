@@ -1,0 +1,368 @@
+{
+ "name": "nothing_phone3a_perspective",
+ "url": "https://www.youtube.com/watch?v=YxlN6WI97z0",
+ "duration_s": 112.77,
+ "fps": 25.0,
+ "shots": {
+  "name": "nothing_phone3a_perspective",
+  "length": 112.76,
+  "shots": 31,
+  "ASL": 3.64,
+  "median": 2.4,
+  "ASL_quarters": [
+   3.13,
+   3.13,
+   3.13,
+   4.03
+  ],
+  "longest": [
+   [
+    74.8,
+    16.12
+   ],
+   [
+    104.84,
+    7.92
+   ],
+   [
+    29.72,
+    7.48
+   ],
+   [
+    22.76,
+    6.96
+   ]
+  ],
+  "shortest": [
+   [
+    63.96,
+    0.48
+   ],
+   [
+    44.48,
+    0.52
+   ],
+   [
+    63.36,
+    0.6
+   ],
+   [
+    62.36,
+    1.0
+   ]
+  ],
+  "pct_under_1s": 10,
+  "pct_over_3s": 42,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    0.0,
+    6.32
+   ],
+   [
+    14.68,
+    1.96
+   ],
+   [
+    60.76,
+    1.6
+   ],
+   [
+    104.84,
+    7.92
+   ]
+  ]
+ },
+ "cuts_s": [
+  6.32,
+  8.28,
+  10.68,
+  12.72,
+  14.68,
+  16.64,
+  18.64,
+  22.76,
+  29.72,
+  37.2,
+  40.16,
+  44.48,
+  45.0,
+  48.8,
+  52.84,
+  55.88,
+  60.76,
+  62.36,
+  63.36,
+  63.96,
+  64.44,
+  66.4,
+  67.92,
+  74.8,
+  90.92,
+  96.04,
+  97.88,
+  99.88,
+  101.84,
+  104.84
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 27,
+   "asl": 4.18
+  },
+  "0.25": {
+   "n_shots": 25,
+   "asl": 4.51
+  },
+  "0.3": {
+   "n_shots": 24,
+   "asl": 4.7
+  },
+  "0.35": {
+   "n_shots": 21,
+   "asl": 5.37
+  },
+  "0.4": {
+   "n_shots": 19,
+   "asl": 5.94
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   0.8,
+   0.15
+  ],
+  [
+   4.0,
+   0.104
+  ],
+  [
+   25.0,
+   0.205
+  ],
+  [
+   26.6,
+   0.746
+  ],
+  [
+   27.8,
+   0.371
+  ],
+  [
+   31.3,
+   0.224
+  ],
+  [
+   32.8,
+   0.464
+  ],
+  [
+   34.4,
+   2.587
+  ],
+  [
+   42.5,
+   0.249
+  ],
+  [
+   50.1,
+   0.185
+  ],
+  [
+   51.8,
+   0.166
+  ],
+  [
+   58.7,
+   0.242
+  ],
+  [
+   69.8,
+   0.303
+  ],
+  [
+   70.5,
+   0.306
+  ],
+  [
+   71.7,
+   0.347
+  ],
+  [
+   78.1,
+   0.617
+  ],
+  [
+   80.3,
+   2.95
+  ],
+  [
+   81.6,
+   0.363
+  ],
+  [
+   82.9,
+   0.163
+  ],
+  [
+   84.3,
+   0.144
+  ],
+  [
+   87.1,
+   0.677
+  ],
+  [
+   89.6,
+   0.241
+  ],
+  [
+   92.0,
+   0.103
+  ]
+ ],
+ "black_dips_s": [
+  [
+   14.7,
+   16.6
+  ],
+  [
+   60.8,
+   62.4
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -13.7,
+  "median_dbfs_50ms": -15.5,
+  "dropouts_ebu": [
+   {
+    "start": 106.0,
+    "end": 113.0,
+    "len": 7.0,
+    "ref": -19.0,
+    "floor": -120.0,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 88.5,
+   "loudest_M": -8.9,
+   "big_hits_near_peak": [
+    [
+     23.1,
+     6.5,
+     -9.4
+    ],
+    [
+     21.7,
+     6.0,
+     -10.8
+    ],
+    [
+     18.8,
+     7.0,
+     -13.7
+    ]
+   ],
+   "biggest_rises": [
+    [
+     23.1,
+     6.5,
+     -9.4
+    ],
+    [
+     21.7,
+     6.0,
+     -10.8
+    ],
+    [
+     18.8,
+     7.0,
+     -13.7
+    ],
+    [
+     17.2,
+     88.5,
+     -8.9
+    ],
+    [
+     16.3,
+     89.0,
+     -9.8
+    ]
+   ]
+  },
+  "gaps_50ms": [],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -4.3,
+    32.0,
+    6.3
+   ],
+   [
+    -5.5,
+    20.7,
+    52.35
+   ],
+   [
+    -6.5,
+    25.2,
+    88.35
+   ],
+   [
+    -6.6,
+    15.4,
+    64.3
+   ],
+   [
+    -6.7,
+    16.1,
+    66.3
+   ],
+   [
+    -6.8,
+    16.8,
+    78.3
+   ],
+   [
+    -7.3,
+    20.9,
+    100.3
+   ],
+   [
+    -7.3,
+    15.1,
+    80.3
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 0.76,
+  "cuts_on_onset_pct": 13,
+  "chance_pct": 16
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 23,
+  "on_dark_pct": 23,
+  "on_light_pct": 0,
+  "median_empty_share_pct": 50
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 0.44,
+  "segs": []
+ },
+ "manual_notes": "30 hard cuts verified. Plus ~12 soft transitions checked by strip: object-continuity morphs inside 3D renders (24-27 lens stack -> module -> PCB -> lock screen; 31-33 screen rotates to back; 86-89 chip -> board -> screen), push/slide at 33.8, fade-through-black 80.0-80.5. Counting those, visual beats ~42 => beat ASL ~2.7 s. Black text cards: 0-6.3 (dot-matrix decode), 14.7-16.6, 60.8-62.4, 104.8-112.8. No speech.",
+ "grade_2fps": {
+  "frames": 226,
+  "median_frame_luma": 76.6,
+  "pct_frames_dark_lt40": 27,
+  "pct_frames_bright_gt170": 27,
+  "median_saturation_pct": 12.5,
+  "p90_saturation_pct": 40.5,
+  "median_R_minus_B": -8.9,
+  "median_contrast_p95_minus_p5": 122.8,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

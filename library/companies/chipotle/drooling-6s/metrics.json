@@ -1,0 +1,254 @@
+{
+ "name": "chipotle_drooling_6s",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "FU5y1JUejAs",
+  "title": "suddenly i'm drooling 🤤 use CHIMI25",
+  "upload_date": "20251024",
+  "duration": 6,
+  "view_count": 15730,
+  "like_count": 200,
+  "channel": "Chipotle Mexican Grill",
+  "uploader": "Chipotle Mexican Grill",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=FU5y1JUejAs",
+  "description_start": "valid 10/24-10/26; rewards members only. entrée purch and use of promo code req'd. digital orders only, US+CAN. full terms: chipotle.com/red-chimi-legal"
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.52,
+   3.0,
+   4.51
+  ],
+  "shots": 4,
+  "ASL_s": 1.54,
+  "median_s": 1.52,
+  "ASL_quarters_s": [
+   0.77,
+   0.77,
+   0.77,
+   1.54
+  ],
+  "longest_start_len": [
+   [
+    4.51,
+    1.64
+   ],
+   [
+    0.0,
+    1.52
+   ],
+   [
+    3.0,
+    1.52
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    1.52,
+    1.48
+   ],
+   [
+    3.0,
+    1.52
+   ],
+   [
+    0.0,
+    1.52
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 0,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "4 shots of exactly ~1.5 s (1.52 / 1.48 / 1.52 / 1.58)"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 6.15
+ },
+ "cuts_cuts2": [
+  1.516,
+  2.999,
+  4.515
+ ],
+ "shot_stats_cuts2": {
+  "name": "chipotle_drooling_6s",
+  "length": 6.1,
+  "shots": 4,
+  "ASL": 1.52,
+  "median": 1.52,
+  "ASL_quarters": [
+   0.76,
+   0.76,
+   0.76,
+   1.52
+  ],
+  "longest": [
+   [
+    4.51,
+    1.58
+   ],
+   [
+    0.0,
+    1.52
+   ],
+   [
+    3.0,
+    1.52
+   ],
+   [
+    1.52,
+    1.48
+   ]
+  ],
+  "shortest": [
+   [
+    1.52,
+    1.48
+   ],
+   [
+    3.0,
+    1.52
+   ],
+   [
+    0.0,
+    1.52
+   ],
+   [
+    4.51,
+    1.58
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 4,
+   "asl": 1.54
+  },
+  "0.25": {
+   "n_shots": 4,
+   "asl": 1.54
+  },
+  "0.3": {
+   "n_shots": 4,
+   "asl": 1.54
+  },
+  "0.35": {
+   "n_shots": 4,
+   "asl": 1.54
+  },
+  "0.4": {
+   "n_shots": 4,
+   "asl": 1.54
+  }
+ },
+ "integrated_lufs": -6.5,
+ "loudness_dropouts": [],
+ "loudness_hits": {
+  "loudest_t": 0.0,
+  "loudest_M": -4.9,
+  "big_hits_near_peak": [
+   [
+    2.1,
+    4.0,
+    -5.0
+   ],
+   [
+    1.9,
+    4.5,
+    -5.2
+   ],
+   [
+    1.6,
+    5.5,
+    -5.3
+   ]
+  ],
+  "biggest_rises": [
+   [
+    2.1,
+    4.0,
+    -5.0
+   ],
+   [
+    1.9,
+    4.5,
+    -5.2
+   ],
+   [
+    1.6,
+    5.5,
+    -5.3
+   ],
+   [
+    1.4,
+    3.5,
+    -5.7
+   ],
+   [
+    1.3,
+    1.5,
+    -5.5
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -4.0,
+   19.9,
+   2.05
+  ],
+  [
+   -4.2,
+   22.3,
+   4.95
+  ],
+  [
+   -6.2,
+   113.8,
+   0.5
+  ],
+  [
+   -8.2,
+   15.1,
+   3.45
+  ]
+ ],
+ "beatsync": "chipotle_drooling_6s onsets/s 2.6 cuts on onset (+-0.1s) 67 % vs chance 45 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / TikTok",
+  "sub_style": "food hero / promo (drip-and-dip ASMR, 6 s)",
+  "hook_0_2s": "frame 1: extreme close food: red chimichurri being squeezed onto a foil-wrapped burrito in hard sunlight; caption 'RED CHIMICHURRI IS FREE ALL WEEKEND 🔥' already on screen",
+  "captions": {
+   "style": "TikTok in-app 'Classic' text in ALL CAPS, white with thin black outline + emoji, centred",
+   "cap_height_pct_H": [
+    2.1,
+    2.3
+   ],
+   "position_pct_H": "17.4-23.5 (2 lines)",
+   "x_extent_pct_W": "15-88",
+   "on_screen": "whole video (one static card)"
+  },
+  "on_screen_text_density": "6 words + emoji, static for 6 s",
+  "audio": "music only, very loud master: integrated -6.5 LUFS; cuts on audio onsets 67% vs 45% chance (each shot = one bar)",
+  "audio_type": "trend-style music (not identified)",
+  "voice": false,
+  "loop": "4 near-identical 'sauce meets food' beats, ends mid-dip, loops cleanly; promo code only in the post caption (CHIMI25)",
+  "views_at_analysis": 15730,
+  "likes": 200
+ }
+}

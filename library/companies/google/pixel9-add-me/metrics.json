@@ -1,0 +1,167 @@
+{
+ "name": "google_pixel9_addme",
+ "url": "https://www.youtube.com/watch?v=x65VVs-aSUI",
+ "analysed": "2026-10-20, 480p YouTube download (media deleted after analysis)",
+ "resolution_analysed": "854,480",
+ "duration_s": 30.05,
+ "fps": 23.976,
+ "cut_detection": "cuts2.py adaptive hard cuts, every cut pair checked by eye (verify.py); soft transitions from soft.py checked by eye (cand.py) and added only when they are real scene changes",
+ "soft_transitions_added_s": [
+  2.75,
+  7.15,
+  19.9,
+  25.0,
+  28.35
+ ],
+ "false_cuts_dropped_s": [
+  13.64,
+  14.47
+ ],
+ "shots": 8,
+ "asl_s": 3.75,
+ "median_shot_s": 3.66,
+ "asl_quarters_s": [
+  2.5,
+  3.75,
+  2.5,
+  2.5
+ ],
+ "longest_shots_start_len": [
+  [
+   7.15,
+   6.74
+  ],
+  [
+   19.9,
+   5.1
+  ],
+  [
+   2.75,
+   4.4
+  ],
+  [
+   13.89,
+   3.96
+  ]
+ ],
+ "shortest_shots_start_len": [
+  [
+   28.35,
+   1.68
+  ],
+  [
+   17.85,
+   2.05
+  ],
+  [
+   0.0,
+   2.75
+  ],
+  [
+   25.0,
+   3.35
+  ]
+ ],
+ "pct_shots_under_1s": 0,
+ "pct_shots_over_3s": 62,
+ "black_holds_start_len": [],
+ "cuts_per_10s": {
+  "0-10s": 2,
+  "10-20s": 3,
+  "20-30s": 2,
+  "30-40s": 0
+ },
+ "cut_times_s": [
+  2.75,
+  7.15,
+  13.889,
+  17.851,
+  19.9,
+  25.0,
+  28.35
+ ],
+ "scene_threshold_sweep": {
+  "0.2": {
+   "n_shots": 6,
+   "asl": 5.01
+  },
+  "0.25": {
+   "n_shots": 5,
+   "asl": 6.01
+  },
+  "0.3": {
+   "n_shots": 5,
+   "asl": 6.01
+  },
+  "0.35": {
+   "n_shots": 5,
+   "asl": 6.01
+  },
+  "0.4": {
+   "n_shots": 4,
+   "asl": 7.51
+  }
+ },
+ "audio": {
+  "integrated_lufs": -14.5,
+  "median_rms_dbfs_50ms": -21.4,
+  "loudest_momentary": -9.5,
+  "loudest_at_s": 14.5,
+  "dropouts_ebu_0.5s_bins": [
+   {
+    "start": 29.5,
+    "end": 30.5,
+    "len": 1.0,
+    "ref": -17.7,
+    "floor": -59.4,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "gaps_50ms_rms": [],
+  "hits_dbfs_rise_t": [
+   [
+    -9.3,
+    26.6,
+    24.1
+   ],
+   [
+    -9.4,
+    30.4,
+    8.45
+   ],
+   [
+    -9.5,
+    18.3,
+    15.25
+   ],
+   [
+    -9.6,
+    28.3,
+    1.3
+   ],
+   [
+    -9.8,
+    16.3,
+    3.95
+   ],
+   [
+    -10.7,
+    19.3,
+    21.6
+   ],
+   [
+    -11.1,
+    16.8,
+    16.3
+   ],
+   [
+    -11.3,
+    16.6,
+    11.7
+   ]
+  ],
+  "beat_sync": "google_pixel9_addme onsets/s 2.86 cuts on onset (+-0.1s) 43 % vs chance 59 %"
+ },
+ "empty_frame_share": "google_pixel9_addme: samples 60, letterbox rows 0/36, mostly-empty 25% (on dark 0%, on light 25%), median empty share 21%"
+}

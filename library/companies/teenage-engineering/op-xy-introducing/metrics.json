@@ -1,0 +1,299 @@
+{
+ "name": "te_opxy_intro",
+ "url": "https://www.youtube.com/watch?v=xceQgvssxeU",
+ "duration_s": 33.49,
+ "fps": 25.0,
+ "shots": {
+  "name": "te_opxy_intro",
+  "length": 33.48,
+  "shots": 9,
+  "ASL": 3.72,
+  "median": 3.16,
+  "ASL_quarters": [
+   2.79,
+   2.09,
+   2.79,
+   4.18
+  ],
+  "longest": [
+   [
+    21.04,
+    6.8
+   ],
+   [
+    27.84,
+    5.64
+   ],
+   [
+    17.2,
+    3.84
+   ],
+   [
+    0.0,
+    3.72
+   ]
+  ],
+  "shortest": [
+   [
+    12.24,
+    2.04
+   ],
+   [
+    6.88,
+    2.4
+   ],
+   [
+    14.28,
+    2.92
+   ],
+   [
+    9.28,
+    2.96
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 56,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    0.0,
+    3.72
+   ],
+   [
+    17.2,
+    3.84
+   ],
+   [
+    27.84,
+    5.64
+   ]
+  ]
+ },
+ "cuts_s": [
+  3.72,
+  6.88,
+  9.28,
+  12.24,
+  14.28,
+  17.2,
+  21.04,
+  27.84
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 3,
+   "asl": 11.16
+  },
+  "0.25": {
+   "n_shots": 2,
+   "asl": 16.75
+  },
+  "0.3": {
+   "n_shots": 2,
+   "asl": 16.75
+  },
+  "0.35": {
+   "n_shots": 2,
+   "asl": 16.75
+  },
+  "0.4": {
+   "n_shots": 2,
+   "asl": 16.75
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   1.2,
+   0.103
+  ],
+  [
+   2.5,
+   0.113
+  ],
+  [
+   7.9,
+   0.156
+  ],
+  [
+   10.3,
+   0.149
+  ],
+  [
+   22.7,
+   0.323
+  ],
+  [
+   29.0,
+   0.207
+  ],
+  [
+   29.1,
+   0.207
+  ],
+  [
+   29.2,
+   0.207
+  ],
+  [
+   29.3,
+   0.207
+  ],
+  [
+   29.4,
+   0.207
+  ],
+  [
+   29.5,
+   0.207
+  ],
+  [
+   29.6,
+   0.207
+  ],
+  [
+   30.5,
+   0.242
+  ],
+  [
+   30.6,
+   0.242
+  ],
+  [
+   30.7,
+   0.242
+  ],
+  [
+   30.8,
+   0.242
+  ],
+  [
+   30.9,
+   0.242
+  ],
+  [
+   31.0,
+   0.242
+  ],
+  [
+   31.1,
+   0.242
+  ],
+  [
+   31.2,
+   0.242
+  ]
+ ],
+ "black_dips_s": [
+  [
+   17.2,
+   22.0
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -18.0,
+  "median_dbfs_50ms": -23.6,
+  "dropouts_ebu": [
+   {
+    "start": 31.5,
+    "end": 33.5,
+    "len": 2.0,
+    "ref": -27.9,
+    "floor": -70.1,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 18.0,
+   "loudest_M": -12.7,
+   "big_hits_near_peak": [
+    [
+     1.8,
+     18.0,
+     -12.7
+    ],
+    [
+     1.7,
+     14.5,
+     -15.5
+    ],
+    [
+     1.7,
+     17.0,
+     -14.1
+    ]
+   ],
+   "biggest_rises": [
+    [
+     25.4,
+     1.0,
+     -25.1
+    ],
+    [
+     24.8,
+     1.5,
+     -25.7
+    ],
+    [
+     14.7,
+     0.5,
+     -35.8
+    ],
+    [
+     8.9,
+     2.0,
+     -26.9
+    ],
+    [
+     5.3,
+     5.5,
+     -22.1
+    ]
+   ]
+  },
+  "gaps_50ms": [],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -24.2,
+    25.8,
+    1.05
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 0.15,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 3
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 76,
+  "on_dark_pct": 76,
+  "on_light_pct": 0,
+  "median_empty_share_pct": 90
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 0.65,
+  "segs": [
+   {
+    "s": 0.27,
+    "e": 2.33,
+    "t": "you",
+    "nsp": 0.92,
+    "lp": -0.88
+   }
+  ]
+ },
+ "manual_notes": "8 cuts verified (ffmpeg scene detection found only 1 because the film is nearly all black - median frame luma 6). Soft candidates 29-31 = logo fade-out. Whisper 'you' at 0.3 s is a hallucination (nsp 0.92). No speech.",
+ "grade_2fps": {
+  "frames": 67,
+  "median_frame_luma": 6.0,
+  "pct_frames_dark_lt40": 88,
+  "pct_frames_bright_gt170": 0,
+  "median_saturation_pct": 1.6,
+  "p90_saturation_pct": 4.2,
+  "median_R_minus_B": -0.2,
+  "median_contrast_p95_minus_p5": 33.2,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

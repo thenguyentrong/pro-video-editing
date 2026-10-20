@@ -1,0 +1,371 @@
+{
+ "name": "notion_how_well_did_they_do",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "DEewjtcAnlU",
+  "title": "How well did they do?",
+  "upload_date": "20250926",
+  "duration": 24,
+  "view_count": 15904,
+  "like_count": 78,
+  "channel": "Notion",
+  "uploader": "Notion",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=DEewjtcAnlU",
+  "description_start": "Can you draw Nosy, the Notion mascot?"
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   6.63,
+   7.53,
+   8.07,
+   9.43,
+   9.93,
+   10.47,
+   12.03,
+   12.47,
+   13.13,
+   14.13,
+   15.1,
+   15.77,
+   16.43,
+   17.73,
+   19.2,
+   20.03,
+   20.67
+  ],
+  "shots": 18,
+  "ASL_s": 1.31,
+  "median_s": 0.87,
+  "ASL_quarters_s": [
+   5.88,
+   0.84,
+   0.74,
+   1.18
+  ],
+  "longest_start_len": [
+   [
+    0.0,
+    6.63
+   ],
+   [
+    20.67,
+    2.85
+   ],
+   [
+    10.47,
+    1.57
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    12.03,
+    0.43
+   ],
+   [
+    9.43,
+    0.5
+   ],
+   [
+    7.53,
+    0.53
+   ]
+  ],
+  "pct_under_1s": 61,
+  "pct_over_3s": 6,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "cuts2 17 cuts, all real (wide -> CU reveal -> B&W verdict freeze per contestant)"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 23.52
+ },
+ "cuts_cuts2": [
+  6.633,
+  7.533,
+  8.067,
+  9.433,
+  9.933,
+  10.467,
+  12.033,
+  12.467,
+  13.133,
+  14.133,
+  15.1,
+  15.767,
+  16.433,
+  17.733,
+  19.2,
+  20.033,
+  20.667
+ ],
+ "shot_stats_cuts2": {
+  "name": "notion_how_well_did_they_do",
+  "length": 23.47,
+  "shots": 18,
+  "ASL": 1.3,
+  "median": 0.87,
+  "ASL_quarters": [
+   5.87,
+   0.84,
+   0.73,
+   1.17
+  ],
+  "longest": [
+   [
+    0.0,
+    6.63
+   ],
+   [
+    20.67,
+    2.8
+   ],
+   [
+    10.47,
+    1.57
+   ],
+   [
+    17.73,
+    1.47
+   ]
+  ],
+  "shortest": [
+   [
+    12.03,
+    0.43
+   ],
+   [
+    9.43,
+    0.5
+   ],
+   [
+    7.53,
+    0.53
+   ],
+   [
+    9.93,
+    0.53
+   ]
+  ],
+  "pct_under_1s": 61,
+  "pct_over_3s": 6,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 16,
+   "asl": 1.47
+  },
+  "0.25": {
+   "n_shots": 14,
+   "asl": 1.68
+  },
+  "0.3": {
+   "n_shots": 14,
+   "asl": 1.68
+  },
+  "0.35": {
+   "n_shots": 14,
+   "asl": 1.68
+  },
+  "0.4": {
+   "n_shots": 14,
+   "asl": 1.68
+  }
+ },
+ "integrated_lufs": -18.9,
+ "loudness_dropouts": [
+  {
+   "start": 9.5,
+   "end": 10.0,
+   "len": 0.5,
+   "ref": -22.4,
+   "floor": -35.0,
+   "rise_after": 20.1,
+   "next_peak": -14.9
+  },
+  {
+   "start": 12.0,
+   "end": 12.5,
+   "len": 0.5,
+   "ref": -21.4,
+   "floor": -34.4,
+   "rise_after": 14.5,
+   "next_peak": -19.9
+  },
+  {
+   "start": 17.5,
+   "end": 19.0,
+   "len": 1.5,
+   "ref": -13.8,
+   "floor": -31.4,
+   "rise_after": 20.8,
+   "next_peak": -10.6
+  },
+  {
+   "start": 23.5,
+   "end": 24.0,
+   "len": 0.5,
+   "ref": -17.9,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 21.0,
+  "loudest_M": -9.8,
+  "big_hits_near_peak": [
+   [
+    26.0,
+    16.0,
+    -11.1
+   ],
+   [
+    25.6,
+    15.5,
+    -11.5
+   ],
+   [
+    20.1,
+    11.0,
+    -14.9
+   ]
+  ],
+  "biggest_rises": [
+   [
+    26.0,
+    16.0,
+    -11.1
+   ],
+   [
+    25.6,
+    15.5,
+    -11.5
+   ],
+   [
+    20.1,
+    11.0,
+    -14.9
+   ],
+   [
+    18.8,
+    10.5,
+    -16.2
+   ],
+   [
+    16.8,
+    15.0,
+    -20.3
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [
+  {
+   "start": 12.9,
+   "len": 0.25,
+   "ref": -32.8,
+   "floor": -120.0,
+   "next_peak": -29.6,
+   "peak_t": 13.7
+  },
+  {
+   "start": 15.55,
+   "len": 0.25,
+   "ref": -38.8,
+   "floor": -120.0,
+   "next_peak": -8.7,
+   "peak_t": 15.85
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -8.7,
+   111.3,
+   15.85
+  ],
+  [
+   -9.3,
+   27.2,
+   20.8
+  ],
+  [
+   -12.7,
+   26.9,
+   10.75
+  ],
+  [
+   -13.5,
+   33.1,
+   3.25
+  ],
+  [
+   -14.3,
+   26.5,
+   4.5
+  ],
+  [
+   -14.6,
+   24.2,
+   1.8
+  ],
+  [
+   -16.2,
+   19.8,
+   19.3
+  ],
+  [
+   -17.8,
+   26.1,
+   22.9
+  ],
+  [
+   -20.3,
+   20.2,
+   7.65
+  ],
+  [
+   -20.6,
+   21.0,
+   12.75
+  ],
+  [
+   -21.3,
+   18.2,
+   0.55
+  ],
+  [
+   -21.5,
+   18.6,
+   16.85
+  ]
+ ],
+ "beatsync": "notion_how_well_did_they_do onsets/s 2.26 cuts on onset (+-0.1s) 24 % vs chance 43 %",
+ "manual": {
+  "format": "9:16 1080x1920 (1440x2560 source) YouTube Short / TikTok",
+  "sub_style": "street / event interview game (creator-style, brand mascot quiz)",
+  "hook_0_2s": "wide 2-shot at an event wall: host with mic + guest; question 'Can you draw Nosy?' top and the Notion mascot face (Nosy) in a white disc as the reference answer; the challenge is clear before the first word",
+  "captions": {
+   "question": "white sans medium, line ~3.6% H at 10-13.5% H, on screen 0-6.6 s",
+   "reference_disc": "white circle with the Nosy face, diameter ~21% H at 17-38% H",
+   "verdict_graphics": "freeze frame turned black & white, tight on the board, hand-drawn red X (fail) or green rounded-square check (pass), Nosy disc on top, 0.5 s each",
+   "dialogue_subtitles": "none"
+  },
+  "on_screen_text_density": "4 words + icons",
+  "audio": "dialogue + laughter + upbeat bed; integrated -18.9 LUFS; drop-outs at 9.5, 12.0, 17.5 (1.5 s), 23.5 s = verdict beats",
+  "audio_type": "original + music",
+  "voice": true,
+  "loop": "ends on the best drawing with green check and the guest waving next to the Nosy disc; no end card",
+  "views_at_analysis": 15904
+ }
+}

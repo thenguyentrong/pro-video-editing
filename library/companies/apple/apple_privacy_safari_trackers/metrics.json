@@ -1,0 +1,298 @@
+{
+ "slug": "apple_privacy_safari_trackers",
+ "company": "apple",
+ "title": "Privacy on iPhone: Safari helps block data trackers",
+ "url": "https://www.youtube.com/watch?v=Spb-ka7xrR8",
+ "upload_date": "2026-06-04",
+ "format": "4:3 (640x480 source)",
+ "file_duration_s": 65.07,
+ "fps": 23.976,
+ "content_end_s": 60.06,
+ "integrated_lufs": -16.2,
+ "shots": {
+  "name": "apple_privacy_safari_trackers",
+  "length": 60.06,
+  "shots": 40,
+  "ASL": 1.5,
+  "median": 1.42,
+  "ASL_quarters": [
+   1.5,
+   1.67,
+   1.16,
+   1.36
+  ],
+  "longest": [
+   [
+    57.1,
+    2.96
+   ],
+   [
+    20.1,
+    2.59
+   ],
+   [
+    43.59,
+    2.54
+   ],
+   [
+    52.09,
+    2.54
+   ]
+  ],
+  "shortest": [
+   [
+    43.0,
+    0.58
+   ],
+   [
+    46.8,
+    0.67
+   ],
+   [
+    47.46,
+    0.67
+   ],
+   [
+    46.13,
+    0.67
+   ]
+  ],
+  "pct_under_1s": 30,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "extra_soft_cuts_added": [],
+ "cuts": [
+  1.71,
+  2.794,
+  3.837,
+  4.713,
+  6.757,
+  8.8,
+  10.886,
+  12.221,
+  14.723,
+  16.016,
+  17.893,
+  19.353,
+  20.103,
+  22.689,
+  24.191,
+  26.318,
+  27.819,
+  30.155,
+  31.907,
+  33.575,
+  34.785,
+  36.37,
+  37.412,
+  38.372,
+  40.332,
+  41.124,
+  41.959,
+  43.001,
+  43.585,
+  46.129,
+  46.797,
+  47.464,
+  48.131,
+  49.007,
+  49.758,
+  51.134,
+  52.094,
+  54.638,
+  57.099
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 40,
+   "asl": 1.63
+  },
+  "0.25": {
+   "n_shots": 39,
+   "asl": 1.67
+  },
+  "0.3": {
+   "n_shots": 37,
+   "asl": 1.76
+  },
+  "0.35": {
+   "n_shots": 35,
+   "asl": 1.86
+  },
+  "0.4": {
+   "n_shots": 28,
+   "asl": 2.32
+  }
+ },
+ "soft_candidates": [
+  [
+   21.4,
+   0.19
+  ],
+  [
+   29.1,
+   0.175
+  ],
+  [
+   58.1,
+   0.828
+  ]
+ ],
+ "black_dips": [],
+ "audio_gaps_50ms": [
+  {
+   "start": 8.45,
+   "len": 1.0,
+   "ref": -26.7,
+   "floor": -49.4,
+   "next_peak": -22.4,
+   "peak_t": 9.65
+  },
+  {
+   "start": 38.25,
+   "len": 0.8,
+   "ref": -18.4,
+   "floor": -43.1,
+   "next_peak": -9.3,
+   "peak_t": 39.5
+  },
+  {
+   "start": 39.75,
+   "len": 0.3,
+   "ref": -21.2,
+   "floor": -44.4,
+   "next_peak": -16.9,
+   "peak_t": 40.55
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -9.3,
+   32.4,
+   39.5
+  ],
+  [
+   -9.6,
+   25.0,
+   57.95
+  ],
+  [
+   -12.9,
+   22.6,
+   38.0
+  ],
+  [
+   -14.9,
+   23.7,
+   49.7
+  ],
+  [
+   -15.4,
+   15.9,
+   55.7
+  ],
+  [
+   -16.7,
+   34.4,
+   5.2
+  ],
+  [
+   -16.7,
+   30.2,
+   4.1
+  ],
+  [
+   -16.9,
+   15.8,
+   19.55
+  ],
+  [
+   -19.2,
+   32.2,
+   2.45
+  ],
+  [
+   -20.5,
+   21.9,
+   11.3
+  ]
+ ],
+ "loudness_dropouts_05s": [
+  {
+   "start": 9.0,
+   "end": 9.5,
+   "len": 0.5,
+   "ref": -21.0,
+   "floor": -43.4,
+   "rise_after": 25.4,
+   "next_peak": -18.0
+  },
+  {
+   "start": 60.5,
+   "end": 65.5,
+   "len": 5.0,
+   "ref": -17.6,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits_05s": {
+  "loudest_t": 39.5,
+  "loudest_M": -8.7,
+  "big_hits_near_peak": [
+   [
+    15.7,
+    50.5,
+    -9.5
+   ],
+   [
+    15.6,
+    39.5,
+    -8.7
+   ],
+   [
+    13.0,
+    39.0,
+    -11.3
+   ]
+  ],
+  "biggest_rises": [
+   [
+    29.3,
+    2.5,
+    -15.5
+   ],
+   [
+    25.1,
+    3.0,
+    -19.7
+   ],
+   [
+    25.1,
+    9.5,
+    -18.3
+   ],
+   [
+    24.8,
+    10.0,
+    -18.6
+   ],
+   [
+    23.7,
+    10.5,
+    -19.7
+   ]
+  ]
+ },
+ "beat_sync": "onsets/s 1.06 cuts on onset (+-0.1s) 18 % vs chance 22 %",
+ "empty_frames": "apple_privacy_safari_trackers: samples 120, letterbox rows 0/36, mostly-empty 1% (on dark 1%, on light 0%), median empty share 26%",
+ "text_measurements": {
+  "'Keep data trackers off your back.'": "centred y~49%, white SF Pro medium, cap ~5% H, width 70% W, 43.6-46 s",
+  "'Safari. A browser that's actually private.'": "same style, 52-54 s",
+  "'Privacy. That's iPhone.'": "word-by-word build, words appear in their final positions (no re-centring), 54-57 s"
+ },
+ "manual_corrections": "Hard cuts reliable (bright, well-lit footage). Content ends 60.06."
+}

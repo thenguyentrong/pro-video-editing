@@ -1,0 +1,441 @@
+{
+ "name": "zipline_100_million_autonomous_miles",
+ "file": "zipline_100-million-autonomous-miles.webm",
+ "duration_s": 66.341,
+ "fps": 23.976,
+ "width": 640,
+ "height": 360,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 21,
+ "shot_count": 22,
+ "asl_s": 3.02,
+ "median_s": 1.25,
+ "pct_shots_under_1s": 22.7,
+ "pct_shots_over_3s": 31.8,
+ "shots_per_minute": 19.9,
+ "asl_quarters_s": [
+  8.29,
+  2.07,
+  1.38,
+  5.53
+ ],
+ "longest": [
+  {
+   "start": 5.589,
+   "len": 12.891
+  },
+  {
+   "start": 54.721,
+   "len": 11.62
+  },
+  {
+   "start": 19.352,
+   "len": 5.965
+  }
+ ],
+ "shortest": [
+  {
+   "start": 30.781,
+   "len": 0.751
+  },
+  {
+   "start": 31.532,
+   "len": 0.788
+  },
+  {
+   "start": 29.988,
+   "len": 0.793
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 2,
+  "20-30": 2,
+  "30-40": 9,
+  "40-50": 5,
+  "50-60": 2,
+  "60-70": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 22,
+  "only_in_other": [
+   18.185,
+   18.477,
+   32.324,
+   38.622,
+   49.216
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.471,
+ "soft_transition_candidates": [
+  {
+   "t": 0.5,
+   "score": 3.434
+  },
+  {
+   "t": 7.4,
+   "score": 0.122
+  },
+  {
+   "t": 8.8,
+   "score": 0.123
+  },
+  {
+   "t": 9.7,
+   "score": 0.853
+  },
+  {
+   "t": 10.5,
+   "score": 0.985
+  },
+  {
+   "t": 14.2,
+   "score": 5.396
+  },
+  {
+   "t": 16.1,
+   "score": 1.33
+  },
+  {
+   "t": 17.3,
+   "score": 1.645
+  },
+  {
+   "t": 20.4,
+   "score": 0.489
+  },
+  {
+   "t": 21.7,
+   "score": 0.539
+  },
+  {
+   "t": 22.6,
+   "score": 0.467
+  },
+  {
+   "t": 23.4,
+   "score": 0.545
+  },
+  {
+   "t": 28.1,
+   "score": 0.212
+  },
+  {
+   "t": 44.0,
+   "score": 0.56
+  },
+  {
+   "t": 51.3,
+   "score": 0.275
+  },
+  {
+   "t": 57.9,
+   "score": 0.672
+  },
+  {
+   "t": 58.5,
+   "score": 0.69
+  },
+  {
+   "t": 59.8,
+   "score": 0.821
+  },
+  {
+   "t": 62.0,
+   "score": 0.405
+  },
+  {
+   "t": 63.9,
+   "score": 0.12
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 5.589,
+   "len": 5.589
+  },
+  {
+   "i": 2,
+   "start": 5.589,
+   "end": 18.48,
+   "len": 12.891
+  },
+  {
+   "i": 3,
+   "start": 18.48,
+   "end": 19.352,
+   "len": 0.872
+  },
+  {
+   "i": 4,
+   "start": 19.352,
+   "end": 25.317,
+   "len": 5.965
+  },
+  {
+   "i": 5,
+   "start": 25.317,
+   "end": 29.988,
+   "len": 4.671
+  },
+  {
+   "i": 6,
+   "start": 29.988,
+   "end": 30.781,
+   "len": 0.793
+  },
+  {
+   "i": 7,
+   "start": 30.781,
+   "end": 31.532,
+   "len": 0.751
+  },
+  {
+   "i": 8,
+   "start": 31.532,
+   "end": 32.32,
+   "len": 0.788
+  },
+  {
+   "i": 9,
+   "start": 32.32,
+   "end": 34.159,
+   "len": 1.839
+  },
+  {
+   "i": 10,
+   "start": 34.159,
+   "end": 35.077,
+   "len": 0.918
+  },
+  {
+   "i": 11,
+   "start": 35.077,
+   "end": 36.286,
+   "len": 1.209
+  },
+  {
+   "i": 12,
+   "start": 36.286,
+   "end": 37.413,
+   "len": 1.127
+  },
+  {
+   "i": 13,
+   "start": 37.413,
+   "end": 38.62,
+   "len": 1.207
+  },
+  {
+   "i": 14,
+   "start": 38.62,
+   "end": 39.915,
+   "len": 1.295
+  },
+  {
+   "i": 15,
+   "start": 39.915,
+   "end": 40.958,
+   "len": 1.043
+  },
+  {
+   "i": 16,
+   "start": 40.958,
+   "end": 42.334,
+   "len": 1.376
+  },
+  {
+   "i": 17,
+   "start": 42.334,
+   "end": 45.796,
+   "len": 3.462
+  },
+  {
+   "i": 18,
+   "start": 45.796,
+   "end": 46.88,
+   "len": 1.084
+  },
+  {
+   "i": 19,
+   "start": 46.88,
+   "end": 49.22,
+   "len": 2.34
+  },
+  {
+   "i": 20,
+   "start": 49.22,
+   "end": 53.511,
+   "len": 4.291
+  },
+  {
+   "i": 21,
+   "start": 53.511,
+   "end": 54.721,
+   "len": 1.21
+  },
+  {
+   "i": 22,
+   "start": 54.721,
+   "end": 66.341,
+   "len": 11.62
+  }
+ ],
+ "cuts": [
+  5.589,
+  18.48,
+  19.352,
+  25.317,
+  29.988,
+  30.781,
+  31.532,
+  32.32,
+  34.159,
+  35.077,
+  36.286,
+  37.413,
+  38.62,
+  39.915,
+  40.958,
+  42.334,
+  45.796,
+  46.88,
+  49.22,
+  53.511,
+  54.721
+ ],
+ "loudness": {
+  "integrated_lufs": -19.0,
+  "loudness_range_lu": 4.6,
+  "true_peak_dbtp": -2.6
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 0.3,
+    "len": 0.3
+   },
+   {
+    "start": 65.3,
+    "end": 66.3,
+    "len": 1.0
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 37.35,
+    "level_dbfs": -15.0,
+    "rise_db": 18.8
+   },
+   {
+    "t": 10.35,
+    "level_dbfs": -16.1,
+    "rise_db": 23.7
+   },
+   {
+    "t": 1.05,
+    "level_dbfs": -16.3,
+    "rise_db": 31.0
+   },
+   {
+    "t": 3.85,
+    "level_dbfs": -16.4,
+    "rise_db": 17.0
+   },
+   {
+    "t": 16.7,
+    "level_dbfs": -17.4,
+    "rise_db": 16.3
+   },
+   {
+    "t": 2.5,
+    "level_dbfs": -17.5,
+    "rise_db": 18.6
+   },
+   {
+    "t": 26.05,
+    "level_dbfs": -17.5,
+    "rise_db": 18.6
+   },
+   {
+    "t": 18.0,
+    "level_dbfs": -17.6,
+    "rise_db": 15.5
+   },
+   {
+    "t": 14.7,
+    "level_dbfs": -17.8,
+    "rise_db": 20.4
+   },
+   {
+    "t": 6.05,
+    "level_dbfs": -17.9,
+    "rise_db": 20.2
+   },
+   {
+    "t": 20.45,
+    "level_dbfs": -18.3,
+    "rise_db": 18.0
+   },
+   {
+    "t": 23.8,
+    "level_dbfs": -19.3,
+    "rise_db": 15.2
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 1.05,
+    "level_dbfs": -16.3,
+    "rise_db": 31.0
+   },
+   {
+    "t": 10.35,
+    "level_dbfs": -16.1,
+    "rise_db": 23.7
+   },
+   {
+    "t": 14.7,
+    "level_dbfs": -17.8,
+    "rise_db": 20.4
+   },
+   {
+    "t": 6.05,
+    "level_dbfs": -17.9,
+    "rise_db": 20.2
+   },
+   {
+    "t": 37.35,
+    "level_dbfs": -15.0,
+    "rise_db": 18.8
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 55.15,
+   "rms_dbfs": -18.0
+  },
+  "median_rms_dbfs": -24.3
+ },
+ "sync": {
+  "onsets_per_s": 1.55,
+  "cuts_on_onset_pct": 24,
+  "chance_pct": 30,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [18.185, 18.477, 32.324, 38.622, 49.216] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

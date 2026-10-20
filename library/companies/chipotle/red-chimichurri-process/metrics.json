@@ -1,0 +1,280 @@
+{
+ "name": "chipotle_red_chimichurri_process",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "0fka6TdGRuY",
+  "title": "how we make our new red chimichurri 👩‍🍳",
+  "upload_date": "20251002",
+  "duration": 58,
+  "view_count": 74027,
+  "like_count": 2065,
+  "channel": "Chipotle Mexican Grill",
+  "uploader": "Chipotle Mexican Grill",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=0fka6TdGRuY",
+  "description_start": "chat with one of our culinary chefs, Maria, to learn more about how we brought the flavors of red chimichurri to life."
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.83,
+   4.8,
+   7.97,
+   12.47,
+   15.93,
+   16.6,
+   19.8,
+   30.33,
+   33.1,
+   34.5,
+   42.57,
+   44.37,
+   45.63,
+   48.7,
+   55.3
+  ],
+  "shots": 16,
+  "ASL_s": 3.64,
+  "median_s": 3.02,
+  "ASL_quarters_s": [
+   2.91,
+   3.64,
+   2.91,
+   2.91
+  ],
+  "longest_start_len": [
+   [
+    19.8,
+    10.53
+   ],
+   [
+    34.5,
+    8.07
+   ],
+   [
+    48.7,
+    6.6
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    15.93,
+    0.67
+   ],
+   [
+    44.37,
+    1.27
+   ],
+   [
+    33.1,
+    1.4
+   ]
+  ],
+  "pct_under_1s": 6,
+  "pct_over_3s": 50,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [
+   15.933,
+   33.1,
+   44.367
+  ],
+  "note": "cuts2 12 + 3 added from a low-threshold pass checked by eye (15.93 jump cut, 33.1 punch-in, 44.37 CU->wide); 17.5-17.75 is a handheld push, not a cut"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 58.28
+ },
+ "cuts_cuts2": [
+  1.833,
+  4.8,
+  7.967,
+  12.467,
+  16.6,
+  19.8,
+  30.333,
+  34.5,
+  42.567,
+  45.633,
+  48.7,
+  55.3
+ ],
+ "shot_stats_cuts2": {
+  "name": "chipotle_red_chimichurri_process",
+  "length": 58.23,
+  "shots": 13,
+  "ASL": 4.48,
+  "median": 3.2,
+  "ASL_quarters": [
+   2.91,
+   4.85,
+   3.64,
+   3.64
+  ],
+  "longest": [
+   [
+    19.8,
+    10.53
+   ],
+   [
+    34.5,
+    8.07
+   ],
+   [
+    48.7,
+    6.6
+   ],
+   [
+    7.97,
+    4.5
+   ]
+  ],
+  "shortest": [
+   [
+    0.0,
+    1.83
+   ],
+   [
+    55.3,
+    2.93
+   ],
+   [
+    1.83,
+    2.97
+   ],
+   [
+    42.57,
+    3.07
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 77,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 14,
+   "asl": 4.16
+  },
+  "0.25": {
+   "n_shots": 12,
+   "asl": 4.86
+  },
+  "0.3": {
+   "n_shots": 12,
+   "asl": 4.86
+  },
+  "0.35": {
+   "n_shots": 12,
+   "asl": 4.86
+  },
+  "0.4": {
+   "n_shots": 12,
+   "asl": 4.86
+  }
+ },
+ "integrated_lufs": -18.9,
+ "loudness_dropouts": [],
+ "loudness_hits": {
+  "loudest_t": 55.5,
+  "loudest_M": -12.8,
+  "big_hits_near_peak": [
+   [
+    8.8,
+    43.0,
+    -14.9
+   ],
+   [
+    6.6,
+    43.5,
+    -16.7
+   ],
+   [
+    6.4,
+    40.5,
+    -17.0
+   ]
+  ],
+  "biggest_rises": [
+   [
+    8.8,
+    43.0,
+    -14.9
+   ],
+   [
+    6.6,
+    43.5,
+    -16.7
+   ],
+   [
+    6.4,
+    40.5,
+    -17.0
+   ],
+   [
+    6.1,
+    55.5,
+    -12.8
+   ],
+   [
+    6.0,
+    42.5,
+    -17.7
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -10.3,
+   18.0,
+   55.65
+  ],
+  [
+   -12.6,
+   17.0,
+   21.9
+  ],
+  [
+   -16.9,
+   18.1,
+   40.4
+  ],
+  [
+   -17.6,
+   16.1,
+   29.3
+  ]
+ ],
+ "beatsync": "chipotle_red_chimichurri_process onsets/s 1.68 cuts on onset (+-0.1s) 33 % vs chance 35 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / TikTok",
+  "sub_style": "employee-creator explainer (chef talking head + food B-roll), UGC-styled",
+  "hook_0_2s": "chef Maria in black chef whites in the test kitchen, holding the bowl of red sauce toward camera: 'my name is Maria' (0-1.8 s), then cut to a macro of the glossy red chimichurri dripping off a ladle (1.83 s) 'I'm a chef here at Chipotle'",
+  "captions": {
+   "style": "TikTok auto-caption look: white sentence-case sans (Proxima Nova / TikTok Sans medium-like), soft shadow, no box, 2-5 words per card, phrase-by-phrase synced to speech",
+   "line_glyph_height_pct_H": [
+    2.0,
+    2.3
+   ],
+   "cap_height_pct_H": 1.7,
+   "position_pct_H": "56.7-58.9 (just below centre, over the chef's chest)",
+   "x_extent_pct_W": "23-77",
+   "word_by_word": "phrase chunks"
+  },
+  "on_screen_text_density": "one 2-5 word chunk at a time, continuously",
+  "audio": "chef's voice (natural room), light bed; integrated -18.9 LUFS",
+  "audio_type": "original VO (on-camera)",
+  "voice": true,
+  "loop": "ends on chef 'it is so good! can't wait to see what you pair it with!' = comment prompt; no end card",
+  "views_at_analysis": 74027,
+  "likes": 2065
+ }
+}

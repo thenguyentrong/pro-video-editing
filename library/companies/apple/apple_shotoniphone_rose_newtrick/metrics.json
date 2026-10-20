@@ -1,0 +1,216 @@
+{
+ "slug": "apple_shotoniphone_rose_newtrick",
+ "company": "apple",
+ "title": "Shot on iPhone 18 Pro: \"new trick\" by ROSE",
+ "url": "https://www.youtube.com/watch?v=1WLqGs7c_yA",
+ "upload_date": "2026-09-18",
+ "format": "16:9",
+ "file_duration_s": 35.05,
+ "fps": 23.976,
+ "content_end_s": 30.0,
+ "integrated_lufs": -16.0,
+ "shots": {
+  "name": "apple_shotoniphone_rose_newtrick",
+  "length": 30.0,
+  "shots": 24,
+  "ASL": 1.25,
+  "median": 1.02,
+  "ASL_quarters": [
+   1.88,
+   0.75,
+   0.94,
+   1.5
+  ],
+  "longest": [
+   [
+    23.73,
+    3.13
+   ],
+   [
+    16.18,
+    2.79
+   ],
+   [
+    0.0,
+    2.46
+   ],
+   [
+    5.21,
+    2.38
+   ]
+  ],
+  "shortest": [
+   [
+    11.43,
+    0.38
+   ],
+   [
+    28.07,
+    0.58
+   ],
+   [
+    10.84,
+    0.58
+   ],
+   [
+    14.6,
+    0.67
+   ]
+  ],
+  "pct_under_1s": 50,
+  "pct_over_3s": 4,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    28.65,
+    1.35
+   ]
+  ]
+ },
+ "extra_soft_cuts_added": [],
+ "cuts": [
+  2.461,
+  4.087,
+  5.214,
+  7.591,
+  9.009,
+  9.968,
+  10.844,
+  11.428,
+  11.803,
+  12.596,
+  13.513,
+  14.598,
+  15.265,
+  16.183,
+  18.977,
+  19.645,
+  20.604,
+  21.355,
+  22.481,
+  23.732,
+  26.86,
+  28.07,
+  28.654
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 22,
+   "asl": 1.59
+  },
+  "0.25": {
+   "n_shots": 18,
+   "asl": 1.95
+  },
+  "0.3": {
+   "n_shots": 14,
+   "asl": 2.5
+  },
+  "0.35": {
+   "n_shots": 11,
+   "asl": 3.19
+  },
+  "0.4": {
+   "n_shots": 10,
+   "asl": 3.51
+  }
+ },
+ "soft_candidates": [
+  [
+   1.6,
+   0.858
+  ],
+  [
+   17.4,
+   1.012
+  ],
+  [
+   25.2,
+   1.107
+  ]
+ ],
+ "black_dips": [],
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -15.3,
+   17.8,
+   2.25
+  ],
+  [
+   -16.0,
+   23.9,
+   0.9
+  ],
+  [
+   -20.9,
+   15.7,
+   7.25
+  ]
+ ],
+ "loudness_dropouts_05s": [
+  {
+   "start": 30.0,
+   "end": 35.5,
+   "len": 5.5,
+   "ref": -15.4,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits_05s": {
+  "loudest_t": 13.5,
+  "loudest_M": -14.4,
+  "big_hits_near_peak": [
+   [
+    13.1,
+    1.5,
+    -15.2
+   ],
+   [
+    10.6,
+    1.0,
+    -17.7
+   ],
+   [
+    10.1,
+    2.0,
+    -17.2
+   ]
+  ],
+  "biggest_rises": [
+   [
+    13.1,
+    1.5,
+    -15.2
+   ],
+   [
+    10.6,
+    1.0,
+    -17.7
+   ],
+   [
+    10.1,
+    2.0,
+    -17.2
+   ],
+   [
+    2.9,
+    8.5,
+    -15.1
+   ],
+   [
+    2.1,
+    3.5,
+    -15.1
+   ]
+  ]
+ },
+ "beat_sync": "onsets/s 1.4 cuts on onset (+-0.1s) 30 % vs chance 27 %",
+ "empty_frames": "apple_shotoniphone_rose_newtrick: samples 60, letterbox rows 0/36, mostly-empty 5% (on dark 5%, on light 0%), median empty share 26%",
+ "text_measurements": {
+  "super 'Shot on iPhone 18 Pro'": "centred y~47%, white SF Pro medium, cap ~4.5% H, width 38% W, 26.9-28.1 s"
+ },
+ "manual_corrections": "Content incl. end cards ends ~30.0 (T-Mobile 'T' 28.65-29.2, Apple logo 29.2-30, then black)."
+}

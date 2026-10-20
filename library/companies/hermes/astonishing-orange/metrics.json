@@ -1,0 +1,348 @@
+{
+ "name": "hermes_astonishing-orange",
+ "file": "hermes_astonishing-orange.webm",
+ "duration_s": 45.021,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 27,
+ "shot_count": 28,
+ "asl_s": 1.61,
+ "median_s": 1.42,
+ "pct_shots_under_1s": 25.0,
+ "pct_shots_over_3s": 7.1,
+ "shots_per_minute": 37.3,
+ "asl_quarters_s": [
+  1.88,
+  1.13,
+  1.25,
+  1.88
+ ],
+ "longest": [
+  {
+   "start": 13.76,
+   "len": 4.56
+  },
+  {
+   "start": 0.0,
+   "len": 3.68
+  },
+  {
+   "start": 42.48,
+   "len": 2.541
+  }
+ ],
+ "shortest": [
+  {
+   "start": 21.96,
+   "len": 0.52
+  },
+  {
+   "start": 30.72,
+   "len": 0.52
+  },
+  {
+   "start": 18.32,
+   "len": 0.56
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 5,
+  "20-30": 9,
+  "30-40": 6,
+  "40-50": 2
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 18,
+  "only_in_other": [
+   17.8
+  ],
+  "only_in_this": [
+   18.88,
+   21.28,
+   22.48,
+   25.92,
+   26.64,
+   27.52,
+   31.24,
+   32.64,
+   34.8,
+   36.0
+  ]
+ },
+ "mean_luma": 0.271,
+ "soft_transition_candidates": [
+  {
+   "t": 2.6,
+   "score": 0.273
+  },
+  {
+   "t": 14.7,
+   "score": 2.293
+  },
+  {
+   "t": 17.2,
+   "score": 2.727
+  },
+  {
+   "t": 39.1,
+   "score": 0.917
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.68,
+   "len": 3.68
+  },
+  {
+   "i": 2,
+   "start": 3.68,
+   "end": 5.48,
+   "len": 1.8
+  },
+  {
+   "i": 3,
+   "start": 5.48,
+   "end": 6.8,
+   "len": 1.32
+  },
+  {
+   "i": 4,
+   "start": 6.8,
+   "end": 8.24,
+   "len": 1.44
+  },
+  {
+   "i": 5,
+   "start": 8.24,
+   "end": 9.8,
+   "len": 1.56
+  },
+  {
+   "i": 6,
+   "start": 9.8,
+   "end": 11.92,
+   "len": 2.12
+  },
+  {
+   "i": 7,
+   "start": 11.92,
+   "end": 13.16,
+   "len": 1.24
+  },
+  {
+   "i": 8,
+   "start": 13.16,
+   "end": 13.76,
+   "len": 0.6
+  },
+  {
+   "i": 9,
+   "start": 13.76,
+   "end": 18.32,
+   "len": 4.56
+  },
+  {
+   "i": 10,
+   "start": 18.32,
+   "end": 18.88,
+   "len": 0.56
+  },
+  {
+   "i": 11,
+   "start": 18.88,
+   "end": 20.04,
+   "len": 1.16
+  },
+  {
+   "i": 12,
+   "start": 20.04,
+   "end": 21.28,
+   "len": 1.24
+  },
+  {
+   "i": 13,
+   "start": 21.28,
+   "end": 21.96,
+   "len": 0.68
+  },
+  {
+   "i": 14,
+   "start": 21.96,
+   "end": 22.48,
+   "len": 0.52
+  },
+  {
+   "i": 15,
+   "start": 22.48,
+   "end": 24.2,
+   "len": 1.72
+  },
+  {
+   "i": 16,
+   "start": 24.2,
+   "end": 25.92,
+   "len": 1.72
+  },
+  {
+   "i": 17,
+   "start": 25.92,
+   "end": 26.64,
+   "len": 0.72
+  },
+  {
+   "i": 18,
+   "start": 26.64,
+   "end": 27.52,
+   "len": 0.88
+  },
+  {
+   "i": 19,
+   "start": 27.52,
+   "end": 29.4,
+   "len": 1.88
+  },
+  {
+   "i": 20,
+   "start": 29.4,
+   "end": 30.72,
+   "len": 1.32
+  },
+  {
+   "i": 21,
+   "start": 30.72,
+   "end": 31.24,
+   "len": 0.52
+  },
+  {
+   "i": 22,
+   "start": 31.24,
+   "end": 32.64,
+   "len": 1.4
+  },
+  {
+   "i": 23,
+   "start": 32.64,
+   "end": 34.8,
+   "len": 2.16
+  },
+  {
+   "i": 24,
+   "start": 34.8,
+   "end": 36.0,
+   "len": 1.2
+  },
+  {
+   "i": 25,
+   "start": 36.0,
+   "end": 37.8,
+   "len": 1.8
+  },
+  {
+   "i": 26,
+   "start": 37.8,
+   "end": 40.28,
+   "len": 2.48
+  },
+  {
+   "i": 27,
+   "start": 40.28,
+   "end": 42.48,
+   "len": 2.2
+  },
+  {
+   "i": 28,
+   "start": 42.48,
+   "end": 45.021,
+   "len": 2.541
+  }
+ ],
+ "cuts": [
+  3.68,
+  5.48,
+  6.8,
+  8.24,
+  9.8,
+  11.92,
+  13.16,
+  13.76,
+  18.32,
+  18.88,
+  20.04,
+  21.28,
+  21.96,
+  22.48,
+  24.2,
+  25.92,
+  26.64,
+  27.52,
+  29.4,
+  30.72,
+  31.24,
+  32.64,
+  34.8,
+  36.0,
+  37.8,
+  40.28,
+  42.48
+ ],
+ "loudness": {
+  "integrated_lufs": -13.7,
+  "loudness_range_lu": 10.5,
+  "true_peak_dbtp": -0.2
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 43.95,
+    "end": 45.0,
+    "len": 1.05
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 0.55,
+    "level_dbfs": -21.7,
+    "rise_db": 25.3
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -24.0,
+    "rise_db": 27.4
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 35.05,
+   "rms_dbfs": -10.0
+  },
+  "median_rms_dbfs": -17.3
+ },
+ "sync": {
+  "onsets_per_s": 0.78,
+  "cuts_on_onset_pct": 7,
+  "chance_pct": 16,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [17.8] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak -0.2 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

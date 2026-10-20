@@ -1,0 +1,440 @@
+{
+ "name": "d1_jharris",
+ "source": {
+  "title": "I don't get democracy",
+  "full_duration_s": "3071",
+  "upload_date": "20260910",
+  "channel": "Johnny Harris",
+  "url": "https://www.youtube.com/watch?v=O7LvhSQ5Te4"
+ },
+ "analysed_window_s": [
+  0,
+  90.01
+ ],
+ "video": null,
+ "fps": 23.976,
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 90.01,
+  "shots": 41,
+  "ASL": 2.2,
+  "median": 1.54,
+  "ASL_quarters": [
+   3.21,
+   1.32,
+   1.61,
+   3.75
+  ],
+  "longest": [
+   [
+    8.34,
+    6.51
+   ],
+   [
+    70.53,
+    6.34
+   ],
+   [
+    79.33,
+    5.42
+   ],
+   [
+    84.75,
+    5.26
+   ]
+  ],
+  "shortest": [
+   [
+    58.1,
+    0.33
+   ],
+   [
+    28.15,
+    0.38
+   ],
+   [
+    32.2,
+    0.38
+   ],
+   [
+    31.2,
+    0.5
+   ]
+  ],
+  "pct_under_1s": 27,
+  "pct_over_3s": 24,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [],
+  "cuts_per_10s": [
+   2,
+   2,
+   8,
+   8,
+   5,
+   8,
+   3,
+   3,
+   1,
+   0
+  ],
+  "cut_times": [
+   4.129,
+   8.342,
+   14.848,
+   17.226,
+   21.104,
+   22.272,
+   23.69,
+   26.151,
+   26.902,
+   27.569,
+   28.153,
+   28.528,
+   31.198,
+   31.698,
+   32.199,
+   32.574,
+   33.951,
+   37.12,
+   38.038,
+   39.539,
+   41.458,
+   43.627,
+   46.213,
+   47.422,
+   48.507,
+   50.175,
+   51.718,
+   53.262,
+   55.305,
+   56.848,
+   57.557,
+   58.1,
+   58.433,
+   62.521,
+   64.022,
+   68.068,
+   70.529,
+   76.868,
+   79.329,
+   84.751
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 40,
+   "asl": 2.25
+  },
+  "0.25": {
+   "n_shots": 39,
+   "asl": 2.31
+  },
+  "0.3": {
+   "n_shots": 37,
+   "asl": 2.43
+  },
+  "0.35": {
+   "n_shots": 37,
+   "asl": 2.43
+  },
+  "0.4": {
+   "n_shots": 34,
+   "asl": 2.65
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   16.1,
+   0.535
+  ]
+ ],
+ "dips_to_black_or_white": [],
+ "loudness": {
+  "integrated_lufs": -15.1,
+  "loudest_t_s": 42.0,
+  "loudest_momentary_lufs": -10.4,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 29.0,
+    "end": 32.0,
+    "len": 3.0,
+    "ref": -15.4,
+    "floor": -40.8,
+    "rise_after": 24.6,
+    "next_peak": -16.2
+   },
+   {
+    "start": 46.0,
+    "end": 47.0,
+    "len": 1.0,
+    "ref": -18.8,
+    "floor": -49.8,
+    "rise_after": 38.0,
+    "next_peak": -11.8
+   },
+   {
+    "start": 90.0,
+    "end": 90.5,
+    "len": 0.5,
+    "ref": -14.4,
+    "floor": -120.0,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    36.5,
+    47.5,
+    -13.3
+   ],
+   [
+    36.4,
+    48.0,
+    -13.4
+   ],
+   [
+    33.2,
+    47.0,
+    -16.6
+   ],
+   [
+    16.7,
+    32.0,
+    -23.4
+   ],
+   [
+    14.9,
+    1.5,
+    -11.1
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 3.65,
+    "len": 0.15,
+    "ref": -18.8,
+    "floor": -39.4,
+    "next_peak": -13.0,
+    "peak_t": 4.2
+   },
+   {
+    "start": 13.35,
+    "len": 0.3,
+    "ref": -19.0,
+    "floor": -39.4,
+    "next_peak": -12.6,
+    "peak_t": 14.1
+   },
+   {
+    "start": 25.1,
+    "len": 0.15,
+    "ref": -17.7,
+    "floor": -59.6,
+    "next_peak": -16.2,
+    "peak_t": 25.55
+   },
+   {
+    "start": 43.95,
+    "len": 0.4,
+    "ref": -24.4,
+    "floor": -58.8,
+    "next_peak": -13.1,
+    "peak_t": 44.65
+   },
+   {
+    "start": 45.4,
+    "len": 1.6,
+    "ref": -28.7,
+    "floor": -63.4,
+    "next_peak": -12.7,
+    "peak_t": 47.5
+   },
+   {
+    "start": 53.05,
+    "len": 0.2,
+    "ref": -17.2,
+    "floor": -43.9,
+    "next_peak": -13.3,
+    "peak_t": 53.35
+   },
+   {
+    "start": 54.85,
+    "len": 0.6,
+    "ref": -17.2,
+    "floor": -49.1,
+    "next_peak": -12.6,
+    "peak_t": 55.75
+   },
+   {
+    "start": 56.75,
+    "len": 0.2,
+    "ref": -19.8,
+    "floor": -56.3,
+    "next_peak": -15.6,
+    "peak_t": 57.0
+   },
+   {
+    "start": 57.5,
+    "len": 0.2,
+    "ref": -22.2,
+    "floor": -55.3,
+    "next_peak": -27.9,
+    "peak_t": 57.95
+   },
+   {
+    "start": 62.55,
+    "len": 0.45,
+    "ref": -18.6,
+    "floor": -40.8,
+    "next_peak": -15.3,
+    "peak_t": 63.25
+   },
+   {
+    "start": 63.5,
+    "len": 0.6,
+    "ref": -21.6,
+    "floor": -42.5,
+    "next_peak": -13.2,
+    "peak_t": 64.2
+   },
+   {
+    "start": 68.2,
+    "len": 0.15,
+    "ref": -20.1,
+    "floor": -44.0,
+    "next_peak": -13.4,
+    "peak_t": 68.4
+   },
+   {
+    "start": 73.85,
+    "len": 0.25,
+    "ref": -15.6,
+    "floor": -40.1,
+    "next_peak": -12.1,
+    "peak_t": 74.4
+   },
+   {
+    "start": 77.0,
+    "len": 0.35,
+    "ref": -19.4,
+    "floor": -49.6,
+    "next_peak": -14.7,
+    "peak_t": 77.85
+   },
+   {
+    "start": 86.8,
+    "len": 0.25,
+    "ref": -19.7,
+    "floor": -55.3,
+    "next_peak": -16.4,
+    "peak_t": 87.4
+   },
+   {
+    "start": 88.2,
+    "len": 0.2,
+    "ref": -20.6,
+    "floor": -46.0,
+    "next_peak": -12.8,
+    "peak_t": 88.45
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -10.8,
+    26.9,
+    49.05
+   ],
+   [
+    -10.9,
+    26.9,
+    70.8
+   ],
+   [
+    -11.0,
+    28.1,
+    2.45
+   ],
+   [
+    -11.3,
+    24.7,
+    41.8
+   ],
+   [
+    -11.3,
+    22.6,
+    7.95
+   ],
+   [
+    -11.3,
+    19.8,
+    23.15
+   ],
+   [
+    -11.5,
+    30.6,
+    24.85
+   ],
+   [
+    -11.8,
+    26.0,
+    1.2
+   ],
+   [
+    -11.8,
+    22.2,
+    51.75
+   ],
+   [
+    -11.8,
+    21.0,
+    21.15
+   ],
+   [
+    -11.9,
+    28.5,
+    34.3
+   ],
+   [
+    -11.9,
+    20.8,
+    38.9
+   ],
+   [
+    -12.0,
+    29.5,
+    35.95
+   ],
+   [
+    -12.1,
+    28.0,
+    74.45
+   ],
+   [
+    -12.2,
+    24.2,
+    27.8
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 2.63 cuts on onset (+-0.1s) 48 % vs chance 52 %",
+ "empty_frame": "mostly-empty 1% (on dark 0%, on light 1%), median empty share 33%",
+ "manual_corrections": "Reused earlier analysis (earlier run): first 90 s only. Key frames re-extracted from a fresh 480p download of 0-90 s; that download looks ~0.3-1 s offset from the original around 32 s, so frame times are approximate.",
+ "audio_levels_dbfs": {
+  "p5": -46.2,
+  "p10": -40.4,
+  "p25": -30.4,
+  "p50": -20.9,
+  "p90": -13.9,
+  "pct_windows_below_-45dBFS": 5.7,
+  "note": "50 ms RMS dBFS percentiles; p10 far below p50 = pauses fall to near-silence (little or no music bed)",
+  "p50_by_quarter": [
+   -19.9,
+   -23.7,
+   -21.9,
+   -19.8
+  ]
+ }
+}

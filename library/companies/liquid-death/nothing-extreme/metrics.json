@@ -1,0 +1,314 @@
+{
+ "name": "liquid_death_nothing_extreme",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "ZSIBciBYpf0",
+  "title": "There’s nothing extreme about new Liquid Death Sparkling Energy.",
+  "upload_date": "20260109",
+  "duration": 30,
+  "view_count": 28153,
+  "like_count": 768,
+  "channel": "Liquid Death",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24.0,
+  "webpage_url": "https://www.youtube.com/shorts/ZSIBciBYpf0"
+ },
+ "file": "ld_nothing-extreme.webm",
+ "duration_s": 30.061,
+ "fps": 23.976,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 10,
+ "shot_count": 11,
+ "asl_s": 2.73,
+ "median_s": 2.67,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 36.4,
+ "shots_per_minute": 22.0,
+ "asl_quarters_s": [
+  1.88,
+  1.88,
+  1.88,
+  3.76
+ ],
+ "longest": [
+  {
+   "start": 21.98,
+   "len": 4.046
+  },
+  {
+   "start": 26.026,
+   "len": 4.035
+  },
+  {
+   "start": 6.256,
+   "len": 3.587
+  }
+ ],
+ "shortest": [
+  {
+   "start": 3.003,
+   "len": 1.585
+  },
+  {
+   "start": 4.588,
+   "len": 1.668
+  },
+  {
+   "start": 12.513,
+   "len": 1.876
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 4,
+  "20-30": 2,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 10,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.381,
+ "soft_transition_candidates": [
+  {
+   "t": 0.8,
+   "score": 0.676
+  },
+  {
+   "t": 7.3,
+   "score": 0.604
+  },
+  {
+   "t": 17.6,
+   "score": 0.204
+  },
+  {
+   "t": 22.9,
+   "score": 0.399
+  },
+  {
+   "t": 24.2,
+   "score": 0.201
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.003,
+   "len": 3.003
+  },
+  {
+   "i": 2,
+   "start": 3.003,
+   "end": 4.588,
+   "len": 1.585
+  },
+  {
+   "i": 3,
+   "start": 4.588,
+   "end": 6.256,
+   "len": 1.668
+  },
+  {
+   "i": 4,
+   "start": 6.256,
+   "end": 9.843,
+   "len": 3.587
+  },
+  {
+   "i": 5,
+   "start": 9.843,
+   "end": 12.513,
+   "len": 2.67
+  },
+  {
+   "i": 6,
+   "start": 12.513,
+   "end": 14.389,
+   "len": 1.876
+  },
+  {
+   "i": 7,
+   "start": 14.389,
+   "end": 16.642,
+   "len": 2.253
+  },
+  {
+   "i": 8,
+   "start": 16.642,
+   "end": 19.394,
+   "len": 2.752
+  },
+  {
+   "i": 9,
+   "start": 19.394,
+   "end": 21.98,
+   "len": 2.586
+  },
+  {
+   "i": 10,
+   "start": 21.98,
+   "end": 26.026,
+   "len": 4.046
+  },
+  {
+   "i": 11,
+   "start": 26.026,
+   "end": 30.061,
+   "len": 4.035
+  }
+ ],
+ "cuts": [
+  3.003,
+  4.588,
+  6.256,
+  9.843,
+  12.513,
+  14.389,
+  16.642,
+  19.394,
+  21.98,
+  26.026
+ ],
+ "loudness": {
+  "integrated_lufs": -15.2,
+  "loudness_range_lu": 2.3,
+  "true_peak_dbtp": -1.9
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 22.4,
+    "level_dbfs": -10.5,
+    "rise_db": 26.4
+   },
+   {
+    "t": 3.6,
+    "level_dbfs": -11.3,
+    "rise_db": 17.5
+   },
+   {
+    "t": 9.2,
+    "level_dbfs": -11.5,
+    "rise_db": 19.3
+   },
+   {
+    "t": 15.95,
+    "level_dbfs": -11.5,
+    "rise_db": 15.9
+   },
+   {
+    "t": 6.9,
+    "level_dbfs": -11.8,
+    "rise_db": 20.5
+   },
+   {
+    "t": 11.55,
+    "level_dbfs": -12.0,
+    "rise_db": 22.5
+   },
+   {
+    "t": 24.3,
+    "level_dbfs": -12.5,
+    "rise_db": 16.2
+   },
+   {
+    "t": 0.7,
+    "level_dbfs": -12.8,
+    "rise_db": 18.3
+   },
+   {
+    "t": 13.55,
+    "level_dbfs": -12.9,
+    "rise_db": 16.7
+   },
+   {
+    "t": 19.55,
+    "level_dbfs": -13.2,
+    "rise_db": 21.6
+   },
+   {
+    "t": 10.45,
+    "level_dbfs": -13.3,
+    "rise_db": 16.0
+   },
+   {
+    "t": 2.25,
+    "level_dbfs": -13.8,
+    "rise_db": 17.1
+   },
+   {
+    "t": 5.65,
+    "level_dbfs": -14.0,
+    "rise_db": 21.9
+   },
+   {
+    "t": 18.1,
+    "level_dbfs": -14.7,
+    "rise_db": 19.6
+   },
+   {
+    "t": 20.85,
+    "level_dbfs": -15.5,
+    "rise_db": 16.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 22.4,
+    "level_dbfs": -10.5,
+    "rise_db": 26.4
+   },
+   {
+    "t": 8.85,
+    "level_dbfs": -13.8,
+    "rise_db": 24.4
+   },
+   {
+    "t": 10.05,
+    "level_dbfs": -13.4,
+    "rise_db": 24.1
+   },
+   {
+    "t": 11.55,
+    "level_dbfs": -12.0,
+    "rise_db": 22.5
+   },
+   {
+    "t": 15.35,
+    "level_dbfs": -15.1,
+    "rise_db": 22.4
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 23.0,
+   "rms_dbfs": -13.8
+  },
+  "median_rms_dbfs": -21.1
+ },
+ "sync": {
+  "onsets_per_s": 2.46,
+  "cuts_on_onset_pct": 50,
+  "chance_pct": 47,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": []
+}

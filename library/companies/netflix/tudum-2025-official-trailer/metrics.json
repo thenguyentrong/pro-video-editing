@@ -1,0 +1,579 @@
+{
+ "name": "netflix_tudum2025_trailer",
+ "source": {
+  "title": "Netflix Tudum 2025 | Official Trailer | May 31 | Netflix",
+  "full_duration_s": "90",
+  "upload_date": "20250428",
+  "channel": "Netflix",
+  "url": "https://www.youtube.com/watch?v=jdgVdMolHlo",
+  "analysed_resolution": "854x480",
+  "note": "source fields fixed by hand (title contains |)"
+ },
+ "analysed_window_s": [
+  0,
+  76.8
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "51 w:854 h:428 x:0 y:26",
+  "25 w:854 h:480 x:0 y:0",
+  "4 w:854 h:424 x:0 y:28",
+  "3 w:854 h:426 x:0 y:28",
+  "2 w:854 h:426 x:0 y:26",
+  "2 w:738 h:424 x:30 y:28"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 76.8,
+  "shots": 75,
+  "ASL": 1.02,
+  "median": 0.58,
+  "ASL_quarters": [
+   1.48,
+   0.8,
+   0.71,
+   1.37
+  ],
+  "longest": [
+   [
+    0.0,
+    7.2
+   ],
+   [
+    71.36,
+    5.44
+   ],
+   [
+    62.77,
+    3.92
+   ],
+   [
+    67.7,
+    3.66
+   ]
+  ],
+  "shortest": [
+   [
+    51.59,
+    0.12
+   ],
+   [
+    32.99,
+    0.29
+   ],
+   [
+    55.35,
+    0.29
+   ],
+   [
+    60.14,
+    0.38
+   ]
+  ],
+  "pct_under_1s": 79,
+  "pct_over_3s": 5,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    33.28,
+    0.88
+   ],
+   [
+    40.46,
+    0.88
+   ],
+   [
+    66.69,
+    1.01
+   ]
+  ],
+  "cuts_per_10s": [
+   5,
+   8,
+   10,
+   14,
+   10,
+   17,
+   9,
+   1
+  ],
+  "cut_times": [
+   7.2,
+   8.508,
+   8.926,
+   9.343,
+   9.801,
+   12.0,
+   13.263,
+   13.847,
+   14.681,
+   16.099,
+   16.85,
+   17.392,
+   19.603,
+   21.438,
+   21.855,
+   24.358,
+   24.858,
+   25.234,
+   25.651,
+   26.151,
+   28.654,
+   29.279,
+   29.738,
+   30.614,
+   31.031,
+   31.531,
+   32.366,
+   32.991,
+   33.283,
+   34.159,
+   35.077,
+   35.953,
+   36.87,
+   37.746,
+   38.163,
+   38.664,
+   39.539,
+   40.04,
+   40.457,
+   41.333,
+   42.209,
+   42.96,
+   43.377,
+   43.919,
+   46.672,
+   47.631,
+   49.883,
+   51.051,
+   51.593,
+   51.718,
+   52.135,
+   52.97,
+   53.428,
+   53.845,
+   54.763,
+   55.347,
+   55.639,
+   56.056,
+   56.473,
+   56.89,
+   57.391,
+   58.308,
+   58.767,
+   59.226,
+   60.143,
+   60.519,
+   61.019,
+   61.478,
+   61.895,
+   62.354,
+   62.771,
+   66.692,
+   67.7,
+   71.363
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 65,
+   "asl": 1.38
+  },
+  "0.25": {
+   "n_shots": 56,
+   "asl": 1.61
+  },
+  "0.3": {
+   "n_shots": 53,
+   "asl": 1.7
+  },
+  "0.35": {
+   "n_shots": 50,
+   "asl": 1.8
+  },
+  "0.4": {
+   "n_shots": 44,
+   "asl": 2.05
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   1.1,
+   0.832
+  ],
+  [
+   2.7,
+   0.36
+  ],
+  [
+   3.7,
+   0.472
+  ],
+  [
+   4.7,
+   0.503
+  ],
+  [
+   6.2,
+   0.933
+  ],
+  [
+   7.4,
+   1.009
+  ],
+  [
+   11.8,
+   1.295
+  ],
+  [
+   64.7,
+   0.229
+  ],
+  [
+   68.1,
+   0.645
+  ],
+  [
+   68.9,
+   0.527
+  ],
+  [
+   74.1,
+   1.421
+  ],
+  [
+   75.3,
+   0.634
+  ],
+  [
+   77.1,
+   1.435
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   8.8,
+   8.9
+  ],
+  [
+   10.1,
+   10.3
+  ],
+  [
+   17.4,
+   17.7
+  ],
+  [
+   18.8,
+   19.2
+  ],
+  [
+   21.9,
+   22.1
+  ],
+  [
+   26.7,
+   27.1
+  ],
+  [
+   33.9,
+   34.2
+  ],
+  [
+   40.5,
+   41.3
+  ],
+  [
+   47.6,
+   48.1
+  ],
+  [
+   62.8,
+   63.0
+  ],
+  [
+   66.7,
+   68.1
+  ],
+  [
+   74.6,
+   74.8
+  ],
+  [
+   75.7,
+   77.2
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.2,
+  "loudest_t_s": 62.5,
+  "loudest_momentary_lufs": -8.0,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 73.0,
+    "end": 73.5,
+    "len": 0.5,
+    "ref": -17.6,
+    "floor": -31.2,
+    "rise_after": 15.7,
+    "next_peak": -15.5
+   },
+   {
+    "start": 76.0,
+    "end": 90.5,
+    "len": 14.5,
+    "ref": -20.2,
+    "floor": -152.4,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    15.7,
+    74.5,
+    -15.5
+   ],
+   [
+    13.4,
+    68.0,
+    -11.7
+   ],
+   [
+    11.8,
+    74.0,
+    -19.4
+   ],
+   [
+    11.7,
+    0.5,
+    -16.4
+   ],
+   [
+    11.3,
+    5.5,
+    -11.5
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 47.15,
+    "len": 0.15,
+    "ref": -16.6,
+    "floor": -45.1,
+    "next_peak": -14.1,
+    "peak_t": 47.85
+   },
+   {
+    "start": 49.65,
+    "len": 0.25,
+    "ref": -16.3,
+    "floor": -38.2,
+    "next_peak": -19.9,
+    "peak_t": 50.4
+   },
+   {
+    "start": 67.3,
+    "len": 0.45,
+    "ref": -27.1,
+    "floor": -64.9,
+    "next_peak": -8.4,
+    "peak_t": 67.85
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -7.5,
+    19.6,
+    29.8
+   ],
+   [
+    -8.4,
+    56.5,
+    67.85
+   ],
+   [
+    -10.3,
+    16.8,
+    52.15
+   ],
+   [
+    -11.8,
+    15.5,
+    74.6
+   ],
+   [
+    -13.0,
+    24.6,
+    26.75
+   ],
+   [
+    -13.2,
+    16.2,
+    13.35
+   ],
+   [
+    -13.4,
+    19.6,
+    4.45
+   ],
+   [
+    -14.1,
+    15.9,
+    47.85
+   ],
+   [
+    -17.0,
+    47.5,
+    0.55
+   ],
+   [
+    -18.1,
+    15.2,
+    50.5
+   ],
+   [
+    -23.2,
+    15.6,
+    73.55
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.91 cuts on onset (+-0.1s) 39 % vs chance 17 %",
+ "empty_frame": "mostly-empty 27% (on dark 27%, on light 0%), median empty share 60%",
+ "manual_corrections": "Trimmed to 76.8 s (end screen). Dropped 6 word-change events on black cards from the cut list (see manual.cut_definition), added 3 soft transitions. 51.59-51.72 is a real 3-frame dark flash between clips. Beatsync after correction: 36 % on onsets vs 18 % chance.",
+ "manual": {
+  "trimmed_end_s": 76.8,
+  "trim_reason": "77.1-90.0 s is the YouTube end screen (N + SUBSCRIBE)",
+  "letterbox": "2.00:1 inside 16:9 (active ~854x428, bars ~26 px = 5.4% H), type cards also letterboxed",
+  "corner_bug": {
+   "~7.5-12 s (first event shots; start read off sheet tiles, +-0.5 s)": "top-left red vertical rule + 'NETFLIX / TUDUM 2025' white sans ~2% H; top-right grey N monogram ~7.5% H (first event footage after the logo open)",
+   "12-66 s": "'NETFLIX' wordmark top-right ~4% H on footage; hidden on black type cards and show-logo cards"
+  },
+  "cut_definition": "picture cuts only: 6 detector hits that were words added on the same black type card (11.14, 17.98, 18.77, 22.44, 22.73, 27.57) were dropped from the shot count; 3 soft transitions added (7.2 light-bar wipe into the crowd, 12.0 light-streak wipe, 67.7 fade-up of the logo after black)",
+  "text_change_events": {
+   "count": 14,
+   "times_s": [
+    11.1,
+    15.17,
+    17.67,
+    17.9,
+    18.67,
+    19.17,
+    22.0,
+    22.33,
+    22.67,
+    26.67,
+    27.0,
+    27.5,
+    44.6,
+    44.9
+   ],
+   "note": "word-by-word builds on black, a new word every 0.17-0.5 s; with the 74 picture cuts this is ~88 edit events in 76.8 s = one every 0.87 s",
+   "timing_tolerance": "word times read off a 6 fps strip whose labels can be up to 0.17 s early; true times are 0-0.17 s later"
+  },
+  "n_sting": [
+   {
+    "t_in": 73.3,
+    "t_out": 76.8,
+    "len": 3.5,
+    "where": "only at the end, after the date card",
+    "look": "multicolour light bars (73.3-74.1) collapse into the red N (74.1-74.7 ribbon build), N held on black to 76.5; audio bump 74.5 s (-24 -> -12 dBFS), probably the ta-dum (guess)"
+   }
+  ],
+  "logo_open": {
+   "t_in": 0.0,
+   "t_out": 7.2,
+   "look": "chrome-extruded 3D TUDUM letters (blue -> magenta -> red -> orange per letter) with small red NETFLIX wordmark above and red 2025 tag below, over a spectral light-streak floor that rushes toward camera; camera pushes in and flies over the letters (5.6-6.8), light bars wipe into the event crowd at 7.2",
+   "logo_height_pct_H": "TUDUM ~22% H, NETFLIX ~9%, 2025 tag ~8%"
+  },
+  "text_cards": [
+   {
+    "words": "LIVE / ON / NETFLIX",
+    "t_in": 9.8,
+    "t_out": 12.0,
+    "style": "red rounded LIVE badge with record dot + neon glow, white ON, red NETFLIX wordmark, over the light-streak floor; badge pops bigger at 11.1"
+   },
+   {
+    "words": "COME / CELEBRATE",
+    "t_in": 14.68,
+    "t_out": 16.1,
+    "style": "word-by-word, white heavy geometric caps with spectral edge glow (cyan->violet->red->amber left to right) over the light-streak floor"
+   },
+   {
+    "words": "THE / BIGGEST / FANDOMS -> IN -> THE -> WORLD",
+    "t_in": 17.39,
+    "t_out": 21.44,
+    "style": "words on black, new word every 0.17-0.5 s; WORLD (~12% H) sits over split-screen footage with a vertical light-streak divider"
+   },
+   {
+    "words": "WITH YOUR / FAVORITE / STARS",
+    "t_in": 21.86,
+    "t_out": 24.36,
+    "height_pct_H": "9.5 / 17 / 26 (ink), each new word bigger",
+    "placement": "centre stack",
+    "style": "same"
+   },
+   {
+    "words": "FROM THE -> SHOWS & FILMS / YOU LOVE",
+    "t_in": 26.15,
+    "t_out": 28.65,
+    "height_pct_H": "YOU LOVE ~16%",
+    "style": "same"
+   },
+   {
+    "words": "show logos: Happy Gilmore 2, Wednesday, Wake Up Dead Man, One Piece, Squid Game 3, Stranger Things 5, Frankenstein, The Rip",
+    "t_in": 29.74,
+    "t_out": 43.38,
+    "hold_s": "0.4-0.9 each",
+    "style": "each show's own logo on black/its own texture, alternating with 1-2 clips of that show"
+   },
+   {
+    "words": "AND -> MUCH -> MORE",
+    "t_in": 43.92,
+    "t_out": 46.67,
+    "height_pct_H": "MORE ~25%",
+    "style": "same punch-word language"
+   },
+   {
+    "words": "FEATURING YOUR FAVORITE STARS FROM: + list of 14 titles",
+    "t_in": 47.63,
+    "t_out": 49.88,
+    "height_pct_H": "~2-3% per line",
+    "style": "small credit-list block, lines build down"
+   },
+   {
+    "words": "MAY 31",
+    "t_in": 52.13,
+    "t_out": 52.97,
+    "style": "punch date over light-streak floor"
+   },
+   {
+    "words": "TUDUM 2025 (logo again)",
+    "t_in": 67.7,
+    "t_out": 71.36,
+    "hold_s": 3.66,
+    "style": "fades up from 1 s of black/silence, lands on a +54 dB hit at 67.75"
+   },
+   {
+    "words": "LIVE ON NETFLIX / SATURDAY / MAY 31 / 8 PM ET | 5 PM PT",
+    "t_in": 71.36,
+    "t_out": 73.3,
+    "hold_s": 1.94,
+    "height_pct_H": "date lines ~9% each, eyebrow ~4.4%, times ~4.8%",
+    "placement": "centre",
+    "style": "white Netflix-Sans-like medium/bold, LIVE badge in eyebrow, coloured light bars at the left/right edges"
+   }
+  ],
+  "audio_events": {
+   "logo_open": "hits every ~1.0 s at 0.25, 1.25, 2.25, 3.25, 4.25, 5.25 s (-12 to -17 dBFS)",
+   "pre_logo_silence": "66.75-67.5 s down to -62 dBFS (0.75 s) under 1 s of black after Adam Sandler's line, then +54 dB hit at 67.75 s (-8 dBFS) on the TUDUM logo",
+   "date_card": "music drops to -37 dBFS under the date card (72-73 s)",
+   "outro": "N bump 74.5 s then fade to -58 by 76.5"
+  }
+ },
+ "timing_note": "All times come from cut detection, cand.py/ffmpeg -ss frames or audio; strip-timed values are flagged. Contact-sheet tile k shows the frame at ~k+0.96 s."
+}

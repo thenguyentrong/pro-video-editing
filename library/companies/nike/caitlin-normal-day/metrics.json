@@ -1,0 +1,326 @@
+{
+ "name": "nike_caitlin_normal_day",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "im_a9GsANvw",
+  "title": "*Just a normal day for Caitlin Clark.",
+  "upload_date": "20260922",
+  "duration": 30,
+  "view_count": 48005,
+  "like_count": 733,
+  "channel": "Nike",
+  "uploader": "Nike",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 24.0,
+  "webpage_url": "https://www.youtube.com/watch?v=im_a9GsANvw",
+  "description_start": "Wake up. Eat cereal. Lace up the Caitlin 1. Sell out arenas. Repeat.\n\nCaitlin 1 Signature Collection drops October 1st."
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   26.73,
+   29.03
+  ],
+  "shots": 3,
+  "ASL_s": 10.03,
+  "median_s": 2.29,
+  "ASL_quarters_s": [
+   7.52,
+   7.52,
+   7.52,
+   2.51
+  ],
+  "longest_start_len": [
+   [
+    0.0,
+    26.73
+   ],
+   [
+    26.73,
+    2.29
+   ],
+   [
+    29.03,
+    1.06
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    29.03,
+    1.06
+   ],
+   [
+    26.73,
+    2.29
+   ],
+   [
+    0.0,
+    26.73
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 33,
+  "dropped_false_cuts_s": [
+   26.985
+  ],
+  "added_cuts_s": [],
+  "note": "1 locked shot of 26.7 s, cut to the type card at 26.73 (26.98 = word added, not a cut), cut to the logo at 29.03"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 30.09
+ },
+ "cuts_cuts2": [
+  26.735,
+  26.985,
+  29.029
+ ],
+ "shot_stats_cuts2": {
+  "name": "nike_caitlin_normal_day",
+  "length": 30.03,
+  "shots": 4,
+  "ASL": 7.51,
+  "median": 1.52,
+  "ASL_quarters": [
+   7.51,
+   7.51,
+   7.51,
+   1.88
+  ],
+  "longest": [
+   [
+    0.0,
+    26.73
+   ],
+   [
+    26.98,
+    2.04
+   ],
+   [
+    29.03,
+    1.0
+   ],
+   [
+    26.73,
+    0.25
+   ]
+  ],
+  "shortest": [
+   [
+    26.73,
+    0.25
+   ],
+   [
+    29.03,
+    1.0
+   ],
+   [
+    26.98,
+    2.04
+   ],
+   [
+    0.0,
+    26.73
+   ]
+  ],
+  "pct_under_1s": 25,
+  "pct_over_3s": 25,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 2,
+   "asl": 15.05
+  },
+  "0.25": {
+   "n_shots": 2,
+   "asl": 15.05
+  },
+  "0.3": {
+   "n_shots": 1,
+   "asl": 30.09
+  },
+  "0.35": {
+   "n_shots": 1,
+   "asl": 30.09
+  },
+  "0.4": {
+   "n_shots": 1,
+   "asl": 30.09
+  }
+ },
+ "integrated_lufs": -24.0,
+ "loudness_dropouts": [
+  {
+   "start": 26.5,
+   "end": 27.0,
+   "len": 0.5,
+   "ref": -22.4,
+   "floor": -37.1,
+   "rise_after": 14.5,
+   "next_peak": -22.6
+  },
+  {
+   "start": 30.0,
+   "end": 30.5,
+   "len": 0.5,
+   "ref": -27.5,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 2.0,
+  "loudest_M": -20.6,
+  "big_hits_near_peak": [
+   [
+    14.5,
+    27.0,
+    -22.6
+   ],
+   [
+    13.9,
+    27.5,
+    -23.2
+   ],
+   [
+    13.7,
+    28.0,
+    -23.4
+   ]
+  ],
+  "biggest_rises": [
+   [
+    14.5,
+    27.0,
+    -22.6
+   ],
+   [
+    13.9,
+    27.5,
+    -23.2
+   ],
+   [
+    13.7,
+    28.0,
+    -23.4
+   ],
+   [
+    13.6,
+    1.5,
+    -21.9
+   ],
+   [
+    11.6,
+    1.0,
+    -23.9
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -20.8,
+   22.8,
+   21.15
+  ],
+  [
+   -20.8,
+   20.7,
+   7.0
+  ],
+  [
+   -21.5,
+   19.3,
+   15.5
+  ],
+  [
+   -21.6,
+   19.8,
+   1.95
+  ],
+  [
+   -21.9,
+   19.9,
+   27.05
+  ],
+  [
+   -21.9,
+   19.4,
+   8.25
+  ],
+  [
+   -22.2,
+   18.0,
+   24.15
+  ],
+  [
+   -22.4,
+   20.0,
+   9.85
+  ],
+  [
+   -22.7,
+   27.0,
+   0.85
+  ],
+  [
+   -22.7,
+   18.5,
+   12.4
+  ],
+  [
+   -22.7,
+   15.3,
+   16.6
+  ],
+  [
+   -22.8,
+   16.0,
+   18.7
+  ],
+  [
+   -23.0,
+   20.3,
+   5.7
+  ],
+  [
+   -23.2,
+   16.2,
+   22.9
+  ],
+  [
+   -23.7,
+   17.6,
+   4.45
+  ]
+ ],
+ "beatsync": "nike_caitlin_normal_day onsets/s 2.4 cuts on onset (+-0.1s) 33 % vs chance 44 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / TikTok / Reels, series '*Just ...' (Caitlin Clark signature shoe)",
+  "sub_style": "athlete / product launch, deadpan type-on-screen storytelling",
+  "hook_0_2s": "almost empty off-white frame: a tiny Caitlin Clark eats cereal at a desk on a round rug (figure ~20% of H at the bottom); the first word '*Caitlin' types on top-left at 0.0 s in sync with a deadpan narrator; the contrast between 'just a normal girl' and the WNBA superstar is the hook",
+  "captions": {
+   "style": "condensed transitional serif (Times / Tiempos Headline Condensed-like), black on off-white #F2F2F0, sentence case, tight tracking (~-2%), left-aligned ragged block, asterisk hanging in the margin",
+   "cap_height_pct_H": 2.7,
+   "line_height_pct_H": 4.3,
+   "block": "x 8-88% W, grows from 14% H down to ~70% H (13 lines)",
+   "reveal": "word-by-word, exactly synced to VO, words never removed (karaoke paragraph)",
+   "end_type": "'NOTHING / SPECIAL / TO SEE HERE*' Nike Futura Condensed ExtraBold caps, black, cap ~6% H, leading ~100%, centred 40-61% H, one word per 0.17-0.33 s"
+  },
+  "on_screen_text_density": "builds to ~75 words on screen at once: the paragraph IS the video",
+  "audio": "deadpan male narrator reading the same words (auto-captions identical to on-screen text), soft bed; integrated -24.0 LUFS",
+  "audio_type": "original VO",
+  "voice": true,
+  "loop": "no loop: logo end card (CC monogram + swoosh, small, centre) 29.0-30.0 s",
+  "views_at_analysis": 48005
+ }
+}

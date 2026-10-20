@@ -1,0 +1,201 @@
+{
+ "name": "scrub_daddy_listen_up",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "qxAnHS6QWw8",
+  "title": "LISTEN UP!!!",
+  "upload_date": "20250813",
+  "duration": 15,
+  "view_count": 350651,
+  "like_count": 7162,
+  "channel": "Scrub Daddy",
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/shorts/qxAnHS6QWw8"
+ },
+ "file": "sd_listen-up.webm",
+ "duration_s": 15.061,
+ "fps": 30.0,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 1,
+ "shot_count": 2,
+ "asl_s": 7.53,
+ "median_s": 7.53,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 8.0,
+ "asl_quarters_s": [
+  3.77,
+  1.88,
+  3.77,
+  3.77
+ ],
+ "longest": [
+  {
+   "start": 5.0,
+   "len": 10.061
+  },
+  {
+   "start": 0.0,
+   "len": 5.0
+  }
+ ],
+ "shortest": [
+  {
+   "start": 0.0,
+   "len": 5.0
+  },
+  {
+   "start": 5.0,
+   "len": 10.061
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 1,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.516,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.348
+  },
+  {
+   "t": 1.0,
+   "score": 0.314
+  },
+  {
+   "t": 2.4,
+   "score": 0.308
+  },
+  {
+   "t": 3.6,
+   "score": 0.26
+  },
+  {
+   "t": 8.4,
+   "score": 0.917
+  },
+  {
+   "t": 10.7,
+   "score": 0.667
+  },
+  {
+   "t": 12.2,
+   "score": 1.079
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 5.0,
+   "len": 5.0
+  },
+  {
+   "i": 2,
+   "start": 5.0,
+   "end": 15.061,
+   "len": 10.061
+  }
+ ],
+ "cuts": [
+  5.0
+ ],
+ "loudness": {
+  "integrated_lufs": -18.7,
+  "loudness_range_lu": 22.4,
+  "true_peak_dbtp": -0.7
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 4.7,
+    "level_dbfs": -13.1,
+    "rise_db": 20.5
+   },
+   {
+    "t": 5.95,
+    "level_dbfs": -13.2,
+    "rise_db": 27.7
+   },
+   {
+    "t": 2.45,
+    "level_dbfs": -13.6,
+    "rise_db": 29.6
+   },
+   {
+    "t": 1.45,
+    "level_dbfs": -14.3,
+    "rise_db": 20.1
+   },
+   {
+    "t": 3.6,
+    "level_dbfs": -17.6,
+    "rise_db": 15.1
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -18.5,
+    "rise_db": 101.5
+   },
+   {
+    "t": 2.45,
+    "level_dbfs": -13.6,
+    "rise_db": 29.6
+   },
+   {
+    "t": 5.95,
+    "level_dbfs": -13.2,
+    "rise_db": 27.7
+   },
+   {
+    "t": 4.65,
+    "level_dbfs": -13.6,
+    "rise_db": 25.1
+   },
+   {
+    "t": 3.6,
+    "level_dbfs": -17.6,
+    "rise_db": 15.1
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 4.6,
+   "rms_dbfs": -18.8
+  },
+  "median_rms_dbfs": -37.2
+ },
+ "sync": {
+  "onsets_per_s": 1.2,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 23,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak -0.7 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

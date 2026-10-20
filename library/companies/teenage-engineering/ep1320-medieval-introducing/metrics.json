@@ -1,0 +1,249 @@
+{
+ "name": "te_ep1320_medieval",
+ "url": "https://www.youtube.com/watch?v=LVLsRvGMwMk",
+ "duration_s": 64.91,
+ "fps": 25.0,
+ "shots": {
+  "name": "te_ep1320_medieval",
+  "length": 64.88,
+  "shots": 26,
+  "ASL": 2.5,
+  "median": 2.14,
+  "ASL_quarters": [
+   1.8,
+   2.03,
+   2.03,
+   4.05
+  ],
+  "longest": [
+   [
+    47.2,
+    6.6
+   ],
+   [
+    53.8,
+    6.56
+   ],
+   [
+    0.0,
+    4.4
+   ],
+   [
+    25.28,
+    4.36
+   ]
+  ],
+  "shortest": [
+   [
+    12.12,
+    0.6
+   ],
+   [
+    17.6,
+    1.08
+   ],
+   [
+    46.12,
+    1.08
+   ],
+   [
+    14.36,
+    1.12
+   ]
+  ],
+  "pct_under_1s": 4,
+  "pct_over_3s": 23,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "cuts_s": [
+  4.4,
+  6.28,
+  7.72,
+  10.64,
+  12.12,
+  12.72,
+  14.36,
+  15.48,
+  17.6,
+  18.68,
+  21.64,
+  23.8,
+  25.28,
+  29.64,
+  31.88,
+  33.28,
+  35.12,
+  37.0,
+  40.04,
+  42.76,
+  46.12,
+  47.2,
+  53.8,
+  60.36,
+  62.64
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 25,
+   "asl": 2.6
+  },
+  "0.25": {
+   "n_shots": 25,
+   "asl": 2.6
+  },
+  "0.3": {
+   "n_shots": 25,
+   "asl": 2.6
+  },
+  "0.35": {
+   "n_shots": 25,
+   "asl": 2.6
+  },
+  "0.4": {
+   "n_shots": 22,
+   "asl": 2.95
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   8.7,
+   0.365
+  ],
+  [
+   27.6,
+   0.435
+  ],
+  [
+   32.5,
+   0.933
+  ],
+  [
+   51.0,
+   0.452
+  ],
+  [
+   56.7,
+   0.457
+  ],
+  [
+   63.7,
+   0.104
+  ]
+ ],
+ "black_dips_s": [],
+ "loudness": {
+  "integrated_lufs": -21.1,
+  "median_dbfs_50ms": -23.9,
+  "dropouts_ebu": [
+   {
+    "start": 64.0,
+    "end": 65.0,
+    "len": 1.0,
+    "ref": -21.1,
+    "floor": -56.1,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 23.0,
+   "loudest_M": -18.3,
+   "big_hits_near_peak": [
+    [
+     16.7,
+     3.5,
+     -22.4
+    ],
+    [
+     16.0,
+     4.0,
+     -23.1
+    ],
+    [
+     3.8,
+     8.0,
+     -18.9
+    ]
+   ],
+   "biggest_rises": [
+    [
+     16.7,
+     3.5,
+     -22.4
+    ],
+    [
+     16.0,
+     4.0,
+     -23.1
+    ],
+    [
+     12.8,
+     3.0,
+     -26.3
+    ],
+    [
+     3.8,
+     8.0,
+     -18.9
+    ],
+    [
+     3.4,
+     4.5,
+     -22.9
+    ]
+   ]
+  },
+  "gaps_50ms": [],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -19.4,
+    51.4,
+    3.35
+   ],
+   [
+    -20.4,
+    16.3,
+    5.25
+   ],
+   [
+    -39.2,
+    31.4,
+    1.15
+   ],
+   [
+    -39.9,
+    30.6,
+    2.25
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 0.85,
+  "cuts_on_onset_pct": 40,
+  "chance_pct": 18
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 10,
+  "on_dark_pct": 8,
+  "on_light_pct": 2,
+  "median_empty_share_pct": 34
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 0.33,
+  "segs": []
+ },
+ "manual_notes": "25 cuts verified. Product first appears at 47.2 s (73 % into the film). 60.4-64.9 end cards (blackletter title, TE logo) counted as 2 shots. No speech.",
+ "grade_2fps": {
+  "frames": 130,
+  "median_frame_luma": 110.5,
+  "pct_frames_dark_lt40": 12,
+  "pct_frames_bright_gt170": 2,
+  "median_saturation_pct": 23.2,
+  "p90_saturation_pct": 43.9,
+  "median_R_minus_B": 8.4,
+  "median_contrast_p95_minus_p5": 145.6,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

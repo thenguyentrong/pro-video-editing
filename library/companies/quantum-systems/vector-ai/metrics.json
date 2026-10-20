@@ -1,0 +1,259 @@
+{
+ "name": "quantum_systems_vector_ai",
+ "file": "quantum-systems_vector-ai.webm",
+ "duration_s": 50.041,
+ "fps": 30.0,
+ "width": 640,
+ "height": 360,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 11,
+ "shot_count": 12,
+ "asl_s": 4.17,
+ "median_s": 3.6,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 75.0,
+ "shots_per_minute": 14.4,
+ "asl_quarters_s": [
+  3.13,
+  2.5,
+  3.13,
+  6.26
+ ],
+ "longest": [
+  {
+   "start": 39.5,
+   "len": 10.541
+  },
+  {
+   "start": 34.433,
+   "len": 5.067
+  },
+  {
+   "start": 0.0,
+   "len": 4.767
+  }
+ ],
+ "shortest": [
+  {
+   "start": 11.734,
+   "len": 2.033
+  },
+  {
+   "start": 9.266,
+   "len": 2.468
+  },
+  {
+   "start": 31.634,
+   "len": 2.799
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 3,
+  "20-30": 3,
+  "30-40": 3,
+  "40-50": 0,
+  "50-60": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 9,
+  "only_in_other": [],
+  "only_in_this": [
+   4.767,
+   39.5
+  ]
+ },
+ "mean_luma": 0.126,
+ "soft_transition_candidates": [
+  {
+   "t": 6.5,
+   "score": 0.161
+  },
+  {
+   "t": 41.5,
+   "score": 0.207
+  },
+  {
+   "t": 45.7,
+   "score": 0.329
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 4.767,
+   "len": 4.767
+  },
+  {
+   "i": 2,
+   "start": 4.767,
+   "end": 9.266,
+   "len": 4.499
+  },
+  {
+   "i": 3,
+   "start": 9.266,
+   "end": 11.734,
+   "len": 2.468
+  },
+  {
+   "i": 4,
+   "start": 11.734,
+   "end": 13.767,
+   "len": 2.033
+  },
+  {
+   "i": 5,
+   "start": 13.767,
+   "end": 17.2,
+   "len": 3.433
+  },
+  {
+   "i": 6,
+   "start": 17.2,
+   "end": 20.8,
+   "len": 3.6
+  },
+  {
+   "i": 7,
+   "start": 20.8,
+   "end": 24.4,
+   "len": 3.6
+  },
+  {
+   "i": 8,
+   "start": 24.4,
+   "end": 28.067,
+   "len": 3.667
+  },
+  {
+   "i": 9,
+   "start": 28.067,
+   "end": 31.634,
+   "len": 3.567
+  },
+  {
+   "i": 10,
+   "start": 31.634,
+   "end": 34.433,
+   "len": 2.799
+  },
+  {
+   "i": 11,
+   "start": 34.433,
+   "end": 39.5,
+   "len": 5.067
+  },
+  {
+   "i": 12,
+   "start": 39.5,
+   "end": 50.041,
+   "len": 10.541
+  }
+ ],
+ "cuts": [
+  4.767,
+  9.266,
+  11.734,
+  13.767,
+  17.2,
+  20.8,
+  24.4,
+  28.067,
+  31.634,
+  34.433,
+  39.5
+ ],
+ "loudness": {
+  "integrated_lufs": -19.0,
+  "loudness_range_lu": 9.0,
+  "true_peak_dbtp": -0.7
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 3.95,
+    "len": 3.95
+   },
+   {
+    "start": 44.05,
+    "end": 45.2,
+    "len": 1.15
+   },
+   {
+    "start": 46.2,
+    "end": 50.0,
+    "len": 3.8
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 43.55,
+    "end": 45.2,
+    "len": 1.65,
+    "level_before_db": -21.6,
+    "floor_db": -120.0,
+    "next_peak_db": -21.4,
+    "next_peak_t": 45.55
+   }
+  ],
+  "hits": [
+   {
+    "t": 4.75,
+    "level_dbfs": -17.9,
+    "rise_db": 24.9
+   },
+   {
+    "t": 45.55,
+    "level_dbfs": -21.4,
+    "rise_db": 98.6
+   },
+   {
+    "t": 3.65,
+    "level_dbfs": -59.0,
+    "rise_db": 26.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 45.55,
+    "level_dbfs": -21.4,
+    "rise_db": 98.6
+   },
+   {
+    "t": 3.4,
+    "level_dbfs": -66.4,
+    "rise_db": 53.6
+   },
+   {
+    "t": 4.75,
+    "level_dbfs": -17.9,
+    "rise_db": 24.9
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 36.9,
+   "rms_dbfs": -15.4
+  },
+  "median_rms_dbfs": -22.2
+ },
+ "sync": {
+  "onsets_per_s": 1.44,
+  "cuts_on_onset_pct": 64,
+  "chance_pct": 28,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "true peak -0.7 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

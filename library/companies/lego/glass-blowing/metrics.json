@@ -1,0 +1,321 @@
+{
+ "name": "lego_glass_blowing",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "61HV2u3SIqw",
+  "title": "Turning elements into GLASS?! 🤩 | LEGO glass blowing challenge w/ @corningmuseumofglass #Shorts",
+  "upload_date": "20260907",
+  "duration": 38,
+  "view_count": 522979,
+  "like_count": 2153,
+  "channel": "LEGO",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/shorts/61HV2u3SIqw"
+ },
+ "caveat": "several sections are stacked split screens; detector counts changes in either half",
+ "file": "lg_glass-blowing.webm",
+ "duration_s": 37.561,
+ "fps": 23.976,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 19,
+ "shot_count": 20,
+ "asl_s": 1.88,
+ "median_s": 1.5,
+ "pct_shots_under_1s": 30.0,
+ "pct_shots_over_3s": 5.0,
+ "shots_per_minute": 31.9,
+ "asl_quarters_s": [
+  1.17,
+  1.88,
+  1.88,
+  1.88
+ ],
+ "longest": [
+  {
+   "start": 16.475,
+   "len": 5.922
+  },
+  {
+   "start": 13.555,
+   "len": 2.92
+  },
+  {
+   "start": 34.659,
+   "len": 2.902
+  }
+ ],
+ "shortest": [
+  {
+   "start": 9.218,
+   "len": 0.542
+  },
+  {
+   "start": 3.462,
+   "len": 0.792
+  },
+  {
+   "start": 8.342,
+   "len": 0.876
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 8,
+  "10-20": 3,
+  "20-30": 5,
+  "30-40": 3
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 28,
+  "only_in_other": [
+   14.431,
+   15.682,
+   17.476,
+   18.56,
+   19.144,
+   20.812,
+   26.693,
+   28.362,
+   33.033
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.276,
+ "soft_transition_candidates": [
+  {
+   "t": 0.9,
+   "score": 0.597
+  },
+  {
+   "t": 12.1,
+   "score": 0.485
+  },
+  {
+   "t": 14.6,
+   "score": 0.808
+  },
+  {
+   "t": 15.3,
+   "score": 0.825
+  },
+  {
+   "t": 19.1,
+   "score": 1.292
+  },
+  {
+   "t": 20.6,
+   "score": 0.64
+  },
+  {
+   "t": 23.3,
+   "score": 0.256
+  },
+  {
+   "t": 28.7,
+   "score": 0.771
+  },
+  {
+   "t": 33.4,
+   "score": 0.814
+  },
+  {
+   "t": 35.9,
+   "score": 0.373
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.503,
+   "len": 2.503
+  },
+  {
+   "i": 2,
+   "start": 2.503,
+   "end": 3.462,
+   "len": 0.959
+  },
+  {
+   "i": 3,
+   "start": 3.462,
+   "end": 4.254,
+   "len": 0.792
+  },
+  {
+   "i": 4,
+   "start": 4.254,
+   "end": 5.339,
+   "len": 1.085
+  },
+  {
+   "i": 5,
+   "start": 5.339,
+   "end": 7.049,
+   "len": 1.71
+  },
+  {
+   "i": 6,
+   "start": 7.049,
+   "end": 8.342,
+   "len": 1.293
+  },
+  {
+   "i": 7,
+   "start": 8.342,
+   "end": 9.218,
+   "len": 0.876
+  },
+  {
+   "i": 8,
+   "start": 9.218,
+   "end": 9.76,
+   "len": 0.542
+  },
+  {
+   "i": 9,
+   "start": 9.76,
+   "end": 10.844,
+   "len": 1.084
+  },
+  {
+   "i": 10,
+   "start": 10.844,
+   "end": 13.555,
+   "len": 2.711
+  },
+  {
+   "i": 11,
+   "start": 13.555,
+   "end": 16.475,
+   "len": 2.92
+  },
+  {
+   "i": 12,
+   "start": 16.475,
+   "end": 22.397,
+   "len": 5.922
+  },
+  {
+   "i": 13,
+   "start": 22.397,
+   "end": 24.566,
+   "len": 2.169
+  },
+  {
+   "i": 14,
+   "start": 24.566,
+   "end": 25.442,
+   "len": 0.876
+  },
+  {
+   "i": 15,
+   "start": 25.442,
+   "end": 27.653,
+   "len": 2.211
+  },
+  {
+   "i": 16,
+   "start": 27.653,
+   "end": 29.947,
+   "len": 2.294
+  },
+  {
+   "i": 17,
+   "start": 29.947,
+   "end": 31.073,
+   "len": 1.126
+  },
+  {
+   "i": 18,
+   "start": 31.073,
+   "end": 31.99,
+   "len": 0.917
+  },
+  {
+   "i": 19,
+   "start": 31.99,
+   "end": 34.659,
+   "len": 2.669
+  },
+  {
+   "i": 20,
+   "start": 34.659,
+   "end": 37.561,
+   "len": 2.902
+  }
+ ],
+ "cuts": [
+  2.503,
+  3.462,
+  4.254,
+  5.339,
+  7.049,
+  8.342,
+  9.218,
+  9.76,
+  10.844,
+  13.555,
+  16.475,
+  22.397,
+  24.566,
+  25.442,
+  27.653,
+  29.947,
+  31.073,
+  31.99,
+  34.659
+ ],
+ "loudness": {
+  "integrated_lufs": -9.7,
+  "loudness_range_lu": 1.1,
+  "true_peak_dbtp": 0.8
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 3.05,
+    "level_dbfs": -9.8,
+    "rise_db": 22.7
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 3.05,
+    "level_dbfs": -9.8,
+    "rise_db": 22.7
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 9.8,
+   "rms_dbfs": -11.0
+  },
+  "median_rms_dbfs": -13.0
+ },
+ "sync": {
+  "onsets_per_s": 0.83,
+  "cuts_on_onset_pct": 5,
+  "chance_pct": 16,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [14.431, 15.682, 17.476, 18.56, 19.144, 20.812, 26.693, 28.362, 33.033] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 0.8 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

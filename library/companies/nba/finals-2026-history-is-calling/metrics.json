@@ -1,0 +1,310 @@
+{
+ "name": "nba_finals-2026-history-is-calling",
+ "file": "nba_finals-2026.mp4",
+ "duration_s": 30.465,
+ "fps": 29.97,
+ "width": 640,
+ "height": 360,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 25,
+ "shot_count": 26,
+ "asl_s": 1.17,
+ "median_s": 0.88,
+ "pct_shots_under_1s": 65.4,
+ "pct_shots_over_3s": 7.7,
+ "shots_per_minute": 51.2,
+ "asl_quarters_s": [
+  1.9,
+  0.85,
+  0.69,
+  1.52
+ ],
+ "longest": [
+  {
+   "start": 26.293,
+   "len": 4.172
+  },
+  {
+   "start": 0.0,
+   "len": 3.27
+  },
+  {
+   "start": 3.27,
+   "len": 2.703
+  }
+ ],
+ "shortest": [
+  {
+   "start": 20.921,
+   "len": 0.133
+  },
+  {
+   "start": 25.826,
+   "len": 0.467
+  },
+  {
+   "start": 12.513,
+   "len": 0.633
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 12,
+  "20-30": 8,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 25,
+  "only_in_other": [
+   3.27,
+   7.274,
+   8.475,
+   9.643,
+   30.063
+  ],
+  "only_in_this": [
+   20.921
+  ]
+ },
+ "mean_luma": 0.276,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 4.773
+  },
+  {
+   "t": 29.7,
+   "score": 0.777
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.27,
+   "len": 3.27
+  },
+  {
+   "i": 2,
+   "start": 3.27,
+   "end": 5.973,
+   "len": 2.703
+  },
+  {
+   "i": 3,
+   "start": 5.973,
+   "end": 7.274,
+   "len": 1.301
+  },
+  {
+   "i": 4,
+   "start": 7.274,
+   "end": 8.475,
+   "len": 1.201
+  },
+  {
+   "i": 5,
+   "start": 8.475,
+   "end": 9.643,
+   "len": 1.168
+  },
+  {
+   "i": 6,
+   "start": 9.643,
+   "end": 10.511,
+   "len": 0.868
+  },
+  {
+   "i": 7,
+   "start": 10.511,
+   "end": 11.278,
+   "len": 0.767
+  },
+  {
+   "i": 8,
+   "start": 11.278,
+   "end": 12.513,
+   "len": 1.235
+  },
+  {
+   "i": 9,
+   "start": 12.513,
+   "end": 13.146,
+   "len": 0.633
+  },
+  {
+   "i": 10,
+   "start": 13.146,
+   "end": 13.981,
+   "len": 0.835
+  },
+  {
+   "i": 11,
+   "start": 13.981,
+   "end": 14.715,
+   "len": 0.734
+  },
+  {
+   "i": 12,
+   "start": 14.715,
+   "end": 15.916,
+   "len": 1.201
+  },
+  {
+   "i": 13,
+   "start": 15.916,
+   "end": 16.817,
+   "len": 0.901
+  },
+  {
+   "i": 14,
+   "start": 16.817,
+   "end": 17.618,
+   "len": 0.801
+  },
+  {
+   "i": 15,
+   "start": 17.618,
+   "end": 18.585,
+   "len": 0.967
+  },
+  {
+   "i": 16,
+   "start": 18.585,
+   "end": 19.219,
+   "len": 0.634
+  },
+  {
+   "i": 17,
+   "start": 19.219,
+   "end": 19.987,
+   "len": 0.768
+  },
+  {
+   "i": 18,
+   "start": 19.987,
+   "end": 20.921,
+   "len": 0.934
+  },
+  {
+   "i": 19,
+   "start": 20.921,
+   "end": 21.054,
+   "len": 0.133
+  },
+  {
+   "i": 20,
+   "start": 21.054,
+   "end": 22.022,
+   "len": 0.968
+  },
+  {
+   "i": 21,
+   "start": 22.022,
+   "end": 22.723,
+   "len": 0.701
+  },
+  {
+   "i": 22,
+   "start": 22.723,
+   "end": 23.557,
+   "len": 0.834
+  },
+  {
+   "i": 23,
+   "start": 23.557,
+   "end": 25.058,
+   "len": 1.501
+  },
+  {
+   "i": 24,
+   "start": 25.058,
+   "end": 25.826,
+   "len": 0.768
+  },
+  {
+   "i": 25,
+   "start": 25.826,
+   "end": 26.293,
+   "len": 0.467
+  },
+  {
+   "i": 26,
+   "start": 26.293,
+   "end": 30.465,
+   "len": 4.172
+  }
+ ],
+ "cuts": [
+  3.27,
+  5.973,
+  7.274,
+  8.475,
+  9.643,
+  10.511,
+  11.278,
+  12.513,
+  13.146,
+  13.981,
+  14.715,
+  15.916,
+  16.817,
+  17.618,
+  18.585,
+  19.219,
+  19.987,
+  20.921,
+  21.054,
+  22.022,
+  22.723,
+  23.557,
+  25.058,
+  25.826,
+  26.293
+ ],
+ "loudness": {
+  "integrated_lufs": -16.9,
+  "loudness_range_lu": 3.3,
+  "true_peak_dbtp": -6.0
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 0.5,
+    "level_dbfs": -24.3,
+    "rise_db": 95.7
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -24.3,
+    "rise_db": 95.7
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 26.8,
+   "rms_dbfs": -16.3
+  },
+  "median_rms_dbfs": -21.2
+ },
+ "sync": {
+  "onsets_per_s": 0.66,
+  "cuts_on_onset_pct": 16,
+  "chance_pct": 13,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [3.27, 7.274, 8.475, 9.643, 30.063] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

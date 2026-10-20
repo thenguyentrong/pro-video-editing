@@ -1,0 +1,256 @@
+{
+ "name": "target_no_tricks_40_off_6s",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "D5NjoNPn0vA",
+  "title": "No Tricks, Just Up to 40% Off 🎃",
+  "upload_date": "20261006",
+  "duration": 6,
+  "view_count": 1697,
+  "like_count": 27,
+  "channel": "Target",
+  "uploader": "Target",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=D5NjoNPn0vA",
+  "description_start": "Time to Halloweenify your space. 🎃🕸️ Target Circle Deal Days are here, with up to 40% off deals for members through Oct. 7!"
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.5,
+   3.17
+  ],
+  "shots": 3,
+  "ASL_s": 2.03,
+  "median_s": 1.67,
+  "ASL_quarters_s": [
+   0.76,
+   1.52,
+   0.76,
+   1.52
+  ],
+  "longest_start_len": [
+   [
+    3.17,
+    2.91
+   ],
+   [
+    1.5,
+    1.67
+   ],
+   [
+    0.0,
+    1.5
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    0.0,
+    1.5
+   ],
+   [
+    1.5,
+    1.67
+   ],
+   [
+    3.17,
+    2.91
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 0,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "3 shots (1.5 / 1.6 / 2.9 s); the 4.75 s coin flip inside the last shot is a graphic transition, not a cut"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 6.08
+ },
+ "cuts_cuts2": [
+  1.5,
+  3.167
+ ],
+ "shot_stats_cuts2": {
+  "name": "target_no_tricks_40_off_6s",
+  "length": 6.03,
+  "shots": 3,
+  "ASL": 2.01,
+  "median": 1.67,
+  "ASL_quarters": [
+   0.75,
+   1.51,
+   0.75,
+   1.51
+  ],
+  "longest": [
+   [
+    3.17,
+    2.87
+   ],
+   [
+    1.5,
+    1.67
+   ],
+   [
+    0.0,
+    1.5
+   ]
+  ],
+  "shortest": [
+   [
+    0.0,
+    1.5
+   ],
+   [
+    1.5,
+    1.67
+   ],
+   [
+    3.17,
+    2.87
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 3,
+   "asl": 2.03
+  },
+  "0.25": {
+   "n_shots": 3,
+   "asl": 2.03
+  },
+  "0.3": {
+   "n_shots": 3,
+   "asl": 2.03
+  },
+  "0.35": {
+   "n_shots": 3,
+   "asl": 2.03
+  },
+  "0.4": {
+   "n_shots": 3,
+   "asl": 2.03
+  }
+ },
+ "integrated_lufs": -24.0,
+ "loudness_dropouts": [
+  {
+   "start": 6.0,
+   "end": 6.5,
+   "len": 0.5,
+   "ref": -22.9,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 4.0,
+  "loudest_M": -20.0,
+  "big_hits_near_peak": [
+   [
+    4.2,
+    4.0,
+    -20.0
+   ],
+   [
+    3.6,
+    3.5,
+    -20.6
+   ],
+   [
+    2.2,
+    1.5,
+    -22.2
+   ]
+  ],
+  "biggest_rises": [
+   [
+    4.2,
+    4.0,
+    -20.0
+   ],
+   [
+    3.6,
+    3.5,
+    -20.6
+   ],
+   [
+    2.2,
+    1.5,
+    -22.2
+   ],
+   [
+    2.1,
+    2.0,
+    -22.3
+   ],
+   [
+    1.6,
+    5.0,
+    -22.1
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -22.0,
+   15.6,
+   2.1
+  ],
+  [
+   -22.5,
+   40.8,
+   3.15
+  ],
+  [
+   -22.7,
+   31.4,
+   0.65
+  ],
+  [
+   -23.2,
+   29.0,
+   5.2
+  ]
+ ],
+ "beatsync": "target_no_tricks_40_off_6s onsets/s 2.64 cuts on onset (+-0.1s) 50 % vs chance 59 %",
+ "manual": {
+  "format": "9:16 1080x1920, 6 s paid/social cutdown (YouTube Short)",
+  "sub_style": "product hero / promo cutdown (graphic, no people)",
+  "hook_0_2s": "frame 1: big white lowercase pun 'you / boo / you' over a stack of two jack-o-lantern pumpkins on teal; at 0.375 s the pumpkins light up and 'boo' scales up ~130% on the beat, back by 0.75 s",
+  "captions": {
+   "style": "Helvetica Neue Bold-like lowercase (Target brand type), tight tracking, white on teal, pumpkin layered in front of the type",
+   "sizes_pct_H": {
+    "you_xheight": 6.7,
+    "boo_xheight": 7.3,
+    "YOU_xheight": 14.6,
+    "offer_40_cap": 14,
+    "offer_disc_diameter": 47,
+    "date_disc_diameter": 17
+   },
+   "positions_pct_H": "pun 12-55, offer disc 26-74 centred, date disc top-right 6-23"
+  },
+  "on_screen_text_density": "3 words, then 2-word badge, then 4-line offer lockup + date",
+  "audio": "music with a hit on the pumpkin light-up; integrated LUFS in field above; no VO",
+  "audio_type": "library/original music",
+  "voice": false,
+  "cutdown_structure": "3 beats of ~1.5-2.9 s: seasonal pun hook (0-1.5) -> product/seasonal hero with event badge (1.5-3.1) -> event lockup + coin-flip to offer and date (3.1-6.0)",
+  "loop": "ends on the offer card; no loop",
+  "views_at_analysis": 1697
+ }
+}

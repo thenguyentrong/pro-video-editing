@@ -1,0 +1,387 @@
+{
+ "name": "figma_introducing-figma-motion",
+ "file": "figma_introducing-figma-motion.mp4",
+ "duration_s": 68.094,
+ "fps": 12.0,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 21,
+ "shot_count": 22,
+ "asl_s": 3.1,
+ "median_s": 2.63,
+ "pct_shots_under_1s": 13.6,
+ "pct_shots_over_3s": 40.9,
+ "shots_per_minute": 19.4,
+ "asl_quarters_s": [
+  2.13,
+  2.84,
+  2.84,
+  3.4
+ ],
+ "longest": [
+  {
+   "start": 26.583,
+   "len": 10.167
+  },
+  {
+   "start": 54.25,
+   "len": 6.333
+  },
+  {
+   "start": 38.17,
+   "len": 5.997
+  }
+ ],
+ "shortest": [
+  {
+   "start": 19.0,
+   "len": 0.5
+  },
+  {
+   "start": 19.5,
+   "len": 0.5
+  },
+  {
+   "start": 1.417,
+   "len": 0.75
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 5,
+  "20-30": 3,
+  "30-40": 2,
+  "40-50": 2,
+  "50-60": 2,
+  "60-70": 3
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 17,
+  "only_in_other": [
+   13.917,
+   38.167,
+   54.25
+  ],
+  "only_in_this": [
+   1.417,
+   2.167,
+   11.0,
+   15.75
+  ]
+ },
+ "mean_luma": 0.517,
+ "soft_transition_candidates": [
+  {
+   "t": 3.1,
+   "score": 1.515
+  },
+  {
+   "t": 4.2,
+   "score": 1.332
+  },
+  {
+   "t": 23.2,
+   "score": 0.481
+  },
+  {
+   "t": 25.0,
+   "score": 1.08
+  },
+  {
+   "t": 28.5,
+   "score": 1.395
+  },
+  {
+   "t": 30.9,
+   "score": 0.637
+  },
+  {
+   "t": 31.6,
+   "score": 0.682
+  },
+  {
+   "t": 33.3,
+   "score": 1.472
+  },
+  {
+   "t": 40.8,
+   "score": 0.917
+  },
+  {
+   "t": 42.7,
+   "score": 0.984
+  },
+  {
+   "t": 47.4,
+   "score": 0.289
+  },
+  {
+   "t": 52.7,
+   "score": 0.176
+  },
+  {
+   "t": 55.6,
+   "score": 1.081
+  },
+  {
+   "t": 56.6,
+   "score": 1.42
+  },
+  {
+   "t": 66.1,
+   "score": 0.39
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 1.417,
+   "len": 1.417
+  },
+  {
+   "i": 2,
+   "start": 1.417,
+   "end": 2.167,
+   "len": 0.75
+  },
+  {
+   "i": 3,
+   "start": 2.167,
+   "end": 6.833,
+   "len": 4.666
+  },
+  {
+   "i": 4,
+   "start": 6.833,
+   "end": 9.833,
+   "len": 3.0
+  },
+  {
+   "i": 5,
+   "start": 9.833,
+   "end": 11.0,
+   "len": 1.167
+  },
+  {
+   "i": 6,
+   "start": 11.0,
+   "end": 13.92,
+   "len": 2.92
+  },
+  {
+   "i": 7,
+   "start": 13.92,
+   "end": 15.5,
+   "len": 1.58
+  },
+  {
+   "i": 8,
+   "start": 15.5,
+   "end": 19.0,
+   "len": 3.5
+  },
+  {
+   "i": 9,
+   "start": 19.0,
+   "end": 19.5,
+   "len": 0.5
+  },
+  {
+   "i": 10,
+   "start": 19.5,
+   "end": 20.0,
+   "len": 0.5
+  },
+  {
+   "i": 11,
+   "start": 20.0,
+   "end": 22.0,
+   "len": 2.0
+  },
+  {
+   "i": 12,
+   "start": 22.0,
+   "end": 26.583,
+   "len": 4.583
+  },
+  {
+   "i": 13,
+   "start": 26.583,
+   "end": 36.75,
+   "len": 10.167
+  },
+  {
+   "i": 14,
+   "start": 36.75,
+   "end": 38.17,
+   "len": 1.42
+  },
+  {
+   "i": 15,
+   "start": 38.17,
+   "end": 44.167,
+   "len": 5.997
+  },
+  {
+   "i": 16,
+   "start": 44.167,
+   "end": 46.0,
+   "len": 1.833
+  },
+  {
+   "i": 17,
+   "start": 46.0,
+   "end": 50.5,
+   "len": 4.5
+  },
+  {
+   "i": 18,
+   "start": 50.5,
+   "end": 54.25,
+   "len": 3.75
+  },
+  {
+   "i": 19,
+   "start": 54.25,
+   "end": 60.583,
+   "len": 6.333
+  },
+  {
+   "i": 20,
+   "start": 60.583,
+   "end": 62.583,
+   "len": 2.0
+  },
+  {
+   "i": 21,
+   "start": 62.583,
+   "end": 64.92,
+   "len": 2.337
+  },
+  {
+   "i": 22,
+   "start": 64.92,
+   "end": 68.094,
+   "len": 3.174
+  }
+ ],
+ "cuts": [
+  1.417,
+  2.167,
+  6.833,
+  9.833,
+  11.0,
+  13.92,
+  15.5,
+  19.0,
+  19.5,
+  20.0,
+  22.0,
+  26.583,
+  36.75,
+  38.17,
+  44.167,
+  46.0,
+  50.5,
+  54.25,
+  60.583,
+  62.583,
+  64.92
+ ],
+ "loudness": {
+  "integrated_lufs": -13.4,
+  "loudness_range_lu": 2.0,
+  "true_peak_dbtp": -0.1
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 18.75,
+    "level_dbfs": -7.7,
+    "rise_db": 18.4
+   },
+   {
+    "t": 14.95,
+    "level_dbfs": -7.8,
+    "rise_db": 15.0
+   },
+   {
+    "t": 3.5,
+    "level_dbfs": -8.4,
+    "rise_db": 15.4
+   },
+   {
+    "t": 45.4,
+    "level_dbfs": -8.7,
+    "rise_db": 15.5
+   },
+   {
+    "t": 60.65,
+    "level_dbfs": -8.8,
+    "rise_db": 17.0
+   },
+   {
+    "t": 11.1,
+    "level_dbfs": -9.8,
+    "rise_db": 15.9
+   },
+   {
+    "t": 36.1,
+    "level_dbfs": -12.3,
+    "rise_db": 15.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 18.75,
+    "level_dbfs": -7.7,
+    "rise_db": 18.4
+   },
+   {
+    "t": 60.65,
+    "level_dbfs": -8.8,
+    "rise_db": 17.0
+   },
+   {
+    "t": 11.1,
+    "level_dbfs": -9.8,
+    "rise_db": 15.9
+   },
+   {
+    "t": 36.1,
+    "level_dbfs": -12.3,
+    "rise_db": 15.8
+   },
+   {
+    "t": 45.4,
+    "level_dbfs": -8.7,
+    "rise_db": 15.5
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 49.9,
+   "rms_dbfs": -12.5
+  },
+  "median_rms_dbfs": -16.9
+ },
+ "sync": {
+  "onsets_per_s": 1.38,
+  "cuts_on_onset_pct": 24,
+  "chance_pct": 27,
+  "tolerance_s": 0.1
+ },
+ "sheets": [],
+ "warnings": [
+  "the adaptive detector also finds cuts at [13.917, 38.167, 54.25] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak -0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

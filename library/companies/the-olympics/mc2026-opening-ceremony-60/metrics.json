@@ -1,0 +1,377 @@
+{
+ "name": "the-olympics_mc2026-opening-ceremony-60",
+ "file": "oly_mc26-ceremony-60v.mkv",
+ "duration_s": 59.861,
+ "fps": 25.0,
+ "width": 480,
+ "height": 854,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 27,
+ "shot_count": 28,
+ "asl_s": 2.14,
+ "median_s": 1.82,
+ "pct_shots_under_1s": 17.9,
+ "pct_shots_over_3s": 17.9,
+ "shots_per_minute": 28.1,
+ "asl_quarters_s": [
+  2.14,
+  2.49,
+  2.14,
+  1.36
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 6.36
+  },
+  {
+   "start": 13.24,
+   "len": 5.08
+  },
+  {
+   "start": 28.04,
+   "len": 4.88
+  }
+ ],
+ "shortest": [
+  {
+   "start": 57.28,
+   "len": 0.28
+  },
+  {
+   "start": 9.52,
+   "len": 0.44
+  },
+  {
+   "start": 48.04,
+   "len": 0.48
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 3,
+  "20-30": 4,
+  "30-40": 3,
+  "40-50": 8,
+  "50-60": 5
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 21,
+  "only_in_other": [],
+  "only_in_this": [
+   9.52,
+   32.92,
+   35.48,
+   45.64,
+   46.56,
+   48.04
+  ]
+ },
+ "mean_luma": 0.327,
+ "soft_transition_candidates": [
+  {
+   "t": 0.7,
+   "score": 0.167
+  },
+  {
+   "t": 3.6,
+   "score": 0.132
+  },
+  {
+   "t": 14.9,
+   "score": 0.143
+  },
+  {
+   "t": 19.2,
+   "score": 0.685
+  },
+  {
+   "t": 21.8,
+   "score": 0.123
+  },
+  {
+   "t": 22.7,
+   "score": 0.121
+  },
+  {
+   "t": 23.4,
+   "score": 0.113
+  },
+  {
+   "t": 27.1,
+   "score": 0.298
+  },
+  {
+   "t": 29.9,
+   "score": 1.228
+  },
+  {
+   "t": 31.1,
+   "score": 0.465
+  },
+  {
+   "t": 34.5,
+   "score": 0.712
+  },
+  {
+   "t": 40.9,
+   "score": 0.104
+  },
+  {
+   "t": 59.3,
+   "score": 0.813
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 6.36,
+   "len": 6.36
+  },
+  {
+   "i": 2,
+   "start": 6.36,
+   "end": 8.16,
+   "len": 1.8
+  },
+  {
+   "i": 3,
+   "start": 8.16,
+   "end": 9.52,
+   "len": 1.36
+  },
+  {
+   "i": 4,
+   "start": 9.52,
+   "end": 9.96,
+   "len": 0.44
+  },
+  {
+   "i": 5,
+   "start": 9.96,
+   "end": 11.16,
+   "len": 1.2
+  },
+  {
+   "i": 6,
+   "start": 11.16,
+   "end": 13.24,
+   "len": 2.08
+  },
+  {
+   "i": 7,
+   "start": 13.24,
+   "end": 18.32,
+   "len": 5.08
+  },
+  {
+   "i": 8,
+   "start": 18.32,
+   "end": 20.64,
+   "len": 2.32
+  },
+  {
+   "i": 9,
+   "start": 20.64,
+   "end": 24.56,
+   "len": 3.92
+  },
+  {
+   "i": 10,
+   "start": 24.56,
+   "end": 26.12,
+   "len": 1.56
+  },
+  {
+   "i": 11,
+   "start": 26.12,
+   "end": 28.04,
+   "len": 1.92
+  },
+  {
+   "i": 12,
+   "start": 28.04,
+   "end": 32.92,
+   "len": 4.88
+  },
+  {
+   "i": 13,
+   "start": 32.92,
+   "end": 35.48,
+   "len": 2.56
+  },
+  {
+   "i": 14,
+   "start": 35.48,
+   "end": 38.04,
+   "len": 2.56
+  },
+  {
+   "i": 15,
+   "start": 38.04,
+   "end": 42.0,
+   "len": 3.96
+  },
+  {
+   "i": 16,
+   "start": 42.0,
+   "end": 43.6,
+   "len": 1.6
+  },
+  {
+   "i": 17,
+   "start": 43.6,
+   "end": 44.76,
+   "len": 1.16
+  },
+  {
+   "i": 18,
+   "start": 44.76,
+   "end": 45.64,
+   "len": 0.88
+  },
+  {
+   "i": 19,
+   "start": 45.64,
+   "end": 46.56,
+   "len": 0.92
+  },
+  {
+   "i": 20,
+   "start": 46.56,
+   "end": 48.04,
+   "len": 1.48
+  },
+  {
+   "i": 21,
+   "start": 48.04,
+   "end": 48.52,
+   "len": 0.48
+  },
+  {
+   "i": 22,
+   "start": 48.52,
+   "end": 49.52,
+   "len": 1.0
+  },
+  {
+   "i": 23,
+   "start": 49.52,
+   "end": 52.2,
+   "len": 2.68
+  },
+  {
+   "i": 24,
+   "start": 52.2,
+   "end": 54.04,
+   "len": 1.84
+  },
+  {
+   "i": 25,
+   "start": 54.04,
+   "end": 56.16,
+   "len": 2.12
+  },
+  {
+   "i": 26,
+   "start": 56.16,
+   "end": 57.28,
+   "len": 1.12
+  },
+  {
+   "i": 27,
+   "start": 57.28,
+   "end": 57.56,
+   "len": 0.28
+  },
+  {
+   "i": 28,
+   "start": 57.56,
+   "end": 59.861,
+   "len": 2.301
+  }
+ ],
+ "cuts": [
+  6.36,
+  8.16,
+  9.52,
+  9.96,
+  11.16,
+  13.24,
+  18.32,
+  20.64,
+  24.56,
+  26.12,
+  28.04,
+  32.92,
+  35.48,
+  38.04,
+  42.0,
+  43.6,
+  44.76,
+  45.64,
+  46.56,
+  48.04,
+  48.52,
+  49.52,
+  52.2,
+  54.04,
+  56.16,
+  57.28,
+  57.56
+ ],
+ "loudness": {
+  "integrated_lufs": -23.2,
+  "loudness_range_lu": 4.7,
+  "true_peak_dbtp": -6.6
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 32.4,
+    "level_dbfs": -18.5,
+    "rise_db": 17.3
+   },
+   {
+    "t": 34.0,
+    "level_dbfs": -18.5,
+    "rise_db": 15.2
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 32.4,
+    "level_dbfs": -18.5,
+    "rise_db": 17.3
+   },
+   {
+    "t": 34.0,
+    "level_dbfs": -18.5,
+    "rise_db": 15.2
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 24.7,
+   "rms_dbfs": -21.1
+  },
+  "median_rms_dbfs": -27.5
+ },
+ "sync": {
+  "onsets_per_s": 0.6,
+  "cuts_on_onset_pct": 4,
+  "chance_pct": 12,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": []
+}

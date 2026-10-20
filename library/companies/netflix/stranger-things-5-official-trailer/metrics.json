@@ -1,0 +1,622 @@
+{
+ "name": "netflix_strangerthings5_trailer",
+ "source": {
+  "title": "Stranger Things 5 | Official Trailer | Netflix",
+  "full_duration_s": "174",
+  "upload_date": "20251030",
+  "channel": "Netflix",
+  "url": "https://www.youtube.com/watch?v=PssKpzB0Ah0",
+  "analysed_resolution": "854x480",
+  "note": "source fields fixed by hand (title contains |)"
+ },
+ "analysed_window_s": [
+  0,
+  161.2
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "104 w:854 h:428 x:0 y:26",
+  "40 w:854 h:426 x:0 y:28",
+  "39 w:854 h:424 x:0 y:28",
+  "25 w:854 h:480 x:0 y:0",
+  "21 w:854 h:426 x:0 y:26",
+  "5 w:854 h:422 x:0 y:30"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 161.2,
+  "shots": 96,
+  "ASL": 1.68,
+  "median": 1.36,
+  "ASL_quarters": [
+   2.01,
+   1.34,
+   1.26,
+   2.37
+  ],
+  "longest": [
+   [
+    145.52,
+    6.63
+   ],
+   [
+    126.88,
+    6.38
+   ],
+   [
+    6.1,
+    5.16
+   ],
+   [
+    0.0,
+    4.96
+   ]
+  ],
+  "shortest": [
+   [
+    47.05,
+    0.33
+   ],
+   [
+    41.29,
+    0.42
+   ],
+   [
+    88.1,
+    0.45
+   ],
+   [
+    101.14,
+    0.46
+   ]
+  ],
+  "pct_under_1s": 29,
+  "pct_over_3s": 10,
+  "black_flashes_lt0.5s": 1,
+  "black_holds": [
+   [
+    11.26,
+    1.21
+   ],
+   [
+    140.06,
+    3.74
+   ]
+  ],
+  "cuts_per_10s": [
+   2,
+   5,
+   4,
+   8,
+   8,
+   6,
+   7,
+   8,
+   7,
+   5,
+   9,
+   9,
+   5,
+   4,
+   3,
+   5,
+   0
+  ],
+  "cut_times": [
+   4.963,
+   6.1,
+   11.261,
+   12.471,
+   14.139,
+   16.308,
+   18.31,
+   20.771,
+   24.0,
+   26.401,
+   27.611,
+   30.614,
+   31.6,
+   32.324,
+   33.367,
+   34.409,
+   35.744,
+   37.871,
+   39.373,
+   40.374,
+   41.291,
+   41.708,
+   45.379,
+   46.296,
+   47.047,
+   47.381,
+   48.382,
+   51.134,
+   52.427,
+   54.805,
+   55.347,
+   56.598,
+   58.6,
+   60.31,
+   62.02,
+   64.106,
+   65.399,
+   67.025,
+   68.443,
+   69.695,
+   71.071,
+   72.155,
+   73.031,
+   73.907,
+   74.741,
+   75.534,
+   78.912,
+   79.871,
+   81.123,
+   82.874,
+   85.335,
+   88.1,
+   88.547,
+   89.381,
+   89.881,
+   92.0,
+   94.469,
+   95.846,
+   97.389,
+   99.057,
+   100.475,
+   101.143,
+   101.601,
+   102.728,
+   104.479,
+   105.689,
+   107.858,
+   108.984,
+   109.776,
+   110.694,
+   111.278,
+   112.07,
+   113.03,
+   114.364,
+   115.5,
+   116.283,
+   118.076,
+   119.87,
+   120.454,
+   121.121,
+   122.205,
+   126.043,
+   126.877,
+   133.258,
+   135.093,
+   136.803,
+   138.263,
+   140.057,
+   143.8,
+   145.52,
+   152.152,
+   154.154,
+   156.1,
+   157.7,
+   158.6
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 54,
+   "asl": 3.23
+  },
+  "0.25": {
+   "n_shots": 42,
+   "asl": 4.15
+  },
+  "0.3": {
+   "n_shots": 35,
+   "asl": 4.98
+  },
+  "0.35": {
+   "n_shots": 31,
+   "asl": 5.63
+  },
+  "0.4": {
+   "n_shots": 21,
+   "asl": 8.3
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   0.6,
+   0.461
+  ],
+  [
+   1.7,
+   0.913
+  ],
+  [
+   6.2,
+   0.551
+  ],
+  [
+   7.9,
+   0.235
+  ],
+  [
+   14.9,
+   1.304
+  ],
+  [
+   19.1,
+   0.824
+  ],
+  [
+   23.6,
+   2.157
+  ],
+  [
+   24.4,
+   2.346
+  ],
+  [
+   29.5,
+   0.242
+  ],
+  [
+   31.7,
+   2.475
+  ],
+  [
+   36.9,
+   0.255
+  ],
+  [
+   43.6,
+   0.451
+  ],
+  [
+   58.1,
+   1.763
+  ],
+  [
+   63.2,
+   0.912
+  ],
+  [
+   77.7,
+   0.414
+  ],
+  [
+   83.9,
+   0.609
+  ],
+  [
+   87.9,
+   1.032
+  ],
+  [
+   90.7,
+   0.883
+  ],
+  [
+   91.8,
+   1.36
+  ],
+  [
+   93.1,
+   1.096
+  ],
+  [
+   106.4,
+   0.877
+  ],
+  [
+   115.3,
+   1.151
+  ],
+  [
+   117.3,
+   0.71
+  ],
+  [
+   124.2,
+   0.937
+  ],
+  [
+   124.9,
+   0.691
+  ],
+  [
+   127.5,
+   1.56
+  ],
+  [
+   129.3,
+   0.548
+  ],
+  [
+   130.8,
+   0.463
+  ],
+  [
+   132.1,
+   0.469
+  ],
+  [
+   144.5,
+   1.178
+  ],
+  [
+   148.4,
+   0.404
+  ],
+  [
+   149.2,
+   0.459
+  ],
+  [
+   150.8,
+   0.333
+  ],
+  [
+   155.7,
+   0.406
+  ],
+  [
+   157.5,
+   1.089
+  ],
+  [
+   158.5,
+   1.635
+  ],
+  [
+   160.0,
+   0.622
+  ],
+  [
+   160.7,
+   0.472
+  ],
+  [
+   161.5,
+   1.443
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   15.3,
+   16.3
+  ],
+  [
+   23.9,
+   24.1
+  ],
+  [
+   37.9,
+   38.4
+  ],
+  [
+   58.4,
+   58.8
+  ],
+  [
+   75.5,
+   76.1
+  ],
+  [
+   126.9,
+   127.3
+  ],
+  [
+   140.1,
+   144.2
+  ],
+  [
+   160.5,
+   161.6
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -17.1,
+  "loudest_t_s": 126.0,
+  "loudest_momentary_lufs": -13.5,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 142.0,
+    "end": 142.5,
+    "len": 0.5,
+    "ref": -16.4,
+    "floor": -29.6,
+    "rise_after": 5.4,
+    "next_peak": -24.2
+   },
+   {
+    "start": 161.0,
+    "end": 174.5,
+    "len": 13.5,
+    "ref": -30.2,
+    "floor": -148.2,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    15.8,
+    13.5,
+    -25.2
+   ],
+   [
+    15.6,
+    13.0,
+    -25.4
+   ],
+   [
+    13.0,
+    145.0,
+    -17.6
+   ],
+   [
+    12.1,
+    12.5,
+    -28.9
+   ],
+   [
+    11.4,
+    14.0,
+    -17.5
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [],
+  "hits_dbfs_rise_t": [
+   [
+    -15.5,
+    83.6,
+    0.5
+   ],
+   [
+    -16.7,
+    23.8,
+    145.3
+   ],
+   [
+    -17.1,
+    15.2,
+    72.3
+   ],
+   [
+    -17.2,
+    17.5,
+    38.05
+   ],
+   [
+    -19.6,
+    15.4,
+    7.2
+   ],
+   [
+    -24.1,
+    19.5,
+    142.9
+   ],
+   [
+    -24.9,
+    26.4,
+    144.15
+   ],
+   [
+    -26.3,
+    26.1,
+    12.9
+   ],
+   [
+    -28.4,
+    19.1,
+    10.45
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.59 cuts on onset (+-0.1s) 23 % vs chance 11 %",
+ "empty_frame": "mostly-empty 23% (on dark 23%, on light 0%), median empty share 47%",
+ "manual_corrections": "Trimmed to 161.2 s (end screen). Cuts checked by eye on verify pairs + cand strips: added 12 soft/fade cuts (6.1,24.0,31.6,58.6,88.1,92.0,115.5,127.3,143.8,156.1,157.7,158.6), no false positives removed. Beatsync after correction unchanged: 23 % vs 11 % chance.",
+ "manual": {
+  "trimmed_end_s": 161.2,
+  "trim_reason": "161.2-174.4 s is the YouTube end screen (N + SUBSCRIBE), not part of the trailer",
+  "letterbox": "2.00:1 inside 16:9 (active picture ~854x426 of 854x480, bars ~27 px = 5.6% H top and bottom); end cards also letterboxed",
+  "corner_bug": {
+   "0-4.9 s": "top-left red vertical rule + 'STRANGER THINGS: / SEASON 5' white sans 2 lines, cap ~1.9% H at x5-21%, y10-12%; top-right grey N monogram ~7.5% H",
+   "5-145 s": "'NETFLIX' wordmark top-right, ~4% H (ink 4.8%), x85-95%, y10-15% (just inside the picture under the letterbox bar), semi-transparent light grey; hidden on the red text cards"
+  },
+  "n_sting": [
+   {
+    "t_in": 14.14,
+    "t_out": 16.31,
+    "len": 2.17,
+    "where": "after the 14 s cold open",
+    "look": "red N built from light ribbons over the show's Upside-Down vine texture, red light bars left/right, N ~57% H, fades to a plain N on black at 15.5 then black"
+   },
+   {
+    "t_in": 158.6,
+    "t_out": 161.2,
+    "len": 2.6,
+    "where": "last shot after a glitch transition",
+    "look": "N ribbon-light logo ~42% H on dark with red side bars, audio tail ~-29 to -33 dBFS with a small bump at 159.25 s (probably the ta-dum, guess)"
+   }
+  ],
+  "text_cards": [
+   {
+    "words": "THIS NOVEMBER",
+    "t_in": 75.53,
+    "t_out": 78.91,
+    "hold_full_s": 1.0,
+    "assemble_s": 2.0,
+    "height_pct_H": 9.2,
+    "lines": 2,
+    "placement": "centre, x29-70%",
+    "style": "show logo font (ITC Benguiat-style outlined serif caps) in red neon with glow on red smoke; letters drift in from blur over ~2 s",
+    "assemble_note": "letters assemble ~75.75-78.0 s (timed on a 4 fps strip, +-0.25 s)"
+   },
+   {
+    "words": "GET READY",
+    "t_in": 95.85,
+    "t_out": 97.39,
+    "height_pct_H": 7.9,
+    "lines": 1,
+    "placement": "centre, y44-52%",
+    "style": "same red outlined serif on red smoke"
+   },
+   {
+    "words": "FOR ONE LAST ADVENTURE",
+    "t_in": 102.73,
+    "t_out": 104.48,
+    "height_pct_H": 8.2,
+    "lines": 2,
+    "placement": "centre, x21-79%",
+    "style": "same"
+   },
+   {
+    "words": "STRANGER THINGS (+ giant 5)",
+    "t_in": 145.52,
+    "t_out": 152.15,
+    "hold_s": 6.63,
+    "height_pct_H": "logo block ~38% H; the 5 behind ~68% H",
+    "placement": "centre",
+    "style": "series logo: letters slide in from oversize off-frame and lock by ~148.0-148.5 s, then a red 5 rises behind over ~1 s (~148.5-150.0 s; timed on a 2 fps strip, +-0.5 s), held ~2 s to 152.15"
+   },
+   {
+    "words": "THE FINAL SEASON",
+    "t_in": 152.15,
+    "t_out": 154.15,
+    "hold_s": 2.0,
+    "height_pct_H": "cap ~10% H (11.3% incl. glow)",
+    "placement": "centre, x15-85%",
+    "style": "light-grey heavy geometric sans caps (Netflix Sans Bold-like), soft white glow, on black"
+   },
+   {
+    "words": "ONLY ON NETFLIX / VOL 1 NOVEMBER 26 / VOL 2 CHRISTMAS",
+    "t_in": 154.15,
+    "t_out": 156.1,
+    "hold_s": 1.95,
+    "height_pct_H": "dates ~6.5% cap, eyebrow ~3.5%",
+    "placement": "centre",
+    "style": "white sans, labels light weight + dates bold in the same line; eyebrow light caps; over the Upside-Down vine texture with red light bars"
+   },
+   {
+    "words": "ONLY ON NETFLIX / THE FINALE / NEW YEAR'S EVE",
+    "t_in": 156.1,
+    "t_out": 157.5,
+    "hold_s": 1.4,
+    "placement": "centre",
+    "style": "same, text crossfade ~0.3 s"
+   }
+  ],
+  "transitions": "hard cuts; fades/dips to black at 4.96-6.1, 11.26-12.47 (1.2 s), 23.6-24.2, 58.1-58.7, 126.9-127.3, 140.06-143.8 (3.7 s black before the title run); white flash 92.0; RGB glitch/light-bar wipe 157.5-158.6 into the N",
+  "audio_events": {
+   "pre_sting_low": "12.25 s at -49 dBFS, then the N sting at 14.0 s jumps to -16 dBFS (+33 dB)",
+   "pre_title_low": "black hold 140-144 s: -38 to -49 dBFS (lowest 143.5), title hit 145.0-145.75 s back to -14 dBFS",
+   "outro": "music fades from -15 dBFS at 154.5 to -33 at 160, silence after 161.2"
+  }
+ },
+ "timing_note": "All times come from cut detection, cand.py/ffmpeg -ss frames or audio; strip-timed values are flagged. Contact-sheet tile k shows the frame at ~k+0.96 s."
+}

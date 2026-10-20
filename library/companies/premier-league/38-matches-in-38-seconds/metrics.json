@@ -1,0 +1,182 @@
+{
+ "name": "premier-league_38-matches-in-38-seconds",
+ "file": "pl_38-in-38v.mkv",
+ "duration_s": 38.081,
+ "fps": 25.0,
+ "width": 480,
+ "height": 854,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 0,
+ "shot_count": 1,
+ "asl_s": 38.08,
+ "median_s": 38.08,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 1.6,
+ "asl_quarters_s": [
+  9.52,
+  9.52,
+  9.52,
+  9.52
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 38.081
+  }
+ ],
+ "shortest": [
+  {
+   "start": 0.0,
+   "len": 38.081
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 0,
+  "10-20": 0,
+  "20-30": 0,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 0,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.925,
+ "soft_transition_candidates": [
+  {
+   "t": 1.1,
+   "score": 0.304
+  },
+  {
+   "t": 4.0,
+   "score": 0.13
+  },
+  {
+   "t": 5.5,
+   "score": 0.376
+  },
+  {
+   "t": 6.9,
+   "score": 0.254
+  },
+  {
+   "t": 9.0,
+   "score": 0.224
+  },
+  {
+   "t": 9.9,
+   "score": 0.211
+  },
+  {
+   "t": 10.7,
+   "score": 0.204
+  },
+  {
+   "t": 11.8,
+   "score": 0.208
+  },
+  {
+   "t": 12.6,
+   "score": 0.212
+  },
+  {
+   "t": 15.2,
+   "score": 0.288
+  },
+  {
+   "t": 16.2,
+   "score": 0.151
+  },
+  {
+   "t": 18.0,
+   "score": 0.264
+  },
+  {
+   "t": 19.8,
+   "score": 0.164
+  },
+  {
+   "t": 20.6,
+   "score": 0.154
+  },
+  {
+   "t": 21.6,
+   "score": 0.158
+  },
+  {
+   "t": 22.5,
+   "score": 0.144
+  },
+  {
+   "t": 23.4,
+   "score": 0.133
+  },
+  {
+   "t": 24.4,
+   "score": 0.124
+  },
+  {
+   "t": 25.2,
+   "score": 0.119
+  },
+  {
+   "t": 26.2,
+   "score": 0.122
+  },
+  {
+   "t": 28.8,
+   "score": 0.255
+  },
+  {
+   "t": 33.4,
+   "score": 0.165
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 38.081,
+   "len": 38.081
+  }
+ ],
+ "cuts": [],
+ "loudness": {
+  "integrated_lufs": -32.1,
+  "loudness_range_lu": 1.5,
+  "true_peak_dbtp": -20.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 35.35,
+    "end": 38.05,
+    "len": 2.7
+   }
+  ],
+  "dropouts": [],
+  "hits": [],
+  "biggest_rises": [],
+  "loudest_0_5s": {
+   "t": 27.15,
+   "rms_dbfs": -31.5
+  },
+  "median_rms_dbfs": -35.1
+ },
+ "sync": {
+  "onsets_per_s": 1.1,
+  "cuts_on_onset_pct": null,
+  "chance_pct": null,
+  "note": "no cuts or no onsets"
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": []
+}

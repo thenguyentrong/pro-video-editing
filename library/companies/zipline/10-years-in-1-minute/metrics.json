@@ -1,0 +1,466 @@
+{
+ "name": "zipline_10_years_in_1_minute",
+ "file": "zipline_10-years-in-1-minute.webm",
+ "duration_s": 65.141,
+ "fps": 24.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 30,
+ "shot_count": 31,
+ "asl_s": 2.1,
+ "median_s": 1.21,
+ "pct_shots_under_1s": 29.0,
+ "pct_shots_over_3s": 12.9,
+ "shots_per_minute": 28.6,
+ "asl_quarters_s": [
+  1.36,
+  1.81,
+  2.33,
+  2.71
+ ],
+ "longest": [
+  {
+   "start": 22.792,
+   "len": 16.958
+  },
+  {
+   "start": 59.75,
+   "len": 5.391
+  },
+  {
+   "start": 54.625,
+   "len": 5.125
+  }
+ ],
+ "shortest": [
+  {
+   "start": 10.292,
+   "len": 0.583
+  },
+  {
+   "start": 16.375,
+   "len": 0.708
+  },
+  {
+   "start": 19.083,
+   "len": 0.709
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 7,
+  "10-20": 9,
+  "20-30": 3,
+  "30-40": 1,
+  "40-50": 6,
+  "50-60": 4,
+  "60-70": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 28,
+  "only_in_other": [],
+  "only_in_this": [
+   6.25,
+   19.083
+  ]
+ },
+ "mean_luma": 0.453,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 13.678
+  },
+  {
+   "t": 15.1,
+   "score": 1.334
+  },
+  {
+   "t": 25.1,
+   "score": 1.947
+  },
+  {
+   "t": 26.2,
+   "score": 0.711
+  },
+  {
+   "t": 34.2,
+   "score": 0.319
+  },
+  {
+   "t": 38.0,
+   "score": 0.214
+  },
+  {
+   "t": 45.3,
+   "score": 1.139
+  },
+  {
+   "t": 57.3,
+   "score": 0.844
+  },
+  {
+   "t": 62.0,
+   "score": 0.255
+  },
+  {
+   "t": 64.5,
+   "score": 0.225
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.833,
+   "len": 2.833
+  },
+  {
+   "i": 2,
+   "start": 2.833,
+   "end": 3.958,
+   "len": 1.125
+  },
+  {
+   "i": 3,
+   "start": 3.958,
+   "end": 4.75,
+   "len": 0.792
+  },
+  {
+   "i": 4,
+   "start": 4.75,
+   "end": 6.25,
+   "len": 1.5
+  },
+  {
+   "i": 5,
+   "start": 6.25,
+   "end": 7.208,
+   "len": 0.958
+  },
+  {
+   "i": 6,
+   "start": 7.208,
+   "end": 8.042,
+   "len": 0.834
+  },
+  {
+   "i": 7,
+   "start": 8.042,
+   "end": 9.083,
+   "len": 1.041
+  },
+  {
+   "i": 8,
+   "start": 9.083,
+   "end": 10.292,
+   "len": 1.209
+  },
+  {
+   "i": 9,
+   "start": 10.292,
+   "end": 10.875,
+   "len": 0.583
+  },
+  {
+   "i": 10,
+   "start": 10.875,
+   "end": 12.292,
+   "len": 1.417
+  },
+  {
+   "i": 11,
+   "start": 12.292,
+   "end": 14.0,
+   "len": 1.708
+  },
+  {
+   "i": 12,
+   "start": 14.0,
+   "end": 16.375,
+   "len": 2.375
+  },
+  {
+   "i": 13,
+   "start": 16.375,
+   "end": 17.083,
+   "len": 0.708
+  },
+  {
+   "i": 14,
+   "start": 17.083,
+   "end": 18.25,
+   "len": 1.167
+  },
+  {
+   "i": 15,
+   "start": 18.25,
+   "end": 19.083,
+   "len": 0.833
+  },
+  {
+   "i": 16,
+   "start": 19.083,
+   "end": 19.792,
+   "len": 0.709
+  },
+  {
+   "i": 17,
+   "start": 19.792,
+   "end": 20.667,
+   "len": 0.875
+  },
+  {
+   "i": 18,
+   "start": 20.667,
+   "end": 21.5,
+   "len": 0.833
+  },
+  {
+   "i": 19,
+   "start": 21.5,
+   "end": 22.792,
+   "len": 1.292
+  },
+  {
+   "i": 20,
+   "start": 22.792,
+   "end": 39.75,
+   "len": 16.958
+  },
+  {
+   "i": 21,
+   "start": 39.75,
+   "end": 40.875,
+   "len": 1.125
+  },
+  {
+   "i": 22,
+   "start": 40.875,
+   "end": 42.292,
+   "len": 1.417
+  },
+  {
+   "i": 23,
+   "start": 42.292,
+   "end": 43.542,
+   "len": 1.25
+  },
+  {
+   "i": 24,
+   "start": 43.542,
+   "end": 47.542,
+   "len": 4.0
+  },
+  {
+   "i": 25,
+   "start": 47.542,
+   "end": 48.75,
+   "len": 1.208
+  },
+  {
+   "i": 26,
+   "start": 48.75,
+   "end": 49.875,
+   "len": 1.125
+  },
+  {
+   "i": 27,
+   "start": 49.875,
+   "end": 52.0,
+   "len": 2.125
+  },
+  {
+   "i": 28,
+   "start": 52.0,
+   "end": 53.25,
+   "len": 1.25
+  },
+  {
+   "i": 29,
+   "start": 53.25,
+   "end": 54.625,
+   "len": 1.375
+  },
+  {
+   "i": 30,
+   "start": 54.625,
+   "end": 59.75,
+   "len": 5.125
+  },
+  {
+   "i": 31,
+   "start": 59.75,
+   "end": 65.141,
+   "len": 5.391
+  }
+ ],
+ "cuts": [
+  2.833,
+  3.958,
+  4.75,
+  6.25,
+  7.208,
+  8.042,
+  9.083,
+  10.292,
+  10.875,
+  12.292,
+  14.0,
+  16.375,
+  17.083,
+  18.25,
+  19.083,
+  19.792,
+  20.667,
+  21.5,
+  22.792,
+  39.75,
+  40.875,
+  42.292,
+  43.542,
+  47.542,
+  48.75,
+  49.875,
+  52.0,
+  53.25,
+  54.625,
+  59.75
+ ],
+ "loudness": {
+  "integrated_lufs": -13.7,
+  "loudness_range_lu": 17.6,
+  "true_peak_dbtp": 1.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 0.7,
+    "len": 0.7
+   },
+   {
+    "start": 25.45,
+    "end": 26.4,
+    "len": 0.95
+   },
+   {
+    "start": 62.95,
+    "end": 65.1,
+    "len": 2.15
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 12.85,
+    "level_dbfs": -6.6,
+    "rise_db": 17.5
+   },
+   {
+    "t": 15.3,
+    "level_dbfs": -6.6,
+    "rise_db": 15.9
+   },
+   {
+    "t": 55.1,
+    "level_dbfs": -7.9,
+    "rise_db": 16.5
+   },
+   {
+    "t": 33.15,
+    "level_dbfs": -10.7,
+    "rise_db": 19.7
+   },
+   {
+    "t": 34.9,
+    "level_dbfs": -10.8,
+    "rise_db": 16.1
+   },
+   {
+    "t": 31.8,
+    "level_dbfs": -14.4,
+    "rise_db": 20.8
+   },
+   {
+    "t": 30.75,
+    "level_dbfs": -18.2,
+    "rise_db": 19.9
+   },
+   {
+    "t": 29.7,
+    "level_dbfs": -23.4,
+    "rise_db": 15.7
+   },
+   {
+    "t": 28.65,
+    "level_dbfs": -27.0,
+    "rise_db": 16.7
+   },
+   {
+    "t": 1.15,
+    "level_dbfs": -30.8,
+    "rise_db": 38.9
+   },
+   {
+    "t": 61.35,
+    "level_dbfs": -33.0,
+    "rise_db": 16.7
+   },
+   {
+    "t": 27.55,
+    "level_dbfs": -34.6,
+    "rise_db": 16.6
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 1.05,
+    "level_dbfs": -32.0,
+    "rise_db": 43.4
+   },
+   {
+    "t": 61.2,
+    "level_dbfs": -33.4,
+    "rise_db": 38.8
+   },
+   {
+    "t": 12.8,
+    "level_dbfs": -7.0,
+    "rise_db": 23.2
+   },
+   {
+    "t": 33.0,
+    "level_dbfs": -11.2,
+    "rise_db": 22.8
+   },
+   {
+    "t": 31.8,
+    "level_dbfs": -14.4,
+    "rise_db": 20.8
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 12.75,
+   "rms_dbfs": -9.5
+  },
+  "median_rms_dbfs": -21.5
+ },
+ "sync": {
+  "onsets_per_s": 0.88,
+  "cuts_on_onset_pct": 17,
+  "chance_pct": 17,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "true peak 1.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

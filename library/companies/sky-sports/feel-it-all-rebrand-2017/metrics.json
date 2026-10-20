@@ -1,0 +1,367 @@
+{
+ "name": "sky-sports_feel-it-all-rebrand-2017",
+ "file": "sky_feel-it-all.webm",
+ "duration_s": 60.021,
+ "fps": 25.0,
+ "width": 640,
+ "height": 360,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 22,
+ "shot_count": 23,
+ "asl_s": 2.61,
+ "median_s": 2.36,
+ "pct_shots_under_1s": 4.3,
+ "pct_shots_over_3s": 17.4,
+ "shots_per_minute": 23.0,
+ "asl_quarters_s": [
+  2.5,
+  1.88,
+  2.14,
+  3.0
+ ],
+ "longest": [
+  {
+   "start": 52.64,
+   "len": 7.381
+  },
+  {
+   "start": 9.16,
+   "len": 4.28
+  },
+  {
+   "start": 5.32,
+   "len": 3.84
+  }
+ ],
+ "shortest": [
+  {
+   "start": 4.36,
+   "len": 0.96
+  },
+  {
+   "start": 2.92,
+   "len": 1.44
+  },
+  {
+   "start": 28.96,
+   "len": 1.48
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 4,
+  "20-30": 4,
+  "30-40": 5,
+  "40-50": 4,
+  "50-60": 1,
+  "60-70": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 19,
+  "only_in_other": [],
+  "only_in_this": [
+   32.4,
+   35.24,
+   49.92
+  ]
+ },
+ "mean_luma": 0.381,
+ "soft_transition_candidates": [
+  {
+   "t": 0.9,
+   "score": 0.318
+  },
+  {
+   "t": 6.7,
+   "score": 3.676
+  },
+  {
+   "t": 7.5,
+   "score": 2.257
+  },
+  {
+   "t": 10.8,
+   "score": 0.212
+  },
+  {
+   "t": 11.7,
+   "score": 0.267
+  },
+  {
+   "t": 20.8,
+   "score": 0.238
+  },
+  {
+   "t": 23.3,
+   "score": 0.178
+  },
+  {
+   "t": 31.4,
+   "score": 0.245
+  },
+  {
+   "t": 33.3,
+   "score": 0.299
+  },
+  {
+   "t": 36.3,
+   "score": 0.767
+  },
+  {
+   "t": 40.5,
+   "score": 0.124
+  },
+  {
+   "t": 43.3,
+   "score": 0.282
+  },
+  {
+   "t": 51.7,
+   "score": 0.211
+  },
+  {
+   "t": 54.2,
+   "score": 0.149
+  },
+  {
+   "t": 55.1,
+   "score": 0.132
+  },
+  {
+   "t": 58.0,
+   "score": 0.119
+  },
+  {
+   "t": 59.5,
+   "score": 0.11
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.92,
+   "len": 2.92
+  },
+  {
+   "i": 2,
+   "start": 2.92,
+   "end": 4.36,
+   "len": 1.44
+  },
+  {
+   "i": 3,
+   "start": 4.36,
+   "end": 5.32,
+   "len": 0.96
+  },
+  {
+   "i": 4,
+   "start": 5.32,
+   "end": 9.16,
+   "len": 3.84
+  },
+  {
+   "i": 5,
+   "start": 9.16,
+   "end": 13.44,
+   "len": 4.28
+  },
+  {
+   "i": 6,
+   "start": 13.44,
+   "end": 15.24,
+   "len": 1.8
+  },
+  {
+   "i": 7,
+   "start": 15.24,
+   "end": 18.24,
+   "len": 3.0
+  },
+  {
+   "i": 8,
+   "start": 18.24,
+   "end": 19.84,
+   "len": 1.6
+  },
+  {
+   "i": 9,
+   "start": 19.84,
+   "end": 22.0,
+   "len": 2.16
+  },
+  {
+   "i": 10,
+   "start": 22.0,
+   "end": 24.64,
+   "len": 2.64
+  },
+  {
+   "i": 11,
+   "start": 24.64,
+   "end": 27.0,
+   "len": 2.36
+  },
+  {
+   "i": 12,
+   "start": 27.0,
+   "end": 28.96,
+   "len": 1.96
+  },
+  {
+   "i": 13,
+   "start": 28.96,
+   "end": 30.44,
+   "len": 1.48
+  },
+  {
+   "i": 14,
+   "start": 30.44,
+   "end": 32.4,
+   "len": 1.96
+  },
+  {
+   "i": 15,
+   "start": 32.4,
+   "end": 35.24,
+   "len": 2.84
+  },
+  {
+   "i": 16,
+   "start": 35.24,
+   "end": 37.4,
+   "len": 2.16
+  },
+  {
+   "i": 17,
+   "start": 37.4,
+   "end": 39.4,
+   "len": 2.0
+  },
+  {
+   "i": 18,
+   "start": 39.4,
+   "end": 41.96,
+   "len": 2.56
+  },
+  {
+   "i": 19,
+   "start": 41.96,
+   "end": 45.2,
+   "len": 3.24
+  },
+  {
+   "i": 20,
+   "start": 45.2,
+   "end": 47.4,
+   "len": 2.2
+  },
+  {
+   "i": 21,
+   "start": 47.4,
+   "end": 49.92,
+   "len": 2.52
+  },
+  {
+   "i": 22,
+   "start": 49.92,
+   "end": 52.64,
+   "len": 2.72
+  },
+  {
+   "i": 23,
+   "start": 52.64,
+   "end": 60.021,
+   "len": 7.381
+  }
+ ],
+ "cuts": [
+  2.92,
+  4.36,
+  5.32,
+  9.16,
+  13.44,
+  15.24,
+  18.24,
+  19.84,
+  22.0,
+  24.64,
+  27.0,
+  28.96,
+  30.44,
+  32.4,
+  35.24,
+  37.4,
+  39.4,
+  41.96,
+  45.2,
+  47.4,
+  49.92,
+  52.64
+ ],
+ "loudness": {
+  "integrated_lufs": -23.1,
+  "loudness_range_lu": 4.1,
+  "true_peak_dbtp": -14.2
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 0.9,
+    "len": 0.9
+   },
+   {
+    "start": 59.65,
+    "end": 60.0,
+    "len": 0.35
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 2.2,
+    "level_dbfs": -26.9,
+    "rise_db": 16.3
+   },
+   {
+    "t": 0.9,
+    "level_dbfs": -46.4,
+    "rise_db": 21.5
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.75,
+    "level_dbfs": -52.1,
+    "rise_db": 67.9
+   },
+   {
+    "t": 2.2,
+    "level_dbfs": -26.9,
+    "rise_db": 16.3
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 23.6,
+   "rms_dbfs": -25.0
+  },
+  "median_rms_dbfs": -26.6
+ },
+ "sync": {
+  "onsets_per_s": 0.2,
+  "cuts_on_onset_pct": 9,
+  "chance_pct": 4,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": []
+}

@@ -1,0 +1,386 @@
+{
+ "name": "target_shopping_friends_competitive",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "rtmqgLeQbUs",
+  "title": "Shopping With Friends Gets Competitive at Target Circle Deal Days",
+  "upload_date": "20260625",
+  "duration": 60,
+  "view_count": 8900,
+  "like_count": 152,
+  "channel": "Target",
+  "uploader": "Target",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/watch?v=rtmqgLeQbUs",
+  "description_start": "Caro saw it. Paige grabbed it. 😬 Don’t miss out on 40% off deals for members, June 23-26. Buy it before your friend does, at Target Circle Deal Days! 🤣"
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   8.68,
+   17.6,
+   21.48,
+   22.65,
+   27.49,
+   30.57,
+   32.57,
+   38.79,
+   42.04,
+   44.29,
+   47.17,
+   49.38,
+   55.6
+  ],
+  "shots": 14,
+  "ASL_s": 4.25,
+  "median_s": 3.57,
+  "ASL_quarters_s": [
+   7.44,
+   2.98,
+   2.48,
+   3.72
+  ],
+  "longest_start_len": [
+   [
+    8.68,
+    8.93
+   ],
+   [
+    0.0,
+    8.68
+   ],
+   [
+    49.38,
+    6.22
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    21.48,
+    1.17
+   ],
+   [
+    30.57,
+    2.0
+   ],
+   [
+    47.17,
+    2.21
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 64,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [
+   49.38,
+   55.6
+  ],
+  "note": "cuts2 found 11 cuts; added 49.38 (confessional to confessional, missed) and 55.6 (bullseye iris wipe into the end card: white dot at 55.2 grows to a disc, rings fill frame by 55.8); 57.4-57.6 coin-flip of the disc to the date card counted as graphic change, not a cut"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 59.54
+ },
+ "cuts_cuts2": [
+  8.675,
+  17.601,
+  21.48,
+  22.648,
+  27.486,
+  30.572,
+  32.574,
+  38.789,
+  42.042,
+  44.294,
+  47.172
+ ],
+ "shot_stats_cuts2": {
+  "name": "target_shopping_friends_competitive",
+  "length": 59.48,
+  "shots": 12,
+  "ASL": 4.96,
+  "median": 3.57,
+  "ASL_quarters": [
+   7.43,
+   2.97,
+   2.48,
+   7.43
+  ],
+  "longest": [
+   [
+    47.17,
+    12.3
+   ],
+   [
+    8.68,
+    8.93
+   ],
+   [
+    0.0,
+    8.68
+   ],
+   [
+    32.57,
+    6.22
+   ]
+  ],
+  "shortest": [
+   [
+    21.48,
+    1.17
+   ],
+   [
+    30.57,
+    2.0
+   ],
+   [
+    42.04,
+    2.25
+   ],
+   [
+    44.29,
+    2.88
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 67,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 13,
+   "asl": 4.58
+  },
+  "0.25": {
+   "n_shots": 12,
+   "asl": 4.96
+  },
+  "0.3": {
+   "n_shots": 11,
+   "asl": 5.41
+  },
+  "0.35": {
+   "n_shots": 10,
+   "asl": 5.95
+  },
+  "0.4": {
+   "n_shots": 9,
+   "asl": 6.62
+  }
+ },
+ "integrated_lufs": -23.9,
+ "loudness_dropouts": [
+  {
+   "start": 30.5,
+   "end": 31.5,
+   "len": 1.0,
+   "ref": -20.2,
+   "floor": -35.9,
+   "rise_after": 13.4,
+   "next_peak": -22.5
+  },
+  {
+   "start": 32.0,
+   "end": 32.5,
+   "len": 0.5,
+   "ref": -23.9,
+   "floor": -35.9,
+   "rise_after": 14.8,
+   "next_peak": -21.1
+  },
+  {
+   "start": 58.5,
+   "end": 60.0,
+   "len": 1.5,
+   "ref": -25.6,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 41.5,
+  "loudest_M": -17.8,
+  "big_hits_near_peak": [
+   [
+    14.5,
+    33.5,
+    -21.4
+   ],
+   [
+    14.2,
+    7.5,
+    -18.3
+   ],
+   [
+    13.6,
+    8.0,
+    -18.9
+   ]
+  ],
+  "biggest_rises": [
+   [
+    14.5,
+    33.5,
+    -21.4
+   ],
+   [
+    14.2,
+    7.5,
+    -18.3
+   ],
+   [
+    13.6,
+    8.0,
+    -18.9
+   ],
+   [
+    13.4,
+    33.0,
+    -22.5
+   ],
+   [
+    12.8,
+    29.5,
+    -19.2
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [
+  {
+   "start": 6.65,
+   "len": 0.2,
+   "ref": -34.1,
+   "floor": -55.7,
+   "next_peak": -24.4,
+   "peak_t": 7.4
+  },
+  {
+   "start": 21.6,
+   "len": 0.2,
+   "ref": -26.4,
+   "floor": -47.8,
+   "next_peak": -21.4,
+   "peak_t": 22.1
+  },
+  {
+   "start": 49.8,
+   "len": 0.2,
+   "ref": -29.5,
+   "floor": -55.6,
+   "next_peak": -26.1,
+   "peak_t": 50.55
+  },
+  {
+   "start": 51.1,
+   "len": 0.45,
+   "ref": -33.7,
+   "floor": -64.2,
+   "next_peak": -27.0,
+   "peak_t": 51.65
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -15.8,
+   31.3,
+   41.5
+  ],
+  [
+   -16.6,
+   26.1,
+   21.3
+  ],
+  [
+   -17.1,
+   19.3,
+   22.6
+  ],
+  [
+   -17.3,
+   30.7,
+   3.3
+  ],
+  [
+   -17.3,
+   29.9,
+   29.25
+  ],
+  [
+   -18.0,
+   30.4,
+   27.4
+  ],
+  [
+   -18.3,
+   27.9,
+   25.7
+  ],
+  [
+   -18.6,
+   34.2,
+   34.2
+  ],
+  [
+   -18.6,
+   23.8,
+   54.05
+  ],
+  [
+   -18.8,
+   23.2,
+   56.35
+  ],
+  [
+   -18.8,
+   22.0,
+   14.5
+  ],
+  [
+   -19.2,
+   25.0,
+   6.05
+  ],
+  [
+   -19.2,
+   24.2,
+   19.35
+  ],
+  [
+   -19.2,
+   15.8,
+   48.35
+  ],
+  [
+   -19.5,
+   16.3,
+   45.75
+  ]
+ ],
+ "beatsync": "target_shopping_friends_competitive onsets/s 2.87 cuts on onset (+-0.1s) 55 % vs chance 55 %",
+ "manual": {
+  "format": "9:16 (1440x2560 source) YouTube Short / TikTok / Reels",
+  "sub_style": "creator duo, reality-TV 'confessional' format, produced",
+  "hook_0_2s": "two friends walk toward the camera down a Target aisle mid-conversation ('I made the reservation.' 'Totally.' 'Wait.'), a 'circle deal days is here!' disc sticker pops in bottom-left at 0.25 s and pulses with teal rings until 2.4 s; 'Wait.' at 2.0 s + mannequin top at 2.7 s = the conflict starts",
+  "captions": {
+   "style": "burned-in subtitles, Helvetica/Arial medium, white with thin dark outline, speaker colour-coded (pink for the second friend), cap ~2.0% H, 1-2 lines at 83-87% H, block per phrase",
+   "word_by_word": false,
+   "stickers": "white disc stickers with Target-red type ('circle deal days is here!', '40% off deals for members'), diameter ~25% H, left half of frame, pop in with overshoot and leave after 1-2 s",
+   "confessional_ui": "fake camcorder overlay: red dot + 'REC' top-left at ~9.5% H, battery icon top-right, on the talking-head interview shots"
+  },
+  "on_screen_text_density": "subtitle line + at most 1 sticker",
+  "audio": "dialogue (scene + confessional VO), gasps/laughter left in, light bed; integrated LUFS in field above",
+  "audio_type": "original",
+  "voice": true,
+  "loop": "no loop: bullseye-ring end card (teal 'circle deal days is here!' 55-57 s, red 'members save big june 23-26' 57-59.5 s)",
+  "views_at_analysis": 8900
+ }
+}

@@ -1,0 +1,340 @@
+{
+ "name": "scrub_daddy_texas_hold_em",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "sAXG0JWoJds",
+  "title": "TEXAS HOLD 'EM",
+  "upload_date": "20260109",
+  "duration": 24,
+  "view_count": 123028,
+  "like_count": 4633,
+  "channel": "Scrub Daddy",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/shorts/sAXG0JWoJds"
+ },
+ "file": "sd_texas-hold-em.webm",
+ "duration_s": 24.181,
+ "fps": 30.0,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 4,
+ "shot_count": 5,
+ "asl_s": 4.84,
+ "median_s": 4.37,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 12.4,
+ "asl_quarters_s": [
+  6.05,
+  2.02,
+  3.02,
+  3.02
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 6.5
+  },
+  {
+   "start": 18.167,
+   "len": 6.014
+  },
+  {
+   "start": 9.733,
+   "len": 4.367
+  }
+ ],
+ "shortest": [
+  {
+   "start": 6.5,
+   "len": 3.233
+  },
+  {
+   "start": 14.1,
+   "len": 4.067
+  },
+  {
+   "start": 9.733,
+   "len": 4.367
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 2,
+  "20-30": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 7,
+  "only_in_other": [
+   0.233,
+   10.167,
+   11.6
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.64,
+ "soft_transition_candidates": [
+  {
+   "t": 0.5,
+   "score": 0.996
+  },
+  {
+   "t": 2.9,
+   "score": 0.52
+  },
+  {
+   "t": 3.7,
+   "score": 0.856
+  },
+  {
+   "t": 5.4,
+   "score": 0.643
+  },
+  {
+   "t": 11.2,
+   "score": 0.742
+  },
+  {
+   "t": 12.0,
+   "score": 0.607
+  },
+  {
+   "t": 13.3,
+   "score": 0.923
+  },
+  {
+   "t": 16.6,
+   "score": 0.144
+  },
+  {
+   "t": 19.1,
+   "score": 0.195
+  },
+  {
+   "t": 20.1,
+   "score": 0.19
+  },
+  {
+   "t": 20.9,
+   "score": 0.19
+  },
+  {
+   "t": 21.7,
+   "score": 0.201
+  },
+  {
+   "t": 23.7,
+   "score": 0.348
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 6.5,
+   "len": 6.5
+  },
+  {
+   "i": 2,
+   "start": 6.5,
+   "end": 9.733,
+   "len": 3.233
+  },
+  {
+   "i": 3,
+   "start": 9.733,
+   "end": 14.1,
+   "len": 4.367
+  },
+  {
+   "i": 4,
+   "start": 14.1,
+   "end": 18.167,
+   "len": 4.067
+  },
+  {
+   "i": 5,
+   "start": 18.167,
+   "end": 24.181,
+   "len": 6.014
+  }
+ ],
+ "cuts": [
+  6.5,
+  9.733,
+  14.1,
+  18.167
+ ],
+ "loudness": {
+  "integrated_lufs": -13.2,
+  "loudness_range_lu": 5.5,
+  "true_peak_dbtp": -0.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 1.7,
+    "end": 2.5,
+    "len": 0.8
+   },
+   {
+    "start": 23.65,
+    "end": 24.15,
+    "len": 0.5
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 1.65,
+    "end": 2.5,
+    "len": 0.85,
+    "level_before_db": -15.9,
+    "floor_db": -62.9,
+    "next_peak_db": -10.4,
+    "next_peak_t": 3.05
+   },
+   {
+    "start": 16.7,
+    "end": 17.15,
+    "len": 0.45,
+    "level_before_db": -20.4,
+    "floor_db": -57.2,
+    "next_peak_db": -6.6,
+    "next_peak_t": 17.2
+   }
+  ],
+  "hits": [
+   {
+    "t": 17.2,
+    "level_dbfs": -6.6,
+    "rise_db": 50.6
+   },
+   {
+    "t": 22.45,
+    "level_dbfs": -6.9,
+    "rise_db": 33.8
+   },
+   {
+    "t": 4.85,
+    "level_dbfs": -8.4,
+    "rise_db": 27.4
+   },
+   {
+    "t": 11.25,
+    "level_dbfs": -8.6,
+    "rise_db": 23.9
+   },
+   {
+    "t": 3.1,
+    "level_dbfs": -9.5,
+    "rise_db": 22.1
+   },
+   {
+    "t": 7.75,
+    "level_dbfs": -10.0,
+    "rise_db": 16.4
+   },
+   {
+    "t": 14.15,
+    "level_dbfs": -10.1,
+    "rise_db": 43.1
+   },
+   {
+    "t": 19.5,
+    "level_dbfs": -10.3,
+    "rise_db": 36.6
+   },
+   {
+    "t": 10.2,
+    "level_dbfs": -10.5,
+    "rise_db": 37.3
+   },
+   {
+    "t": 0.5,
+    "level_dbfs": -10.7,
+    "rise_db": 37.5
+   },
+   {
+    "t": 6.4,
+    "level_dbfs": -11.3,
+    "rise_db": 35.7
+   },
+   {
+    "t": 15.65,
+    "level_dbfs": -12.1,
+    "rise_db": 31.0
+   },
+   {
+    "t": 21.3,
+    "level_dbfs": -13.8,
+    "rise_db": 32.8
+   },
+   {
+    "t": 12.7,
+    "level_dbfs": -14.8,
+    "rise_db": 42.9
+   },
+   {
+    "t": 8.85,
+    "level_dbfs": -21.7,
+    "rise_db": 24.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 17.2,
+    "level_dbfs": -6.6,
+    "rise_db": 50.6
+   },
+   {
+    "t": 15.1,
+    "level_dbfs": -10.9,
+    "rise_db": 44.4
+   },
+   {
+    "t": 2.65,
+    "level_dbfs": -19.2,
+    "rise_db": 43.7
+   },
+   {
+    "t": 12.7,
+    "level_dbfs": -14.8,
+    "rise_db": 42.9
+   },
+   {
+    "t": 5.75,
+    "level_dbfs": -13.3,
+    "rise_db": 42.0
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 17.15,
+   "rms_dbfs": -9.1
+  },
+  "median_rms_dbfs": -23.5
+ },
+ "sync": {
+  "onsets_per_s": 3.1,
+  "cuts_on_onset_pct": 75,
+  "chance_pct": 60,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [0.233, 10.167, 11.6] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak -0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

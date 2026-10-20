@@ -1,0 +1,256 @@
+{
+ "name": "ryanair_act_your_fare",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "ZvQ4lFWNpWs",
+  "title": "act your fare 👍 #ryanair",
+  "upload_date": "20261008",
+  "duration": 8,
+  "view_count": 82441,
+  "like_count": 1776,
+  "channel": "Ryanair",
+  "uploader": "Ryanair",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/watch?v=ZvQ4lFWNpWs",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.38,
+   2.92,
+   4.17,
+   5.75,
+   7.08
+  ],
+  "shots": 6,
+  "ASL_s": 1.26,
+  "median_s": 1.35,
+  "ASL_quarters_s": [
+   0.94,
+   0.94,
+   0.94,
+   0.63
+  ],
+  "longest_start_len": [
+   [
+    4.17,
+    1.58
+   ],
+   [
+    1.38,
+    1.54
+   ],
+   [
+    0.0,
+    1.38
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    7.08,
+    0.47
+   ],
+   [
+    2.92,
+    1.25
+   ],
+   [
+    5.75,
+    1.33
+   ]
+  ],
+  "pct_under_1s": 17,
+  "pct_over_3s": 0,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [
+   5.75
+  ],
+  "note": "cuts2 4 cuts + 1 missed hard cut added at 5.75 (tray/safety-card handheld take -> facepalm); 5.0-5.1 is an in-camera whip tilt, not a cut"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 7.55
+ },
+ "cuts_cuts2": [
+  1.375,
+  2.917,
+  4.167,
+  7.083
+ ],
+ "shot_stats_cuts2": {
+  "name": "ryanair_act_your_fare",
+  "length": 7.5,
+  "shots": 5,
+  "ASL": 1.5,
+  "median": 1.38,
+  "ASL_quarters": [
+   0.94,
+   0.94,
+   0.94,
+   0.94
+  ],
+  "longest": [
+   [
+    4.17,
+    2.92
+   ],
+   [
+    1.38,
+    1.54
+   ],
+   [
+    0.0,
+    1.38
+   ],
+   [
+    2.92,
+    1.25
+   ]
+  ],
+  "shortest": [
+   [
+    7.08,
+    0.42
+   ],
+   [
+    2.92,
+    1.25
+   ],
+   [
+    0.0,
+    1.38
+   ],
+   [
+    1.38,
+    1.54
+   ]
+  ],
+  "pct_under_1s": 20,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 6,
+   "asl": 1.26
+  },
+  "0.25": {
+   "n_shots": 6,
+   "asl": 1.26
+  },
+  "0.3": {
+   "n_shots": 5,
+   "asl": 1.51
+  },
+  "0.35": {
+   "n_shots": 5,
+   "asl": 1.51
+  },
+  "0.4": {
+   "n_shots": 5,
+   "asl": 1.51
+  }
+ },
+ "integrated_lufs": -10.4,
+ "loudness_dropouts": [
+  {
+   "start": 7.5,
+   "end": 8.0,
+   "len": 0.5,
+   "ref": -9.5,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 0.0,
+  "loudest_M": -7.2,
+  "big_hits_near_peak": [
+   [
+    4.8,
+    3.0,
+    -7.2
+   ],
+   [
+    3.7,
+    3.5,
+    -8.3
+   ],
+   [
+    2.9,
+    6.0,
+    -7.3
+   ]
+  ],
+  "biggest_rises": [
+   [
+    4.8,
+    3.0,
+    -7.2
+   ],
+   [
+    3.7,
+    3.5,
+    -8.3
+   ],
+   [
+    2.9,
+    6.0,
+    -7.3
+   ],
+   [
+    2.8,
+    4.0,
+    -9.2
+   ],
+   [
+    1.8,
+    5.5,
+    -8.4
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -8.4,
+   15.6,
+   4.2
+  ],
+  [
+   -12.0,
+   108.0,
+   0.5
+  ]
+ ],
+ "beatsync": "ryanair_act_your_fare onsets/s 1.2 cuts on onset (+-0.1s) 100 % vs chance 19 %",
+ "manual": {
+  "format": "9:16 1080x1920, TikTok cross-posted to YouTube Shorts",
+  "sub_style": "meme template: expectation vs reality",
+  "hook_0_2s": "frame 1: stock clip of people boarding a private jet + text 'passenger expectations for €19.99:'; the setup is readable in under 1 s and the viewer already knows the punch line is coming",
+  "captions": {
+   "style": "TikTok native 'Classic' white text with thin black outline, lowercase, top-centred",
+   "cap_height_pct_H": 3.0,
+   "position_pct_H": "14-22",
+   "words_per_card": "5 then 1 ('reality:')",
+   "word_by_word": false
+  },
+  "on_screen_text_density": "one label per half, nothing else",
+  "audio": "music/sound with a hit at 4.2 s exactly on the switch to 'reality:' (+15.6 dB rise); integrated -10.4 LUFS; cuts on audio onsets 100% vs 19% chance",
+  "audio_type": "trend-style sound (not identified)",
+  "voice": false,
+  "loop": "ends on a 0.42 s flash of the Ryanair plane face laughing (7.08 s) = signature sting",
+  "views_at_analysis": 82441,
+  "likes": 1776
+ }
+}

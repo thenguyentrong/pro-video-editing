@@ -1,0 +1,297 @@
+{
+ "name": "polestar_4_sightings",
+ "url": "https://www.youtube.com/watch?v=0n8W-GtfHYw",
+ "duration_s": 60.01,
+ "fps": 25.0,
+ "shots": {
+  "name": "polestar_4_sightings",
+  "length": 60.0,
+  "shots": 30,
+  "ASL": 2.0,
+  "median": 1.78,
+  "ASL_quarters": [
+   2.5,
+   1.88,
+   1.36,
+   1.88
+  ],
+  "longest": [
+   [
+    11.8,
+    4.44
+   ],
+   [
+    22.4,
+    4.24
+   ],
+   [
+    2.52,
+    3.76
+   ],
+   [
+    56.48,
+    3.52
+   ]
+  ],
+  "shortest": [
+   [
+    31.56,
+    0.44
+   ],
+   [
+    19.96,
+    0.76
+   ],
+   [
+    50.68,
+    0.84
+   ],
+   [
+    39.16,
+    0.96
+   ]
+  ],
+  "pct_under_1s": 13,
+  "pct_over_3s": 13,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "cuts_s": [
+  2.52,
+  6.28,
+  7.72,
+  9.84,
+  11.8,
+  16.24,
+  17.6,
+  19.96,
+  20.72,
+  22.4,
+  26.64,
+  29.16,
+  31.56,
+  32.0,
+  33.28,
+  36.0,
+  37.28,
+  39.16,
+  40.12,
+  41.6,
+  43.64,
+  44.96,
+  46.52,
+  47.92,
+  49.04,
+  50.68,
+  51.52,
+  53.92,
+  56.48
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 39,
+   "asl": 1.54
+  },
+  "0.25": {
+   "n_shots": 34,
+   "asl": 1.77
+  },
+  "0.3": {
+   "n_shots": 28,
+   "asl": 2.14
+  },
+  "0.35": {
+   "n_shots": 21,
+   "asl": 2.86
+  },
+  "0.4": {
+   "n_shots": 19,
+   "asl": 3.16
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   1.0,
+   1.045
+  ],
+  [
+   3.5,
+   1.981
+  ],
+  [
+   14.1,
+   1.043
+  ],
+  [
+   15.0,
+   1.509
+  ],
+  [
+   23.8,
+   0.347
+  ],
+  [
+   24.4,
+   0.379
+  ],
+  [
+   27.6,
+   0.217
+  ],
+  [
+   30.4,
+   0.109
+  ],
+  [
+   36.6,
+   1.382
+  ],
+  [
+   42.6,
+   1.453
+  ],
+  [
+   52.4,
+   0.911
+  ],
+  [
+   53.0,
+   0.858
+  ],
+  [
+   55.1,
+   0.19
+  ],
+  [
+   59.4,
+   0.205
+  ]
+ ],
+ "black_dips_s": [],
+ "loudness": {
+  "integrated_lufs": -14.2,
+  "median_dbfs_50ms": -18.3,
+  "dropouts_ebu": [
+   {
+    "start": 59.0,
+    "end": 60.5,
+    "len": 1.5,
+    "ref": -14.3,
+    "floor": -75.8,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 0.0,
+   "loudest_M": -8.7,
+   "big_hits_near_peak": [
+    [
+     6.0,
+     30.0,
+     -13.6
+    ],
+    [
+     5.6,
+     12.5,
+     -9.3
+    ],
+    [
+     5.1,
+     32.0,
+     -11.6
+    ]
+   ],
+   "biggest_rises": [
+    [
+     6.0,
+     30.0,
+     -13.6
+    ],
+    [
+     5.6,
+     12.5,
+     -9.3
+    ],
+    [
+     5.1,
+     32.0,
+     -11.6
+    ],
+    [
+     5.1,
+     43.0,
+     -11.3
+    ],
+    [
+     5.0,
+     29.5,
+     -14.6
+    ]
+   ]
+  },
+  "gaps_50ms": [],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -6.4,
+    15.6,
+    13.75
+   ],
+   [
+    -14.3,
+    16.7,
+    57.7
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 0.6,
+  "cuts_on_onset_pct": 21,
+  "chance_pct": 12
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 5,
+  "on_dark_pct": 5,
+  "on_light_pct": 0,
+  "median_empty_share_pct": 34
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 1.0,
+  "segs": [
+   {
+    "s": 11.86,
+    "e": 26.28,
+    "t": "So tell us what you saw it went by so fast. I didn't know what it was. I'd never seen anything like it",
+    "nsp": 0.06,
+    "lp": -0.27
+   },
+   {
+    "s": 26.44,
+    "e": 39.2,
+    "t": "I've never seen anything move like it. It's amazing",
+    "nsp": 0.06,
+    "lp": -0.27
+   },
+   {
+    "s": 40.04,
+    "e": 58.43,
+    "t": "It was like out of this world of the stars. It had one on it",
+    "nsp": 0.06,
+    "lp": -0.27
+   }
+  ]
+ },
+ "manual_notes": "29 cuts verified. Witness-interview voices 11.9-58.4 s (whisper en 1.00, 'it went by so fast... I'd never seen anything like it'). No on-screen text found at 1 fps.",
+ "grade_2fps": {
+  "frames": 120,
+  "median_frame_luma": 77.5,
+  "pct_frames_dark_lt40": 16,
+  "pct_frames_bright_gt170": 0,
+  "median_saturation_pct": 17.4,
+  "p90_saturation_pct": 29.2,
+  "median_R_minus_B": 1.1,
+  "median_contrast_p95_minus_p5": 112.4,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

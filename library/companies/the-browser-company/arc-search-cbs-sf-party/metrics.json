@@ -1,0 +1,481 @@
+{
+ "name": "the-browser-company_arc-search-cbs-sf-party",
+ "file": "the-browser-company_arc-search-cbs-sf-party.mp4",
+ "duration_s": 63.674,
+ "fps": 24.0,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 28,
+ "shot_count": 29,
+ "asl_s": 2.2,
+ "median_s": 1.54,
+ "pct_shots_under_1s": 34.5,
+ "pct_shots_over_3s": 20.7,
+ "shots_per_minute": 27.3,
+ "asl_quarters_s": [
+  2.65,
+  1.22,
+  1.99,
+  3.18
+ ],
+ "longest": [
+  {
+   "start": 32.167,
+   "len": 9.375
+  },
+  {
+   "start": 51.667,
+   "len": 8.625
+  },
+  {
+   "start": 3.667,
+   "len": 5.833
+  }
+ ],
+ "shortest": [
+  {
+   "start": 22.167,
+   "len": 0.416
+  },
+  {
+   "start": 23.292,
+   "len": 0.458
+  },
+  {
+   "start": 25.0,
+   "len": 0.583
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 4,
+  "20-30": 10,
+  "30-40": 2,
+  "40-50": 7,
+  "50-60": 1,
+  "60-70": 2
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 0.0,
+   "len": 3.67
+  }
+ ],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 31,
+  "only_in_other": [
+   15.167,
+   23.75,
+   25.0,
+   25.583,
+   32.167,
+   38.0,
+   45.458,
+   46.542,
+   48.583,
+   51.667,
+   60.292
+  ],
+  "only_in_this": [
+   14.125,
+   14.583,
+   22.042,
+   26.917
+  ]
+ },
+ "mean_luma": 0.27,
+ "soft_transition_candidates": [
+  {
+   "t": 6.9,
+   "score": 0.831
+  },
+  {
+   "t": 10.7,
+   "score": 0.107
+  },
+  {
+   "t": 16.5,
+   "score": 0.736
+  },
+  {
+   "t": 17.3,
+   "score": 0.648
+  },
+  {
+   "t": 24.4,
+   "score": 0.998
+  },
+  {
+   "t": 35.2,
+   "score": 1.041
+  },
+  {
+   "t": 36.0,
+   "score": 0.847
+  },
+  {
+   "t": 37.6,
+   "score": 0.92
+  },
+  {
+   "t": 39.2,
+   "score": 0.423
+  },
+  {
+   "t": 40.4,
+   "score": 0.481
+  },
+  {
+   "t": 47.6,
+   "score": 0.842
+  },
+  {
+   "t": 53.3,
+   "score": 0.744
+  },
+  {
+   "t": 56.5,
+   "score": 0.745
+  },
+  {
+   "t": 57.6,
+   "score": 0.768
+  },
+  {
+   "t": 63.2,
+   "score": 0.196
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 20.8,
+   "end": 20.9
+  },
+  {
+   "start": 44.6,
+   "end": 44.7
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.667,
+   "len": 3.667
+  },
+  {
+   "i": 2,
+   "start": 3.667,
+   "end": 9.5,
+   "len": 5.833
+  },
+  {
+   "i": 3,
+   "start": 9.5,
+   "end": 12.083,
+   "len": 2.583
+  },
+  {
+   "i": 4,
+   "start": 12.083,
+   "end": 13.667,
+   "len": 1.584
+  },
+  {
+   "i": 5,
+   "start": 13.667,
+   "end": 14.875,
+   "len": 1.208
+  },
+  {
+   "i": 6,
+   "start": 14.875,
+   "end": 18.625,
+   "len": 3.75
+  },
+  {
+   "i": 7,
+   "start": 18.625,
+   "end": 20.25,
+   "len": 1.625
+  },
+  {
+   "i": 8,
+   "start": 20.25,
+   "end": 22.167,
+   "len": 1.917
+  },
+  {
+   "i": 9,
+   "start": 22.167,
+   "end": 22.583,
+   "len": 0.416
+  },
+  {
+   "i": 10,
+   "start": 22.583,
+   "end": 23.292,
+   "len": 0.709
+  },
+  {
+   "i": 11,
+   "start": 23.292,
+   "end": 23.75,
+   "len": 0.458
+  },
+  {
+   "i": 12,
+   "start": 23.75,
+   "end": 25.0,
+   "len": 1.25
+  },
+  {
+   "i": 13,
+   "start": 25.0,
+   "end": 25.583,
+   "len": 0.583
+  },
+  {
+   "i": 14,
+   "start": 25.583,
+   "end": 26.417,
+   "len": 0.834
+  },
+  {
+   "i": 15,
+   "start": 26.417,
+   "end": 27.083,
+   "len": 0.666
+  },
+  {
+   "i": 16,
+   "start": 27.083,
+   "end": 27.958,
+   "len": 0.875
+  },
+  {
+   "i": 17,
+   "start": 27.958,
+   "end": 30.625,
+   "len": 2.667
+  },
+  {
+   "i": 18,
+   "start": 30.625,
+   "end": 32.167,
+   "len": 1.542
+  },
+  {
+   "i": 19,
+   "start": 32.167,
+   "end": 41.542,
+   "len": 9.375
+  },
+  {
+   "i": 20,
+   "start": 41.542,
+   "end": 42.5,
+   "len": 0.958
+  },
+  {
+   "i": 21,
+   "start": 42.5,
+   "end": 43.792,
+   "len": 1.292
+  },
+  {
+   "i": 22,
+   "start": 43.792,
+   "end": 44.583,
+   "len": 0.791
+  },
+  {
+   "i": 23,
+   "start": 44.583,
+   "end": 45.458,
+   "len": 0.875
+  },
+  {
+   "i": 24,
+   "start": 45.458,
+   "end": 46.542,
+   "len": 1.084
+  },
+  {
+   "i": 25,
+   "start": 46.542,
+   "end": 48.583,
+   "len": 2.041
+  },
+  {
+   "i": 26,
+   "start": 48.583,
+   "end": 51.667,
+   "len": 3.084
+  },
+  {
+   "i": 27,
+   "start": 51.667,
+   "end": 60.292,
+   "len": 8.625
+  },
+  {
+   "i": 28,
+   "start": 60.292,
+   "end": 61.9,
+   "len": 1.608
+  },
+  {
+   "i": 29,
+   "start": 61.9,
+   "end": 63.674,
+   "len": 1.774
+  }
+ ],
+ "cuts": [
+  3.667,
+  9.5,
+  12.083,
+  13.667,
+  14.875,
+  18.625,
+  20.25,
+  22.167,
+  22.583,
+  23.292,
+  23.75,
+  25.0,
+  25.583,
+  26.417,
+  27.083,
+  27.958,
+  30.625,
+  32.167,
+  41.542,
+  42.5,
+  43.792,
+  44.583,
+  45.458,
+  46.542,
+  48.583,
+  51.667,
+  60.292,
+  61.9
+ ],
+ "loudness": {
+  "integrated_lufs": -15.0,
+  "loudness_range_lu": 7.7,
+  "true_peak_dbtp": -0.0
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 0.3,
+    "len": 0.3
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 28.2,
+    "end": 29.1,
+    "len": 0.9,
+    "level_before_db": -22.0,
+    "floor_db": -50.4,
+    "next_peak_db": -16.2,
+    "next_peak_t": 29.15
+   }
+  ],
+  "hits": [
+   {
+    "t": 24.6,
+    "level_dbfs": -12.3,
+    "rise_db": 16.2
+   },
+   {
+    "t": 20.9,
+    "level_dbfs": -13.3,
+    "rise_db": 16.0
+   },
+   {
+    "t": 22.6,
+    "level_dbfs": -14.1,
+    "rise_db": 15.8
+   },
+   {
+    "t": 2.15,
+    "level_dbfs": -15.3,
+    "rise_db": 23.8
+   },
+   {
+    "t": 29.15,
+    "level_dbfs": -16.2,
+    "rise_db": 31.2
+   },
+   {
+    "t": 11.05,
+    "level_dbfs": -16.4,
+    "rise_db": 15.6
+   },
+   {
+    "t": 30.25,
+    "level_dbfs": -19.2,
+    "rise_db": 21.3
+   },
+   {
+    "t": 1.1,
+    "level_dbfs": -21.6,
+    "rise_db": 16.6
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -37.0,
+    "rise_db": 47.1
+   },
+   {
+    "t": 29.15,
+    "level_dbfs": -16.2,
+    "rise_db": 31.2
+   },
+   {
+    "t": 30.95,
+    "level_dbfs": -21.3,
+    "rise_db": 25.6
+   },
+   {
+    "t": 2.15,
+    "level_dbfs": -15.3,
+    "rise_db": 23.8
+   },
+   {
+    "t": 20.5,
+    "level_dbfs": -14.1,
+    "rise_db": 20.2
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 41.7,
+   "rms_dbfs": -13.3
+  },
+  "median_rms_dbfs": -18.6
+ },
+ "sync": {
+  "onsets_per_s": 0.97,
+  "cuts_on_onset_pct": 29,
+  "chance_pct": 19,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [15.167, 23.75, 25.0, 25.583, 32.167, 38.0, 45.458, 46.542, 48.583, 51.667] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak -0.0 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

@@ -1,0 +1,425 @@
+{
+ "name": "marvel_doomsday_steve_teaser",
+ "source": {
+  "title": "Steve Rogers Will Return | Avengers: Doomsday in Theaters December 18, 2026",
+  "full_duration_s": "81",
+  "upload_date": "20251223",
+  "channel": "Marvel Entertainment",
+  "url": "https://www.youtube.com/watch?v=UiMg566PREA",
+  "analysed_resolution": "854x480",
+  "note": "source block rebuilt (the metrics script had split the title on '|')"
+ },
+ "analysed_window_s": [
+  0,
+  79.4
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "100 w:854 h:356 x:0 y:62",
+  "5 w:770 h:356 x:84 y:62",
+  "3 w:756 h:356 x:86 y:62",
+  "2 w:766 h:356 x:88 y:62",
+  "1 w:850 h:354 x:0 y:62",
+  "1 w:842 h:356 x:0 y:62"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 79.4,
+  "shots": 12,
+  "ASL": 6.62,
+  "median": 4.9,
+  "ASL_quarters": [
+   3.97,
+   3.97,
+   9.93,
+   6.62
+  ],
+  "longest": [
+   [
+    35.6,
+    20.87
+   ],
+   [
+    56.47,
+    11.83
+   ],
+   [
+    68.3,
+    9.49
+   ],
+   [
+    19.1,
+    7.88
+   ]
+  ],
+  "shortest": [
+   [
+    34.08,
+    1.52
+   ],
+   [
+    77.79,
+    1.61
+   ],
+   [
+    32.16,
+    1.92
+   ],
+   [
+    11.05,
+    3.5
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 75,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    34.08,
+    1.52
+   ],
+   [
+    56.47,
+    11.83
+   ],
+   [
+    77.79,
+    1.61
+   ]
+  ],
+  "cuts_per_10s": [
+   1,
+   3,
+   1,
+   3,
+   0,
+   1,
+   1,
+   1
+  ],
+  "cut_times": [
+   6.423,
+   11.053,
+   14.556,
+   19.102,
+   26.985,
+   32.157,
+   34.076,
+   35.6,
+   56.473,
+   68.3,
+   77.786
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 9,
+   "asl": 8.95
+  },
+  "0.25": {
+   "n_shots": 8,
+   "asl": 10.07
+  },
+  "0.3": {
+   "n_shots": 7,
+   "asl": 11.51
+  },
+  "0.35": {
+   "n_shots": 6,
+   "asl": 13.43
+  },
+  "0.4": {
+   "n_shots": 5,
+   "asl": 16.12
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   0.4,
+   1.071
+  ],
+  [
+   4.0,
+   0.211
+  ],
+  [
+   4.6,
+   0.208
+  ],
+  [
+   7.3,
+   0.234
+  ],
+  [
+   9.0,
+   0.185
+  ],
+  [
+   13.2,
+   0.433
+  ],
+  [
+   16.4,
+   0.522
+  ],
+  [
+   21.2,
+   0.147
+  ],
+  [
+   23.2,
+   0.149
+  ],
+  [
+   24.8,
+   0.228
+  ],
+  [
+   25.8,
+   0.193
+  ],
+  [
+   29.1,
+   0.799
+  ],
+  [
+   29.7,
+   0.73
+  ],
+  [
+   30.8,
+   0.49
+  ],
+  [
+   35.9,
+   0.638
+  ],
+  [
+   43.6,
+   0.272
+  ],
+  [
+   45.1,
+   0.297
+  ],
+  [
+   47.3,
+   0.477
+  ],
+  [
+   50.3,
+   0.224
+  ],
+  [
+   51.5,
+   0.141
+  ],
+  [
+   52.8,
+   0.121
+  ],
+  [
+   54.4,
+   0.201
+  ],
+  [
+   68.5,
+   0.618
+  ],
+  [
+   72.5,
+   0.107
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   34.1,
+   36.2
+  ],
+  [
+   56.5,
+   68.3
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -15.2,
+  "loudest_t_s": 34.0,
+  "loudest_momentary_lufs": -8.6,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 24.5,
+    "end": 28.0,
+    "len": 3.5,
+    "ref": -19.1,
+    "floor": -39.4,
+    "rise_after": 12.4,
+    "next_peak": -27.0
+   },
+   {
+    "start": 78.5,
+    "end": 81.0,
+    "len": 2.5,
+    "ref": -23.9,
+    "floor": -120.0,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    24.3,
+    6.5,
+    -11.2
+   ],
+   [
+    24.2,
+    57.0,
+    -10.7
+   ],
+   [
+    23.1,
+    12.5,
+    -10.7
+   ],
+   [
+    22.4,
+    7.0,
+    -13.1
+   ],
+   [
+    22.3,
+    12.0,
+    -11.5
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [],
+  "hits_dbfs_rise_t": [
+   [
+    -8.0,
+    24.8,
+    16.65
+   ],
+   [
+    -8.3,
+    27.7,
+    38.9
+   ],
+   [
+    -8.4,
+    32.9,
+    57.0
+   ],
+   [
+    -8.7,
+    36.1,
+    67.95
+   ],
+   [
+    -9.0,
+    19.6,
+    41.6
+   ],
+   [
+    -9.1,
+    25.8,
+    21.25
+   ],
+   [
+    -9.4,
+    16.1,
+    34.0
+   ],
+   [
+    -9.9,
+    34.0,
+    12.25
+   ],
+   [
+    -10.5,
+    15.7,
+    49.8
+   ],
+   [
+    -10.6,
+    25.3,
+    47.15
+   ],
+   [
+    -11.1,
+    108.9,
+    0.55
+   ],
+   [
+    -11.4,
+    32.6,
+    6.5
+   ],
+   [
+    -11.6,
+    24.0,
+    62.55
+   ],
+   [
+    -12.0,
+    15.0,
+    59.55
+   ],
+   [
+    -17.6,
+    17.6,
+    30.55
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.48 cuts on onset (+-0.1s) 33 % vs chance 10 %",
+ "empty_frame": "mostly-empty 25% (on dark 25%, on light 0%), median empty share 32%",
+ "manual_corrections": "stats2: end 79.4, extra 35.6,68.3",
+ "manual": {
+  "aspect": "picture 854x356 inside 854x480 = 2.40:1, bars 62 px (12.9%) top and bottom",
+  "corrections": "added boundaries at 35.6 (end of 1.5 s black + fade-up) and 68.3 (fade from black into the date card); counted shots include 3 black holds",
+  "picture_shots_only": "8 live-action shots 0-56.5 s (excluding the 1.5 s black at 34.1); ASL ~6.9 s; one 20.9 s take (baby scene)",
+  "text_cards": [
+   {
+    "t_in": 57.0,
+    "words": "Steve Rogers",
+    "fade_in_s": 0.75
+   },
+   {
+    "t_in": 59.5,
+    "words": "+ Will Return",
+    "fade_in_s": 0.75
+   },
+   {
+    "t_in": 62.0,
+    "words": "+ In Avengers: Doomsday",
+    "fade_in_s": 1.0,
+    "t_out": 65.25,
+    "fade_out_s": 2.25
+   },
+   {
+    "t_in": 68.3,
+    "t_out": 71.0,
+    "words": "December 18 2026",
+    "style": "small spaced caps/semibold, centred on the green-lit Doom room"
+   },
+   {
+    "t_in": 71.0,
+    "t_out": 77.8,
+    "words": "11 : 24 : 15 : 00 : 00 countdown",
+    "style": "ticks down once per second, unit labels MONTHS DAYS HOURS MINUTES SECONDS"
+   }
+  ],
+  "text_measure": "one line on black; left edge fixed at x 15.5%, grows right to 84.4%; ink height 3.3-3.75% H incl. descenders (cap height ~2.5% H); centre y 49.5%; Title Case semibold humanist sans, tracking ~0.3 em (typeface guess: Segoe UI / Frutiger-like); newly added words start grey and settle to white",
+  "events": {
+   "sound_shape": "sparse single strikes (piano/low orchestral - guess) at 0, 6.5, 12, 16.5, 21, 30.5, 34, 39, 41.5, 47, 50, 57, 59.5, 62.5, 68 s, each decaying 15-25 LU over 4-5 s",
+   "longest_lull": "24.0-30.5 s, -17 -> -39 LUFS (door + box shots)",
+   "loudest": "34.0 s, -8.6 LUFS momentary: strike on the cut to black before the baby scene",
+   "text_on_strikes": "Steve Rogers 57.0, Will Return 59.5, In Avengers: Doomsday 62.5, date card 68.0",
+   "countdown_ticks": "71-76 s one tick per second",
+   "end": "fade to digital silence 78.5-80.5"
+  }
+ }
+}

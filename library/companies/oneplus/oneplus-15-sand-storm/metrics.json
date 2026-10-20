@@ -1,0 +1,365 @@
+{
+ "name": "oneplus_oneplus-15-sand-storm",
+ "file": "op_sandstorm.mp4",
+ "duration_s": 69.834,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 27,
+ "shot_count": 28,
+ "asl_s": 2.49,
+ "median_s": 2.5,
+ "pct_shots_under_1s": 3.6,
+ "pct_shots_over_3s": 25.0,
+ "shots_per_minute": 24.1,
+ "asl_quarters_s": [
+  2.49,
+  2.18,
+  1.94,
+  2.49
+ ],
+ "longest": [
+  {
+   "start": 60.68,
+   "len": 5.24
+  },
+  {
+   "start": 45.48,
+   "len": 5.04
+  },
+  {
+   "start": 0.0,
+   "len": 4.16
+  }
+ ],
+ "shortest": [
+  {
+   "start": 28.4,
+   "len": 0.88
+  },
+  {
+   "start": 50.52,
+   "len": 1.0
+  },
+  {
+   "start": 18.88,
+   "len": 1.12
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 5,
+  "20-30": 5,
+  "30-40": 3,
+  "40-50": 4,
+  "50-60": 6,
+  "60-70": 2
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 65.92,
+   "len": 3.91
+  }
+ ],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 14,
+  "only_in_other": [],
+  "only_in_this": [
+   22.16,
+   25.88,
+   28.4,
+   29.28,
+   32.88,
+   38.0,
+   40.56,
+   42.96,
+   44.28,
+   45.48,
+   54.0,
+   55.64,
+   58.12
+  ]
+ },
+ "mean_luma": 0.254,
+ "soft_transition_candidates": [
+  {
+   "t": 0.5,
+   "score": 3.187
+  },
+  {
+   "t": 2.2,
+   "score": 1.168
+  },
+  {
+   "t": 11.2,
+   "score": 2.323
+  },
+  {
+   "t": 26.9,
+   "score": 0.15
+  },
+  {
+   "t": 36.9,
+   "score": 1.245
+  },
+  {
+   "t": 48.2,
+   "score": 0.849
+  },
+  {
+   "t": 62.4,
+   "score": 0.834
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 4.16,
+   "len": 4.16
+  },
+  {
+   "i": 2,
+   "start": 4.16,
+   "end": 6.56,
+   "len": 2.4
+  },
+  {
+   "i": 3,
+   "start": 6.56,
+   "end": 10.04,
+   "len": 3.48
+  },
+  {
+   "i": 4,
+   "start": 10.04,
+   "end": 12.56,
+   "len": 2.52
+  },
+  {
+   "i": 5,
+   "start": 12.56,
+   "end": 15.08,
+   "len": 2.52
+  },
+  {
+   "i": 6,
+   "start": 15.08,
+   "end": 17.04,
+   "len": 1.96
+  },
+  {
+   "i": 7,
+   "start": 17.04,
+   "end": 18.88,
+   "len": 1.84
+  },
+  {
+   "i": 8,
+   "start": 18.88,
+   "end": 20.0,
+   "len": 1.12
+  },
+  {
+   "i": 9,
+   "start": 20.0,
+   "end": 22.16,
+   "len": 2.16
+  },
+  {
+   "i": 10,
+   "start": 22.16,
+   "end": 25.88,
+   "len": 3.72
+  },
+  {
+   "i": 11,
+   "start": 25.88,
+   "end": 28.4,
+   "len": 2.52
+  },
+  {
+   "i": 12,
+   "start": 28.4,
+   "end": 29.28,
+   "len": 0.88
+  },
+  {
+   "i": 13,
+   "start": 29.28,
+   "end": 32.88,
+   "len": 3.6
+  },
+  {
+   "i": 14,
+   "start": 32.88,
+   "end": 35.4,
+   "len": 2.52
+  },
+  {
+   "i": 15,
+   "start": 35.4,
+   "end": 38.0,
+   "len": 2.6
+  },
+  {
+   "i": 16,
+   "start": 38.0,
+   "end": 40.56,
+   "len": 2.56
+  },
+  {
+   "i": 17,
+   "start": 40.56,
+   "end": 42.96,
+   "len": 2.4
+  },
+  {
+   "i": 18,
+   "start": 42.96,
+   "end": 44.28,
+   "len": 1.32
+  },
+  {
+   "i": 19,
+   "start": 44.28,
+   "end": 45.48,
+   "len": 1.2
+  },
+  {
+   "i": 20,
+   "start": 45.48,
+   "end": 50.52,
+   "len": 5.04
+  },
+  {
+   "i": 21,
+   "start": 50.52,
+   "end": 51.52,
+   "len": 1.0
+  },
+  {
+   "i": 22,
+   "start": 51.52,
+   "end": 52.8,
+   "len": 1.28
+  },
+  {
+   "i": 23,
+   "start": 52.8,
+   "end": 54.0,
+   "len": 1.2
+  },
+  {
+   "i": 24,
+   "start": 54.0,
+   "end": 55.64,
+   "len": 1.64
+  },
+  {
+   "i": 25,
+   "start": 55.64,
+   "end": 58.12,
+   "len": 2.48
+  },
+  {
+   "i": 26,
+   "start": 58.12,
+   "end": 60.68,
+   "len": 2.56
+  },
+  {
+   "i": 27,
+   "start": 60.68,
+   "end": 65.92,
+   "len": 5.24
+  },
+  {
+   "i": 28,
+   "start": 65.92,
+   "end": 69.834,
+   "len": 3.914
+  }
+ ],
+ "cuts": [
+  4.16,
+  6.56,
+  10.04,
+  12.56,
+  15.08,
+  17.04,
+  18.88,
+  20.0,
+  22.16,
+  25.88,
+  28.4,
+  29.28,
+  32.88,
+  35.4,
+  38.0,
+  40.56,
+  42.96,
+  44.28,
+  45.48,
+  50.52,
+  51.52,
+  52.8,
+  54.0,
+  55.64,
+  58.12,
+  60.68,
+  65.92
+ ],
+ "loudness": {
+  "integrated_lufs": -18.5,
+  "loudness_range_lu": 13.4,
+  "true_peak_dbtp": -5.2
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 68.05,
+    "end": 69.8,
+    "len": 1.75
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 20.55,
+    "level_dbfs": -17.9,
+    "rise_db": 17.0
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 20.55,
+    "level_dbfs": -17.9,
+    "rise_db": 17.0
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 43.1,
+   "rms_dbfs": -16.8
+  },
+  "median_rms_dbfs": -23.6
+ },
+ "sync": {
+  "onsets_per_s": 0.57,
+  "cuts_on_onset_pct": 15,
+  "chance_pct": 11,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": []
+}

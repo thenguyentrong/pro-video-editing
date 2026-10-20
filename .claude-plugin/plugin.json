@@ -1,0 +1,10 @@
+{
+  "name": "pro-video-editing",
+  "version": "0.1.0",
+  "description": "A professional video editing team for Claude: director, style scout, script writer, image/footage/music selectors, voice producer, sound designer, editor and QC reviewer, built on measured editing styles studied from real films.",
+  "author": { "name": "thenguyentrong" },
+  "homepage": "https://github.com/thenguyentrong/pro-video-editing",
+  "repository": "https://github.com/thenguyentrong/pro-video-editing",
+  "license": "MIT",
+  "keywords": ["video", "editing", "film", "trailer", "stock-footage", "sound-design", "hyperframes"]
+}

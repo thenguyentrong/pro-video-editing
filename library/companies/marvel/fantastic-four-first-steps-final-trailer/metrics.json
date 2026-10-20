@@ -1,0 +1,559 @@
+{
+ "name": "marvel_f4_final_trailer",
+ "source": {
+  "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+  "full_duration_s": "145",
+  "upload_date": "20250625",
+  "channel": "Marvel Entertainment",
+  "url": "https://www.youtube.com/watch?v=18QQWa5MEcs",
+  "analysed_resolution": "854x480",
+  "note": "source block rebuilt (the metrics script had split the title on '|')"
+ },
+ "analysed_window_s": [
+  0,
+  143.2
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "258 w:854 h:356 x:0 y:62",
+  "2 w:190 h:262 x:334 y:62",
+  "1 w:844 h:356 x:10 y:62",
+  "1 w:834 h:356 x:0 y:62",
+  "1 w:816 h:356 x:0 y:62",
+  "1 w:814 h:356 x:0 y:62"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 143.2,
+  "shots": 104,
+  "ASL": 1.38,
+  "median": 1.08,
+  "ASL_quarters": [
+   1.33,
+   1.43,
+   1.12,
+   1.56
+  ],
+  "longest": [
+   [
+    121.66,
+    8.26
+   ],
+   [
+    39.79,
+    5.01
+   ],
+   [
+    137.47,
+    4.04
+   ],
+   [
+    30.91,
+    3.55
+   ]
+  ],
+  "shortest": [
+   [
+    76.83,
+    0.21
+   ],
+   [
+    71.11,
+    0.25
+   ],
+   [
+    68.07,
+    0.29
+   ],
+   [
+    34.45,
+    0.33
+   ]
+  ],
+  "pct_under_1s": 38,
+  "pct_over_3s": 4,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [],
+  "cuts_per_10s": [
+   9,
+   7,
+   7,
+   7,
+   3,
+   7,
+   8,
+   10,
+   9,
+   7,
+   10,
+   8,
+   4,
+   6,
+   1
+  ],
+  "cut_times": [
+   1.418,
+   2.419,
+   3.295,
+   4.087,
+   5.088,
+   6.506,
+   7.216,
+   8.592,
+   9.593,
+   10.469,
+   13.347,
+   14.598,
+   15.933,
+   16.6,
+   19.186,
+   19.937,
+   20.729,
+   21.855,
+   23.19,
+   23.982,
+   26.026,
+   27.11,
+   29.529,
+   30.906,
+   34.451,
+   34.785,
+   36.453,
+   37.246,
+   38.288,
+   39.79,
+   44.795,
+   46.171,
+   48.715,
+   50.926,
+   52.552,
+   54.5,
+   55.5,
+   56.515,
+   58.433,
+   59.393,
+   60.477,
+   63.021,
+   65.524,
+   66.358,
+   67.317,
+   68.068,
+   68.36,
+   69.528,
+   71.113,
+   71.363,
+   71.78,
+   72.781,
+   73.824,
+   75.2,
+   76.034,
+   76.827,
+   77.035,
+   78.578,
+   80.7,
+   82.624,
+   83.458,
+   84.293,
+   86.5,
+   87.587,
+   88.547,
+   89.256,
+   89.84,
+   92.676,
+   93.427,
+   95.429,
+   96.221,
+   97.264,
+   99.266,
+   99.808,
+   100.559,
+   101.852,
+   102.936,
+   103.854,
+   104.73,
+   105.772,
+   106.481,
+   107.649,
+   108.942,
+   109.484,
+   111.069,
+   111.653,
+   113.071,
+   114.906,
+   116.742,
+   117.743,
+   118.41,
+   119.202,
+   120.203,
+   120.579,
+   121.663,
+   129.921,
+   131.757,
+   132.674,
+   134.134,
+   135.302,
+   136.511,
+   137.471,
+   141.516
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 70,
+   "asl": 2.07
+  },
+  "0.25": {
+   "n_shots": 53,
+   "asl": 2.73
+  },
+  "0.3": {
+   "n_shots": 38,
+   "asl": 3.81
+  },
+  "0.35": {
+   "n_shots": 26,
+   "asl": 5.56
+  },
+  "0.4": {
+   "n_shots": 15,
+   "asl": 9.64
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   11.7,
+   0.755
+  ],
+  [
+   17.7,
+   0.656
+  ],
+  [
+   32.3,
+   0.609
+  ],
+  [
+   41.0,
+   0.236
+  ],
+  [
+   43.1,
+   0.294
+  ],
+  [
+   47.1,
+   0.289
+  ],
+  [
+   54.2,
+   0.344
+  ],
+  [
+   55.0,
+   0.391
+  ],
+  [
+   61.1,
+   1.584
+  ],
+  [
+   64.2,
+   0.154
+  ],
+  [
+   80.1,
+   1.391
+  ],
+  [
+   81.1,
+   1.484
+  ],
+  [
+   86.1,
+   2.01
+  ],
+  [
+   86.9,
+   1.458
+  ],
+  [
+   125.1,
+   0.263
+  ],
+  [
+   125.8,
+   0.268
+  ],
+  [
+   127.1,
+   0.327
+  ],
+  [
+   130.7,
+   0.629
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   48.7,
+   49.2
+  ],
+  [
+   57.8,
+   58.4
+  ],
+  [
+   60.5,
+   60.9
+  ],
+  [
+   80.4,
+   80.9
+  ],
+  [
+   86.4,
+   86.6
+  ],
+  [
+   109.5,
+   109.8
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.1,
+  "loudest_t_s": 16.0,
+  "loudest_momentary_lufs": -8.2,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 61.5,
+    "end": 62.0,
+    "len": 0.5,
+    "ref": -12.8,
+    "floor": -33.7,
+    "rise_after": 20.3,
+    "next_peak": -13.4
+   },
+   {
+    "start": 104.5,
+    "end": 105.0,
+    "len": 0.5,
+    "ref": -21.5,
+    "floor": -35.2,
+    "rise_after": 15.0,
+    "next_peak": -20.2
+   },
+   {
+    "start": 143.0,
+    "end": 145.0,
+    "len": 2.0,
+    "ref": -10.9,
+    "floor": -80.0,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    20.3,
+    63.0,
+    -13.4
+   ],
+   [
+    15.0,
+    106.0,
+    -20.2
+   ],
+   [
+    13.8,
+    62.0,
+    -19.9
+   ],
+   [
+    13.1,
+    64.0,
+    -13.2
+   ],
+   [
+    12.9,
+    63.5,
+    -13.4
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 30.8,
+    "len": 0.15,
+    "ref": -23.1,
+    "floor": -48.1,
+    "next_peak": -16.9,
+    "peak_t": 31.5
+   },
+   {
+    "start": 61.2,
+    "len": 0.65,
+    "ref": -16.0,
+    "floor": -50.3,
+    "next_peak": -17.9,
+    "peak_t": 62.0
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -7.6,
+    16.6,
+    11.1
+   ],
+   [
+    -9.9,
+    16.0,
+    97.35
+   ],
+   [
+    -10.0,
+    16.2,
+    31.7
+   ],
+   [
+    -11.2,
+    15.7,
+    63.3
+   ],
+   [
+    -11.5,
+    16.9,
+    89.9
+   ],
+   [
+    -13.7,
+    18.9,
+    48.95
+   ],
+   [
+    -13.8,
+    15.8,
+    56.65
+   ],
+   [
+    -15.6,
+    15.2,
+    81.6
+   ],
+   [
+    -16.1,
+    15.5,
+    87.0
+   ],
+   [
+    -16.3,
+    29.3,
+    111.3
+   ],
+   [
+    -16.3,
+    20.7,
+    6.6
+   ],
+   [
+    -16.3,
+    17.6,
+    88.15
+   ],
+   [
+    -17.2,
+    30.0,
+    105.85
+   ],
+   [
+    -17.4,
+    16.6,
+    107.15
+   ],
+   [
+    -17.5,
+    15.7,
+    83.3
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 1.11 cuts on onset (+-0.1s) 23 % vs chance 22 %",
+ "empty_frame": "mostly-empty 15% (on dark 15%, on light 0%), median empty share 37%",
+ "manual_corrections": "stats2: end 143.2, extra 54.5,55.5,80.7,86.5, drop 0.08",
+ "manual": {
+  "aspect": "picture 854x356 inside 854x480 = 2.40:1",
+  "corrections": "dropped 0.08 (first black frame); added dissolves 54.5 (Earth -> Galactus foot) and 55.5 (foot -> planet surface), dips-to-black 80.7 and 86.5 that the detector merged; trimmed trailing black at 143.2",
+  "text_cards": [
+   {
+    "t_in": 0.0,
+    "t_out": 1.42,
+    "words": "MARVEL STUDIOS (custom retro logo with a diorama of the four)"
+   },
+   {
+    "t_in": 69.53,
+    "t_out": 71.11,
+    "hold": 1.58,
+    "words": "JULY 25TH",
+    "height_pct_H": 6.9,
+    "x_pct": [
+     24,
+     76
+    ]
+   },
+   {
+    "t_in": 113.07,
+    "t_out": 114.91,
+    "hold": 1.84,
+    "words": "THEIR / GREATEST STRENGTH",
+    "height_pct_H": {
+     "small line": 3.5,
+     "main line": 6.7
+    },
+    "x_pct": [
+     9,
+     91
+    ]
+   },
+   {
+    "t_in": 120.58,
+    "t_out": 121.66,
+    "hold": 1.08,
+    "words": "IS / EACH OTHER",
+    "height_pct_H": {
+     "small line": 3.5,
+     "main line": 6.7
+    }
+   },
+   {
+    "t_in": 137.47,
+    "t_out": 141.52,
+    "hold": 4.05,
+    "words": "MARVEL STUDIOS / the Fantastic 4 / FIRST STEPS",
+    "style": "hard cut in; FIRST STEPS letters flicker-resolve 137.5-139.0",
+    "height_pct_H": 43
+   },
+   {
+    "t_in": 141.52,
+    "t_out": 143.19,
+    "hold": 1.67,
+    "words": "GET TICKETS NOW / IN THEATERS JULY 25TH / PRESENTED IN FANTASTIVISION"
+   }
+  ],
+  "card_style": "all cards on a steel-blue radial gradient (approx #1d3247 edges -> #3b5c7c centre), cream text (approx #ece6d6), geometric sans caps, tracking ~0.25-0.3 em, centred; hard cuts in and out",
+  "in_picture_devices": "1.42-5.09 four centred portrait close-ups (0.8-1.0 s each) on the blue '4' stage; 8.59-9.59 X-shaped four-way split screen; 34.45 the flame trail writes a '4' in the sky",
+  "events": {
+   "pre_reveal_gap": "61.2 s, 0.65 s at -50 dBFS, then Silver Surfer / Galactus reveal, hit 63.3 s",
+   "emotional_dip": "104-105.5 s, -35 LUFS momentary",
+   "loudness_by_quarter_median": [
+    -15.5,
+    -17.4,
+    -16.1,
+    -12.5
+   ],
+   "title": "cut at 137.47 lands on a sustained peak (-8.6 LUFS M); no pre-title silence",
+   "longest_shot": "121.66-129.92 (8.26 s) slow-motion hero shot directly after the last tagline card",
+   "beatsync": "cuts on onset 23% vs chance 22% (no beat cutting)"
+  }
+ }
+}

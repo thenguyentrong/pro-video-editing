@@ -1,0 +1,133 @@
+{
+ "name": "scrub_daddy_flow_state",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "1EvAUQTM2pM",
+  "title": "flow state",
+  "upload_date": "20251124",
+  "duration": 5,
+  "view_count": 111860,
+  "like_count": 1766,
+  "channel": "Scrub Daddy",
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/shorts/1EvAUQTM2pM"
+ },
+ "file": "sd_flow-state.webm",
+ "duration_s": 5.121,
+ "fps": 30.0,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 0,
+ "shot_count": 1,
+ "asl_s": 5.12,
+ "median_s": 5.12,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 11.7,
+ "asl_quarters_s": [
+  1.28,
+  1.28,
+  1.28,
+  1.28
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 5.121
+  }
+ ],
+ "shortest": [
+  {
+   "start": 0.0,
+   "len": 5.121
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 0,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.642,
+ "soft_transition_candidates": [
+  {
+   "t": 0.5,
+   "score": 0.277
+  },
+  {
+   "t": 1.6,
+   "score": 0.297
+  },
+  {
+   "t": 2.3,
+   "score": 0.335
+  },
+  {
+   "t": 3.5,
+   "score": 0.407
+  },
+  {
+   "t": 4.5,
+   "score": 0.581
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 5.121,
+   "len": 5.121
+  }
+ ],
+ "cuts": [],
+ "loudness": {
+  "integrated_lufs": -14.0,
+  "loudness_range_lu": 0.8,
+  "true_peak_dbtp": 0.3
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 3.05,
+    "level_dbfs": -9.8,
+    "rise_db": 15.1
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 3.05,
+    "level_dbfs": -9.8,
+    "rise_db": 15.1
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 2.25,
+   "rms_dbfs": -16.3
+  },
+  "median_rms_dbfs": -20.1
+ },
+ "sync": {
+  "onsets_per_s": 1.37,
+  "cuts_on_onset_pct": null,
+  "chance_pct": null,
+  "note": "no cuts or no onsets"
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "true peak 0.3 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

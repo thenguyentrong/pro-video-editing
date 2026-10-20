@@ -1,0 +1,209 @@
+{
+ "name": "ryanair_dont_worry_guys",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "cl3kZ7qBD80",
+  "title": "don't worry guys #ryanair",
+  "upload_date": "20261002",
+  "duration": 6,
+  "view_count": 205066,
+  "like_count": 3349,
+  "channel": "Ryanair",
+  "uploader": "Ryanair",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/watch?v=cl3kZ7qBD80",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [],
+  "shots": 1,
+  "ASL_s": 6.01,
+  "median_s": 6.01,
+  "ASL_quarters_s": [
+   1.5,
+   1.5,
+   1.5,
+   1.5
+  ],
+  "longest_start_len": [
+   [
+    0.0,
+    6.01
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    0.0,
+    6.01
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 100,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "one continuous phone shot (planespotter-style handheld pan), no cuts"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 6.01
+ },
+ "cuts_cuts2": [],
+ "shot_stats_cuts2": {
+  "name": "ryanair_dont_worry_guys",
+  "length": 5.96,
+  "shots": 1,
+  "ASL": 5.96,
+  "median": 5.96,
+  "ASL_quarters": [
+   1.49,
+   1.49,
+   1.49,
+   1.49
+  ],
+  "longest": [
+   [
+    0.0,
+    5.96
+   ]
+  ],
+  "shortest": [
+   [
+    0.0,
+    5.96
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 100,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 1,
+   "asl": 6.01
+  },
+  "0.25": {
+   "n_shots": 1,
+   "asl": 6.01
+  },
+  "0.3": {
+   "n_shots": 1,
+   "asl": 6.01
+  },
+  "0.35": {
+   "n_shots": 1,
+   "asl": 6.01
+  },
+  "0.4": {
+   "n_shots": 1,
+   "asl": 6.01
+  }
+ },
+ "integrated_lufs": -14.1,
+ "loudness_dropouts": [
+  {
+   "start": 6.0,
+   "end": 6.5,
+   "len": 0.5,
+   "ref": -14.1,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 0.5,
+  "loudest_M": -11.4,
+  "big_hits_near_peak": [
+   [
+    3.4,
+    0.5,
+    -11.4
+   ],
+   [
+    2.8,
+    1.0,
+    -12.0
+   ],
+   [
+    2.0,
+    3.0,
+    -11.9
+   ]
+  ],
+  "biggest_rises": [
+   [
+    3.4,
+    0.5,
+    -11.4
+   ],
+   [
+    2.8,
+    1.0,
+    -12.0
+   ],
+   [
+    2.0,
+    3.0,
+    -11.9
+   ],
+   [
+    1.9,
+    5.5,
+    -14.1
+   ],
+   [
+    1.5,
+    2.5,
+    -12.4
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -10.7,
+   21.1,
+   1.1
+  ],
+  [
+   -11.0,
+   16.4,
+   3.35
+  ],
+  [
+   -12.0,
+   17.5,
+   2.25
+  ]
+ ],
+ "beatsync": "ryanair_dont_worry_guys onsets/s 3.17 cuts on onset (+-0.1s) 0 % vs chance 0 %",
+ "manual": {
+  "format": "9:16 1080x1920, TikTok cross-posted to YouTube Shorts",
+  "sub_style": "topical banter / football joke over plain footage",
+  "hook_0_2s": "frame 1: a Ryanair 737 on final approach filmed from behind the airport fence (handheld phone pan), text 'don't worry City fans,' already on screen at 0.0 s",
+  "captions": {
+   "style": "TikTok native 'Classic' text: white, thin black outline, sentence case lowercase start, centred",
+   "cap_height_pct_H": 3.3,
+   "position_pct_H": "18-33 (3 lines)",
+   "reveal": "block in two steps: line 1 at 0.0 s, lines 2-3 'we can still fly you to Luton' at ~3.0 s (punch line)",
+   "word_by_word": false
+  },
+  "on_screen_text_density": "4 words, then 11 words",
+  "audio": "music bed + a 'Woo!' shout (auto-caption shows '[music] Woo!'); integrated -14.1 LUFS",
+  "audio_type": "sound under real footage (trend/library, not identified)",
+  "voice": false,
+  "topicality": "posted the day after a Man City result (title: 'don't worry guys'): reacts to sport news within ~24 h",
+  "loop": "plane lands and taxis out of frame; no end card",
+  "views_at_analysis": 205066,
+  "likes": 3349
+ }
+}

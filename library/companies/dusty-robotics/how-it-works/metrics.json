@@ -1,0 +1,386 @@
+{
+ "name": "dusty-robotics_how-it-works",
+ "file": "dusty-robotics_how-it-works.mp4",
+ "duration_s": 84.494,
+ "fps": 24.0,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 16,
+ "shot_count": 17,
+ "asl_s": 4.97,
+ "median_s": 4.38,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 76.5,
+ "shots_per_minute": 12.1,
+ "asl_quarters_s": [
+  5.28,
+  4.22,
+  2.64,
+  7.04
+ ],
+ "longest": [
+  {
+   "start": 75.1,
+   "len": 9.394
+  },
+  {
+   "start": 62.5,
+   "len": 9.1
+  },
+  {
+   "start": 15.5,
+   "len": 8.3
+  }
+ ],
+ "shortest": [
+  {
+   "start": 45.2,
+   "len": 1.9
+  },
+  {
+   "start": 47.1,
+   "len": 1.9
+  },
+  {
+   "start": 56.1,
+   "len": 2.1
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 2,
+  "20-30": 2,
+  "30-40": 2,
+  "40-50": 3,
+  "50-60": 3,
+  "60-70": 1,
+  "70-80": 2,
+  "80-90": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 3,
+  "only_in_other": [
+   9.708
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.85,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.42
+  },
+  {
+   "t": 6.2,
+   "score": 0.552
+  },
+  {
+   "t": 17.4,
+   "score": 0.413
+  },
+  {
+   "t": 19.0,
+   "score": 0.483
+  },
+  {
+   "t": 41.5,
+   "score": 0.394
+  },
+  {
+   "t": 42.3,
+   "score": 0.433
+  },
+  {
+   "t": 46.2,
+   "score": 1.533
+  },
+  {
+   "t": 51.0,
+   "score": 0.207
+  },
+  {
+   "t": 51.9,
+   "score": 0.315
+  },
+  {
+   "t": 59.0,
+   "score": 1.518
+  },
+  {
+   "t": 65.9,
+   "score": 0.541
+  },
+  {
+   "t": 66.6,
+   "score": 0.459
+  },
+  {
+   "t": 70.8,
+   "score": 1.143
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.125,
+   "len": 3.125
+  },
+  {
+   "i": 2,
+   "start": 3.125,
+   "end": 10.0,
+   "len": 6.875
+  },
+  {
+   "i": 3,
+   "start": 10.0,
+   "end": 15.5,
+   "len": 5.5
+  },
+  {
+   "i": 4,
+   "start": 15.5,
+   "end": 23.8,
+   "len": 8.3
+  },
+  {
+   "i": 5,
+   "start": 23.8,
+   "end": 28.5,
+   "len": 4.7
+  },
+  {
+   "i": 6,
+   "start": 28.5,
+   "end": 32.0,
+   "len": 3.5
+  },
+  {
+   "i": 7,
+   "start": 32.0,
+   "end": 39.8,
+   "len": 7.8
+  },
+  {
+   "i": 8,
+   "start": 39.8,
+   "end": 45.2,
+   "len": 5.4
+  },
+  {
+   "i": 9,
+   "start": 45.2,
+   "end": 47.1,
+   "len": 1.9
+  },
+  {
+   "i": 10,
+   "start": 47.1,
+   "end": 49.0,
+   "len": 1.9
+  },
+  {
+   "i": 11,
+   "start": 49.0,
+   "end": 53.375,
+   "len": 4.375
+  },
+  {
+   "i": 12,
+   "start": 53.375,
+   "end": 56.1,
+   "len": 2.725
+  },
+  {
+   "i": 13,
+   "start": 56.1,
+   "end": 58.2,
+   "len": 2.1
+  },
+  {
+   "i": 14,
+   "start": 58.2,
+   "end": 62.5,
+   "len": 4.3
+  },
+  {
+   "i": 15,
+   "start": 62.5,
+   "end": 71.6,
+   "len": 9.1
+  },
+  {
+   "i": 16,
+   "start": 71.6,
+   "end": 75.1,
+   "len": 3.5
+  },
+  {
+   "i": 17,
+   "start": 75.1,
+   "end": 84.494,
+   "len": 9.394
+  }
+ ],
+ "cuts": [
+  3.125,
+  10.0,
+  15.5,
+  23.8,
+  28.5,
+  32.0,
+  39.8,
+  45.2,
+  47.1,
+  49.0,
+  53.375,
+  56.1,
+  58.2,
+  62.5,
+  71.6,
+  75.1
+ ],
+ "loudness": {
+  "integrated_lufs": -20.1,
+  "loudness_range_lu": 2.9,
+  "true_peak_dbtp": -4.0
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 83.55,
+    "end": 84.45,
+    "len": 0.9
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 40.3,
+    "level_dbfs": -14.7,
+    "rise_db": 18.9
+   },
+   {
+    "t": 79.15,
+    "level_dbfs": -15.3,
+    "rise_db": 17.7
+   },
+   {
+    "t": 49.75,
+    "level_dbfs": -15.9,
+    "rise_db": 17.4
+   },
+   {
+    "t": 63.75,
+    "level_dbfs": -16.1,
+    "rise_db": 19.6
+   },
+   {
+    "t": 65.55,
+    "level_dbfs": -16.4,
+    "rise_db": 19.0
+   },
+   {
+    "t": 16.1,
+    "level_dbfs": -16.5,
+    "rise_db": 19.0
+   },
+   {
+    "t": 42.6,
+    "level_dbfs": -16.5,
+    "rise_db": 16.7
+   },
+   {
+    "t": 31.95,
+    "level_dbfs": -16.6,
+    "rise_db": 16.0
+   },
+   {
+    "t": 23.7,
+    "level_dbfs": -16.7,
+    "rise_db": 16.8
+   },
+   {
+    "t": 13.7,
+    "level_dbfs": -16.8,
+    "rise_db": 16.9
+   },
+   {
+    "t": 56.65,
+    "level_dbfs": -16.9,
+    "rise_db": 19.6
+   },
+   {
+    "t": 43.85,
+    "level_dbfs": -17.1,
+    "rise_db": 17.1
+   },
+   {
+    "t": 60.75,
+    "level_dbfs": -17.3,
+    "rise_db": 15.8
+   },
+   {
+    "t": 45.15,
+    "level_dbfs": -17.6,
+    "rise_db": 19.8
+   },
+   {
+    "t": 76.25,
+    "level_dbfs": -17.6,
+    "rise_db": 18.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -30.7,
+    "rise_db": 89.3
+   },
+   {
+    "t": 45.15,
+    "level_dbfs": -17.6,
+    "rise_db": 19.8
+   },
+   {
+    "t": 63.75,
+    "level_dbfs": -16.1,
+    "rise_db": 19.6
+   },
+   {
+    "t": 56.65,
+    "level_dbfs": -16.9,
+    "rise_db": 19.6
+   },
+   {
+    "t": 65.55,
+    "level_dbfs": -16.4,
+    "rise_db": 19.0
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 40.25,
+   "rms_dbfs": -17.8
+  },
+  "median_rms_dbfs": -24.7
+ },
+ "sync": {
+  "onsets_per_s": 2.25,
+  "cuts_on_onset_pct": 56,
+  "chance_pct": 44,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [9.708] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

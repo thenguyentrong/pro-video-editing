@@ -1,0 +1,258 @@
+{
+ "name": "ryanair_buy_your_own_plane_stitch",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "zsNb49CFVO0",
+  "title": "buy your own plane 🥱 #stitch w/ @niamhdoherty3 #ryanair",
+  "upload_date": "20260917",
+  "duration": 6,
+  "view_count": 595521,
+  "like_count": 5529,
+  "channel": "Ryanair",
+  "uploader": "Ryanair",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=zsNb49CFVO0",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.33,
+   1.97,
+   2.97,
+   3.5,
+   4.67
+  ],
+  "shots": 6,
+  "ASL_s": 1.07,
+  "median_s": 1.08,
+  "ASL_quarters_s": [
+   0.8,
+   0.54,
+   0.54,
+   1.61
+  ],
+  "longest_start_len": [
+   [
+    4.67,
+    1.76
+   ],
+   [
+    0.0,
+    1.33
+   ],
+   [
+    3.5,
+    1.17
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    2.97,
+    0.53
+   ],
+   [
+    1.33,
+    0.63
+   ],
+   [
+    1.97,
+    1.0
+   ]
+  ],
+  "pct_under_1s": 33,
+  "pct_over_3s": 0,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "cuts2.py hard cuts, checked by eye on dense strips / verify pairs"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 6.43
+ },
+ "cuts_cuts2": [
+  1.333,
+  1.967,
+  2.967,
+  3.5,
+  4.667
+ ],
+ "shot_stats_cuts2": {
+  "name": "ryanair_buy_your_own_plane_stitch",
+  "length": 6.37,
+  "shots": 6,
+  "ASL": 1.06,
+  "median": 1.08,
+  "ASL_quarters": [
+   0.8,
+   0.53,
+   0.53,
+   1.59
+  ],
+  "longest": [
+   [
+    4.67,
+    1.7
+   ],
+   [
+    0.0,
+    1.33
+   ],
+   [
+    3.5,
+    1.17
+   ],
+   [
+    1.97,
+    1.0
+   ]
+  ],
+  "shortest": [
+   [
+    2.97,
+    0.53
+   ],
+   [
+    1.33,
+    0.63
+   ],
+   [
+    1.97,
+    1.0
+   ],
+   [
+    3.5,
+    1.17
+   ]
+  ],
+  "pct_under_1s": 33,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 6,
+   "asl": 1.07
+  },
+  "0.25": {
+   "n_shots": 6,
+   "asl": 1.07
+  },
+  "0.3": {
+   "n_shots": 6,
+   "asl": 1.07
+  },
+  "0.35": {
+   "n_shots": 6,
+   "asl": 1.07
+  },
+  "0.4": {
+   "n_shots": 6,
+   "asl": 1.07
+  }
+ },
+ "integrated_lufs": -12.1,
+ "loudness_dropouts": [],
+ "loudness_hits": {
+  "loudest_t": 5.5,
+  "loudest_M": -8.1,
+  "big_hits_near_peak": [
+   [
+    8.5,
+    4.0,
+    -10.8
+   ],
+   [
+    8.2,
+    3.0,
+    -11.1
+   ],
+   [
+    7.9,
+    3.5,
+    -11.4
+   ]
+  ],
+  "biggest_rises": [
+   [
+    8.5,
+    4.0,
+    -10.8
+   ],
+   [
+    8.2,
+    3.0,
+    -11.1
+   ],
+   [
+    7.9,
+    3.5,
+    -11.4
+   ],
+   [
+    2.8,
+    5.0,
+    -8.6
+   ],
+   [
+    2.7,
+    5.5,
+    -8.1
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [
+  {
+   "start": 4.5,
+   "len": 0.15,
+   "ref": -19.8,
+   "floor": -92.8,
+   "next_peak": -10.3,
+   "peak_t": 4.7
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -10.3,
+   82.6,
+   4.9
+  ],
+  [
+   -11.0,
+   17.0,
+   1.65
+  ],
+  [
+   -12.3,
+   43.7,
+   3.75
+  ]
+ ],
+ "beatsync": "ryanair_buy_your_own_plane_stitch onsets/s 1.88 cuts on onset (+-0.1s) 100 % vs chance 40 %",
+ "manual": {
+  "format": "9:16 1080x1920, TikTok #stitch cross-posted to YouTube Shorts",
+  "sub_style": "meme / stitch reply to a customer complaint (UGC + brand mascot face)",
+  "hook_0_2s": "0.0-1.3 s: the customer's own clip (phone, plane cabin, Smirnoff Ice can on the tray table, her TikTok caption 'Thanks Ryanair 😋✈️' at ~50% H, small classic white text); 1.3 s cut to the Ryanair 737 nose with pasted human eyes + lips, staring = the brand's silent reaction",
+  "captions": {
+   "ugc_caption": "kept from the stitched clip: TikTok classic white, cap ~1.5% H at ~50% H",
+   "brand_captions": "auto-caption style: white bold caps (Montserrat ExtraBold / 'The Bold Font'-like) with dark drop shadow, 1-2 words per card ('WELL MAYBE', 'PUT', 'HOLDER', 'LIKE', 'YOUR', 'PLANE'), cap ~5.3% H, centred at ~78% H",
+   "word_by_word": true
+  },
+  "graphics": "two red meme arrows pointing at the cup holder on a 250% punch-in of the stitched clip (3.5-4.6 s)",
+  "on_screen_text_density": "1-2 words at a time",
+  "audio": "the customer's original audio, then the plane 'voice' (deadpan VO: 'Well, maybe put it in the holder...'); 0.15 s silence at 4.5 s then the payoff hit at 4.7 s; integrated -12.1 LUFS; cuts on audio onsets 100% vs 40% chance",
+  "audio_type": "original VO over stitched UGC",
+  "voice": true,
+  "loop": "ends on the plane taking off mid-word, hard end, no logo",
+  "views_at_analysis": 595521,
+  "likes": 5529
+ }
+}

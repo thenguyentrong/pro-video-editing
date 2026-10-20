@@ -1,0 +1,633 @@
+{
+ "name": "wb_dune2_trailer3",
+ "source": {
+  "title": "Dune: Part Two | Official Trailer 3",
+  "full_duration_s": "160",
+  "upload_date": "20231212",
+  "channel": "Warner Bros.",
+  "url": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
+  "analysed_resolution": "854x480",
+  "note": "source block rebuilt (the metrics script had split the title on '|')"
+ },
+ "analysed_window_s": [
+  0,
+  159.53
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "160 w:854 h:448 x:0 y:16",
+  "94 w:854 h:450 x:0 y:16",
+  "4 w:832 h:448 x:0 y:16",
+  "3 w:854 h:432 x:0 y:16",
+  "2 w:774 h:448 x:80 y:16",
+  "2 w:706 h:448 x:148 y:16"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 159.53,
+  "shots": 112,
+  "ASL": 1.42,
+  "median": 1.29,
+  "ASL_quarters": [
+   1.38,
+   1.48,
+   1.42,
+   1.29
+  ],
+  "longest": [
+   [
+    154.61,
+    4.92
+   ],
+   [
+    150.53,
+    4.09
+   ],
+   [
+    54.76,
+    3.67
+   ],
+   [
+    86.46,
+    3.42
+   ]
+  ],
+  "shortest": [
+   [
+    30.2,
+    0.42
+   ],
+   [
+    128.71,
+    0.46
+   ],
+   [
+    28.95,
+    0.5
+   ],
+   [
+    70.28,
+    0.54
+   ]
+  ],
+  "pct_under_1s": 30,
+  "pct_over_3s": 6,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    63.94,
+    1.16
+   ]
+  ],
+  "cuts_per_10s": [
+   3,
+   11,
+   8,
+   6,
+   6,
+   5,
+   6,
+   9,
+   6,
+   6,
+   7,
+   8,
+   11,
+   10,
+   7,
+   2
+  ],
+  "cut_times": [
+   3.086,
+   4.963,
+   7.257,
+   10.01,
+   11.47,
+   13.013,
+   14.056,
+   15.515,
+   16.391,
+   17.059,
+   17.809,
+   18.435,
+   19.144,
+   19.853,
+   21.188,
+   22.773,
+   23.5,
+   24.524,
+   27.486,
+   28.111,
+   28.946,
+   29.446,
+   30.197,
+   30.614,
+   31.657,
+   35.077,
+   37.162,
+   39.122,
+   42.251,
+   43.543,
+   44.836,
+   46.171,
+   47.506,
+   48.799,
+   50.3,
+   52.719,
+   54.763,
+   58.433,
+   59.9,
+   61.186,
+   62.437,
+   63.939,
+   65.1,
+   66.441,
+   67.442,
+   70.279,
+   70.821,
+   71.738,
+   72.281,
+   72.99,
+   75.075,
+   75.9,
+   77.536,
+   79.079,
+   80.622,
+   81.623,
+   83.166,
+   84.96,
+   86.461,
+   89.881,
+   91.216,
+   93.093,
+   94.428,
+   96.93,
+   97.9,
+   99.391,
+   100.809,
+   102.644,
+   103.854,
+   104.98,
+   106.6,
+   107.858,
+   109.443,
+   110.944,
+   112.154,
+   113.238,
+   114.99,
+   115.741,
+   117.284,
+   118.702,
+   119.619,
+   120.62,
+   121.455,
+   122.039,
+   123.04,
+   124.166,
+   124.875,
+   127.085,
+   128.17,
+   128.712,
+   129.171,
+   129.755,
+   131.1,
+   132.466,
+   133.55,
+   134.343,
+   135.135,
+   136.303,
+   137.929,
+   138.513,
+   139.181,
+   139.848,
+   141.224,
+   141.975,
+   142.893,
+   144.102,
+   145.145,
+   147.064,
+   147.9,
+   150.525,
+   154.613
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 88,
+   "asl": 1.81
+  },
+  "0.25": {
+   "n_shots": 79,
+   "asl": 2.02
+  },
+  "0.3": {
+   "n_shots": 72,
+   "asl": 2.22
+  },
+  "0.35": {
+   "n_shots": 61,
+   "asl": 2.62
+  },
+  "0.4": {
+   "n_shots": 53,
+   "asl": 3.01
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   2.1,
+   0.142
+  ],
+  [
+   5.9,
+   0.109
+  ],
+  [
+   8.3,
+   0.288
+  ],
+  [
+   26.2,
+   1.226
+  ],
+  [
+   32.9,
+   0.477
+  ],
+  [
+   53.7,
+   0.304
+  ],
+  [
+   56.9,
+   0.363
+  ],
+  [
+   59.9,
+   0.787
+  ],
+  [
+   65.2,
+   0.501
+  ],
+  [
+   76.0,
+   4.318
+  ],
+  [
+   88.2,
+   0.282
+  ],
+  [
+   98.0,
+   0.867
+  ],
+  [
+   106.7,
+   0.479
+  ],
+  [
+   125.9,
+   0.66
+  ],
+  [
+   131.2,
+   1.208
+  ],
+  [
+   148.0,
+   2.907
+  ],
+  [
+   152.0,
+   0.294
+  ],
+  [
+   158.1,
+   0.163
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   35.1,
+   35.4
+  ],
+  [
+   39.1,
+   39.3
+  ],
+  [
+   42.3,
+   42.5
+  ],
+  [
+   63.9,
+   65.1
+  ],
+  [
+   75.1,
+   75.7
+  ],
+  [
+   78.9,
+   79.1
+  ],
+  [
+   82.9,
+   83.2
+  ],
+  [
+   147.1,
+   147.8
+  ],
+  [
+   154.6,
+   155.1
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.5,
+  "loudest_t_s": 129.5,
+  "loudest_momentary_lufs": -9.7,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 158.5,
+    "end": 160.0,
+    "len": 1.5,
+    "ref": -27.8,
+    "floor": -66.6,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    14.3,
+    13.5,
+    -12.5
+   ],
+   [
+    12.5,
+    52.0,
+    -16.6
+   ],
+   [
+    12.2,
+    51.5,
+    -16.9
+   ],
+   [
+    12.1,
+    51.0,
+    -17.0
+   ],
+   [
+    11.9,
+    11.5,
+    -18.2
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [],
+  "hits_dbfs_rise_t": [
+   [
+    -8.6,
+    23.6,
+    22.8
+   ],
+   [
+    -8.8,
+    22.9,
+    13.6
+   ],
+   [
+    -9.3,
+    15.2,
+    128.5
+   ],
+   [
+    -13.3,
+    16.5,
+    38.35
+   ],
+   [
+    -13.4,
+    17.5,
+    46.25
+   ],
+   [
+    -13.6,
+    17.5,
+    51.85
+   ],
+   [
+    -15.9,
+    17.2,
+    80.15
+   ],
+   [
+    -16.4,
+    21.2,
+    11.5
+   ],
+   [
+    -16.4,
+    15.2,
+    27.85
+   ],
+   [
+    -17.0,
+    20.1,
+    1.55
+   ],
+   [
+    -18.8,
+    25.9,
+    78.0
+   ],
+   [
+    -20.5,
+    15.5,
+    81.45
+   ],
+   [
+    -20.7,
+    15.0,
+    83.25
+   ],
+   [
+    -21.2,
+    18.7,
+    153.55
+   ],
+   [
+    -21.3,
+    16.9,
+    12.55
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.71 cuts on onset (+-0.1s) 11 % vs chance 14 % (recomputed on corrected cuts)",
+ "empty_frame": "mostly-empty 11% (on dark 10%, on light 0%), median empty share 38%",
+ "manual_corrections": "All 103 cuts2 cuts checked on verify pairs (all real). Added 8 soft/dark transitions seen by eye: 23.5 (WB->Legendary dissolve), 59.9 (card dissolve), 65.1 (dark cut), 75.9 (fade up from black), 97.9 and 106.6 (card dissolves), 131.1 (cut hidden in explosion), 147.9 (fade up from black). Final 112 shots.",
+ "manual": {
+  "aspect": "16:9 container, thin bars 16 px top/bottom at 480p -> active 854x448 = 1.90:1 (IMAX digital ratio) for the whole trailer; no ratio changes seen",
+  "sections_s": {
+   "cold_open": [
+    0,
+    22.77
+   ],
+   "wb_logo": [
+    22.77,
+    23.5
+   ],
+   "legendary_logo": [
+    23.5,
+    24.52
+   ],
+   "body": [
+    24.52,
+    147.06
+   ],
+   "black_before_title": [
+    147.06,
+    147.9
+   ],
+   "last_shot": [
+    147.9,
+    150.53
+   ],
+   "title": [
+    150.53,
+    154.61
+   ],
+   "end_block": [
+    154.61,
+    159.53
+   ]
+  },
+  "asl_by_section_s": {
+   "cold_open_0_22.8": 1.42,
+   "act1_24.5_58.4": 1.7,
+   "act2_60_96.9": 1.48,
+   "act3_98_147": 1.14,
+   "title_end_150.5_159.5": 4.5
+  },
+  "densest_10s_window": {
+   "start_s": 133,
+   "cuts": 11,
+   "pct_of_runtime": "83-90%"
+  },
+  "text_cards": [
+   {
+    "words": "FROM DIRECTOR / DENIS VILLENEUVE",
+    "t_in": 58.43,
+    "t_out": 60.2,
+    "on_screen_s": 1.8,
+    "in": "hard cut onto orange radial glow, text already there",
+    "out": "dissolve into fire shot 59.3-60.2 (text visible over the picture)",
+    "cap_height_pct_H": {
+     "small_line": 1.9,
+     "name_line": 2.7
+    },
+    "centre_y_pct": [
+     46,
+     50
+    ],
+    "tracking": "very wide, ~0.35 em (eyeballed)",
+    "colour": "peach-gold #FFB386 to #FFD89F highlights"
+   },
+   {
+    "words": "ON MARCH 1",
+    "t_in": 96.93,
+    "t_out": 98.2,
+    "on_screen_s": 1.3,
+    "in": "hard cut",
+    "out": "dissolve 97.5-98.2 into arches shot",
+    "cap_height_pct_H": 2.9,
+    "centre_y_pct": 49.6
+   },
+   {
+    "words": "DESTINY ARRIVES",
+    "t_in": 104.98,
+    "t_out": 106.6,
+    "on_screen_s": 1.6,
+    "in": "hard cut, letters brighten left to right like a light sweep (~0.2 s)",
+    "out": "dissolve 105.9-106.6 into doors shot, text over picture",
+    "cap_height_pct_H": 2.7,
+    "centre_y_pct": 49.5
+   },
+   {
+    "words": "DUNE / PART TWO (title logo)",
+    "t_in": 150.53,
+    "t_out": 154.3,
+    "on_screen_s": 3.8,
+    "in": "hard cut; DUNE glyphs present, PART TWO fades in by ~151.3; horizontal anamorphic flare streak through the E",
+    "out": "cut to black 154.3, cast block fades in 154.6-155.0",
+    "cap_height_pct_H": {
+     "DUNE": "8-10 (incl. glow)",
+     "PART TWO": 2.1
+    },
+    "centre_y_pct": [
+     48,
+     61
+    ]
+   },
+   {
+    "words": "cast block (11 names)",
+    "t_in": 154.6,
+    "t_out": 156.0,
+    "line_height_pct_H": 2.3
+   },
+   {
+    "words": "ONLY IN THEATERS / MARCH 1 / FILMED FOR IMAX / text-to number + logos",
+    "t_in": 156.0,
+    "t_out": 158.2,
+    "line_height_pct_H": "1.9-4.4"
+   },
+   {
+    "words": "BASED ON / SCREENPLAY BY / DIRECTED BY + logos",
+    "t_in": 158.3,
+    "t_out": 159.5
+   }
+  ],
+  "card_background": "radial orange glow: bottom-centre #E2761E, mid #A23113, top #2C080A, edges #0D0101",
+  "audio_events": [
+   {
+    "t": 10.5,
+    "what": "0.5 s dip to about -30 LUFS momentary under quiet dialogue, then the +23 dB rise at 13.0-13.6 on a cut"
+   },
+   {
+    "t": 22.8,
+    "what": "hit on the cut to the WB logo, +23.6 dB rise in 50 ms windows, -8.6 dBFS"
+   },
+   {
+    "t_range": [
+     75,
+     83
+    ],
+    "what": "valley: three short blacks (75.1-75.9, 78.9-79.1, 82.9-83.2) and the bed down to -41..-46 dBFS minima, then the worm sequence back at -12"
+   },
+   {
+    "t_range": [
+     96,
+     101
+    ],
+    "what": "loud plateau -9 dBFS peaks under ON MARCH 1 and Feyd"
+   },
+   {
+    "t": 129.5,
+    "what": "loudest 0.5 s (-9.7 LUFS M) on the battle explosion"
+   },
+   {
+    "t_range": [
+     148,
+     159.5
+    ],
+    "what": "no hit for the title: level decays from -14 to -22..-27 dBFS peaks; title sits on the tail"
+   }
+  ]
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "name": "samsung_photoassist_ad",
+ "url": "https://www.youtube.com/watch?v=guKQSNsnBfo",
+ "analysed": "2026-10-20, 480p YouTube download (media deleted after analysis)",
+ "resolution_analysed": "854,480",
+ "duration_s": 35.01,
+ "fps": 25.0,
+ "cut_detection": "cuts2.py adaptive hard cuts, every cut pair checked by eye (verify.py); soft transitions from soft.py checked by eye (cand.py) and added only when they are real scene changes",
+ "soft_transitions_added_s": [
+  4.3,
+  10.4,
+  12.9,
+  21.2
+ ],
+ "false_cuts_dropped_s": [],
+ "shots": 17,
+ "asl_s": 1.78,
+ "median_shot_s": 1.44,
+ "asl_quarters_s": [
+  1.26,
+  1.89,
+  1.52,
+  1.51
+ ],
+ "longest_shots_start_len": [
+  [
+   5.68,
+   4.72
+  ],
+  [
+   24.8,
+   2.68
+  ],
+  [
+   10.4,
+   2.5
+  ],
+  [
+   21.2,
+   2.36
+  ]
+ ],
+ "shortest_shots_start_len": [
+  [
+   3.76,
+   0.54
+  ],
+  [
+   29.36,
+   0.94
+  ],
+  [
+   1.2,
+   0.96
+  ],
+  [
+   12.9,
+   1.14
+  ]
+ ],
+ "pct_shots_under_1s": 18,
+ "pct_shots_over_3s": 6,
+ "black_holds_start_len": [
+  [
+   29.36,
+   0.94
+  ]
+ ],
+ "cuts_per_10s": {
+  "0-10s": 5,
+  "10-20s": 6,
+  "20-30s": 5,
+  "30-40s": 0
+ },
+ "cut_times_s": [
+  1.2,
+  2.16,
+  3.76,
+  4.3,
+  5.68,
+  10.4,
+  12.9,
+  14.04,
+  16.36,
+  17.64,
+  19.08,
+  21.2,
+  23.56,
+  24.8,
+  27.48,
+  29.36
+ ],
+ "scene_threshold_sweep": {
+  "0.2": {
+   "n_shots": 12,
+   "asl": 2.92
+  },
+  "0.25": {
+   "n_shots": 12,
+   "asl": 2.92
+  },
+  "0.3": {
+   "n_shots": 9,
+   "asl": 3.89
+  },
+  "0.35": {
+   "n_shots": 7,
+   "asl": 5.0
+  },
+  "0.4": {
+   "n_shots": 5,
+   "asl": 7.0
+  }
+ },
+ "audio": {
+  "integrated_lufs": -10.0,
+  "median_rms_dbfs_50ms": -15.2,
+  "loudest_momentary": -6.2,
+  "loudest_at_s": 21.0,
+  "dropouts_ebu_0.5s_bins": [
+   {
+    "start": 30.5,
+    "end": 35.5,
+    "len": 5.0,
+    "ref": -10.2,
+    "floor": -147.0,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "gaps_50ms_rms": [
+   {
+    "start": 7.9,
+    "len": 0.2,
+    "ref": -12.1,
+    "floor": -45.0,
+    "next_peak": -9.1,
+    "peak_t": 8.2
+   },
+   {
+    "start": 11.05,
+    "len": 0.15,
+    "ref": -14.4,
+    "floor": -45.9,
+    "next_peak": -6.8,
+    "peak_t": 11.7
+   },
+   {
+    "start": 17.9,
+    "len": 0.2,
+    "ref": -12.7,
+    "floor": -39.2,
+    "next_peak": -8.1,
+    "peak_t": 18.55
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -5.5,
+    17.8,
+    26.75
+   ],
+   [
+    -5.9,
+    16.7,
+    20.2
+   ],
+   [
+    -6.7,
+    32.9,
+    14.25
+   ],
+   [
+    -6.8,
+    26.8,
+    11.7
+   ],
+   [
+    -7.4,
+    19.1,
+    24.15
+   ],
+   [
+    -7.7,
+    19.0,
+    9.15
+   ],
+   [
+    -8.1,
+    31.1,
+    18.55
+   ],
+   [
+    -9.0,
+    17.9,
+    1.05
+   ]
+  ],
+  "beat_sync": "samsung_photoassist_ad onsets/s 1.46 cuts on onset (+-0.1s) 38 % vs chance 28 %"
+ },
+ "empty_frame_share": "samsung_photoassist_ad: samples 70, letterbox rows 0/36, mostly-empty 17% (on dark 17%, on light 0%), median empty share 33%"
+}

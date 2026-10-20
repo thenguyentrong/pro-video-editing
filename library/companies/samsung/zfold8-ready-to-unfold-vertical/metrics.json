@@ -1,0 +1,160 @@
+{
+ "name": "samsung_fold8_vertical",
+ "url": "https://www.youtube.com/watch?v=Wg4HOPzeHKw",
+ "analysed": "2026-10-20, 480p YouTube download (media deleted after analysis)",
+ "resolution_analysed": "480,854",
+ "duration_s": 20.89,
+ "fps": 23.976,
+ "cut_detection": "cuts2.py adaptive hard cuts, every cut pair checked by eye (verify.py); soft transitions from soft.py checked by eye (cand.py) and added only when they are real scene changes",
+ "soft_transitions_added_s": [
+  19.95
+ ],
+ "false_cuts_dropped_s": [
+  16.35
+ ],
+ "shots": 18,
+ "asl_s": 1.16,
+ "median_shot_s": 0.79,
+ "asl_quarters_s": [
+  1.73,
+  1.04,
+  0.74,
+  0.87
+ ],
+ "longest_shots_start_len": [
+  [
+   6.38,
+   2.46
+  ],
+  [
+   4.25,
+   2.13
+  ],
+  [
+   0.0,
+   2.13
+  ],
+  [
+   2.13,
+   2.13
+  ]
+ ],
+ "shortest_shots_start_len": [
+  [
+   10.18,
+   0.38
+  ],
+  [
+   13.3,
+   0.46
+  ],
+  [
+   15.14,
+   0.46
+  ],
+  [
+   17.56,
+   0.54
+  ]
+ ],
+ "pct_shots_under_1s": 61,
+ "pct_shots_over_3s": 0,
+ "black_holds_start_len": [
+  [
+   18.1,
+   1.85
+  ],
+  [
+   19.95,
+   0.86
+  ]
+ ],
+ "cuts_per_10s": {
+  "0-10s": 5,
+  "10-20s": 12,
+  "20-30s": 0
+ },
+ "cut_times_s": [
+  2.127,
+  4.254,
+  6.381,
+  8.842,
+  9.384,
+  10.177,
+  10.552,
+  11.345,
+  13.305,
+  13.764,
+  15.14,
+  15.599,
+  16.225,
+  16.934,
+  17.559,
+  18.101,
+  19.95
+ ],
+ "scene_threshold_sweep": {
+  "0.2": {
+   "n_shots": 22,
+   "asl": 0.95
+  },
+  "0.25": {
+   "n_shots": 22,
+   "asl": 0.95
+  },
+  "0.3": {
+   "n_shots": 19,
+   "asl": 1.1
+  },
+  "0.35": {
+   "n_shots": 15,
+   "asl": 1.39
+  },
+  "0.4": {
+   "n_shots": 15,
+   "asl": 1.39
+  }
+ },
+ "audio": {
+  "integrated_lufs": -9.9,
+  "median_rms_dbfs_50ms": -14.5,
+  "loudest_momentary": -6.5,
+  "loudest_at_s": 15.5,
+  "dropouts_ebu_0.5s_bins": [
+   {
+    "start": 19.0,
+    "end": 21.0,
+    "len": 2.0,
+    "ref": -7.5,
+    "floor": -62.7,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "gaps_50ms_rms": [],
+  "hits_dbfs_rise_t": [
+   [
+    -6.8,
+    15.0,
+    2.15
+   ],
+   [
+    -6.9,
+    15.4,
+    5.25
+   ],
+   [
+    -8.8,
+    16.7,
+    3.2
+   ],
+   [
+    -16.4,
+    44.1,
+    0.5
+   ]
+  ],
+  "beat_sync": "samsung_fold8_vertical onsets/s 0.91 cuts on onset (+-0.1s) 35 % vs chance 18 %"
+ },
+ "empty_frame_share": "samsung_fold8_vertical: samples 42, letterbox rows 0/36, mostly-empty 55% (on dark 55%, on light 0%), median empty share 72%"
+}

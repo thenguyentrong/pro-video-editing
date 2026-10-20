@@ -1,0 +1,275 @@
+{
+ "name": "big-architects_tamayo-museum",
+ "file": "big_tamayo.webm",
+ "duration_s": 117.121,
+ "fps": 24.0,
+ "width": 640,
+ "height": 360,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 6,
+ "shot_count": 7,
+ "asl_s": 16.73,
+ "median_s": 16.0,
+ "pct_shots_under_1s": 14.3,
+ "pct_shots_over_3s": 85.7,
+ "shots_per_minute": 3.6,
+ "asl_quarters_s": [
+  14.64,
+  9.76,
+  7.32,
+  29.28
+ ],
+ "longest": [
+  {
+   "start": 75.541,
+   "len": 41.58
+  },
+  {
+   "start": 0.0,
+   "len": 21.708
+  },
+  {
+   "start": 37.708,
+   "len": 16.042
+  }
+ ],
+ "shortest": [
+  {
+   "start": 75.166,
+   "len": 0.375
+  },
+  {
+   "start": 69.166,
+   "len": 6.0
+  },
+  {
+   "start": 53.75,
+   "len": 15.416
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 0,
+  "10-20": 0,
+  "20-30": 1,
+  "30-40": 1,
+  "40-50": 0,
+  "50-60": 1,
+  "60-70": 1,
+  "70-80": 2,
+  "80-90": 0,
+  "90-100": 0,
+  "100-110": 0,
+  "110-120": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 4,
+  "only_in_other": [
+   85.333
+  ],
+  "only_in_this": [
+   69.166,
+   75.166,
+   75.541
+  ]
+ },
+ "mean_luma": 0.327,
+ "soft_transition_candidates": [
+  {
+   "t": 8.8,
+   "score": 0.311
+  },
+  {
+   "t": 12.8,
+   "score": 0.176
+  },
+  {
+   "t": 14.0,
+   "score": 0.435
+  },
+  {
+   "t": 16.3,
+   "score": 0.59
+  },
+  {
+   "t": 20.4,
+   "score": 1.383
+  },
+  {
+   "t": 29.8,
+   "score": 0.215
+  },
+  {
+   "t": 31.0,
+   "score": 0.237
+  },
+  {
+   "t": 31.8,
+   "score": 0.238
+  },
+  {
+   "t": 33.3,
+   "score": 0.22
+  },
+  {
+   "t": 43.0,
+   "score": 0.248
+  },
+  {
+   "t": 49.0,
+   "score": 0.24
+  },
+  {
+   "t": 51.5,
+   "score": 0.219
+  },
+  {
+   "t": 58.5,
+   "score": 0.406
+  },
+  {
+   "t": 61.5,
+   "score": 2.257
+  },
+  {
+   "t": 67.3,
+   "score": 1.962
+  },
+  {
+   "t": 85.8,
+   "score": 9.663
+  },
+  {
+   "t": 87.5,
+   "score": 0.103
+  },
+  {
+   "t": 100.4,
+   "score": 0.44
+  },
+  {
+   "t": 107.3,
+   "score": 0.2
+  },
+  {
+   "t": 108.8,
+   "score": 0.161
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 16.2,
+   "end": 20.0
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 21.708,
+   "len": 21.708
+  },
+  {
+   "i": 2,
+   "start": 21.708,
+   "end": 37.708,
+   "len": 16.0
+  },
+  {
+   "i": 3,
+   "start": 37.708,
+   "end": 53.75,
+   "len": 16.042
+  },
+  {
+   "i": 4,
+   "start": 53.75,
+   "end": 69.166,
+   "len": 15.416
+  },
+  {
+   "i": 5,
+   "start": 69.166,
+   "end": 75.166,
+   "len": 6.0
+  },
+  {
+   "i": 6,
+   "start": 75.166,
+   "end": 75.541,
+   "len": 0.375
+  },
+  {
+   "i": 7,
+   "start": 75.541,
+   "end": 117.121,
+   "len": 41.58
+  }
+ ],
+ "cuts": [
+  21.708,
+  37.708,
+  53.75,
+  69.166,
+  75.166,
+  75.541
+ ],
+ "loudness": {
+  "integrated_lufs": -13.4,
+  "loudness_range_lu": 4.5,
+  "true_peak_dbtp": 0.3
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 1.45,
+    "len": 1.45
+   },
+   {
+    "start": 116.3,
+    "end": 117.1,
+    "len": 0.8
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 1.6,
+    "level_dbfs": -15.6,
+    "rise_db": 104.4
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 1.6,
+    "level_dbfs": -15.6,
+    "rise_db": 104.4
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 53.45,
+   "rms_dbfs": -11.9
+  },
+  "median_rms_dbfs": -15.2
+ },
+ "sync": {
+  "onsets_per_s": 0.14,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 3,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [85.333] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 0.3 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

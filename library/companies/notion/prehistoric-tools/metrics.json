@@ -1,0 +1,264 @@
+{
+ "name": "notion_prehistoric_tools",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "-jPiUEo_MWg",
+  "title": "You are what you use. Stop using prehistoric tools.",
+  "upload_date": "20251104",
+  "duration": 13,
+  "view_count": 20590,
+  "like_count": 187,
+  "channel": "Notion",
+  "uploader": "Notion",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=-jPiUEo_MWg",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.37,
+   2.8,
+   4.2,
+   5.6,
+   7.03,
+   8.47
+  ],
+  "shots": 7,
+  "ASL_s": 1.91,
+  "median_s": 1.43,
+  "ASL_quarters_s": [
+   1.11,
+   1.11,
+   1.11,
+   3.34
+  ],
+  "longest_start_len": [
+   [
+    8.47,
+    4.88
+   ],
+   [
+    7.03,
+    1.43
+   ],
+   [
+    5.6,
+    1.43
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    0.0,
+    1.37
+   ],
+   [
+    4.2,
+    1.4
+   ],
+   [
+    2.8,
+    1.4
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 14,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "6 cuts on a strict 1.40-1.43 s grid, then one 4.8 s wide"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 13.35
+ },
+ "cuts_cuts2": [
+  1.367,
+  2.8,
+  4.2,
+  5.6,
+  7.033,
+  8.467
+ ],
+ "shot_stats_cuts2": {
+  "name": "notion_prehistoric_tools",
+  "length": 13.3,
+  "shots": 7,
+  "ASL": 1.9,
+  "median": 1.43,
+  "ASL_quarters": [
+   1.11,
+   1.11,
+   1.11,
+   3.32
+  ],
+  "longest": [
+   [
+    8.47,
+    4.83
+   ],
+   [
+    7.03,
+    1.43
+   ],
+   [
+    5.6,
+    1.43
+   ],
+   [
+    1.37,
+    1.43
+   ]
+  ],
+  "shortest": [
+   [
+    0.0,
+    1.37
+   ],
+   [
+    4.2,
+    1.4
+   ],
+   [
+    2.8,
+    1.4
+   ],
+   [
+    1.37,
+    1.43
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 14,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 7,
+   "asl": 1.91
+  },
+  "0.25": {
+   "n_shots": 7,
+   "asl": 1.91
+  },
+  "0.3": {
+   "n_shots": 7,
+   "asl": 1.91
+  },
+  "0.35": {
+   "n_shots": 7,
+   "asl": 1.91
+  },
+  "0.4": {
+   "n_shots": 7,
+   "asl": 1.91
+  }
+ },
+ "integrated_lufs": -12.4,
+ "loudness_dropouts": [
+  {
+   "start": 11.0,
+   "end": 13.5,
+   "len": 2.5,
+   "ref": -11.7,
+   "floor": -33.9,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 4.5,
+  "loudest_M": -9.9,
+  "big_hits_near_peak": [
+   [
+    2.1,
+    1.5,
+    -11.9
+   ],
+   [
+    2.0,
+    1.0,
+    -12.0
+   ],
+   [
+    1.9,
+    4.5,
+    -9.9
+   ]
+  ],
+  "biggest_rises": [
+   [
+    4.1,
+    12.0,
+    -26.1
+   ],
+   [
+    2.1,
+    1.5,
+    -11.9
+   ],
+   [
+    2.0,
+    1.0,
+    -12.0
+   ],
+   [
+    1.9,
+    4.5,
+    -9.9
+   ],
+   [
+    1.4,
+    8.0,
+    -10.6
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -13.8,
+   22.3,
+   0.5
+  ],
+  [
+   -26.6,
+   21.8,
+   10.8
+  ],
+  [
+   -29.4,
+   17.6,
+   12.1
+  ]
+ ],
+ "beatsync": "notion_prehistoric_tools onsets/s 1.57 cuts on onset (+-0.1s) 50 % vs chance 30 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / TikTok / Reels",
+  "sub_style": "meme / visual metaphor sketch (office life)",
+  "hook_0_2s": "frame 1: a person in an inflatable T-rex costume working at an office desk with two monitors; one-line caption 'You are what you use.' centred; absurd image = scroll stop",
+  "captions": {
+   "style": "white sentence-case sans (Inter / SF Pro medium-like), thin shadow, no box, one static line",
+   "line_glyph_height_pct_H": 2.7,
+   "cap_height_pct_H": 2.0,
+   "position_pct_H": "51.8-54.3 (frame centre)",
+   "x_extent_pct_W": "15-78",
+   "on_screen": "0-8.4 s"
+  },
+  "on_screen_text_density": "5 words for the whole video",
+  "audio": "music bed; integrated -12.4 LUFS; 2.5 s quiet drop at 11-13.5 s on the final wide",
+  "audio_type": "music (not identified)",
+  "voice": false,
+  "punchline": "the T-rex = 'prehistoric tools' (title: 'You are what you use. Stop using prehistoric tools.'); the product is never shown",
+  "loop": "ends on a wide of the office atrium with the T-rex small in one window (find-it shot); no logo",
+  "views_at_analysis": 20590,
+  "likes": 187
+ }
+}

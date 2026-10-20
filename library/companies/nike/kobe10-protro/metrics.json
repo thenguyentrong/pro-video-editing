@@ -1,0 +1,312 @@
+{
+ "name": "nike_kobe10_protro",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "RaSZusY8SMA",
+  "title": "Nike Kobe 10 Protro",
+  "upload_date": "20260804",
+  "duration": 28,
+  "view_count": 392451,
+  "like_count": 1838,
+  "channel": "Nike",
+  "uploader": "Nike",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 24.0,
+  "webpage_url": "https://www.youtube.com/watch?v=RaSZusY8SMA",
+  "description_start": "Sculpted out of endless curiosity. Built for an obsession with better. \n\nThe Kobe 10 Protro arrives 8.23."
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   1.08,
+   2.54,
+   3.29,
+   4.59,
+   5.63,
+   6.17,
+   7.05,
+   8.13,
+   8.43,
+   8.84,
+   9.76,
+   10.64,
+   11.55,
+   11.76,
+   12.47,
+   14.68,
+   15.35,
+   15.93,
+   16.18,
+   16.89,
+   17.68,
+   18.23,
+   18.85,
+   19.48,
+   19.81,
+   20.02,
+   20.65,
+   21.19,
+   22.23,
+   22.65,
+   25.19
+  ],
+  "shots": 32,
+  "ASL_s": 0.87,
+  "median_s": 0.71,
+  "ASL_quarters_s": [
+   1.0,
+   0.7,
+   0.54,
+   1.39
+  ],
+  "longest_start_len": [
+   [
+    25.19,
+    2.7
+   ],
+   [
+    22.65,
+    2.54
+   ],
+   [
+    12.47,
+    2.21
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    19.81,
+    0.21
+   ],
+   [
+    11.55,
+    0.21
+   ],
+   [
+    15.93,
+    0.25
+   ]
+  ],
+  "pct_under_1s": 72,
+  "pct_over_3s": 0,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "cuts2 31 cuts, all checked on verify pairs as real"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 27.89
+ },
+ "cuts_cuts2": [
+  1.084,
+  2.544,
+  3.295,
+  4.588,
+  5.631,
+  6.173,
+  7.049,
+  8.133,
+  8.425,
+  8.842,
+  9.76,
+  10.636,
+  11.553,
+  11.762,
+  12.471,
+  14.681,
+  15.349,
+  15.933,
+  16.183,
+  16.892,
+  17.684,
+  18.227,
+  18.852,
+  19.478,
+  19.811,
+  20.02,
+  20.646,
+  21.188,
+  22.231,
+  22.648,
+  25.192
+ ],
+ "shot_stats_cuts2": {
+  "name": "nike_kobe10_protro",
+  "length": 27.82,
+  "shots": 32,
+  "ASL": 0.87,
+  "median": 0.71,
+  "ASL_quarters": [
+   0.99,
+   0.7,
+   0.53,
+   1.39
+  ],
+  "longest": [
+   [
+    25.19,
+    2.63
+   ],
+   [
+    22.65,
+    2.54
+   ],
+   [
+    12.47,
+    2.21
+   ],
+   [
+    1.08,
+    1.46
+   ]
+  ],
+  "shortest": [
+   [
+    11.55,
+    0.21
+   ],
+   [
+    19.81,
+    0.21
+   ],
+   [
+    15.93,
+    0.25
+   ],
+   [
+    8.13,
+    0.29
+   ]
+  ],
+  "pct_under_1s": 72,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    5.63,
+    0.54
+   ],
+   [
+    20.02,
+    0.63
+   ]
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 32,
+   "asl": 0.87
+  },
+  "0.25": {
+   "n_shots": 31,
+   "asl": 0.9
+  },
+  "0.3": {
+   "n_shots": 29,
+   "asl": 0.96
+  },
+  "0.35": {
+   "n_shots": 27,
+   "asl": 1.03
+  },
+  "0.4": {
+   "n_shots": 24,
+   "asl": 1.16
+  }
+ },
+ "integrated_lufs": -10.4,
+ "loudness_dropouts": [
+  {
+   "start": 27.5,
+   "end": 28.0,
+   "len": 0.5,
+   "ref": -10.7,
+   "floor": -25.3,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 21.5,
+  "loudest_M": -5.3,
+  "big_hits_near_peak": [
+   [
+    6.0,
+    25.5,
+    -9.8
+   ],
+   [
+    5.5,
+    25.0,
+    -10.3
+   ],
+   [
+    4.7,
+    24.5,
+    -11.1
+   ]
+  ],
+  "biggest_rises": [
+   [
+    6.0,
+    25.5,
+    -9.8
+   ],
+   [
+    5.5,
+    25.0,
+    -10.3
+   ],
+   [
+    4.7,
+    24.5,
+    -11.1
+   ],
+   [
+    4.6,
+    19.0,
+    -8.4
+   ],
+   [
+    4.5,
+    2.5,
+    -11.2
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -6.2,
+   19.9,
+   6.55
+  ],
+  [
+   -11.2,
+   108.8,
+   0.5
+  ]
+ ],
+ "beatsync": "nike_kobe10_protro onsets/s 0.5 cuts on onset (+-0.1s) 13 % vs chance 9 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / Reels",
+  "sub_style": "product hero (macro / lab / sculpture montage)",
+  "hook_0_2s": "0.0-1.1 s: a robotic rig with the Kobe sheath logo presses into grey material, a hand in silhouette; 1.1 s cut to an extreme macro of a drill bit carving clay, 2.5 s a hole tears open: 'how is this made' curiosity, no text",
+  "captions": {
+   "style": "none: zero on-screen text in 27.8 s (title and date only in the post caption)"
+  },
+  "on_screen_text_density": "0 words",
+  "audio": "sound design + low drone, sparse onsets (0.5/s), biggest rise +19.9 dB at 6.55 s; integrated -10.4 LUFS; cuts not on onsets (13% vs 9% chance) = cut to picture",
+  "audio_type": "original sound design",
+  "voice": false,
+  "colour": "near-monochrome (grey clay, black, white) broken by 3 false-colour thermal/X-ray shots (magenta, yellow, orange)",
+  "loop": "ends on the Kobe sheath logo embossed in clay, raking light sweeps across it (25.2-27.8 s); no text, no date",
+  "views_at_analysis": 392451
+ }
+}

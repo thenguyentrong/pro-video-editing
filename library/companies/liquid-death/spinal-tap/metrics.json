@@ -1,0 +1,679 @@
+{
+ "name": "liquid_death_spinal_tap",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "VDkj1ETq528",
+  "title": "Be just like Spinal Tap. All you have to do is give us your money and drink Liquid Death.",
+  "upload_date": "20250909",
+  "duration": 92,
+  "view_count": 56693,
+  "like_count": 2011,
+  "channel": "Liquid Death",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24.0,
+  "webpage_url": "https://www.youtube.com/shorts/VDkj1ETq528"
+ },
+ "caveat": "83.3-89.6 s counted as one black hold with a tagline, then a film date card",
+ "file": "ld_spinal-tap.webm",
+ "duration_s": 92.121,
+ "fps": 23.933,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 29,
+ "shot_count": 30,
+ "asl_s": 3.07,
+ "median_s": 2.65,
+ "pct_shots_under_1s": 3.3,
+ "pct_shots_over_3s": 40.0,
+ "shots_per_minute": 19.5,
+ "asl_quarters_s": [
+  3.29,
+  3.29,
+  1.92,
+  3.29
+ ],
+ "longest": [
+  {
+   "start": 83.274,
+   "len": 6.268
+  },
+  {
+   "start": 3.969,
+   "len": 6.226
+  },
+  {
+   "start": 31.922,
+   "len": 6.143
+  }
+ ],
+ "shortest": [
+  {
+   "start": 63.761,
+   "len": 0.836
+  },
+  {
+   "start": 24.318,
+   "len": 1.462
+  },
+  {
+   "start": 22.772,
+   "len": 1.546
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 4,
+  "20-30": 4,
+  "30-40": 2,
+  "40-50": 3,
+  "50-60": 5,
+  "60-70": 5,
+  "70-80": 2,
+  "80-90": 3,
+  "90-100": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 83.27,
+   "len": 6.27
+  }
+ ],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 35,
+  "only_in_other": [
+   11.574,
+   18.594,
+   20.474,
+   29.792,
+   36.059,
+   39.652
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.217,
+ "soft_transition_candidates": [
+  {
+   "t": 0.6,
+   "score": 0.241
+  },
+  {
+   "t": 1.7,
+   "score": 0.207
+  },
+  {
+   "t": 2.5,
+   "score": 0.219
+  },
+  {
+   "t": 5.6,
+   "score": 0.873
+  },
+  {
+   "t": 6.3,
+   "score": 0.884
+  },
+  {
+   "t": 11.2,
+   "score": 0.778
+  },
+  {
+   "t": 13.7,
+   "score": 0.889
+  },
+  {
+   "t": 18.7,
+   "score": 0.68
+  },
+  {
+   "t": 19.5,
+   "score": 0.32
+  },
+  {
+   "t": 20.8,
+   "score": 0.624
+  },
+  {
+   "t": 30.1,
+   "score": 0.802
+  },
+  {
+   "t": 34.1,
+   "score": 0.421
+  },
+  {
+   "t": 34.8,
+   "score": 0.421
+  },
+  {
+   "t": 35.9,
+   "score": 0.813
+  },
+  {
+   "t": 39.3,
+   "score": 1.021
+  },
+  {
+   "t": 40.6,
+   "score": 0.336
+  },
+  {
+   "t": 43.6,
+   "score": 0.684
+  },
+  {
+   "t": 44.4,
+   "score": 0.703
+  },
+  {
+   "t": 45.3,
+   "score": 0.703
+  },
+  {
+   "t": 49.0,
+   "score": 0.188
+  },
+  {
+   "t": 56.9,
+   "score": 0.388
+  },
+  {
+   "t": 57.8,
+   "score": 0.283
+  },
+  {
+   "t": 60.7,
+   "score": 0.515
+  },
+  {
+   "t": 62.8,
+   "score": 0.954
+  },
+  {
+   "t": 71.7,
+   "score": 0.928
+  },
+  {
+   "t": 75.8,
+   "score": 0.356
+  },
+  {
+   "t": 76.9,
+   "score": 0.29
+  },
+  {
+   "t": 82.0,
+   "score": 0.33
+  },
+  {
+   "t": 87.2,
+   "score": 0.137
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 83.3,
+   "end": 89.6
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.969,
+   "len": 3.969
+  },
+  {
+   "i": 2,
+   "start": 3.969,
+   "end": 10.195,
+   "len": 6.226
+  },
+  {
+   "i": 3,
+   "start": 10.195,
+   "end": 12.493,
+   "len": 2.298
+  },
+  {
+   "i": 4,
+   "start": 12.493,
+   "end": 15.209,
+   "len": 2.716
+  },
+  {
+   "i": 5,
+   "start": 15.209,
+   "end": 16.839,
+   "len": 1.63
+  },
+  {
+   "i": 6,
+   "start": 16.839,
+   "end": 22.772,
+   "len": 5.933
+  },
+  {
+   "i": 7,
+   "start": 22.772,
+   "end": 24.318,
+   "len": 1.546
+  },
+  {
+   "i": 8,
+   "start": 24.318,
+   "end": 25.78,
+   "len": 1.462
+  },
+  {
+   "i": 9,
+   "start": 25.78,
+   "end": 28.204,
+   "len": 2.424
+  },
+  {
+   "i": 10,
+   "start": 28.204,
+   "end": 31.922,
+   "len": 3.718
+  },
+  {
+   "i": 11,
+   "start": 31.922,
+   "end": 38.065,
+   "len": 6.143
+  },
+  {
+   "i": 12,
+   "start": 38.065,
+   "end": 41.7,
+   "len": 3.635
+  },
+  {
+   "i": 13,
+   "start": 41.7,
+   "end": 46.296,
+   "len": 4.596
+  },
+  {
+   "i": 14,
+   "start": 46.296,
+   "end": 48.051,
+   "len": 1.755
+  },
+  {
+   "i": 15,
+   "start": 48.051,
+   "end": 50.056,
+   "len": 2.005
+  },
+  {
+   "i": 16,
+   "start": 50.056,
+   "end": 51.728,
+   "len": 1.672
+  },
+  {
+   "i": 17,
+   "start": 51.728,
+   "end": 53.441,
+   "len": 1.713
+  },
+  {
+   "i": 18,
+   "start": 53.441,
+   "end": 55.363,
+   "len": 1.922
+  },
+  {
+   "i": 19,
+   "start": 55.363,
+   "end": 58.747,
+   "len": 3.384
+  },
+  {
+   "i": 20,
+   "start": 58.747,
+   "end": 61.881,
+   "len": 3.134
+  },
+  {
+   "i": 21,
+   "start": 61.881,
+   "end": 63.761,
+   "len": 1.88
+  },
+  {
+   "i": 22,
+   "start": 63.761,
+   "end": 64.597,
+   "len": 0.836
+  },
+  {
+   "i": 23,
+   "start": 64.597,
+   "end": 67.564,
+   "len": 2.967
+  },
+  {
+   "i": 24,
+   "start": 67.564,
+   "end": 69.82,
+   "len": 2.256
+  },
+  {
+   "i": 25,
+   "start": 69.82,
+   "end": 74.5,
+   "len": 4.68
+  },
+  {
+   "i": 26,
+   "start": 74.5,
+   "end": 78.26,
+   "len": 3.76
+  },
+  {
+   "i": 27,
+   "start": 78.26,
+   "end": 80.349,
+   "len": 2.089
+  },
+  {
+   "i": 28,
+   "start": 80.349,
+   "end": 83.274,
+   "len": 2.925
+  },
+  {
+   "i": 29,
+   "start": 83.274,
+   "end": 89.542,
+   "len": 6.268
+  },
+  {
+   "i": 30,
+   "start": 89.542,
+   "end": 92.121,
+   "len": 2.579
+  }
+ ],
+ "cuts": [
+  3.969,
+  10.195,
+  12.493,
+  15.209,
+  16.839,
+  22.772,
+  24.318,
+  25.78,
+  28.204,
+  31.922,
+  38.065,
+  41.7,
+  46.296,
+  48.051,
+  50.056,
+  51.728,
+  53.441,
+  55.363,
+  58.747,
+  61.881,
+  63.761,
+  64.597,
+  67.564,
+  69.82,
+  74.5,
+  78.26,
+  80.349,
+  83.274,
+  89.542
+ ],
+ "loudness": {
+  "integrated_lufs": -16.2,
+  "loudness_range_lu": 4.1,
+  "true_peak_dbtp": 0.1
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [
+   {
+    "start": 6.15,
+    "end": 6.5,
+    "len": 0.35,
+    "level_before_db": -27.9,
+    "floor_db": -50.8,
+    "next_peak_db": -19.1,
+    "next_peak_t": 6.75
+   },
+   {
+    "start": 7.45,
+    "end": 7.75,
+    "len": 0.3,
+    "level_before_db": -24.0,
+    "floor_db": -50.1,
+    "next_peak_db": -14.4,
+    "next_peak_t": 7.9
+   },
+   {
+    "start": 13.6,
+    "end": 14.0,
+    "len": 0.4,
+    "level_before_db": -22.9,
+    "floor_db": -46.1,
+    "next_peak_db": -17.3,
+    "next_peak_t": 14.15
+   },
+   {
+    "start": 17.4,
+    "end": 17.75,
+    "len": 0.35,
+    "level_before_db": -21.2,
+    "floor_db": -47.1,
+    "next_peak_db": -15.7,
+    "next_peak_t": 17.8
+   },
+   {
+    "start": 26.95,
+    "end": 27.25,
+    "len": 0.3,
+    "level_before_db": -19.9,
+    "floor_db": -50.4,
+    "next_peak_db": -15.9,
+    "next_peak_t": 27.8
+   },
+   {
+    "start": 34.5,
+    "end": 34.8,
+    "len": 0.3,
+    "level_before_db": -27.9,
+    "floor_db": -47.3,
+    "next_peak_db": -14.2,
+    "next_peak_t": 35.1
+   },
+   {
+    "start": 40.7,
+    "end": 41.05,
+    "len": 0.35,
+    "level_before_db": -20.9,
+    "floor_db": -46.4,
+    "next_peak_db": -15.3,
+    "next_peak_t": 41.15
+   },
+   {
+    "start": 51.6,
+    "end": 52.15,
+    "len": 0.55,
+    "level_before_db": -21.4,
+    "floor_db": -47.1,
+    "next_peak_db": -13.4,
+    "next_peak_t": 52.55
+   },
+   {
+    "start": 53.05,
+    "end": 53.45,
+    "len": 0.4,
+    "level_before_db": -24.4,
+    "floor_db": -49.7,
+    "next_peak_db": -14.9,
+    "next_peak_t": 53.7
+   },
+   {
+    "start": 56.85,
+    "end": 57.25,
+    "len": 0.4,
+    "level_before_db": -22.7,
+    "floor_db": -48.9,
+    "next_peak_db": -10.8,
+    "next_peak_t": 57.6
+   },
+   {
+    "start": 72.65,
+    "end": 73.0,
+    "len": 0.35,
+    "level_before_db": -22.5,
+    "floor_db": -49.8,
+    "next_peak_db": -13.4,
+    "next_peak_t": 73.05
+   },
+   {
+    "start": 78.1,
+    "end": 78.45,
+    "len": 0.35,
+    "level_before_db": -24.5,
+    "floor_db": -50.5,
+    "next_peak_db": -13.0,
+    "next_peak_t": 78.95
+   }
+  ],
+  "hits": [
+   {
+    "t": 28.4,
+    "level_dbfs": -9.4,
+    "rise_db": 41.4
+   },
+   {
+    "t": 68.9,
+    "level_dbfs": -10.2,
+    "rise_db": 33.6
+   },
+   {
+    "t": 57.6,
+    "level_dbfs": -10.8,
+    "rise_db": 38.1
+   },
+   {
+    "t": 38.35,
+    "level_dbfs": -10.8,
+    "rise_db": 34.0
+   },
+   {
+    "t": 36.8,
+    "level_dbfs": -10.9,
+    "rise_db": 25.8
+   },
+   {
+    "t": 50.15,
+    "level_dbfs": -11.1,
+    "rise_db": 32.3
+   },
+   {
+    "t": 5.1,
+    "level_dbfs": -11.4,
+    "rise_db": 33.6
+   },
+   {
+    "t": 30.5,
+    "level_dbfs": -11.5,
+    "rise_db": 17.5
+   },
+   {
+    "t": 25.45,
+    "level_dbfs": -11.7,
+    "rise_db": 33.2
+   },
+   {
+    "t": 56.4,
+    "level_dbfs": -11.8,
+    "rise_db": 29.6
+   },
+   {
+    "t": 83.4,
+    "level_dbfs": -12.0,
+    "rise_db": 34.4
+   },
+   {
+    "t": 20.75,
+    "level_dbfs": -12.2,
+    "rise_db": 32.2
+   },
+   {
+    "t": 46.8,
+    "level_dbfs": -12.5,
+    "rise_db": 23.5
+   },
+   {
+    "t": 31.65,
+    "level_dbfs": -12.7,
+    "rise_db": 26.4
+   },
+   {
+    "t": 42.55,
+    "level_dbfs": -12.7,
+    "rise_db": 20.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 28.4,
+    "level_dbfs": -9.4,
+    "rise_db": 41.4
+   },
+   {
+    "t": 57.6,
+    "level_dbfs": -10.8,
+    "rise_db": 38.1
+   },
+   {
+    "t": 0.5,
+    "level_dbfs": -14.5,
+    "rise_db": 37.9
+   },
+   {
+    "t": 54.9,
+    "level_dbfs": -13.3,
+    "rise_db": 37.1
+   },
+   {
+    "t": 73.05,
+    "level_dbfs": -13.4,
+    "rise_db": 36.4
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 85.35,
+   "rms_dbfs": -13.4
+  },
+  "median_rms_dbfs": -22.1
+ },
+ "sync": {
+  "onsets_per_s": 2.58,
+  "cuts_on_onset_pct": 52,
+  "chance_pct": 50,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [11.574, 18.594, 20.474, 29.792, 36.059, 39.652] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

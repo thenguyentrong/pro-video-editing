@@ -1,0 +1,424 @@
+{
+ "name": "nyt_short_college",
+ "source": {
+  "title": "How Does Your College Choice Affect Your Income?",
+  "full_duration_s": "81",
+  "upload_date": "20261010",
+  "channel": "The New York Times",
+  "url": "https://www.youtube.com/watch?v=GmF0XvpoYzo"
+ },
+ "analysed_window_s": [
+  0,
+  81.12
+ ],
+ "video": "r_frame_rate=0/0",
+ "fps": 23.976,
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 81.12,
+  "shots": 16,
+  "ASL": 5.07,
+  "median": 2.9,
+  "ASL_quarters": [
+   6.76,
+   3.38,
+   5.07,
+   3.38
+  ],
+  "longest": [
+   [
+    4.42,
+    17.39
+   ],
+   [
+    37.79,
+    10.39
+   ],
+   [
+    52.39,
+    10.38
+   ],
+   [
+    74.37,
+    6.76
+   ]
+  ],
+  "shortest": [
+   [
+    51.09,
+    1.29
+   ],
+   [
+    0.0,
+    1.71
+   ],
+   [
+    27.99,
+    1.71
+   ],
+   [
+    67.32,
+    2.17
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 44,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [],
+  "cuts_per_10s": [
+   2,
+   0,
+   3,
+   2,
+   1,
+   2,
+   3,
+   2,
+   0
+  ],
+  "cut_times": [
+   1.71,
+   4.421,
+   21.813,
+   27.986,
+   29.696,
+   34.91,
+   37.788,
+   48.173,
+   51.093,
+   52.386,
+   62.771,
+   67.317,
+   69.486,
+   71.863,
+   74.366
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 16,
+   "asl": 5.07
+  },
+  "0.25": {
+   "n_shots": 16,
+   "asl": 5.07
+  },
+  "0.3": {
+   "n_shots": 15,
+   "asl": 5.41
+  },
+  "0.35": {
+   "n_shots": 15,
+   "asl": 5.41
+  },
+  "0.4": {
+   "n_shots": 11,
+   "asl": 7.37
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   3.0,
+   0.109
+  ],
+  [
+   6.4,
+   0.287
+  ],
+  [
+   7.3,
+   0.32
+  ],
+  [
+   9.0,
+   0.457
+  ],
+  [
+   12.8,
+   0.677
+  ],
+  [
+   25.1,
+   0.104
+  ],
+  [
+   26.9,
+   0.108
+  ],
+  [
+   53.9,
+   0.162
+  ]
+ ],
+ "dips_to_black_or_white": [],
+ "loudness": {
+  "integrated_lufs": -14.2,
+  "loudest_t_s": 40.5,
+  "loudest_momentary_lufs": -10.5,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 5.5,
+    "end": 6.0,
+    "len": 0.5,
+    "ref": -13.5,
+    "floor": -26.4,
+    "rise_after": 14.7,
+    "next_peak": -11.7
+   }
+  ],
+  "biggest_rises": [
+   [
+    14.7,
+    7.0,
+    -11.7
+   ],
+   [
+    14.5,
+    6.0,
+    -11.9
+   ],
+   [
+    14.3,
+    6.5,
+    -12.1
+   ],
+   [
+    10.3,
+    22.0,
+    -11.2
+   ],
+   [
+    10.3,
+    52.5,
+    -11.2
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 4.2,
+    "len": 0.15,
+    "ref": -17.3,
+    "floor": -41.1,
+    "next_peak": -14.1,
+    "peak_t": 4.45
+   },
+   {
+    "start": 5.4,
+    "len": 0.35,
+    "ref": -19.9,
+    "floor": -49.7,
+    "next_peak": -12.7,
+    "peak_t": 5.95
+   },
+   {
+    "start": 16.15,
+    "len": 0.2,
+    "ref": -18.0,
+    "floor": -45.5,
+    "next_peak": -12.2,
+    "peak_t": 16.7
+   },
+   {
+    "start": 21.4,
+    "len": 0.55,
+    "ref": -17.4,
+    "floor": -64.7,
+    "next_peak": -11.3,
+    "peak_t": 22.05
+   },
+   {
+    "start": 28.05,
+    "len": 0.15,
+    "ref": -16.6,
+    "floor": -35.7,
+    "next_peak": -13.4,
+    "peak_t": 28.25
+   },
+   {
+    "start": 29.5,
+    "len": 0.4,
+    "ref": -16.2,
+    "floor": -71.6,
+    "next_peak": -13.5,
+    "peak_t": 29.95
+   },
+   {
+    "start": 34.5,
+    "len": 0.45,
+    "ref": -18.9,
+    "floor": -41.6,
+    "next_peak": -12.3,
+    "peak_t": 35.0
+   },
+   {
+    "start": 37.65,
+    "len": 0.2,
+    "ref": -17.1,
+    "floor": -66.2,
+    "next_peak": -14.2,
+    "peak_t": 38.1
+   },
+   {
+    "start": 39.7,
+    "len": 0.5,
+    "ref": -16.2,
+    "floor": -53.0,
+    "next_peak": -11.5,
+    "peak_t": 40.45
+   },
+   {
+    "start": 43.2,
+    "len": 0.3,
+    "ref": -17.5,
+    "floor": -48.3,
+    "next_peak": -12.8,
+    "peak_t": 43.95
+   },
+   {
+    "start": 55.45,
+    "len": 0.15,
+    "ref": -18.0,
+    "floor": -47.5,
+    "next_peak": -13.5,
+    "peak_t": 55.65
+   },
+   {
+    "start": 56.3,
+    "len": 0.5,
+    "ref": -20.1,
+    "floor": -49.2,
+    "next_peak": -12.3,
+    "peak_t": 56.85
+   },
+   {
+    "start": 58.15,
+    "len": 0.2,
+    "ref": -18.5,
+    "floor": -46.9,
+    "next_peak": -11.8,
+    "peak_t": 58.7
+   },
+   {
+    "start": 62.4,
+    "len": 0.4,
+    "ref": -17.9,
+    "floor": -104.7,
+    "next_peak": -11.9,
+    "peak_t": 63.0
+   },
+   {
+    "start": 66.15,
+    "len": 0.15,
+    "ref": -19.8,
+    "floor": -45.6,
+    "next_peak": -9.7,
+    "peak_t": 66.4
+   },
+   {
+    "start": 71.6,
+    "len": 0.45,
+    "ref": -16.8,
+    "floor": -51.3,
+    "next_peak": -11.9,
+    "peak_t": 72.15
+   },
+   {
+    "start": 75.75,
+    "len": 0.2,
+    "ref": -17.6,
+    "floor": -45.4,
+    "next_peak": -12.6,
+    "peak_t": 76.05
+   },
+   {
+    "start": 78.15,
+    "len": 0.3,
+    "ref": -17.4,
+    "floor": -59.3,
+    "next_peak": -14.0,
+    "peak_t": 78.65
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -9.7,
+    35.9,
+    66.4
+   ],
+   [
+    -10.8,
+    19.8,
+    54.7
+   ],
+   [
+    -10.9,
+    26.3,
+    39.3
+   ],
+   [
+    -10.9,
+    16.6,
+    6.7
+   ],
+   [
+    -11.1,
+    17.3,
+    22.7
+   ],
+   [
+    -11.2,
+    27.5,
+    19.6
+   ],
+   [
+    -11.4,
+    17.8,
+    18.35
+   ],
+   [
+    -11.5,
+    41.6,
+    40.45
+   ],
+   [
+    -11.5,
+    23.0,
+    59.6
+   ],
+   [
+    -11.5,
+    16.9,
+    77.85
+   ],
+   [
+    -11.7,
+    17.7,
+    48.25
+   ],
+   [
+    -11.9,
+    92.8,
+    63.0
+   ],
+   [
+    -11.9,
+    39.4,
+    72.15
+   ],
+   [
+    -11.9,
+    36.1,
+    52.5
+   ],
+   [
+    -12.1,
+    27.1,
+    60.95
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 3.11 cuts on onset (+-0.1s) 73 % vs chance 60 %",
+ "empty_frame": "mostly-empty 42% (on dark 0%, on light 42%), median empty share 48%"
+}

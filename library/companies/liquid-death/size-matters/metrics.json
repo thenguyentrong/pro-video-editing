@@ -1,0 +1,352 @@
+{
+ "name": "liquid_death_size_matters",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "dQIS_OIaH0k",
+  "title": "Size matters. That’s why Liquid Death makes small ones now too.",
+  "upload_date": "20250904",
+  "duration": 47,
+  "view_count": 24762,
+  "like_count": 808,
+  "channel": "Liquid Death",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24.0,
+  "webpage_url": "https://www.youtube.com/shorts/dQIS_OIaH0k"
+ },
+ "file": "ld_size-matters.webm",
+ "duration_s": 47.001,
+ "fps": 23.976,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 7,
+ "shot_count": 8,
+ "asl_s": 5.88,
+ "median_s": 5.3,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 10.2,
+ "asl_quarters_s": [
+  3.92,
+  3.92,
+  3.92,
+  5.88
+ ],
+ "longest": [
+  {
+   "start": 28.237,
+   "len": 11.261
+  },
+  {
+   "start": 39.498,
+   "len": 7.503
+  },
+  {
+   "start": 12.804,
+   "len": 6.549
+  }
+ ],
+ "shortest": [
+  {
+   "start": 9.301,
+   "len": 3.503
+  },
+  {
+   "start": 24.566,
+   "len": 3.671
+  },
+  {
+   "start": 5.38,
+   "len": 3.921
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 2,
+  "20-30": 2,
+  "30-40": 1,
+  "40-50": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 7,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.411,
+ "soft_transition_candidates": [
+  {
+   "t": 0.7,
+   "score": 0.672
+  },
+  {
+   "t": 2.9,
+   "score": 0.624
+  },
+  {
+   "t": 7.3,
+   "score": 0.446
+  },
+  {
+   "t": 7.9,
+   "score": 0.463
+  },
+  {
+   "t": 10.7,
+   "score": 0.286
+  },
+  {
+   "t": 11.7,
+   "score": 0.462
+  },
+  {
+   "t": 13.9,
+   "score": 0.334
+  },
+  {
+   "t": 15.6,
+   "score": 0.64
+  },
+  {
+   "t": 17.8,
+   "score": 0.67
+  },
+  {
+   "t": 20.4,
+   "score": 0.286
+  },
+  {
+   "t": 21.3,
+   "score": 0.267
+  },
+  {
+   "t": 23.2,
+   "score": 0.402
+  },
+  {
+   "t": 25.8,
+   "score": 0.553
+  },
+  {
+   "t": 27.2,
+   "score": 0.575
+  },
+  {
+   "t": 31.2,
+   "score": 0.274
+  },
+  {
+   "t": 32.4,
+   "score": 0.317
+  },
+  {
+   "t": 33.5,
+   "score": 0.321
+  },
+  {
+   "t": 35.7,
+   "score": 0.463
+  },
+  {
+   "t": 36.9,
+   "score": 0.433
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 5.38,
+   "len": 5.38
+  },
+  {
+   "i": 2,
+   "start": 5.38,
+   "end": 9.301,
+   "len": 3.921
+  },
+  {
+   "i": 3,
+   "start": 9.301,
+   "end": 12.804,
+   "len": 3.503
+  },
+  {
+   "i": 4,
+   "start": 12.804,
+   "end": 19.353,
+   "len": 6.549
+  },
+  {
+   "i": 5,
+   "start": 19.353,
+   "end": 24.566,
+   "len": 5.213
+  },
+  {
+   "i": 6,
+   "start": 24.566,
+   "end": 28.237,
+   "len": 3.671
+  },
+  {
+   "i": 7,
+   "start": 28.237,
+   "end": 39.498,
+   "len": 11.261
+  },
+  {
+   "i": 8,
+   "start": 39.498,
+   "end": 47.001,
+   "len": 7.503
+  }
+ ],
+ "cuts": [
+  5.38,
+  9.301,
+  12.804,
+  19.353,
+  24.566,
+  28.237,
+  39.498
+ ],
+ "loudness": {
+  "integrated_lufs": -17.6,
+  "loudness_range_lu": 3.3,
+  "true_peak_dbtp": -0.2
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 29.7,
+    "level_dbfs": -11.5,
+    "rise_db": 19.6
+   },
+   {
+    "t": 41.2,
+    "level_dbfs": -12.8,
+    "rise_db": 34.0
+   },
+   {
+    "t": 20.05,
+    "level_dbfs": -12.9,
+    "rise_db": 23.2
+   },
+   {
+    "t": 35.35,
+    "level_dbfs": -13.2,
+    "rise_db": 22.1
+   },
+   {
+    "t": 28.65,
+    "level_dbfs": -13.3,
+    "rise_db": 16.9
+   },
+   {
+    "t": 3.1,
+    "level_dbfs": -13.6,
+    "rise_db": 20.3
+   },
+   {
+    "t": 13.05,
+    "level_dbfs": -14.1,
+    "rise_db": 20.3
+   },
+   {
+    "t": 24.85,
+    "level_dbfs": -14.4,
+    "rise_db": 22.4
+   },
+   {
+    "t": 27.1,
+    "level_dbfs": -14.6,
+    "rise_db": 23.5
+   },
+   {
+    "t": 15.8,
+    "level_dbfs": -14.7,
+    "rise_db": 19.9
+   },
+   {
+    "t": 43.8,
+    "level_dbfs": -15.0,
+    "rise_db": 18.7
+   },
+   {
+    "t": 5.65,
+    "level_dbfs": -16.1,
+    "rise_db": 16.3
+   },
+   {
+    "t": 33.3,
+    "level_dbfs": -16.3,
+    "rise_db": 18.1
+   },
+   {
+    "t": 0.6,
+    "level_dbfs": -16.5,
+    "rise_db": 25.5
+   },
+   {
+    "t": 21.45,
+    "level_dbfs": -16.5,
+    "rise_db": 17.3
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -23.5,
+    "rise_db": 44.0
+   },
+   {
+    "t": 41.2,
+    "level_dbfs": -12.8,
+    "rise_db": 34.0
+   },
+   {
+    "t": 42.25,
+    "level_dbfs": -23.7,
+    "rise_db": 31.5
+   },
+   {
+    "t": 27.1,
+    "level_dbfs": -14.6,
+    "rise_db": 23.5
+   },
+   {
+    "t": 20.05,
+    "level_dbfs": -12.9,
+    "rise_db": 23.2
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 35.35,
+   "rms_dbfs": -15.2
+  },
+  "median_rms_dbfs": -24.2
+ },
+ "sync": {
+  "onsets_per_s": 2.19,
+  "cuts_on_onset_pct": 43,
+  "chance_pct": 43,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak -0.2 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

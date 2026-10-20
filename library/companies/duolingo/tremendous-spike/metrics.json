@@ -1,0 +1,257 @@
+{
+ "name": "duolingo_tremendous_spike",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "O5SimBldLJM",
+  "title": "i’m feeling TREMENDOUS 🤩 (spike is not 🌵)",
+  "upload_date": "20260925",
+  "duration": 9,
+  "view_count": 4248347,
+  "like_count": 103433,
+  "channel": "Duolingo",
+  "uploader": "Duolingo",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=O5SimBldLJM",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   2.23,
+   4.43,
+   6.43
+  ],
+  "shots": 4,
+  "ASL_s": 2.19,
+  "median_s": 2.21,
+  "ASL_quarters_s": [
+   2.19,
+   1.09,
+   0.73,
+   2.19
+  ],
+  "longest_start_len": [
+   [
+    6.43,
+    2.32
+   ],
+   [
+    0.0,
+    2.23
+   ],
+   [
+    2.23,
+    2.2
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    4.43,
+    2.0
+   ],
+   [
+    2.23,
+    2.2
+   ],
+   [
+    0.0,
+    2.23
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 0,
+  "dropped_false_cuts_s": [
+   4.567,
+   6.533
+  ],
+  "added_cuts_s": [
+   4.43,
+   6.43
+  ],
+  "note": "3 visual changes: 2.23 hard cut, 4.43 and 6.43 one-frame directional-blur whips (cuts2 fired one frame later)"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 8.75
+ },
+ "cuts_cuts2": [
+  2.233,
+  4.567,
+  6.533
+ ],
+ "shot_stats_cuts2": {
+  "name": "duolingo_tremendous_spike",
+  "length": 8.7,
+  "shots": 4,
+  "ASL": 2.17,
+  "median": 2.2,
+  "ASL_quarters": [
+   2.17,
+   1.09,
+   1.09,
+   1.09
+  ],
+  "longest": [
+   [
+    2.23,
+    2.33
+   ],
+   [
+    0.0,
+    2.23
+   ],
+   [
+    6.53,
+    2.17
+   ],
+   [
+    4.57,
+    1.97
+   ]
+  ],
+  "shortest": [
+   [
+    4.57,
+    1.97
+   ],
+   [
+    6.53,
+    2.17
+   ],
+   [
+    0.0,
+    2.23
+   ],
+   [
+    2.23,
+    2.33
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 0,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 7,
+   "asl": 1.25
+  },
+  "0.25": {
+   "n_shots": 5,
+   "asl": 1.75
+  },
+  "0.3": {
+   "n_shots": 4,
+   "asl": 2.19
+  },
+  "0.35": {
+   "n_shots": 2,
+   "asl": 4.38
+  },
+  "0.4": {
+   "n_shots": 1,
+   "asl": 8.75
+  }
+ },
+ "integrated_lufs": -7.0,
+ "loudness_dropouts": [],
+ "loudness_hits": {
+  "loudest_t": 3.5,
+  "loudest_M": -6.3,
+  "big_hits_near_peak": [
+   [
+    1.0,
+    1.0,
+    -6.4
+   ],
+   [
+    1.0,
+    1.5,
+    -6.4
+   ],
+   [
+    0.6,
+    3.5,
+    -6.3
+   ]
+  ],
+  "biggest_rises": [
+   [
+    1.0,
+    1.0,
+    -6.4
+   ],
+   [
+    1.0,
+    1.5,
+    -6.4
+   ],
+   [
+    0.6,
+    3.5,
+    -6.3
+   ],
+   [
+    0.6,
+    6.0,
+    -6.3
+   ],
+   [
+    0.5,
+    2.0,
+    -6.9
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -3.8,
+   17.2,
+   2.7
+  ],
+  [
+   -3.9,
+   17.0,
+   6.9
+  ]
+ ],
+ "beatsync": "duolingo_tremendous_spike onsets/s 1.49 cuts on onset (+-0.1s) 0 % vs chance 33 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short (cross-post of TikTok)",
+  "sub_style": "meme / audio-trend lip-sync, 3D mascot",
+  "hook_0_2s": "frame 1: 3D Duo struts toward camera on a tree-lined road, first lyric word appears as a Duolingo word-bank tile 'I'm' (0.0s), 'feeling' (0.5s), 'TREMENDOUS' (1.0s, lower tile)",
+  "captions": {
+   "style": "Duolingo app word-bank tiles (white rounded rectangle, light grey border + 3px bottom shadow), dark grey #3C3C3C text, DIN Next Rounded-like, regular weight",
+   "word_by_word": true,
+   "tile_height_pct_H": [
+    11.0,
+    13.0
+   ],
+   "cap_height_pct_H": [
+    3.9,
+    4.4
+   ],
+   "positions_pct_H": {
+    "line1_tiles": "14.6-26",
+    "TREMENDOUS_tile": "71-84"
+   },
+   "x_extent_pct_W": "10-90"
+  },
+  "on_screen_text_density": "1-3 words on screen at any time; after 2.2 s no captions, the app UI carries the joke",
+  "audio": "sung track with vocals, lyric = the captions ('I'm feeling tremendous / people clap when I finish a sentence / build a statue / president filling up my mentions'); integrated -7.0 LUFS (very loud master)",
+  "audio_type": "song / audio meme (source track not confirmed from metadata)",
+  "voice": false,
+  "loop": "ends on phone + bubble, hard end, no loop match",
+  "views_at_analysis": 4248347,
+  "likes": 103433
+ }
+}

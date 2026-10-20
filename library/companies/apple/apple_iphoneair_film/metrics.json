@@ -1,0 +1,289 @@
+{
+ "slug": "apple_iphoneair_film",
+ "company": "apple",
+ "title": "iPhone Air: Incredibly light and thin with pro-level performance",
+ "url": "https://www.youtube.com/watch?v=sKJ0_NNcJzI",
+ "upload_date": "2026-08-20",
+ "format": "16:9",
+ "file_duration_s": 53.51,
+ "fps": 30.0,
+ "content_end_s": 48.5,
+ "integrated_lufs": -16.1,
+ "shots": {
+  "name": "apple_iphoneair_film",
+  "length": 48.5,
+  "shots": 28,
+  "ASL": 1.73,
+  "median": 1.7,
+  "ASL_quarters": [
+   1.73,
+   1.21,
+   1.52,
+   2.02
+  ],
+  "longest": [
+   [
+    31.03,
+    3.03
+   ],
+   [
+    45.8,
+    2.7
+   ],
+   [
+    26.77,
+    2.43
+   ],
+   [
+    43.47,
+    2.33
+   ]
+  ],
+  "shortest": [
+   [
+    22.47,
+    0.67
+   ],
+   [
+    23.13,
+    0.7
+   ],
+   [
+    23.83,
+    0.7
+   ],
+   [
+    24.53,
+    0.83
+   ]
+  ],
+  "pct_under_1s": 14,
+  "pct_over_3s": 4,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "extra_soft_cuts_added": [
+  1.7,
+  3.4,
+  5.7,
+  18.0,
+  19.5,
+  37.7,
+  39.7
+ ],
+ "cuts": [
+  1.7,
+  3.4,
+  5.7,
+  7.533,
+  9.2,
+  10.667,
+  12.933,
+  14.433,
+  15.933,
+  18.0,
+  19.5,
+  21.0,
+  22.467,
+  23.133,
+  23.833,
+  24.533,
+  25.367,
+  26.767,
+  29.2,
+  31.033,
+  34.067,
+  36.133,
+  37.7,
+  39.7,
+  41.433,
+  43.467,
+  45.8
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 14,
+   "asl": 3.82
+  },
+  "0.25": {
+   "n_shots": 14,
+   "asl": 3.82
+  },
+  "0.3": {
+   "n_shots": 14,
+   "asl": 3.82
+  },
+  "0.35": {
+   "n_shots": 13,
+   "asl": 4.12
+  },
+  "0.4": {
+   "n_shots": 12,
+   "asl": 4.46
+  }
+ },
+ "soft_candidates": [
+  [
+   0.7,
+   0.281
+  ],
+  [
+   1.8,
+   0.143
+  ],
+  [
+   3.7,
+   0.255
+  ],
+  [
+   6.2,
+   0.286
+  ],
+  [
+   17.8,
+   0.701
+  ],
+  [
+   19.2,
+   0.286
+  ],
+  [
+   27.7,
+   0.279
+  ],
+  [
+   32.6,
+   0.728
+  ],
+  [
+   35.5,
+   0.922
+  ],
+  [
+   38.0,
+   1.423
+  ],
+  [
+   39.8,
+   1.265
+  ]
+ ],
+ "black_dips": [
+  [
+   22.5,
+   22.6
+  ],
+  [
+   23.1,
+   23.2
+  ],
+  [
+   23.8,
+   23.9
+  ],
+  [
+   24.5,
+   24.6
+  ]
+ ],
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -10.2,
+   17.6,
+   5.6
+  ],
+  [
+   -10.9,
+   15.5,
+   10.5
+  ],
+  [
+   -11.4,
+   25.5,
+   4.4
+  ],
+  [
+   -14.5,
+   16.6,
+   31.3
+  ],
+  [
+   -18.4,
+   15.8,
+   30.1
+  ],
+  [
+   -28.7,
+   28.2,
+   0.65
+  ]
+ ],
+ "loudness_dropouts_05s": [
+  {
+   "start": 45.5,
+   "end": 54.0,
+   "len": 8.5,
+   "ref": -15.8,
+   "floor": -155.6,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits_05s": {
+  "loudest_t": 34.5,
+  "loudest_M": -11.1,
+  "big_hits_near_peak": [
+   [
+    14.8,
+    4.5,
+    -14.7
+   ],
+   [
+    13.8,
+    5.0,
+    -15.7
+   ],
+   [
+    9.3,
+    32.0,
+    -11.6
+   ]
+  ],
+  "biggest_rises": [
+   [
+    14.8,
+    4.5,
+    -14.7
+   ],
+   [
+    13.8,
+    5.0,
+    -15.7
+   ],
+   [
+    13.6,
+    0.5,
+    -24.4
+   ],
+   [
+    13.3,
+    1.0,
+    -24.7
+   ],
+   [
+    11.6,
+    4.0,
+    -17.9
+   ]
+  ]
+ },
+ "beat_sync": "onsets/s 1.36 cuts on onset (+-0.1s) 37 % vs chance 26 %",
+ "empty_frames": "apple_iphoneair_film: samples 97, letterbox rows 0/36, mostly-empty 46% (on dark 1%, on light 45%), median empty share 64%",
+ "text_measurements": {
+  "feature cards": "one line, centred, ink 7.1-8.75% H incl. descenders (cap ~7% H), width 50-67% W",
+  "colours": "text #15222f core / anti-aliased ~#4c6176 slate; keyword in lighter blue-grey ~#7d9bb5; bg #f4f3f6 with darker top band #d1d5d9",
+  "logo card 'iPhone Air'": "ink 6.9% H"
+ },
+ "manual_corrections": "Hard cuts miss text-card dissolves and push transitions on white; 7 extra card changes added by eye from a 3 fps strip. Soft candidates at 6.2/27.7/32.6/35.5 rejected (word shimmer, UI change, light change). Content ends 48.5 (Apple logo held silent 45.6-48.5, then 5 s black)."
+}

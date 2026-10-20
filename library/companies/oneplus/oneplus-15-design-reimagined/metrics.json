@@ -1,0 +1,355 @@
+{
+ "name": "oneplus_oneplus-15-design-reimagined",
+ "file": "op_design.mp4",
+ "duration_s": 52.074,
+ "fps": 29.97,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 20,
+ "shot_count": 21,
+ "asl_s": 2.48,
+ "median_s": 2.37,
+ "pct_shots_under_1s": 14.3,
+ "pct_shots_over_3s": 38.1,
+ "shots_per_minute": 24.2,
+ "asl_quarters_s": [
+  1.86,
+  3.25,
+  1.63,
+  2.6
+ ],
+ "longest": [
+  {
+   "start": 14.214,
+   "len": 5.039
+  },
+  {
+   "start": 0.0,
+   "len": 4.872
+  },
+  {
+   "start": 21.622,
+   "len": 4.537
+  }
+ ],
+ "shortest": [
+  {
+   "start": 27.027,
+   "len": 0.567
+  },
+  {
+   "start": 26.159,
+   "len": 0.868
+  },
+  {
+   "start": 30.631,
+   "len": 0.901
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 4,
+  "20-30": 4,
+  "30-40": 5,
+  "40-50": 3,
+  "50-60": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 48.35,
+   "len": 3.73
+  }
+ ],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 20,
+  "only_in_other": [
+   11.645
+  ],
+  "only_in_this": [
+   42.409
+  ]
+ },
+ "mean_luma": 0.293,
+ "soft_transition_candidates": [
+  {
+   "t": 2.3,
+   "score": 1.385
+  },
+  {
+   "t": 6.9,
+   "score": 0.722
+  },
+  {
+   "t": 15.6,
+   "score": 2.417
+  },
+  {
+   "t": 16.5,
+   "score": 4.069
+  },
+  {
+   "t": 22.6,
+   "score": 0.943
+  },
+  {
+   "t": 25.1,
+   "score": 0.257
+  },
+  {
+   "t": 28.7,
+   "score": 1.443
+  },
+  {
+   "t": 40.7,
+   "score": 0.408
+  },
+  {
+   "t": 43.7,
+   "score": 3.376
+  },
+  {
+   "t": 46.8,
+   "score": 1.373
+  },
+  {
+   "t": 49.3,
+   "score": 0.116
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 16.9,
+   "end": 17.2
+  },
+  {
+   "start": 26.2,
+   "end": 26.6
+  },
+  {
+   "start": 29.8,
+   "end": 29.9
+  },
+  {
+   "start": 39.2,
+   "end": 40.5
+  },
+  {
+   "start": 42.4,
+   "end": 43.4
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 4.872,
+   "len": 4.872
+  },
+  {
+   "i": 2,
+   "start": 4.872,
+   "end": 6.206,
+   "len": 1.334
+  },
+  {
+   "i": 3,
+   "start": 6.206,
+   "end": 8.242,
+   "len": 2.036
+  },
+  {
+   "i": 4,
+   "start": 8.242,
+   "end": 9.877,
+   "len": 1.635
+  },
+  {
+   "i": 5,
+   "start": 9.877,
+   "end": 11.178,
+   "len": 1.301
+  },
+  {
+   "i": 6,
+   "start": 11.178,
+   "end": 12.179,
+   "len": 1.001
+  },
+  {
+   "i": 7,
+   "start": 12.179,
+   "end": 14.214,
+   "len": 2.035
+  },
+  {
+   "i": 8,
+   "start": 14.214,
+   "end": 19.253,
+   "len": 5.039
+  },
+  {
+   "i": 9,
+   "start": 19.253,
+   "end": 21.622,
+   "len": 2.369
+  },
+  {
+   "i": 10,
+   "start": 21.622,
+   "end": 26.159,
+   "len": 4.537
+  },
+  {
+   "i": 11,
+   "start": 26.159,
+   "end": 27.027,
+   "len": 0.868
+  },
+  {
+   "i": 12,
+   "start": 27.027,
+   "end": 27.594,
+   "len": 0.567
+  },
+  {
+   "i": 13,
+   "start": 27.594,
+   "end": 30.631,
+   "len": 3.037
+  },
+  {
+   "i": 14,
+   "start": 30.631,
+   "end": 31.532,
+   "len": 0.901
+  },
+  {
+   "i": 15,
+   "start": 31.532,
+   "end": 34.568,
+   "len": 3.036
+  },
+  {
+   "i": 16,
+   "start": 34.568,
+   "end": 36.403,
+   "len": 1.835
+  },
+  {
+   "i": 17,
+   "start": 36.403,
+   "end": 39.206,
+   "len": 2.803
+  },
+  {
+   "i": 18,
+   "start": 39.206,
+   "end": 42.409,
+   "len": 3.203
+  },
+  {
+   "i": 19,
+   "start": 42.409,
+   "end": 45.279,
+   "len": 2.87
+  },
+  {
+   "i": 20,
+   "start": 45.279,
+   "end": 48.348,
+   "len": 3.069
+  },
+  {
+   "i": 21,
+   "start": 48.348,
+   "end": 52.074,
+   "len": 3.726
+  }
+ ],
+ "cuts": [
+  4.872,
+  6.206,
+  8.242,
+  9.877,
+  11.178,
+  12.179,
+  14.214,
+  19.253,
+  21.622,
+  26.159,
+  27.027,
+  27.594,
+  30.631,
+  31.532,
+  34.568,
+  36.403,
+  39.206,
+  42.409,
+  45.279,
+  48.348
+ ],
+ "loudness": {
+  "integrated_lufs": -9.6,
+  "loudness_range_lu": 8.4,
+  "true_peak_dbtp": 0.9
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 50.9,
+    "end": 52.05,
+    "len": 1.15
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 11.45,
+    "level_dbfs": -7.1,
+    "rise_db": 15.6
+   },
+   {
+    "t": 0.55,
+    "level_dbfs": -29.9,
+    "rise_db": 25.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -30.0,
+    "rise_db": 41.5
+   },
+   {
+    "t": 11.45,
+    "level_dbfs": -7.1,
+    "rise_db": 15.6
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 11.45,
+   "rms_dbfs": -7.7
+  },
+  "median_rms_dbfs": -13.5
+ },
+ "sync": {
+  "onsets_per_s": 0.6,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 12,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [11.645] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 0.9 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

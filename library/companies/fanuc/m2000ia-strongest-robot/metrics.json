@@ -1,0 +1,452 @@
+{
+ "name": "fanuc_m2000ia-strongest-robot",
+ "file": "fanuc_m2000ia-strongest-robot.mp4",
+ "duration_s": 96.334,
+ "fps": 25.0,
+ "width": 640,
+ "height": 360,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 18,
+ "shot_count": 19,
+ "asl_s": 5.07,
+ "median_s": 4.24,
+ "pct_shots_under_1s": 5.3,
+ "pct_shots_over_3s": 73.7,
+ "shots_per_minute": 11.8,
+ "asl_quarters_s": [
+  4.01,
+  6.02,
+  4.01,
+  4.01
+ ],
+ "longest": [
+  {
+   "start": 86.28,
+   "len": 10.0
+  },
+  {
+   "start": 0.0,
+   "len": 9.44
+  },
+  {
+   "start": 21.36,
+   "len": 8.8
+  }
+ ],
+ "shortest": [
+  {
+   "start": 96.28,
+   "len": 0.054
+  },
+  {
+   "start": 19.6,
+   "len": 1.76
+  },
+  {
+   "start": 58.2,
+   "len": 2.24
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 3,
+  "20-30": 1,
+  "30-40": 2,
+  "40-50": 2,
+  "50-60": 1,
+  "60-70": 3,
+  "70-80": 2,
+  "80-90": 2,
+  "90-100": 1
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 18,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.367,
+ "soft_transition_candidates": [
+  {
+   "t": 6.8,
+   "score": 0.352
+  },
+  {
+   "t": 14.1,
+   "score": 0.196
+  },
+  {
+   "t": 15.6,
+   "score": 0.198
+  },
+  {
+   "t": 22.3,
+   "score": 0.306
+  },
+  {
+   "t": 28.3,
+   "score": 0.306
+  },
+  {
+   "t": 43.7,
+   "score": 0.261
+  },
+  {
+   "t": 44.3,
+   "score": 0.259
+  },
+  {
+   "t": 51.7,
+   "score": 0.254
+  },
+  {
+   "t": 53.3,
+   "score": 0.204
+  },
+  {
+   "t": 55.3,
+   "score": 0.127
+  },
+  {
+   "t": 66.1,
+   "score": 0.199
+  },
+  {
+   "t": 67.8,
+   "score": 0.108
+  },
+  {
+   "t": 70.2,
+   "score": 0.476
+  },
+  {
+   "t": 75.5,
+   "score": 0.279
+  },
+  {
+   "t": 82.9,
+   "score": 0.639
+  },
+  {
+   "t": 90.8,
+   "score": 0.286
+  },
+  {
+   "t": 92.0,
+   "score": 0.207
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 9.44,
+   "len": 9.44
+  },
+  {
+   "i": 2,
+   "start": 9.44,
+   "end": 12.68,
+   "len": 3.24
+  },
+  {
+   "i": 3,
+   "start": 12.68,
+   "end": 17.2,
+   "len": 4.52
+  },
+  {
+   "i": 4,
+   "start": 17.2,
+   "end": 19.6,
+   "len": 2.4
+  },
+  {
+   "i": 5,
+   "start": 19.6,
+   "end": 21.36,
+   "len": 1.76
+  },
+  {
+   "i": 6,
+   "start": 21.36,
+   "end": 30.16,
+   "len": 8.8
+  },
+  {
+   "i": 7,
+   "start": 30.16,
+   "end": 33.16,
+   "len": 3.0
+  },
+  {
+   "i": 8,
+   "start": 33.16,
+   "end": 41.68,
+   "len": 8.52
+  },
+  {
+   "i": 9,
+   "start": 41.68,
+   "end": 49.8,
+   "len": 8.12
+  },
+  {
+   "i": 10,
+   "start": 49.8,
+   "end": 58.2,
+   "len": 8.4
+  },
+  {
+   "i": 11,
+   "start": 58.2,
+   "end": 60.44,
+   "len": 2.24
+  },
+  {
+   "i": 12,
+   "start": 60.44,
+   "end": 65.0,
+   "len": 4.56
+  },
+  {
+   "i": 13,
+   "start": 65.0,
+   "end": 69.2,
+   "len": 4.2
+  },
+  {
+   "i": 14,
+   "start": 69.2,
+   "end": 73.44,
+   "len": 4.24
+  },
+  {
+   "i": 15,
+   "start": 73.44,
+   "end": 76.68,
+   "len": 3.24
+  },
+  {
+   "i": 16,
+   "start": 76.68,
+   "end": 80.2,
+   "len": 3.52
+  },
+  {
+   "i": 17,
+   "start": 80.2,
+   "end": 86.28,
+   "len": 6.08
+  },
+  {
+   "i": 18,
+   "start": 86.28,
+   "end": 96.28,
+   "len": 10.0
+  },
+  {
+   "i": 19,
+   "start": 96.28,
+   "end": 96.334,
+   "len": 0.054
+  }
+ ],
+ "cuts": [
+  9.44,
+  12.68,
+  17.2,
+  19.6,
+  21.36,
+  30.16,
+  33.16,
+  41.68,
+  49.8,
+  58.2,
+  60.44,
+  65.0,
+  69.2,
+  73.44,
+  76.68,
+  80.2,
+  86.28,
+  96.28
+ ],
+ "loudness": {
+  "integrated_lufs": -17.0,
+  "loudness_range_lu": 7.5,
+  "true_peak_dbtp": 0.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 5.7,
+    "len": 5.7
+   },
+   {
+    "start": 82.85,
+    "end": 86.45,
+    "len": 3.6
+   },
+   {
+    "start": 89.8,
+    "end": 90.2,
+    "len": 0.4
+   },
+   {
+    "start": 92.0,
+    "end": 96.3,
+    "len": 4.3
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 81.95,
+    "end": 86.5,
+    "len": 4.55,
+    "level_before_db": -23.6,
+    "floor_db": -120.0,
+    "next_peak_db": -23.2,
+    "next_peak_t": 86.9
+   },
+   {
+    "start": 89.65,
+    "end": 90.25,
+    "len": 0.6,
+    "level_before_db": -28.8,
+    "floor_db": -58.5,
+    "next_peak_db": -18.9,
+    "next_peak_t": 90.65
+   }
+  ],
+  "hits": [
+   {
+    "t": 22.45,
+    "level_dbfs": -10.7,
+    "rise_db": 20.3
+   },
+   {
+    "t": 15.75,
+    "level_dbfs": -12.4,
+    "rise_db": 25.6
+   },
+   {
+    "t": 67.85,
+    "level_dbfs": -12.8,
+    "rise_db": 15.3
+   },
+   {
+    "t": 75.85,
+    "level_dbfs": -13.2,
+    "rise_db": 19.0
+   },
+   {
+    "t": 62.1,
+    "level_dbfs": -13.4,
+    "rise_db": 17.9
+   },
+   {
+    "t": 35.55,
+    "level_dbfs": -13.5,
+    "rise_db": 15.7
+   },
+   {
+    "t": 37.65,
+    "level_dbfs": -13.6,
+    "rise_db": 15.5
+   },
+   {
+    "t": 54.55,
+    "level_dbfs": -13.7,
+    "rise_db": 19.8
+   },
+   {
+    "t": 44.2,
+    "level_dbfs": -13.8,
+    "rise_db": 16.6
+   },
+   {
+    "t": 52.5,
+    "level_dbfs": -13.9,
+    "rise_db": 17.6
+   },
+   {
+    "t": 55.75,
+    "level_dbfs": -14.1,
+    "rise_db": 18.9
+   },
+   {
+    "t": 45.5,
+    "level_dbfs": -14.1,
+    "rise_db": 16.4
+   },
+   {
+    "t": 74.1,
+    "level_dbfs": -14.3,
+    "rise_db": 17.6
+   },
+   {
+    "t": 65.55,
+    "level_dbfs": -14.4,
+    "rise_db": 15.4
+   },
+   {
+    "t": 50.9,
+    "level_dbfs": -14.5,
+    "rise_db": 17.6
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 86.8,
+    "level_dbfs": -23.5,
+    "rise_db": 96.5
+   },
+   {
+    "t": 5.85,
+    "level_dbfs": -37.7,
+    "rise_db": 82.3
+   },
+   {
+    "t": 91.9,
+    "level_dbfs": -17.3,
+    "rise_db": 45.1
+   },
+   {
+    "t": 90.65,
+    "level_dbfs": -18.9,
+    "rise_db": 36.4
+   },
+   {
+    "t": 15.75,
+    "level_dbfs": -12.4,
+    "rise_db": 25.6
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 32.5,
+   "rms_dbfs": -14.5
+  },
+  "median_rms_dbfs": -23.6
+ },
+ "sync": {
+  "onsets_per_s": 1.92,
+  "cuts_on_onset_pct": 44,
+  "chance_pct": 38,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak 0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

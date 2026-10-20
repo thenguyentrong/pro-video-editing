@@ -1,0 +1,523 @@
+{
+ "name": "anybotics_rapid-response",
+ "file": "anybotics_rapid-response.webm",
+ "duration_s": 89.221,
+ "fps": 25.0,
+ "width": 640,
+ "height": 360,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 34,
+ "shot_count": 35,
+ "asl_s": 2.55,
+ "median_s": 1.68,
+ "pct_shots_under_1s": 5.7,
+ "pct_shots_over_3s": 22.9,
+ "shots_per_minute": 23.5,
+ "asl_quarters_s": [
+  2.48,
+  2.48,
+  2.48,
+  2.03
+ ],
+ "longest": [
+  {
+   "start": 81.96,
+   "len": 7.261
+  },
+  {
+   "start": 16.8,
+   "len": 7.08
+  },
+  {
+   "start": 26.84,
+   "len": 6.56
+  }
+ ],
+ "shortest": [
+  {
+   "start": 77.6,
+   "len": 0.56
+  },
+  {
+   "start": 68.76,
+   "len": 0.76
+  },
+  {
+   "start": 67.76,
+   "len": 1.0
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 3,
+  "20-30": 2,
+  "30-40": 4,
+  "40-50": 3,
+  "50-60": 4,
+  "60-70": 6,
+  "70-80": 5,
+  "80-90": 2
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 37,
+  "only_in_other": [
+   1.76,
+   15.12,
+   49.4
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.452,
+ "soft_transition_candidates": [
+  {
+   "t": 1.6,
+   "score": 1.445
+  },
+  {
+   "t": 5.1,
+   "score": 0.299
+  },
+  {
+   "t": 14.7,
+   "score": 1.078
+  },
+  {
+   "t": 15.4,
+   "score": 1.097
+  },
+  {
+   "t": 18.7,
+   "score": 0.156
+  },
+  {
+   "t": 19.8,
+   "score": 0.16
+  },
+  {
+   "t": 28.5,
+   "score": 0.319
+  },
+  {
+   "t": 30.3,
+   "score": 0.298
+  },
+  {
+   "t": 38.0,
+   "score": 0.767
+  },
+  {
+   "t": 42.7,
+   "score": 0.568
+  },
+  {
+   "t": 45.3,
+   "score": 0.181
+  },
+  {
+   "t": 49.0,
+   "score": 0.367
+  },
+  {
+   "t": 49.8,
+   "score": 0.245
+  },
+  {
+   "t": 82.9,
+   "score": 0.431
+  },
+  {
+   "t": 83.5,
+   "score": 0.436
+  },
+  {
+   "t": 85.3,
+   "score": 1.349
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.92,
+   "len": 2.92
+  },
+  {
+   "i": 2,
+   "start": 2.92,
+   "end": 4.0,
+   "len": 1.08
+  },
+  {
+   "i": 3,
+   "start": 4.0,
+   "end": 6.2,
+   "len": 2.2
+  },
+  {
+   "i": 4,
+   "start": 6.2,
+   "end": 7.28,
+   "len": 1.08
+  },
+  {
+   "i": 5,
+   "start": 7.28,
+   "end": 8.64,
+   "len": 1.36
+  },
+  {
+   "i": 6,
+   "start": 8.64,
+   "end": 10.52,
+   "len": 1.88
+  },
+  {
+   "i": 7,
+   "start": 10.52,
+   "end": 12.0,
+   "len": 1.48
+  },
+  {
+   "i": 8,
+   "start": 12.0,
+   "end": 16.8,
+   "len": 4.8
+  },
+  {
+   "i": 9,
+   "start": 16.8,
+   "end": 23.88,
+   "len": 7.08
+  },
+  {
+   "i": 10,
+   "start": 23.88,
+   "end": 26.84,
+   "len": 2.96
+  },
+  {
+   "i": 11,
+   "start": 26.84,
+   "end": 33.4,
+   "len": 6.56
+  },
+  {
+   "i": 12,
+   "start": 33.4,
+   "end": 35.04,
+   "len": 1.64
+  },
+  {
+   "i": 13,
+   "start": 35.04,
+   "end": 36.68,
+   "len": 1.64
+  },
+  {
+   "i": 14,
+   "start": 36.68,
+   "end": 39.4,
+   "len": 2.72
+  },
+  {
+   "i": 15,
+   "start": 39.4,
+   "end": 41.08,
+   "len": 1.68
+  },
+  {
+   "i": 16,
+   "start": 41.08,
+   "end": 43.8,
+   "len": 2.72
+  },
+  {
+   "i": 17,
+   "start": 43.8,
+   "end": 46.52,
+   "len": 2.72
+  },
+  {
+   "i": 18,
+   "start": 46.52,
+   "end": 50.88,
+   "len": 4.36
+  },
+  {
+   "i": 19,
+   "start": 50.88,
+   "end": 52.52,
+   "len": 1.64
+  },
+  {
+   "i": 20,
+   "start": 52.52,
+   "end": 54.16,
+   "len": 1.64
+  },
+  {
+   "i": 21,
+   "start": 54.16,
+   "end": 56.32,
+   "len": 2.16
+  },
+  {
+   "i": 22,
+   "start": 56.32,
+   "end": 60.4,
+   "len": 4.08
+  },
+  {
+   "i": 23,
+   "start": 60.4,
+   "end": 65.04,
+   "len": 4.64
+  },
+  {
+   "i": 24,
+   "start": 65.04,
+   "end": 66.16,
+   "len": 1.12
+  },
+  {
+   "i": 25,
+   "start": 66.16,
+   "end": 67.76,
+   "len": 1.6
+  },
+  {
+   "i": 26,
+   "start": 67.76,
+   "end": 68.76,
+   "len": 1.0
+  },
+  {
+   "i": 27,
+   "start": 68.76,
+   "end": 69.52,
+   "len": 0.76
+  },
+  {
+   "i": 28,
+   "start": 69.52,
+   "end": 72.44,
+   "len": 2.92
+  },
+  {
+   "i": 29,
+   "start": 72.44,
+   "end": 76.2,
+   "len": 3.76
+  },
+  {
+   "i": 30,
+   "start": 76.2,
+   "end": 77.6,
+   "len": 1.4
+  },
+  {
+   "i": 31,
+   "start": 77.6,
+   "end": 78.16,
+   "len": 0.56
+  },
+  {
+   "i": 32,
+   "start": 78.16,
+   "end": 79.24,
+   "len": 1.08
+  },
+  {
+   "i": 33,
+   "start": 79.24,
+   "end": 80.32,
+   "len": 1.08
+  },
+  {
+   "i": 34,
+   "start": 80.32,
+   "end": 81.96,
+   "len": 1.64
+  },
+  {
+   "i": 35,
+   "start": 81.96,
+   "end": 89.221,
+   "len": 7.261
+  }
+ ],
+ "cuts": [
+  2.92,
+  4.0,
+  6.2,
+  7.28,
+  8.64,
+  10.52,
+  12.0,
+  16.8,
+  23.88,
+  26.84,
+  33.4,
+  35.04,
+  36.68,
+  39.4,
+  41.08,
+  43.8,
+  46.52,
+  50.88,
+  52.52,
+  54.16,
+  56.32,
+  60.4,
+  65.04,
+  66.16,
+  67.76,
+  68.76,
+  69.52,
+  72.44,
+  76.2,
+  77.6,
+  78.16,
+  79.24,
+  80.32,
+  81.96
+ ],
+ "loudness": {
+  "integrated_lufs": -16.8,
+  "loudness_range_lu": 2.5,
+  "true_peak_dbtp": -2.4
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 86.6,
+    "level_dbfs": -10.0,
+    "rise_db": 16.6
+   },
+   {
+    "t": 32.05,
+    "level_dbfs": -10.4,
+    "rise_db": 16.1
+   },
+   {
+    "t": 16.75,
+    "level_dbfs": -10.5,
+    "rise_db": 17.6
+   },
+   {
+    "t": 15.7,
+    "level_dbfs": -10.6,
+    "rise_db": 24.7
+   },
+   {
+    "t": 27.65,
+    "level_dbfs": -11.0,
+    "rise_db": 26.1
+   },
+   {
+    "t": 51.15,
+    "level_dbfs": -12.7,
+    "rise_db": 21.0
+   },
+   {
+    "t": 46.0,
+    "level_dbfs": -12.8,
+    "rise_db": 15.5
+   },
+   {
+    "t": 12.4,
+    "level_dbfs": -12.9,
+    "rise_db": 24.0
+   },
+   {
+    "t": 81.75,
+    "level_dbfs": -13.5,
+    "rise_db": 20.7
+   },
+   {
+    "t": 56.5,
+    "level_dbfs": -13.6,
+    "rise_db": 19.4
+   },
+   {
+    "t": 66.45,
+    "level_dbfs": -13.9,
+    "rise_db": 15.7
+   },
+   {
+    "t": 64.45,
+    "level_dbfs": -14.0,
+    "rise_db": 21.6
+   },
+   {
+    "t": 43.25,
+    "level_dbfs": -14.3,
+    "rise_db": 18.8
+   },
+   {
+    "t": 71.25,
+    "level_dbfs": -14.6,
+    "rise_db": 19.7
+   },
+   {
+    "t": 38.9,
+    "level_dbfs": -14.7,
+    "rise_db": 17.5
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -16.7,
+    "rise_db": 44.1
+   },
+   {
+    "t": 12.0,
+    "level_dbfs": -15.5,
+    "rise_db": 27.5
+   },
+   {
+    "t": 9.8,
+    "level_dbfs": -16.7,
+    "rise_db": 26.7
+   },
+   {
+    "t": 8.2,
+    "level_dbfs": -16.7,
+    "rise_db": 26.2
+   },
+   {
+    "t": 27.65,
+    "level_dbfs": -11.0,
+    "rise_db": 26.1
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 1.15,
+   "rms_dbfs": -14.7
+  },
+  "median_rms_dbfs": -20.4
+ },
+ "sync": {
+  "onsets_per_s": 2.4,
+  "cuts_on_onset_pct": 62,
+  "chance_pct": 47,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [1.76, 15.12, 49.4] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

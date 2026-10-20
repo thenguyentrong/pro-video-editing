@@ -1,0 +1,406 @@
+{
+ "name": "scrub_daddy_morning_routine",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "iGEFKEuwRCw",
+  "title": "Scrub Daddy's Morning Routine 🧽🍌💦",
+  "upload_date": "20250404",
+  "duration": 23,
+  "view_count": 118954,
+  "like_count": 4068,
+  "channel": "Scrub Daddy",
+  "width": 540,
+  "height": 960,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/shorts/iGEFKEuwRCw"
+ },
+ "caveat": "last four 0.1 s shots are an inverted-colour glitch outro, not edits; hit rises of 100+ dB are measured from digital silence and meaningless",
+ "file": "sd_morning-routine.webm",
+ "duration_s": 22.521,
+ "fps": 30.0,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 20,
+ "shot_count": 21,
+ "asl_s": 1.07,
+ "median_s": 1.03,
+ "pct_shots_under_1s": 42.9,
+ "pct_shots_over_3s": 4.8,
+ "shots_per_minute": 55.9,
+ "asl_quarters_s": [
+  0.94,
+  0.94,
+  1.41,
+  0.7
+ ],
+ "longest": [
+  {
+   "start": 12.833,
+   "len": 3.4
+  },
+  {
+   "start": 0.0,
+   "len": 2.267
+  },
+  {
+   "start": 5.2,
+   "len": 2.067
+  }
+ ],
+ "shortest": [
+  {
+   "start": 22.433,
+   "len": 0.088
+  },
+  {
+   "start": 22.133,
+   "len": 0.1
+  },
+  {
+   "start": 22.233,
+   "len": 0.1
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 7,
+  "10-20": 8,
+  "20-30": 5
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 21,
+  "only_in_other": [
+   14.1,
+   20.967
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.431,
+ "soft_transition_candidates": [
+  {
+   "t": 1.2,
+   "score": 0.359
+  },
+  {
+   "t": 14.4,
+   "score": 0.764
+  },
+  {
+   "t": 15.0,
+   "score": 0.111
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.267,
+   "len": 2.267
+  },
+  {
+   "i": 2,
+   "start": 2.267,
+   "end": 3.0,
+   "len": 0.733
+  },
+  {
+   "i": 3,
+   "start": 3.0,
+   "end": 3.567,
+   "len": 0.567
+  },
+  {
+   "i": 4,
+   "start": 3.567,
+   "end": 4.867,
+   "len": 1.3
+  },
+  {
+   "i": 5,
+   "start": 4.867,
+   "end": 5.2,
+   "len": 0.333
+  },
+  {
+   "i": 6,
+   "start": 5.2,
+   "end": 7.267,
+   "len": 2.067
+  },
+  {
+   "i": 7,
+   "start": 7.267,
+   "end": 8.633,
+   "len": 1.366
+  },
+  {
+   "i": 8,
+   "start": 8.633,
+   "end": 10.067,
+   "len": 1.434
+  },
+  {
+   "i": 9,
+   "start": 10.067,
+   "end": 10.233,
+   "len": 0.166
+  },
+  {
+   "i": 10,
+   "start": 10.233,
+   "end": 11.233,
+   "len": 1.0
+  },
+  {
+   "i": 11,
+   "start": 11.233,
+   "end": 12.267,
+   "len": 1.034
+  },
+  {
+   "i": 12,
+   "start": 12.267,
+   "end": 12.833,
+   "len": 0.566
+  },
+  {
+   "i": 13,
+   "start": 12.833,
+   "end": 16.233,
+   "len": 3.4
+  },
+  {
+   "i": 14,
+   "start": 16.233,
+   "end": 17.4,
+   "len": 1.167
+  },
+  {
+   "i": 15,
+   "start": 17.4,
+   "end": 19.167,
+   "len": 1.767
+  },
+  {
+   "i": 16,
+   "start": 19.167,
+   "end": 20.733,
+   "len": 1.566
+  },
+  {
+   "i": 17,
+   "start": 20.733,
+   "end": 22.133,
+   "len": 1.4
+  },
+  {
+   "i": 18,
+   "start": 22.133,
+   "end": 22.233,
+   "len": 0.1
+  },
+  {
+   "i": 19,
+   "start": 22.233,
+   "end": 22.333,
+   "len": 0.1
+  },
+  {
+   "i": 20,
+   "start": 22.333,
+   "end": 22.433,
+   "len": 0.1
+  },
+  {
+   "i": 21,
+   "start": 22.433,
+   "end": 22.521,
+   "len": 0.088
+  }
+ ],
+ "cuts": [
+  2.267,
+  3.0,
+  3.567,
+  4.867,
+  5.2,
+  7.267,
+  8.633,
+  10.067,
+  10.233,
+  11.233,
+  12.267,
+  12.833,
+  16.233,
+  17.4,
+  19.167,
+  20.733,
+  22.133,
+  22.233,
+  22.333,
+  22.433
+ ],
+ "loudness": {
+  "integrated_lufs": -12.0,
+  "loudness_range_lu": 18.5,
+  "true_peak_dbtp": 1.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 6.85,
+    "end": 7.2,
+    "len": 0.35
+   },
+   {
+    "start": 12.7,
+    "end": 13.05,
+    "len": 0.35
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 7.3,
+    "end": 7.8,
+    "len": 0.5,
+    "level_before_db": -20.5,
+    "floor_db": -54.3,
+    "next_peak_db": -19.0,
+    "next_peak_t": 7.95
+   },
+   {
+    "start": 12.75,
+    "end": 13.05,
+    "len": 0.3,
+    "level_before_db": -35.0,
+    "floor_db": -120.0,
+    "next_peak_db": -14.3,
+    "next_peak_t": 13.25
+   },
+   {
+    "start": 16.5,
+    "end": 17.15,
+    "len": 0.65,
+    "level_before_db": -16.9,
+    "floor_db": -38.6,
+    "next_peak_db": -8.7,
+    "next_peak_t": 17.25
+   }
+  ],
+  "hits": [
+   {
+    "t": 17.25,
+    "level_dbfs": -8.7,
+    "rise_db": 29.9
+   },
+   {
+    "t": 5.9,
+    "level_dbfs": -11.0,
+    "rise_db": 19.5
+   },
+   {
+    "t": 20.85,
+    "level_dbfs": -11.2,
+    "rise_db": 108.8
+   },
+   {
+    "t": 12.45,
+    "level_dbfs": -11.3,
+    "rise_db": 60.9
+   },
+   {
+    "t": 4.1,
+    "level_dbfs": -13.2,
+    "rise_db": 17.5
+   },
+   {
+    "t": 1.85,
+    "level_dbfs": -15.4,
+    "rise_db": 21.2
+   },
+   {
+    "t": 13.5,
+    "level_dbfs": -17.9,
+    "rise_db": 102.1
+   },
+   {
+    "t": 7.95,
+    "level_dbfs": -19.0,
+    "rise_db": 35.3
+   },
+   {
+    "t": 22.2,
+    "level_dbfs": -25.8,
+    "rise_db": 20.3
+   },
+   {
+    "t": 0.65,
+    "level_dbfs": -28.4,
+    "rise_db": 71.7
+   },
+   {
+    "t": 10.2,
+    "level_dbfs": -31.5,
+    "rise_db": 88.5
+   },
+   {
+    "t": 19.8,
+    "level_dbfs": -40.4,
+    "rise_db": 22.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 20.85,
+    "level_dbfs": -11.2,
+    "rise_db": 108.8
+   },
+   {
+    "t": 13.25,
+    "level_dbfs": -14.3,
+    "rise_db": 105.7
+   },
+   {
+    "t": 0.5,
+    "level_dbfs": -30.9,
+    "rise_db": 89.1
+   },
+   {
+    "t": 10.2,
+    "level_dbfs": -31.5,
+    "rise_db": 88.5
+   },
+   {
+    "t": 19.25,
+    "level_dbfs": -41.7,
+    "rise_db": 45.7
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 5.9,
+   "rms_dbfs": -11.8
+  },
+  "median_rms_dbfs": -33.9
+ },
+ "sync": {
+  "onsets_per_s": 1.42,
+  "cuts_on_onset_pct": 40,
+  "chance_pct": 28,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [14.1, 20.967] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 1.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

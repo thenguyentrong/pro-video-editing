@@ -1,0 +1,420 @@
+{
+ "name": "spotify_keke_palmer",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "ea6QABMqCBg",
+  "title": "Take it from Keke Palmer: never lose who you are in a romantic relationship 👏",
+  "upload_date": "20260723",
+  "duration": 61,
+  "view_count": 132189,
+  "like_count": 4849,
+  "channel": "Spotify",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/shorts/ea6QABMqCBg"
+ },
+ "file": "sp_keke-palmer.mkv",
+ "duration_s": 61.221,
+ "fps": 23.976,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 6,
+ "shot_count": 7,
+ "asl_s": 8.75,
+ "median_s": 2.96,
+ "pct_shots_under_1s": 14.3,
+ "pct_shots_over_3s": 42.9,
+ "shots_per_minute": 6.9,
+ "asl_quarters_s": [
+  3.06,
+  5.1,
+  15.31,
+  15.31
+ ],
+ "longest": [
+  {
+   "start": 27.069,
+   "len": 34.152
+  },
+  {
+   "start": 8.759,
+   "len": 16.016
+  },
+  {
+   "start": 5.547,
+   "len": 3.212
+  }
+ ],
+ "shortest": [
+  {
+   "start": 4.796,
+   "len": 0.751
+  },
+  {
+   "start": 0.0,
+   "len": 1.835
+  },
+  {
+   "start": 24.775,
+   "len": 2.294
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 0,
+  "20-30": 2,
+  "30-40": 0,
+  "40-50": 0,
+  "50-60": 0,
+  "60-70": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 8,
+  "only_in_other": [
+   50.759,
+   59.601
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.267,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.361
+  },
+  {
+   "t": 3.6,
+   "score": 0.19
+  },
+  {
+   "t": 10.0,
+   "score": 0.371
+  },
+  {
+   "t": 12.1,
+   "score": 0.401
+  },
+  {
+   "t": 13.9,
+   "score": 0.313
+  },
+  {
+   "t": 15.4,
+   "score": 0.375
+  },
+  {
+   "t": 16.2,
+   "score": 0.398
+  },
+  {
+   "t": 17.6,
+   "score": 0.325
+  },
+  {
+   "t": 19.9,
+   "score": 0.511
+  },
+  {
+   "t": 21.1,
+   "score": 0.545
+  },
+  {
+   "t": 22.5,
+   "score": 0.424
+  },
+  {
+   "t": 28.1,
+   "score": 0.223
+  },
+  {
+   "t": 29.4,
+   "score": 0.28
+  },
+  {
+   "t": 30.1,
+   "score": 0.341
+  },
+  {
+   "t": 30.8,
+   "score": 0.27
+  },
+  {
+   "t": 31.6,
+   "score": 0.36
+  },
+  {
+   "t": 32.8,
+   "score": 0.35
+  },
+  {
+   "t": 36.5,
+   "score": 0.344
+  },
+  {
+   "t": 37.3,
+   "score": 0.331
+  },
+  {
+   "t": 38.9,
+   "score": 0.43
+  },
+  {
+   "t": 40.5,
+   "score": 0.385
+  },
+  {
+   "t": 41.4,
+   "score": 0.424
+  },
+  {
+   "t": 42.1,
+   "score": 0.389
+  },
+  {
+   "t": 43.4,
+   "score": 0.373
+  },
+  {
+   "t": 44.2,
+   "score": 0.417
+  },
+  {
+   "t": 45.1,
+   "score": 0.441
+  },
+  {
+   "t": 47.4,
+   "score": 0.274
+  },
+  {
+   "t": 48.5,
+   "score": 0.328
+  },
+  {
+   "t": 49.4,
+   "score": 0.598
+  },
+  {
+   "t": 51.0,
+   "score": 0.598
+  },
+  {
+   "t": 52.2,
+   "score": 0.56
+  },
+  {
+   "t": 53.8,
+   "score": 0.396
+  },
+  {
+   "t": 54.9,
+   "score": 0.373
+  },
+  {
+   "t": 56.4,
+   "score": 0.281
+  },
+  {
+   "t": 59.2,
+   "score": 2.315
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 1.835,
+   "len": 1.835
+  },
+  {
+   "i": 2,
+   "start": 1.835,
+   "end": 4.796,
+   "len": 2.961
+  },
+  {
+   "i": 3,
+   "start": 4.796,
+   "end": 5.547,
+   "len": 0.751
+  },
+  {
+   "i": 4,
+   "start": 5.547,
+   "end": 8.759,
+   "len": 3.212
+  },
+  {
+   "i": 5,
+   "start": 8.759,
+   "end": 24.775,
+   "len": 16.016
+  },
+  {
+   "i": 6,
+   "start": 24.775,
+   "end": 27.069,
+   "len": 2.294
+  },
+  {
+   "i": 7,
+   "start": 27.069,
+   "end": 61.221,
+   "len": 34.152
+  }
+ ],
+ "cuts": [
+  1.835,
+  4.796,
+  5.547,
+  8.759,
+  24.775,
+  27.069
+ ],
+ "loudness": {
+  "integrated_lufs": -19.0,
+  "loudness_range_lu": 2.3,
+  "true_peak_dbtp": -7.5
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 59.75,
+    "end": 61.2,
+    "len": 1.45
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 7.3,
+    "level_dbfs": -15.5,
+    "rise_db": 61.0
+   },
+   {
+    "t": 18.85,
+    "level_dbfs": -15.6,
+    "rise_db": 20.7
+   },
+   {
+    "t": 11.85,
+    "level_dbfs": -15.8,
+    "rise_db": 20.9
+   },
+   {
+    "t": 47.9,
+    "level_dbfs": -16.3,
+    "rise_db": 33.9
+   },
+   {
+    "t": 39.9,
+    "level_dbfs": -16.7,
+    "rise_db": 57.1
+   },
+   {
+    "t": 27.15,
+    "level_dbfs": -16.7,
+    "rise_db": 51.5
+   },
+   {
+    "t": 50.8,
+    "level_dbfs": -16.7,
+    "rise_db": 18.9
+   },
+   {
+    "t": 8.95,
+    "level_dbfs": -16.8,
+    "rise_db": 19.4
+   },
+   {
+    "t": 44.0,
+    "level_dbfs": -16.9,
+    "rise_db": 54.3
+   },
+   {
+    "t": 15.75,
+    "level_dbfs": -17.0,
+    "rise_db": 43.3
+   },
+   {
+    "t": 32.25,
+    "level_dbfs": -17.1,
+    "rise_db": 30.6
+   },
+   {
+    "t": 25.25,
+    "level_dbfs": -17.2,
+    "rise_db": 21.3
+   },
+   {
+    "t": 3.2,
+    "level_dbfs": -17.2,
+    "rise_db": 21.2
+   },
+   {
+    "t": 23.3,
+    "level_dbfs": -17.4,
+    "rise_db": 30.7
+   },
+   {
+    "t": 30.4,
+    "level_dbfs": -17.5,
+    "rise_db": 20.0
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 55.5,
+    "level_dbfs": -17.6,
+    "rise_db": 74.4
+   },
+   {
+    "t": 38.15,
+    "level_dbfs": -17.8,
+    "rise_db": 66.3
+   },
+   {
+    "t": 7.3,
+    "level_dbfs": -15.5,
+    "rise_db": 61.0
+   },
+   {
+    "t": 32.65,
+    "level_dbfs": -17.2,
+    "rise_db": 58.3
+   },
+   {
+    "t": 39.9,
+    "level_dbfs": -16.7,
+    "rise_db": 57.1
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 18.5,
+   "rms_dbfs": -17.9
+  },
+  "median_rms_dbfs": -22.8
+ },
+ "sync": {
+  "onsets_per_s": 3.01,
+  "cuts_on_onset_pct": 83,
+  "chance_pct": 59,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [50.759, 59.601] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

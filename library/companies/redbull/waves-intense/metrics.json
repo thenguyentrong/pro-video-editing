@@ -1,0 +1,257 @@
+{
+ "name": "redbull_waves_intense",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "Jw5TdfVYXwM",
+  "title": "Those Waves Are INTENSE 🫣",
+  "upload_date": "20261008",
+  "duration": 102,
+  "view_count": 103300128,
+  "like_count": 1310413,
+  "channel": "Red Bull",
+  "uploader": "Red Bull",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 25,
+  "webpage_url": "https://www.youtube.com/watch?v=Jw5TdfVYXwM",
+  "description_start": "►\n\n#RedBull #GivesYouWiiings\n_________________________________________________\nExperience the world of Red Bull like you have never seen it before with the best action sports clips on the web, original series and livestreams.\n\nGet the FREE Red Bull TV apps for all your devices: http://win.gs/RedBull"
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   3.04,
+   5.88
+  ],
+  "shots": 3,
+  "ASL_s": 33.87,
+  "median_s": 3.04,
+  "ASL_quarters_s": [
+   8.47,
+   25.4,
+   25.4,
+   25.4
+  ],
+  "longest_start_len": [
+   [
+    5.88,
+    95.73
+   ],
+   [
+    0.0,
+    3.04
+   ],
+   [
+    3.04,
+    2.84
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    3.04,
+    2.84
+   ],
+   [
+    0.0,
+    3.04
+   ],
+   [
+    5.88,
+    95.73
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 67,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "3 shots: 0-3.04 handheld (diver points over the edge), 3.04-5.88 handheld POV down at the waves, 5.88-101.6 one locked-ish phone shot that tilts down to follow the dive at ~97 s"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 101.61
+ },
+ "cuts_cuts2": [
+  3.04,
+  5.88
+ ],
+ "shot_stats_cuts2": {
+  "name": "redbull_waves_intense",
+  "length": 101.56,
+  "shots": 3,
+  "ASL": 33.85,
+  "median": 3.04,
+  "ASL_quarters": [
+   8.46,
+   25.39,
+   25.39,
+   25.39
+  ],
+  "longest": [
+   [
+    5.88,
+    95.68
+   ],
+   [
+    0.0,
+    3.04
+   ],
+   [
+    3.04,
+    2.84
+   ]
+  ],
+  "shortest": [
+   [
+    3.04,
+    2.84
+   ],
+   [
+    0.0,
+    3.04
+   ],
+   [
+    5.88,
+    95.68
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 67,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 2,
+   "asl": 50.81
+  },
+  "0.25": {
+   "n_shots": 2,
+   "asl": 50.81
+  },
+  "0.3": {
+   "n_shots": 2,
+   "asl": 50.81
+  },
+  "0.35": {
+   "n_shots": 1,
+   "asl": 101.61
+  },
+  "0.4": {
+   "n_shots": 1,
+   "asl": 101.61
+  }
+ },
+ "integrated_lufs": -18.6,
+ "loudness_dropouts": [],
+ "loudness_hits": {
+  "loudest_t": 35.5,
+  "loudest_M": -9.0,
+  "big_hits_near_peak": [
+   [
+    12.9,
+    82.0,
+    -10.7
+   ],
+   [
+    12.3,
+    3.0,
+    -12.6
+   ],
+   [
+    11.3,
+    81.5,
+    -12.3
+   ]
+  ],
+  "biggest_rises": [
+   [
+    12.9,
+    82.0,
+    -10.7
+   ],
+   [
+    12.3,
+    3.0,
+    -12.6
+   ],
+   [
+    11.3,
+    81.5,
+    -12.3
+   ],
+   [
+    9.6,
+    98.0,
+    -11.1
+   ],
+   [
+    8.6,
+    2.5,
+    -16.3
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -11.7,
+   15.6,
+   100.95
+  ],
+  [
+   -11.8,
+   15.4,
+   34.4
+  ],
+  [
+   -12.2,
+   26.5,
+   5.2
+  ],
+  [
+   -13.6,
+   16.0,
+   6.3
+  ],
+  [
+   -14.6,
+   18.3,
+   81.9
+  ],
+  [
+   -30.5,
+   89.5,
+   0.5
+  ]
+ ],
+ "beatsync": "redbull_waves_intense onsets/s 0.75 cuts on onset (+-0.1s) 50 % vs chance 15 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / TikTok (Red Bull Cliff Diving, Polignano a Mare)",
+  "sub_style": "sport / athlete POV, real-time suspense",
+  "hook_0_2s": "a diver in a teal swimsuit on the 20+ m platform points down: caption 'take a look at this...' (0-1.7 s); at 2-3 s the phone looks over the edge at violent turquoise waves smashing the cliff = danger shown before anything else",
+  "captions": {
+   "style": "bold italic sans (Poppins/Proxima Nova Bold Italic-like), white, soft dark shadow, lowercase, centred, no box",
+   "line_glyph_height_pct_H": [
+    2.2,
+    2.3
+   ],
+   "cap_height_pct_H": 1.7,
+   "position_pct_H": "44-53 (on the athlete's body, frame centre)",
+   "cards": "'take a look at this...', 'now it's her turn', 'final psych up', 'small pat down', 'shoes & towel down', 'make sure feet are in the right place', 'understand the timing of the waves', 'visualize the dive', 'the timing has to be perfect', 'now we're ready', 'let's go', 'and stick the landing'",
+   "word_by_word": false,
+   "hold_s": "about 3-8 s per card, often with gaps"
+  },
+  "on_screen_text_density": "one 2-7 word card at a time, about 12 cards in 101 s",
+  "audio": "ambient (wind, sea, crowd) + soft music; integrated -18.6 LUFS; hits at 5.2 s (+26.5 dB) and 100.95 s (splash)",
+  "audio_type": "original location sound (music not identified)",
+  "voice": false,
+  "retention_device": "the payoff (dive) is held back to 96 s of 101.6 s; captions turn the wait into a step-by-step ritual",
+  "loop": "ends on the water after the entry; no logo",
+  "views_at_analysis": 103300128,
+  "likes": 1310413
+ }
+}

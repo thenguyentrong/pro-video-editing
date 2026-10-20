@@ -1,0 +1,315 @@
+{
+ "name": "google_dreamjob_sb25",
+ "url": "https://www.youtube.com/watch?v=-7e6g11BJc0",
+ "analysed": "2026-10-20, 480p YouTube download (media deleted after analysis)",
+ "resolution_analysed": "854,480",
+ "duration_s": 125.13,
+ "fps": 23.976,
+ "cut_detection": "cuts2.py adaptive hard cuts, every cut pair checked by eye (verify.py); soft transitions from soft.py checked by eye (cand.py) and added only when they are real scene changes",
+ "soft_transitions_added_s": [
+  23.2,
+  61.7
+ ],
+ "false_cuts_dropped_s": [],
+ "shots": 70,
+ "asl_s": 1.79,
+ "median_shot_s": 1.56,
+ "asl_quarters_s": [
+  1.96,
+  1.49,
+  1.25,
+  2.84
+ ],
+ "longest_shots_start_len": [
+  [
+   116.33,
+   6.09
+  ],
+  [
+   100.73,
+   5.3
+  ],
+  [
+   0.0,
+   4.55
+  ],
+  [
+   112.86,
+   3.46
+  ]
+ ],
+ "shortest_shots_start_len": [
+  [
+   90.3,
+   0.17
+  ],
+  [
+   90.47,
+   0.17
+  ],
+  [
+   90.01,
+   0.29
+  ],
+  [
+   89.34,
+   0.33
+  ]
+ ],
+ "pct_shots_under_1s": 20,
+ "pct_shots_over_3s": 13,
+ "black_holds_start_len": [
+  [
+   14.64,
+   1.59
+  ]
+ ],
+ "cuts_per_10s": {
+  "0-10s": 3,
+  "10-20s": 4,
+  "20-30s": 7,
+  "30-40s": 6,
+  "40-50s": 6,
+  "50-60s": 7,
+  "60-70s": 6,
+  "70-80s": 6,
+  "80-90s": 8,
+  "90-100s": 9,
+  "100-110s": 3,
+  "110-120s": 3,
+  "120-130s": 1
+ },
+ "cut_times_s": [
+  4.546,
+  7.424,
+  9.384,
+  12.554,
+  14.64,
+  16.225,
+  18.602,
+  20.771,
+  23.2,
+  24.399,
+  25.943,
+  27.194,
+  28.654,
+  29.988,
+  31.198,
+  32.783,
+  34.034,
+  34.868,
+  36.078,
+  37.788,
+  40.457,
+  42.709,
+  43.627,
+  44.962,
+  46.338,
+  48.34,
+  50.342,
+  51.26,
+  53.262,
+  54.346,
+  55.639,
+  56.139,
+  57.307,
+  60.644,
+  61.7,
+  64.731,
+  65.774,
+  66.9,
+  68.569,
+  70.404,
+  71.655,
+  74.324,
+  76.91,
+  78.495,
+  79.871,
+  80.706,
+  81.999,
+  82.958,
+  84.835,
+  88.005,
+  88.922,
+  89.339,
+  89.673,
+  90.007,
+  90.299,
+  90.465,
+  90.632,
+  91.049,
+  92.384,
+  93.927,
+  95.554,
+  97.639,
+  100.726,
+  106.023,
+  108.442,
+  110.527,
+  112.863,
+  116.325,
+  122.414
+ ],
+ "scene_threshold_sweep": {
+  "0.2": {
+   "n_shots": 64,
+   "asl": 1.96
+  },
+  "0.25": {
+   "n_shots": 59,
+   "asl": 2.12
+  },
+  "0.3": {
+   "n_shots": 50,
+   "asl": 2.5
+  },
+  "0.35": {
+   "n_shots": 46,
+   "asl": 2.72
+  },
+  "0.4": {
+   "n_shots": 34,
+   "asl": 3.68
+  }
+ },
+ "audio": {
+  "integrated_lufs": -13.5,
+  "median_rms_dbfs_50ms": -18.5,
+  "loudest_momentary": -9.4,
+  "loudest_at_s": 80.0,
+  "dropouts_ebu_0.5s_bins": [
+   {
+    "start": 6.0,
+    "end": 7.0,
+    "len": 1.0,
+    "ref": -16.1,
+    "floor": -35.8,
+    "rise_after": 24.2,
+    "next_peak": -11.6
+   },
+   {
+    "start": 12.5,
+    "end": 13.5,
+    "len": 1.0,
+    "ref": -13.9,
+    "floor": -32.7,
+    "rise_after": 8.0,
+    "next_peak": -24.7
+   },
+   {
+    "start": 106.5,
+    "end": 108.5,
+    "len": 2.0,
+    "ref": -11.8,
+    "floor": -61.9,
+    "rise_after": 45.0,
+    "next_peak": -16.9
+   },
+   {
+    "start": 111.5,
+    "end": 113.0,
+    "len": 1.5,
+    "ref": -19.2,
+    "floor": -37.3,
+    "rise_after": 24.5,
+    "next_peak": -12.8
+   },
+   {
+    "start": 116.0,
+    "end": 118.5,
+    "len": 2.5,
+    "ref": -15.7,
+    "floor": -40.2,
+    "rise_after": 26.4,
+    "next_peak": -13.8
+   },
+   {
+    "start": 124.0,
+    "end": 125.5,
+    "len": 1.5,
+    "ref": -18.2,
+    "floor": -53.6,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "gaps_50ms_rms": [
+   {
+    "start": 14.75,
+    "len": 0.5,
+    "ref": -36.1,
+    "floor": -70.1,
+    "next_peak": -31.4,
+    "peak_t": 15.3
+   },
+   {
+    "start": 15.85,
+    "len": 0.25,
+    "ref": -37.7,
+    "floor": -65.6,
+    "next_peak": -15.7,
+    "peak_t": 16.2
+   },
+   {
+    "start": 106.1,
+    "len": 2.45,
+    "ref": -16.0,
+    "floor": -71.9,
+    "next_peak": -16.8,
+    "peak_t": 108.55
+   },
+   {
+    "start": 115.45,
+    "len": 0.15,
+    "ref": -23.5,
+    "floor": -44.8,
+    "next_peak": -28.9,
+    "peak_t": 115.65
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -10.3,
+    18.4,
+    54.6
+   ],
+   [
+    -11.2,
+    22.4,
+    78.9
+   ],
+   [
+    -11.2,
+    15.5,
+    75.6
+   ],
+   [
+    -11.6,
+    26.0,
+    7.35
+   ],
+   [
+    -11.7,
+    18.0,
+    28.3
+   ],
+   [
+    -12.4,
+    17.0,
+    39.35
+   ],
+   [
+    -12.6,
+    22.3,
+    40.45
+   ],
+   [
+    -12.7,
+    17.0,
+    48.5
+   ]
+  ],
+  "beat_sync": "google_dreamjob_sb25 onsets/s 1.4 cuts on onset (+-0.1s) 42 % vs chance 28 %"
+ },
+ "empty_frame_share": "google_dreamjob_sb25: samples 250, letterbox rows 0/36, mostly-empty 8% (on dark 6%, on light 2%), median empty share 32%"
+}

@@ -1,0 +1,489 @@
+{
+ "name": "duolingo_spanish_test_street",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "ClZv9JaaOfE",
+  "title": "we gave this guy a spanish test #duolingo",
+  "upload_date": "20261016",
+  "duration": 68,
+  "view_count": 79771,
+  "like_count": 1813,
+  "channel": "Duolingo",
+  "uploader": "Duolingo",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=ClZv9JaaOfE",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   3.63,
+   7.13,
+   9.73,
+   10.6,
+   11.83,
+   12.87,
+   14.2,
+   14.77,
+   15.57,
+   17.73,
+   18.7,
+   19.73,
+   21.07,
+   21.97,
+   23.3,
+   24.2,
+   25.3,
+   26.5,
+   29.5,
+   30.77,
+   32.33,
+   33.37,
+   34.27,
+   35.1,
+   36.27,
+   38.17,
+   39.17,
+   40.6,
+   43.23,
+   44.4,
+   45.87,
+   52.57,
+   55.43,
+   57.7,
+   60.4,
+   61.47,
+   63.03,
+   65.2
+  ],
+  "shots": 39,
+  "ASL_s": 1.75,
+  "median_s": 1.33,
+  "ASL_quarters_s": [
+   1.71,
+   1.22,
+   1.71,
+   2.14
+  ],
+  "longest_start_len": [
+   [
+    45.87,
+    6.7
+   ],
+   [
+    0.0,
+    3.63
+   ],
+   [
+    3.63,
+    3.5
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    14.2,
+    0.57
+   ],
+   [
+    14.77,
+    0.8
+   ],
+   [
+    34.27,
+    0.83
+   ]
+  ],
+  "pct_under_1s": 21,
+  "pct_over_3s": 10,
+  "dropped_false_cuts_s": [
+   6.87,
+   16.57,
+   17.23
+  ],
+  "added_cuts_s": [],
+  "note": "cuts2 found 41; 3 false (title text animation 6.87, subtitle/timer changes on the same wide shot 16.57/17.23)"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 68.38
+ },
+ "cuts_cuts2": [
+  3.633,
+  6.867,
+  7.133,
+  9.733,
+  10.6,
+  11.833,
+  12.867,
+  14.2,
+  14.767,
+  15.567,
+  16.567,
+  17.233,
+  17.733,
+  18.7,
+  19.733,
+  21.067,
+  21.967,
+  23.3,
+  24.2,
+  25.3,
+  26.5,
+  29.5,
+  30.767,
+  32.333,
+  33.367,
+  34.267,
+  35.1,
+  36.267,
+  38.167,
+  39.167,
+  40.6,
+  43.233,
+  44.4,
+  45.867,
+  52.567,
+  55.433,
+  57.7,
+  60.4,
+  61.467,
+  63.033,
+  65.2
+ ],
+ "shot_stats_cuts2": {
+  "name": "duolingo_spanish_test_street",
+  "length": 68.33,
+  "shots": 42,
+  "ASL": 1.63,
+  "median": 1.22,
+  "ASL_quarters": [
+   1.42,
+   1.14,
+   1.71,
+   2.14
+  ],
+  "longest": [
+   [
+    45.87,
+    6.7
+   ],
+   [
+    0.0,
+    3.63
+   ],
+   [
+    3.63,
+    3.23
+   ],
+   [
+    65.2,
+    3.13
+   ]
+  ],
+  "shortest": [
+   [
+    6.87,
+    0.27
+   ],
+   [
+    17.23,
+    0.5
+   ],
+   [
+    14.2,
+    0.57
+   ],
+   [
+    16.57,
+    0.67
+   ]
+  ],
+  "pct_under_1s": 26,
+  "pct_over_3s": 10,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 43,
+   "asl": 1.59
+  },
+  "0.25": {
+   "n_shots": 40,
+   "asl": 1.71
+  },
+  "0.3": {
+   "n_shots": 39,
+   "asl": 1.75
+  },
+  "0.35": {
+   "n_shots": 37,
+   "asl": 1.85
+  },
+  "0.4": {
+   "n_shots": 36,
+   "asl": 1.9
+  }
+ },
+ "integrated_lufs": -25.6,
+ "loudness_dropouts": [
+  {
+   "start": 24.0,
+   "end": 25.5,
+   "len": 1.5,
+   "ref": -26.7,
+   "floor": -44.1,
+   "rise_after": 14.6,
+   "next_peak": -29.5
+  },
+  {
+   "start": 34.0,
+   "end": 34.5,
+   "len": 0.5,
+   "ref": -27.5,
+   "floor": -40.3,
+   "rise_after": 22.7,
+   "next_peak": -17.6
+  },
+  {
+   "start": 40.0,
+   "end": 40.5,
+   "len": 0.5,
+   "ref": -23.0,
+   "floor": -38.8,
+   "rise_after": 13.1,
+   "next_peak": -25.7
+  },
+  {
+   "start": 46.0,
+   "end": 47.0,
+   "len": 1.0,
+   "ref": -28.1,
+   "floor": -44.2,
+   "rise_after": 9.5,
+   "next_peak": -34.7
+  },
+  {
+   "start": 52.5,
+   "end": 53.5,
+   "len": 1.0,
+   "ref": -24.1,
+   "floor": -41.5,
+   "rise_after": 25.7,
+   "next_peak": -15.8
+  },
+  {
+   "start": 57.0,
+   "end": 58.0,
+   "len": 1.0,
+   "ref": -19.4,
+   "floor": -39.7,
+   "rise_after": 14.5,
+   "next_peak": -25.2
+  },
+  {
+   "start": 63.5,
+   "end": 64.0,
+   "len": 0.5,
+   "ref": -19.7,
+   "floor": -34.0,
+   "rise_after": 12.1,
+   "next_peak": -21.9
+  },
+  {
+   "start": 65.5,
+   "end": 67.5,
+   "len": 2.0,
+   "ref": -24.1,
+   "floor": -70.7,
+   "rise_after": 43.4,
+   "next_peak": -27.3
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 54.0,
+  "loudest_M": -15.8,
+  "big_hits_near_peak": [
+   [
+    25.7,
+    54.0,
+    -15.8
+   ],
+   [
+    23.3,
+    50.5,
+    -20.1
+   ],
+   [
+    22.8,
+    54.5,
+    -17.3
+   ]
+  ],
+  "biggest_rises": [
+   [
+    43.4,
+    67.5,
+    -27.3
+   ],
+   [
+    40.5,
+    68.0,
+    -30.2
+   ],
+   [
+    25.7,
+    54.0,
+    -15.8
+   ],
+   [
+    23.3,
+    50.5,
+    -20.1
+   ],
+   [
+    22.8,
+    54.5,
+    -17.3
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [
+  {
+   "start": 4.7,
+   "len": 0.2,
+   "ref": -34.3,
+   "floor": -56.0,
+   "next_peak": -26.1,
+   "peak_t": 5.3
+  },
+  {
+   "start": 52.9,
+   "len": 0.15,
+   "ref": -31.8,
+   "floor": -54.1,
+   "next_peak": -30.2,
+   "peak_t": 53.5
+  },
+  {
+   "start": 63.6,
+   "len": 0.25,
+   "ref": -30.9,
+   "floor": -60.2,
+   "next_peak": -23.7,
+   "peak_t": 64.35
+  },
+  {
+   "start": 65.1,
+   "len": 2.5,
+   "ref": -31.5,
+   "floor": -120.0,
+   "next_peak": -28.8,
+   "peak_t": 67.6
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -14.4,
+   28.9,
+   60.55
+  ],
+  [
+   -15.0,
+   25.3,
+   54.85
+  ],
+  [
+   -15.4,
+   15.5,
+   35.75
+  ],
+  [
+   -15.6,
+   31.9,
+   38.5
+  ],
+  [
+   -17.7,
+   27.7,
+   61.9
+  ],
+  [
+   -18.9,
+   28.5,
+   51.0
+  ],
+  [
+   -19.5,
+   24.8,
+   17.4
+  ],
+  [
+   -21.2,
+   23.8,
+   64.65
+  ],
+  [
+   -21.9,
+   24.2,
+   56.1
+  ],
+  [
+   -22.3,
+   24.2,
+   16.3
+  ],
+  [
+   -23.4,
+   26.9,
+   31.8
+  ],
+  [
+   -24.5,
+   25.1,
+   58.15
+  ],
+  [
+   -24.6,
+   23.1,
+   29.6
+  ],
+  [
+   -24.8,
+   22.0,
+   41.8
+  ],
+  [
+   -24.9,
+   24.2,
+   18.6
+  ]
+ ],
+ "beatsync": "duolingo_spanish_test_street onsets/s 2.02 cuts on onset (+-0.1s) 32 % vs chance 40 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short (series: 'challenge 1' of several)",
+  "sub_style": "creator-style street / backyard challenge, produced multi-cam",
+  "hook_0_2s": "warm 2-shot of the couple laughing (slow push-in); white text types on letter by letter: 'This guy said / he'd learn Spanish / for his fiancée...' (0.0-1.0 s), then bold '...did he!?' types on (1.75-2.25 s); first cut at 3.63 s to the guy in a Duo-eye blindfold",
+  "captions": {
+   "hook_text": "IBM Plex Sans-like, white, regular + bold punch line, soft drop shadow, no box; cap height ~3.3% H, 3 lines at 43-61% H, punch line 66-71% H; typewriter reveal ~16 chars/s",
+   "subtitles": "white regular, cap ~2.4% H, single line at ~87% H (low, inside the platform UI zone), block per phrase",
+   "game_ui": "60 s countdown in a white LCD box with thick yellow (#FFC800-like) rounded border at 65-73% H + 'Score: n/3' bold white at 75-78% H, on screen 15-61 s",
+   "title_card": "'challenge 1' lime green (#58CC02-like) Feather-Bold-like lowercase ~6% H cap, 'vocabulary' white below, 3 progress dots",
+   "word_by_word": "typewriter letters in hook only"
+  },
+  "on_screen_text_density": "hook 12 words; during game 3 persistent elements (timer, score, subtitle)",
+  "audio": "dialogue (host, contestant) + upbeat music bed; integrated LUFS in field above",
+  "audio_type": "original (location sound + library music)",
+  "voice": true,
+  "time_compression": "on-screen timer runs 60 s while screen time is 45 s (15.6-60.4 s): jump cuts remove dead time",
+  "loop": "no loop; CTA text 'Check out our channel to see if he passes the other challenges' (63-65 s) then Duo face on lime green end card (65-68 s)",
+  "views_at_analysis": 79740
+ }
+}

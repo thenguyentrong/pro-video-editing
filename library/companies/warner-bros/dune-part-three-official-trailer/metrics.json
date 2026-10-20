@@ -1,0 +1,728 @@
+{
+ "name": "wb_dune3_trailer",
+ "source": {
+  "title": "Dune: Part Three | Official Trailer",
+  "full_duration_s": "170",
+  "upload_date": "20260708",
+  "channel": "Warner Bros.",
+  "url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
+  "analysed_resolution": "854x480",
+  "note": "source block rebuilt (the metrics script had split the title on '|')"
+ },
+ "analysed_window_s": [
+  0,
+  167.7
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "259 w:854 h:388 x:0 y:46",
+  "3 w:742 h:388 x:102 y:46",
+  "2 w:854 h:386 x:0 y:46",
+  "2 w:816 h:388 x:14 y:46",
+  "2 w:804 h:388 x:50 y:46",
+  "2 w:736 h:388 x:118 y:46"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 167.7,
+  "shots": 122,
+  "ASL": 1.37,
+  "median": 1.19,
+  "ASL_quarters": [
+   1.82,
+   1.16,
+   1.27,
+   1.27
+  ],
+  "longest": [
+   [
+    0.0,
+    4.84
+   ],
+   [
+    157.87,
+    3.53
+   ],
+   [
+    161.4,
+    3.4
+   ],
+   [
+    101.35,
+    3.25
+   ]
+  ],
+  "shortest": [
+   [
+    124.33,
+    0.33
+   ],
+   [
+    143.14,
+    0.42
+   ],
+   [
+    45.67,
+    0.46
+   ],
+   [
+    142.1,
+    0.46
+   ]
+  ],
+  "pct_under_1s": 36,
+  "pct_over_3s": 5,
+  "black_flashes_lt0.5s": 2,
+  "black_holds": [
+   [
+    25.61,
+    0.79
+   ],
+   [
+    39.04,
+    0.66
+   ],
+   [
+    69.15,
+    0.55
+   ],
+   [
+    72.53,
+    0.87
+   ],
+   [
+    109.4,
+    0.83
+   ],
+   [
+    119.75,
+    1.67
+   ],
+   [
+    155.99,
+    0.71
+   ]
+  ],
+  "cuts_per_10s": [
+   3,
+   6,
+   6,
+   7,
+   8,
+   8,
+   10,
+   6,
+   6,
+   7,
+   6,
+   9,
+   10,
+   8,
+   12,
+   6,
+   3
+  ],
+  "cut_times": [
+   4.838,
+   7.925,
+   9.593,
+   10.6,
+   12.262,
+   14.473,
+   15.641,
+   17.893,
+   19.645,
+   21.48,
+   23.065,
+   24.274,
+   25.609,
+   26.4,
+   29.446,
+   31.531,
+   33.1,
+   34.826,
+   37.079,
+   38.205,
+   39.039,
+   39.7,
+   42.209,
+   43.794,
+   45.671,
+   46.129,
+   46.88,
+   47.422,
+   48.173,
+   48.799,
+   50.05,
+   51.218,
+   52.094,
+   53.22,
+   54.012,
+   56.0,
+   58.517,
+   59.685,
+   60.727,
+   61.561,
+   62.688,
+   63.563,
+   64.898,
+   66.483,
+   67.651,
+   68.61,
+   69.152,
+   69.7,
+   71.363,
+   72.531,
+   73.4,
+   74.7,
+   75.951,
+   78.62,
+   80.497,
+   82.249,
+   83.625,
+   85.502,
+   86.67,
+   88.547,
+   90.299,
+   91.717,
+   92.718,
+   93.552,
+   94.428,
+   96.722,
+   98.89,
+   101.351,
+   104.604,
+   106.1,
+   107.774,
+   108.65,
+   109.401,
+   110.235,
+   111.028,
+   112.696,
+   114.114,
+   115.824,
+   116.616,
+   117.826,
+   118.869,
+   119.745,
+   121.413,
+   122.122,
+   122.873,
+   123.832,
+   124.333,
+   124.666,
+   125.542,
+   127.4,
+   128.712,
+   129.838,
+   130.756,
+   132.007,
+   133.425,
+   134.968,
+   136.803,
+   138.18,
+   138.847,
+   139.765,
+   141.099,
+   142.1,
+   142.559,
+   143.143,
+   143.56,
+   144.353,
+   145.562,
+   146.355,
+   146.938,
+   147.773,
+   148.44,
+   149.483,
+   150.317,
+   151.151,
+   153.779,
+   155.989,
+   156.7,
+   157.866,
+   161.4,
+   164.8,
+   166.45
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 76,
+   "asl": 2.24
+  },
+  "0.25": {
+   "n_shots": 66,
+   "asl": 2.58
+  },
+  "0.3": {
+   "n_shots": 57,
+   "asl": 2.98
+  },
+  "0.35": {
+   "n_shots": 45,
+   "asl": 3.78
+  },
+  "0.4": {
+   "n_shots": 39,
+   "asl": 4.36
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   0.4,
+   0.367
+  ],
+  [
+   3.1,
+   0.561
+  ],
+  [
+   10.5,
+   1.148
+  ],
+  [
+   22.1,
+   1.683
+  ],
+  [
+   26.6,
+   1.872
+  ],
+  [
+   32.7,
+   0.16
+  ],
+  [
+   33.3,
+   0.159
+  ],
+  [
+   36.3,
+   0.629
+  ],
+  [
+   39.9,
+   2.354
+  ],
+  [
+   44.7,
+   0.114
+  ],
+  [
+   56.1,
+   1.314
+  ],
+  [
+   69.9,
+   1.337
+  ],
+  [
+   73.4,
+   1.042
+  ],
+  [
+   77.3,
+   0.343
+  ],
+  [
+   95.6,
+   0.317
+  ],
+  [
+   97.4,
+   0.619
+  ],
+  [
+   106.7,
+   0.879
+  ],
+  [
+   127.8,
+   0.621
+  ],
+  [
+   156.9,
+   1.137
+  ],
+  [
+   158.5,
+   1.211
+  ],
+  [
+   161.9,
+   0.414
+  ],
+  [
+   167.6,
+   1.995
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   21.5,
+   21.9
+  ],
+  [
+   25.6,
+   26.4
+  ],
+  [
+   39.0,
+   39.7
+  ],
+  [
+   69.2,
+   69.7
+  ],
+  [
+   72.5,
+   73.4
+  ],
+  [
+   81.3,
+   81.4
+  ],
+  [
+   124.6,
+   124.7
+  ],
+  [
+   156.0,
+   156.7
+  ],
+  [
+   157.9,
+   158.5
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.3,
+  "loudest_t_s": 130.0,
+  "loudest_momentary_lufs": -9.4,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 156.5,
+    "end": 157.0,
+    "len": 0.5,
+    "ref": -18.1,
+    "floor": -41.1,
+    "rise_after": 28.8,
+    "next_peak": -12.3
+   },
+   {
+    "start": 167.0,
+    "end": 170.0,
+    "len": 3.0,
+    "ref": -19.1,
+    "floor": -120.0,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    28.8,
+    158.0,
+    -12.3
+   ],
+   [
+    21.9,
+    157.5,
+    -19.2
+   ],
+   [
+    18.2,
+    157.0,
+    -22.9
+   ],
+   [
+    14.6,
+    9.5,
+    -17.2
+   ],
+   [
+    11.1,
+    9.0,
+    -20.7
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 156.1,
+    "len": 0.8,
+    "ref": -18.5,
+    "floor": -71.9,
+    "next_peak": -21.8,
+    "peak_t": 156.95
+   },
+   {
+    "start": 157.65,
+    "len": 0.15,
+    "ref": -26.3,
+    "floor": -47.3,
+    "next_peak": -8.7,
+    "peak_t": 157.9
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -8.7,
+    38.6,
+    157.9
+   ],
+   [
+    -9.9,
+    16.8,
+    75.75
+   ],
+   [
+    -12.3,
+    16.3,
+    29.65
+   ],
+   [
+    -13.6,
+    21.0,
+    6.4
+   ],
+   [
+    -14.9,
+    15.7,
+    14.05
+   ],
+   [
+    -18.6,
+    17.1,
+    44.0
+   ],
+   [
+    -36.2,
+    26.3,
+    0.5
+   ],
+   [
+    -38.6,
+    33.3,
+    156.85
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.82 cuts on onset (+-0.1s) 24 % vs chance 16 % (recomputed on corrected cuts)",
+ "empty_frame": "mostly-empty 23% (on dark 21%, on light 1%), median empty share 47%",
+ "manual_corrections": "Stats trimmed to 167.7 s (2.3 s trailing black). Dropped 2 false cuts (35.035 inside a dissolve, 142.768 light flash in same shot). Added 15 soft/dark transitions seen by eye: 10.6, 26.4, 33.1, 39.7, 56.0, 69.7, 73.4, 97.1, 106.1, 127.4, 156.7, 158.3, 161.4, 164.8, 166.45 (fade-ups from black, card dissolves, end-block changes). Final 122 shots.",
+ "manual": {
+  "aspect": "16:9 container with 46 px bars at 480p -> active 854x388 = 2.20:1 for picture AND cards; constant (no IMAX ratio switch in this cut)",
+  "analysed_end_s": 167.7,
+  "trailing_black_s": [
+   167.7,
+   169.97
+  ],
+  "sections_s": {
+   "cold_open": [
+    0,
+    31.53
+   ],
+   "wb_logo": [
+    31.53,
+    33.1
+   ],
+   "legendary_logo": [
+    33.1,
+    34.83
+   ],
+   "body": [
+    34.83,
+    155.99
+   ],
+   "silence_black": [
+    155.99,
+    156.7
+   ],
+   "last_shot": [
+    156.7,
+    157.87
+   ],
+   "black_hit": [
+    157.87,
+    158.3
+   ],
+   "title": [
+    158.3,
+    161.4
+   ],
+   "end_block": [
+    161.4,
+    167.7
+   ]
+  },
+  "asl_by_section_s": {
+   "cold_open_0_31.5": 1.97,
+   "act1_34.8_54.0": 1.13,
+   "act2_56_104.6": 1.47,
+   "act3_106.1_156": 1.08,
+   "title_end": 2.35
+  },
+  "densest_10s_window": {
+   "start_s": 142,
+   "cuts": 13,
+   "pct_of_runtime": "85-91%"
+  },
+  "black_beats": [
+   [
+    21.48,
+    21.9
+   ],
+   [
+    25.61,
+    26.4
+   ],
+   [
+    39.04,
+    39.7
+   ],
+   [
+    69.15,
+    69.7
+   ],
+   [
+    72.53,
+    73.4
+   ],
+   [
+    96.72,
+    97.1
+   ],
+   [
+    109.4,
+    110.2
+   ],
+   [
+    119.75,
+    121.4
+   ],
+   [
+    155.99,
+    156.7
+   ],
+   [
+    157.87,
+    158.3
+   ]
+  ],
+  "text_cards": [
+   {
+    "words": "FROM DIRECTOR / DENIS VILLENEUVE",
+    "t_in": 54.01,
+    "t_out": 56.4,
+    "on_screen_s": 2.4,
+    "in": "hard cut onto teal/amber anamorphic haze; letters resolve from flicker over ~0.8 s (complete at 54.8)",
+    "out": "next shot dissolves in under the text 55.8-56.4",
+    "cap_height_pct_H": {
+     "small_line": 1.9,
+     "name_line": 2.5
+    },
+    "centre_y_pct": [
+     45.6,
+     50.3
+    ],
+    "colour": "muted gold #A8946E to #C2AC83"
+   },
+   {
+    "words": "THIS DECEMBER",
+    "t_in": 104.6,
+    "t_out": 106.6,
+    "on_screen_s": 2.0,
+    "in": "hard cut, letters resolve by ~105.2",
+    "out": "dissolve 106.0-106.6 into emblem shot",
+    "cap_height_pct_H": 2.5,
+    "centre_y_pct": 50.3
+   },
+   {
+    "words": "EXPERIENCE THE / EPIC CONCLUSION",
+    "t_in": 125.54,
+    "t_out": 127.8,
+    "on_screen_s": 2.3,
+    "in": "hard cut",
+    "out": "dissolve 127.0-127.8 into Bene Gesserit shot",
+    "cap_height_pct_H": {
+     "small_line": 1.9,
+     "main_line": 2.5
+    }
+   },
+   {
+    "words": "DUNE / PART THREE (title logo)",
+    "t_in": 158.0,
+    "t_out": 161.4,
+    "on_screen_s": 3.4,
+    "in": "fade up from black 158.0-158.75 starting 0.1 s after the hit; PART THREE in at ~159.0; golden starburst blooms 159.5-160.0",
+    "out": "dissolve into cast block 161.3-161.6",
+    "cap_height_pct_H": {
+     "DUNE": 6.25,
+     "PART THREE": 1.9
+    },
+    "centre_y_pct": [
+     47,
+     57
+    ]
+   },
+   {
+    "words": "cast block builds line by line (2 names at 161.6, 5 at 163.4, 8 at 164.0, 10 at 164.6)",
+    "t_in": 161.4,
+    "t_out": 164.8,
+    "line_height_pct_H": 2.5
+   },
+   {
+    "words": "ONLY IN THEATERS / 12.18.26 / FILMED FOR IMAX",
+    "t_in": 164.8,
+    "t_out": 166.45
+   },
+   {
+    "words": "BASED ON THE NOVELS / SCREENPLAY / DIRECTED BY + logos",
+    "t_in": 166.45,
+    "t_out": 167.7,
+    "out": "fade to black 167.3-167.7"
+   }
+  ],
+  "audio_events": [
+   {
+    "t_range": [
+     0,
+     6
+    ],
+    "what": "intimate open: dialogue peaks only -25..-27 dBFS for 6 s, first hit at 6.4 (+21 dB, -13.6 dBFS)"
+   },
+   {
+    "t": 29.65,
+    "what": "+16 dB hit before the WB logo at 31.5"
+   },
+   {
+    "t": 75.75,
+    "what": "+16.8 dB hit on the cut out of black into the beach (75.95)"
+   },
+   {
+    "t": 151.1,
+    "what": "loudest 0.5 s (-9.9 dBFS) on the sand-wall shot"
+   },
+   {
+    "t": 156.1,
+    "what": "TRUE SILENCE 0.8 s at -72 dBFS on black (ref -18.5)"
+   },
+   {
+    "t": 156.95,
+    "what": "single soft sound/line -21.8 dBFS under Paul's close-up"
+   },
+   {
+    "t": 157.65,
+    "what": "0.15 s gap to -47 dBFS"
+   },
+   {
+    "t": 157.9,
+    "what": "BIGGEST HIT: +38.6 dB rise to -8.7 dBFS on the cut to black; title fades up 0.1-0.85 s later"
+   }
+  ]
+ }
+}

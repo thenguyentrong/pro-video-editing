@@ -1,0 +1,443 @@
+{
+ "name": "built-robotics_physical-ai-jobsites",
+ "file": "built-robotics_physical-ai-jobsites.mp4",
+ "duration_s": 62.914,
+ "fps": 23.976,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 28,
+ "shot_count": 29,
+ "asl_s": 2.17,
+ "median_s": 1.96,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 20.7,
+ "shots_per_minute": 27.7,
+ "asl_quarters_s": [
+  1.97,
+  1.75,
+  2.25,
+  1.97
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 4.838
+  },
+  {
+   "start": 59.2,
+   "len": 3.714
+  },
+  {
+   "start": 42.96,
+   "len": 3.67
+  }
+ ],
+ "shortest": [
+  {
+   "start": 26.86,
+   "len": 1.001
+  },
+  {
+   "start": 4.838,
+   "len": 1.085
+  },
+  {
+   "start": 54.304,
+   "len": 1.21
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 4,
+  "20-30": 6,
+  "30-40": 4,
+  "40-50": 5,
+  "50-60": 5,
+  "60-70": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 27,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.41,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 3.612
+  },
+  {
+   "t": 1.2,
+   "score": 0.597
+  },
+  {
+   "t": 21.4,
+   "score": 0.543
+  },
+  {
+   "t": 32.8,
+   "score": 0.858
+  },
+  {
+   "t": 36.7,
+   "score": 0.158
+  },
+  {
+   "t": 44.7,
+   "score": 0.38
+  },
+  {
+   "t": 50.5,
+   "score": 0.426
+  },
+  {
+   "t": 51.7,
+   "score": 0.32
+  },
+  {
+   "t": 62.4,
+   "score": 0.431
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 59.4,
+   "end": 59.7
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 4.838,
+   "len": 4.838
+  },
+  {
+   "i": 2,
+   "start": 4.838,
+   "end": 5.923,
+   "len": 1.085
+  },
+  {
+   "i": 3,
+   "start": 5.923,
+   "end": 7.883,
+   "len": 1.96
+  },
+  {
+   "i": 4,
+   "start": 7.883,
+   "end": 9.259,
+   "len": 1.376
+  },
+  {
+   "i": 5,
+   "start": 9.259,
+   "end": 10.886,
+   "len": 1.627
+  },
+  {
+   "i": 6,
+   "start": 10.886,
+   "end": 13.222,
+   "len": 2.336
+  },
+  {
+   "i": 7,
+   "start": 13.222,
+   "end": 15.724,
+   "len": 2.502
+  },
+  {
+   "i": 8,
+   "start": 15.724,
+   "end": 17.684,
+   "len": 1.96
+  },
+  {
+   "i": 9,
+   "start": 17.684,
+   "end": 20.395,
+   "len": 2.711
+  },
+  {
+   "i": 10,
+   "start": 20.395,
+   "end": 22.773,
+   "len": 2.378
+  },
+  {
+   "i": 11,
+   "start": 22.773,
+   "end": 24.274,
+   "len": 1.501
+  },
+  {
+   "i": 12,
+   "start": 24.274,
+   "end": 26.86,
+   "len": 2.586
+  },
+  {
+   "i": 13,
+   "start": 26.86,
+   "end": 27.861,
+   "len": 1.001
+  },
+  {
+   "i": 14,
+   "start": 27.861,
+   "end": 29.488,
+   "len": 1.627
+  },
+  {
+   "i": 15,
+   "start": 29.488,
+   "end": 30.822,
+   "len": 1.334
+  },
+  {
+   "i": 16,
+   "start": 30.822,
+   "end": 33.867,
+   "len": 3.045
+  },
+  {
+   "i": 17,
+   "start": 33.867,
+   "end": 35.285,
+   "len": 1.418
+  },
+  {
+   "i": 18,
+   "start": 35.285,
+   "end": 38.83,
+   "len": 3.545
+  },
+  {
+   "i": 19,
+   "start": 38.83,
+   "end": 41.083,
+   "len": 2.253
+  },
+  {
+   "i": 20,
+   "start": 41.083,
+   "end": 42.96,
+   "len": 1.877
+  },
+  {
+   "i": 21,
+   "start": 42.96,
+   "end": 46.63,
+   "len": 3.67
+  },
+  {
+   "i": 22,
+   "start": 46.63,
+   "end": 48.09,
+   "len": 1.46
+  },
+  {
+   "i": 23,
+   "start": 48.09,
+   "end": 49.508,
+   "len": 1.418
+  },
+  {
+   "i": 24,
+   "start": 49.508,
+   "end": 52.761,
+   "len": 3.253
+  },
+  {
+   "i": 25,
+   "start": 52.761,
+   "end": 54.304,
+   "len": 1.543
+  },
+  {
+   "i": 26,
+   "start": 54.304,
+   "end": 55.514,
+   "len": 1.21
+  },
+  {
+   "i": 27,
+   "start": 55.514,
+   "end": 57.557,
+   "len": 2.043
+  },
+  {
+   "i": 28,
+   "start": 57.557,
+   "end": 59.2,
+   "len": 1.643
+  },
+  {
+   "i": 29,
+   "start": 59.2,
+   "end": 62.914,
+   "len": 3.714
+  }
+ ],
+ "cuts": [
+  4.838,
+  5.923,
+  7.883,
+  9.259,
+  10.886,
+  13.222,
+  15.724,
+  17.684,
+  20.395,
+  22.773,
+  24.274,
+  26.86,
+  27.861,
+  29.488,
+  30.822,
+  33.867,
+  35.285,
+  38.83,
+  41.083,
+  42.96,
+  46.63,
+  48.09,
+  49.508,
+  52.761,
+  54.304,
+  55.514,
+  57.557,
+  59.2
+ ],
+ "loudness": {
+  "integrated_lufs": -14.3,
+  "loudness_range_lu": 2.9,
+  "true_peak_dbtp": -1.0
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 60.5,
+    "end": 62.9,
+    "len": 2.4
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 41.4,
+    "level_dbfs": -9.8,
+    "rise_db": 25.0
+   },
+   {
+    "t": 8.05,
+    "level_dbfs": -10.8,
+    "rise_db": 21.1
+   },
+   {
+    "t": 18.2,
+    "level_dbfs": -11.1,
+    "rise_db": 16.6
+   },
+   {
+    "t": 9.5,
+    "level_dbfs": -11.3,
+    "rise_db": 15.9
+   },
+   {
+    "t": 49.65,
+    "level_dbfs": -11.5,
+    "rise_db": 19.7
+   },
+   {
+    "t": 20.05,
+    "level_dbfs": -11.6,
+    "rise_db": 18.2
+   },
+   {
+    "t": 39.05,
+    "level_dbfs": -11.8,
+    "rise_db": 16.7
+   },
+   {
+    "t": 56.2,
+    "level_dbfs": -12.1,
+    "rise_db": 15.2
+   },
+   {
+    "t": 3.0,
+    "level_dbfs": -12.4,
+    "rise_db": 25.0
+   },
+   {
+    "t": 1.15,
+    "level_dbfs": -13.6,
+    "rise_db": 20.1
+   },
+   {
+    "t": 11.0,
+    "level_dbfs": -13.8,
+    "rise_db": 20.3
+   },
+   {
+    "t": 15.8,
+    "level_dbfs": -13.9,
+    "rise_db": 22.7
+   },
+   {
+    "t": 5.0,
+    "level_dbfs": -14.2,
+    "rise_db": 19.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 3.5,
+    "level_dbfs": -17.6,
+    "rise_db": 28.7
+   },
+   {
+    "t": 41.4,
+    "level_dbfs": -9.8,
+    "rise_db": 25.0
+   },
+   {
+    "t": 15.8,
+    "level_dbfs": -13.9,
+    "rise_db": 22.7
+   },
+   {
+    "t": 8.05,
+    "level_dbfs": -10.8,
+    "rise_db": 21.1
+   },
+   {
+    "t": 11.4,
+    "level_dbfs": -14.5,
+    "rise_db": 20.6
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 27.0,
+   "rms_dbfs": -12.0
+  },
+  "median_rms_dbfs": -18.6
+ },
+ "sync": {
+  "onsets_per_s": 1.75,
+  "cuts_on_onset_pct": 46,
+  "chance_pct": 34,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": []
+}

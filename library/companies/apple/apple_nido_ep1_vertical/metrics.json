@@ -1,0 +1,409 @@
+{
+ "slug": "apple_nido_ep1_vertical",
+ "company": "apple",
+ "title": "Nido de Villanas: Ep. 1 Don Cristobal's inheritance (Shot on iPhone 17 Pro, vertical series)",
+ "url": "https://www.youtube.com/watch?v=wG_LaKvlcqM",
+ "upload_date": "2026-07-22",
+ "format": "9:16 (downloaded 480x854)",
+ "file_duration_s": 103.87,
+ "fps": 29.97,
+ "content_end_s": 99.7,
+ "integrated_lufs": -16.3,
+ "shots": {
+  "name": "apple_nido_ep1_vertical",
+  "length": 99.7,
+  "shots": 22,
+  "ASL": 4.53,
+  "median": 4.25,
+  "ASL_quarters": [
+   4.15,
+   2.77,
+   4.15,
+   6.23
+  ],
+  "longest": [
+   [
+    79.58,
+    11.85
+   ],
+   [
+    54.12,
+    7.87
+   ],
+   [
+    91.42,
+    6.57
+   ],
+   [
+    19.69,
+    6.27
+   ]
+  ],
+  "shortest": [
+   [
+    25.96,
+    1.4
+   ],
+   [
+    27.36,
+    1.43
+   ],
+   [
+    98.0,
+    1.7
+   ],
+   [
+    28.8,
+    1.87
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 73,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "extra_soft_cuts_added": [],
+ "cuts": [
+  3.27,
+  7.207,
+  11.144,
+  14.915,
+  19.686,
+  25.959,
+  27.361,
+  28.795,
+  30.664,
+  35.235,
+  38.105,
+  43.277,
+  49.316,
+  54.121,
+  61.995,
+  65.265,
+  71.071,
+  73.74,
+  79.579,
+  91.425,
+  97.998
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 19,
+   "asl": 5.47
+  },
+  "0.25": {
+   "n_shots": 18,
+   "asl": 5.77
+  },
+  "0.3": {
+   "n_shots": 17,
+   "asl": 6.11
+  },
+  "0.35": {
+   "n_shots": 15,
+   "asl": 6.92
+  },
+  "0.4": {
+   "n_shots": 11,
+   "asl": 9.44
+  }
+ },
+ "soft_candidates": [
+  [
+   0.7,
+   0.548
+  ],
+  [
+   2.0,
+   0.465
+  ],
+  [
+   4.4,
+   0.266
+  ],
+  [
+   5.6,
+   0.248
+  ],
+  [
+   8.7,
+   0.347
+  ],
+  [
+   9.6,
+   0.297
+  ],
+  [
+   12.6,
+   0.16
+  ],
+  [
+   21.5,
+   0.133
+  ],
+  [
+   22.2,
+   0.134
+  ],
+  [
+   24.9,
+   0.15
+  ],
+  [
+   32.8,
+   0.905
+  ],
+  [
+   40.3,
+   0.137
+  ],
+  [
+   41.3,
+   0.145
+  ],
+  [
+   45.1,
+   0.109
+  ],
+  [
+   45.7,
+   0.108
+  ],
+  [
+   48.3,
+   0.494
+  ],
+  [
+   52.0,
+   0.282
+  ],
+  [
+   53.1,
+   0.469
+  ],
+  [
+   55.6,
+   0.16
+  ],
+  [
+   56.7,
+   0.223
+  ],
+  [
+   63.0,
+   0.318
+  ],
+  [
+   67.3,
+   0.733
+  ],
+  [
+   68.0,
+   0.699
+  ],
+  [
+   70.0,
+   0.544
+  ],
+  [
+   72.3,
+   0.273
+  ],
+  [
+   74.7,
+   0.692
+  ],
+  [
+   75.9,
+   0.344
+  ],
+  [
+   77.5,
+   0.114
+  ],
+  [
+   81.9,
+   0.133
+  ],
+  [
+   83.2,
+   0.14
+  ],
+  [
+   85.2,
+   0.127
+  ],
+  [
+   86.4,
+   0.122
+  ],
+  [
+   87.3,
+   0.114
+  ],
+  [
+   88.4,
+   0.157
+  ],
+  [
+   90.0,
+   0.252
+  ],
+  [
+   93.9,
+   0.995
+  ],
+  [
+   96.0,
+   0.167
+  ],
+  [
+   97.0,
+   0.205
+  ]
+ ],
+ "black_dips": [
+  [
+   34.8,
+   35.2
+  ]
+ ],
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -8.8,
+   15.7,
+   35.45
+  ],
+  [
+   -9.5,
+   22.1,
+   98.55
+  ],
+  [
+   -9.7,
+   21.0,
+   49.6
+  ],
+  [
+   -10.0,
+   18.2,
+   43.55
+  ],
+  [
+   -10.4,
+   19.0,
+   54.45
+  ],
+  [
+   -11.3,
+   19.6,
+   97.5
+  ],
+  [
+   -11.6,
+   18.8,
+   78.25
+  ],
+  [
+   -11.8,
+   16.1,
+   57.25
+  ],
+  [
+   -11.9,
+   20.4,
+   52.6
+  ],
+  [
+   -12.2,
+   26.2,
+   94.25
+  ]
+ ],
+ "loudness_dropouts_05s": [
+  {
+   "start": 31.0,
+   "end": 31.5,
+   "len": 0.5,
+   "ref": -16.3,
+   "floor": -29.5,
+   "rise_after": 10.2,
+   "next_peak": -19.3
+  },
+  {
+   "start": 79.5,
+   "end": 80.5,
+   "len": 1.0,
+   "ref": -14.4,
+   "floor": -29.9,
+   "rise_after": 18.3,
+   "next_peak": -11.6
+  },
+  {
+   "start": 102.0,
+   "end": 104.0,
+   "len": 2.0,
+   "ref": -14.7,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits_05s": {
+  "loudest_t": 50.0,
+  "loudest_M": -10.1,
+  "big_hits_near_peak": [
+   [
+    17.5,
+    20.5,
+    -11.6
+   ],
+   [
+    16.5,
+    21.0,
+    -12.6
+   ],
+   [
+    15.5,
+    94.5,
+    -12.2
+   ]
+  ],
+  "biggest_rises": [
+   [
+    17.5,
+    20.5,
+    -11.6
+   ],
+   [
+    16.5,
+    21.0,
+    -12.6
+   ],
+   [
+    15.5,
+    94.5,
+    -12.2
+   ],
+   [
+    14.5,
+    78.5,
+    -10.4
+   ],
+   [
+    13.9,
+    94.0,
+    -13.8
+   ]
+  ]
+ },
+ "beat_sync": "onsets/s 1.33 cuts on onset (+-0.1s) 14 % vs chance 26 %",
+ "empty_frames": "apple_nido_ep1_vertical: samples 199, letterbox rows 0/36, mostly-empty 8% (on dark 8%, on light 0%), median empty share 41%",
+ "text_measurements": {
+  "cast names (e.g. 'GABRIELA SPANIC')": "2 lines caps, flared display serif, pale yellow ~#f2eb9a, cap ~5% of frame height, centred at y60-69%",
+  "title card 'NIDO de VILLANAS'": "ornamental art-nouveau frame drawn on in yellow, title cap ~7% of frame height, 'CAPITULO 1' + 'SHOT ON iPHONE 17 PRO' small, 15-19 s",
+  "subtitles": "pale-yellow SF Pro semibold, 2 lines centred at y69-73%, cap ~1.8% of frame height, light shadow"
+ },
+ "manual_corrections": "Hard cuts fine; triptych panel builds 25.96/27.36/28.80 counted as cuts. Content ends 99.7."
+}

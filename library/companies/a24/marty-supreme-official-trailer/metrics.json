@@ -1,0 +1,559 @@
+{
+ "name": "a24_martysupreme_trailer",
+ "source": {
+  "title": "Marty Supreme | Official Trailer HD | A24",
+  "full_duration_s": "147",
+  "upload_date": "20251111",
+  "channel": "A24",
+  "url": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
+  "analysed_resolution": "854x480"
+ },
+ "analysed_window_s": [
+  0,
+  146.6
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "117 w:854 h:356 x:0 y:62",
+  "17 w:656 h:356 x:100 y:62",
+  "4 w:614 h:356 x:240 y:62",
+  "3 w:612 h:356 x:242 y:62",
+  "3 w:608 h:356 x:246 y:62",
+  "3 w:584 h:356 x:270 y:62"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 146.6,
+  "shots": 116,
+  "ASL": 1.26,
+  "median": 0.88,
+  "ASL_quarters": [
+   2.29,
+   1.02,
+   0.87,
+   1.47
+  ],
+  "longest": [
+   [
+    21.27,
+    5.25
+   ],
+   [
+    136.97,
+    4.75
+   ],
+   [
+    126.79,
+    4.46
+   ],
+   [
+    122.54,
+    4.25
+   ]
+  ],
+  "shortest": [
+   [
+    109.48,
+    0.25
+   ],
+   [
+    111.65,
+    0.33
+   ],
+   [
+    46.46,
+    0.33
+   ],
+   [
+    102.56,
+    0.38
+   ]
+  ],
+  "pct_under_1s": 59,
+  "pct_over_3s": 7,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    69.57,
+    0.54
+   ],
+   [
+    134.18,
+    2.79
+   ]
+  ],
+  "cuts_per_10s": [
+   4,
+   5,
+   3,
+   6,
+   12,
+   6,
+   11,
+   9,
+   12,
+   8,
+   15,
+   14,
+   3,
+   4,
+   3
+  ],
+  "cut_times": [
+   1.96,
+   3.629,
+   5.3,
+   7.966,
+   11.345,
+   11.762,
+   13.764,
+   17.059,
+   19.895,
+   21.271,
+   26.526,
+   28.278,
+   30.322,
+   32.532,
+   34.701,
+   36.787,
+   38.288,
+   38.914,
+   40.457,
+   41.291,
+   41.75,
+   43.585,
+   44.294,
+   44.92,
+   45.796,
+   46.463,
+   46.797,
+   47.256,
+   48.0,
+   49.091,
+   51.2,
+   53.345,
+   54.429,
+   57.099,
+   58.809,
+   59.977,
+   61.645,
+   62.062,
+   62.562,
+   63.021,
+   63.522,
+   64.189,
+   65.232,
+   67.192,
+   67.651,
+   68.61,
+   69.569,
+   70.112,
+   72.197,
+   73.073,
+   75.2,
+   76.3,
+   77.869,
+   78.829,
+   79.413,
+   79.997,
+   80.706,
+   81.456,
+   82.249,
+   82.708,
+   83.25,
+   83.792,
+   84.626,
+   85.919,
+   86.628,
+   87.838,
+   88.63,
+   89.256,
+   90.048,
+   90.632,
+   91.258,
+   91.925,
+   92.509,
+   93.427,
+   96.847,
+   98.974,
+   100.058,
+   101.101,
+   101.643,
+   102.561,
+   102.936,
+   103.562,
+   105.397,
+   105.939,
+   106.481,
+   107.441,
+   108.025,
+   108.692,
+   109.109,
+   109.484,
+   109.735,
+   110.152,
+   110.777,
+   111.653,
+   111.987,
+   112.404,
+   113.28,
+   113.989,
+   114.823,
+   115.449,
+   116.158,
+   116.783,
+   117.2,
+   117.701,
+   118.285,
+   120.37,
+   122.539,
+   126.793,
+   131.256,
+   132.09,
+   134.176,
+   136.97,
+   141.725,
+   142.642,
+   143.602
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 70,
+   "asl": 2.09
+  },
+  "0.25": {
+   "n_shots": 54,
+   "asl": 2.72
+  },
+  "0.3": {
+   "n_shots": 39,
+   "asl": 3.76
+  },
+  "0.35": {
+   "n_shots": 28,
+   "asl": 5.24
+  },
+  "0.4": {
+   "n_shots": 19,
+   "asl": 7.72
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   5.3,
+   0.666
+  ],
+  [
+   22.7,
+   0.533
+  ],
+  [
+   23.7,
+   0.57
+  ],
+  [
+   25.5,
+   0.308
+  ],
+  [
+   48.1,
+   1.164
+  ],
+  [
+   51.1,
+   0.441
+  ],
+  [
+   66.1,
+   0.644
+  ],
+  [
+   74.0,
+   0.574
+  ],
+  [
+   76.4,
+   0.956
+  ],
+  [
+   94.9,
+   0.181
+  ],
+  [
+   98.0,
+   1.083
+  ],
+  [
+   125.6,
+   0.389
+  ],
+  [
+   138.4,
+   0.404
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   3.6,
+   4.1
+  ],
+  [
+   17.1,
+   17.3
+  ],
+  [
+   36.6,
+   36.8
+  ],
+  [
+   43.4,
+   43.6
+  ],
+  [
+   58.8,
+   58.9
+  ],
+  [
+   65.2,
+   65.8
+  ],
+  [
+   68.6,
+   69.0
+  ],
+  [
+   69.6,
+   70.1
+  ],
+  [
+   88.4,
+   88.5
+  ],
+  [
+   122.5,
+   123.1
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -16.8,
+  "loudest_t_s": 44.0,
+  "loudest_momentary_lufs": -12.1,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 145.5,
+    "end": 147.0,
+    "len": 1.5,
+    "ref": -16.5,
+    "floor": -47.7,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    12.0,
+    0.5,
+    -13.9
+   ],
+   [
+    10.4,
+    11.5,
+    -14.4
+   ],
+   [
+    10.0,
+    12.0,
+    -14.8
+   ],
+   [
+    9.9,
+    126.0,
+    -16.2
+   ],
+   [
+    9.5,
+    97.0,
+    -12.3
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 95.65,
+    "len": 0.4,
+    "ref": -22.6,
+    "floor": -59.4,
+    "next_peak": -21.8,
+    "peak_t": 96.1
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -11.8,
+    17.5,
+    43.85
+   ],
+   [
+    -13.7,
+    106.3,
+    0.5
+   ],
+   [
+    -13.7,
+    15.6,
+    74.2
+   ],
+   [
+    -13.9,
+    24.8,
+    97.0
+   ],
+   [
+    -16.4,
+    21.2,
+    10.9
+   ],
+   [
+    -16.7,
+    23.9,
+    94.25
+   ],
+   [
+    -16.8,
+    15.7,
+    60.45
+   ],
+   [
+    -17.5,
+    15.1,
+    37.15
+   ],
+   [
+    -17.6,
+    17.0,
+    59.0
+   ],
+   [
+    -17.6,
+    15.2,
+    126.2
+   ],
+   [
+    -18.2,
+    21.7,
+    9.7
+   ],
+   [
+    -18.5,
+    15.1,
+    3.75
+   ],
+   [
+    -18.6,
+    24.6,
+    95.45
+   ],
+   [
+    -18.8,
+    19.8,
+    8.25
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 1.43 cuts on onset (+-0.1s) 30 % vs chance 27 %",
+ "empty_frame": "mostly-empty 35% (on dark 35%, on light 0%), median empty share 58%",
+ "manual_corrections": "Dropped 0.334 (opening black) and 146.563 (last frame). Added 5.3 (arm-occlusion wipe), 48.0 (blur whip into car), 51.2 (dark hard cut missed), 76.3 (card -> plane flare dissolve). 22.7/23.7, 66.1, 98.0 soft candidates = camera moves inside one shot.",
+ "manual": {
+  "aspect": "2.39:1 scope inside 16:9 (active 854x356, 62 px bars); all cards inside the bars",
+  "beatsync_after_corrections": "cuts on onset 30 % vs chance 27 % -> cut to dialogue/action, not to beats",
+  "song_note": "faster-whisper catches the lyric 'Welcome to your life' at ~53-56 s, the first line of Tears for Fears 'Everybody Wants to Rule the World' (identified from the lyric only; 1980s pop over a 1950s period film)",
+  "text_cards": [
+   {
+    "words": "A24 logo (grey, assembled from fragments with thin coloured light streaks)",
+    "t_in": 32.53,
+    "t_out": 34.7,
+    "hold": 2.17,
+    "ink_height_pct_H": 27.7,
+    "build": "32.5-33.3",
+    "bg": "dark grey radial gradient"
+   },
+   {
+    "words": "THIS / CHRISTMAS",
+    "t_in": 75.2,
+    "t_out": 77.87,
+    "hold": 2.67,
+    "ink_height_pct_H": {
+     "THIS (light)": 4.4,
+     "CHRISTMAS (bold condensed)": 10.0
+    },
+    "bg": "#090909 corners to #121011 centre (vignette)",
+    "out": "from 76.3 the card dissolves into the plane shot through a horizontal lens-flare streak; text visible over footage ~1 s"
+   },
+   {
+    "words": "DREAM",
+    "t_in": 113.99,
+    "t_out": 114.82,
+    "hold": 0.83,
+    "ink_height_pct_H": 68.1,
+    "note": "fills ~92 % of the scope picture height"
+   },
+   {
+    "words": "BIG",
+    "t_in": 116.16,
+    "t_out": 116.78,
+    "hold": 0.62,
+    "ink_height_pct_H": 68.3,
+    "note": "1.34 s / 2 shots of footage between DREAM and BIG"
+   },
+   {
+    "words": "MARTY / SUPREME (title)",
+    "t_in": 126.79,
+    "t_out": 131.26,
+    "hold": 4.47,
+    "ink_height_pct_H": {
+     "MARTY": 41.0,
+     "SUPREME": 20.2
+    },
+    "build": "MARTY hard cut in at 126.79, SUPREME pops in at ~127.7 (0.9 s later)"
+   },
+   {
+    "words": "cast credits stack (TIMOTHEE CHALAMET ... ) then WRITTEN BY RONALD BRONSTEIN & JOSH SAFDIE, DIRECTED BY JOSH SAFDIE",
+    "t_in": 136.97,
+    "t_out": 143.6,
+    "hold": 6.63,
+    "ink_height_pct_H": 6.0,
+    "placement": "right-aligned at x ~90 %, over dark footage",
+    "build": "names added in pairs ~1 s apart"
+   },
+   {
+    "words": "THIS CHRISTMAS (end card)",
+    "t_in": 143.6,
+    "t_out": 146.6,
+    "hold": 3.0,
+    "ink_height_pct_H": 9.6
+   }
+  ],
+  "typeface_guess": "title/word cards: ultra-condensed heavy grotesque caps (Compacta / Anton look-alike); date and credits: bold condensed grotesque (Franklin Gothic / Helvetica Condensed look-alike) - guess",
+  "sound_events_verified": [
+   {
+    "t": "0.5",
+    "what": "cold open straight into dialogue ('I have a purpose')"
+   },
+   {
+    "t": "95.6-96.05",
+    "what": "0.45 s silence at -56..-59 dBFS after 'Like an ape?', then +25 dB hit at 97.0 on the ping-pong ball close-up"
+   },
+   {
+    "t": "124.1-125.8",
+    "what": "music thins to ~-30 dBFS for ~1.5 s, then returns at -17 dBFS for the title at 126.79 (a dip, not silence)"
+   },
+   {
+    "t": "144-146.6",
+    "what": "fade out under the end card"
+   }
+  ]
+ }
+}

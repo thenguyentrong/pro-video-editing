@@ -1,0 +1,260 @@
+{
+ "name": "redbull_she_made_it_look_easy",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "BlbCsfnbC3w",
+  "title": "She Made It Look Easy 😮‍💨",
+  "upload_date": "20261014",
+  "duration": 29,
+  "view_count": 2911663,
+  "like_count": 84528,
+  "channel": "Red Bull",
+  "uploader": "Red Bull",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 25,
+  "webpage_url": "https://www.youtube.com/watch?v=BlbCsfnbC3w",
+  "description_start": "► Professional Red Bull Climber Shauna Coxsey uses her FEET to climb \n\n#RedBull #GivesYouWiiings\n_________________________________________________\nExperience the world of Red Bull like you have never seen it before with the best action sports clips on the web, original series and livestreams.\n\nGet t"
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   27.76
+  ],
+  "shots": 2,
+  "ASL_s": 14.6,
+  "median_s": 14.6,
+  "ASL_quarters_s": [
+   7.3,
+   7.3,
+   7.3,
+   3.65
+  ],
+  "longest_start_len": [
+   [
+    0.0,
+    27.76
+   ],
+   [
+    27.76,
+    1.43
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    27.76,
+    1.43
+   ],
+   [
+    0.0,
+    27.76
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 50,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "one handheld phone shot of 27.8 s, one cut at 27.76 to the final 1.4 s"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 29.19
+ },
+ "cuts_cuts2": [
+  27.76
+ ],
+ "shot_stats_cuts2": {
+  "name": "redbull_she_made_it_look_easy",
+  "length": 29.12,
+  "shots": 2,
+  "ASL": 14.56,
+  "median": 14.56,
+  "ASL_quarters": [
+   7.28,
+   7.28,
+   7.28,
+   3.64
+  ],
+  "longest": [
+   [
+    0.0,
+    27.76
+   ],
+   [
+    27.76,
+    1.36
+   ]
+  ],
+  "shortest": [
+   [
+    27.76,
+    1.36
+   ],
+   [
+    0.0,
+    27.76
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 50,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 2,
+   "asl": 14.59
+  },
+  "0.25": {
+   "n_shots": 2,
+   "asl": 14.59
+  },
+  "0.3": {
+   "n_shots": 1,
+   "asl": 29.19
+  },
+  "0.35": {
+   "n_shots": 1,
+   "asl": 29.19
+  },
+  "0.4": {
+   "n_shots": 1,
+   "asl": 29.19
+  }
+ },
+ "integrated_lufs": -21.6,
+ "loudness_dropouts": [
+  {
+   "start": 13.0,
+   "end": 15.5,
+   "len": 2.5,
+   "ref": -29.8,
+   "floor": -50.5,
+   "rise_after": 16.2,
+   "next_peak": -34.3
+  },
+  {
+   "start": 29.0,
+   "end": 29.5,
+   "len": 0.5,
+   "ref": -25.5,
+   "floor": -49.5,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 27.5,
+  "loudest_M": -11.6,
+  "big_hits_near_peak": [
+   [
+    31.0,
+    7.5,
+    -16.9
+   ],
+   [
+    25.0,
+    27.0,
+    -16.2
+   ],
+   [
+    14.3,
+    27.5,
+    -11.6
+   ]
+  ],
+  "biggest_rises": [
+   [
+    31.6,
+    7.0,
+    -19.2
+   ],
+   [
+    31.0,
+    7.5,
+    -16.9
+   ],
+   [
+    25.0,
+    27.0,
+    -16.2
+   ],
+   [
+    20.0,
+    11.0,
+    -30.1
+   ],
+   [
+    18.5,
+    11.5,
+    -29.4
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [],
+ "audio_hits_50ms": [
+  [
+   -14.7,
+   26.0,
+   27.5
+  ],
+  [
+   -20.2,
+   35.1,
+   7.55
+  ],
+  [
+   -26.2,
+   29.2,
+   26.3
+  ],
+  [
+   -27.5,
+   27.6,
+   11.45
+  ],
+  [
+   -29.8,
+   25.9,
+   25.15
+  ],
+  [
+   -35.6,
+   22.1,
+   16.15
+  ],
+  [
+   -56.3,
+   53.5,
+   0.5
+  ]
+ ],
+ "beatsync": "redbull_she_made_it_look_easy onsets/s 0.55 cuts on onset (+-0.1s) 0 % vs chance 10 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short / TikTok (athlete's own phone footage)",
+  "sub_style": "sport / athlete UGC (bouldering, Shauna Coxsey)",
+  "hook_0_2s": "frame 1: the climber already hangs upside down under an overhanging boulder, feet hooked above her head; caption 'somtimes it's easier to go feet first 👀' (typo kept) at 0-2.5 s",
+  "captions": {
+   "style": "bold italic sans white with soft shadow, lowercase, 2 lines + emoji, centred, no box",
+   "line_glyph_height_pct_H": [
+    2.1,
+    2.9
+   ],
+   "position_pct_H": "24-30",
+   "x_extent_pct_W": "26-79",
+   "on_screen": "0-2.5 s only"
+  },
+  "on_screen_text_density": "8 words, then nothing for 25 s",
+  "audio": "forest ambience, breathing, chalk/shoe scrapes; integrated -21.6 LUFS; a 2.5 s quiet drop at 13-15.5 s (hang)",
+  "audio_type": "original location sound",
+  "voice": false,
+  "loop": "ends sitting on top of the boulder; no logo",
+  "views_at_analysis": 2911663,
+  "likes": 84528
+ }
+}

@@ -1,0 +1,323 @@
+{
+ "slug": "apple_detectives_8xzoom",
+ "company": "apple",
+ "title": "iPhone 17 Pro: Detectives Solve the Mystery with 8x Zoom",
+ "url": "https://www.youtube.com/watch?v=leYJBhat7zw",
+ "upload_date": "2025-12-31",
+ "format": "16:9 with 2.39:1 letterbox (active rows 61-418 of 480)",
+ "file_duration_s": 65.09,
+ "fps": 23.976,
+ "content_end_s": 60.0,
+ "integrated_lufs": -16.0,
+ "shots": {
+  "name": "apple_detectives_8xzoom",
+  "length": 60.0,
+  "shots": 27,
+  "ASL": 2.22,
+  "median": 1.75,
+  "ASL_quarters": [
+   2.14,
+   2.14,
+   1.67,
+   2.14
+  ],
+  "longest": [
+   [
+    20.48,
+    7.13
+   ],
+   [
+    50.51,
+    4.21
+   ],
+   [
+    54.72,
+    3.63
+   ],
+   [
+    37.37,
+    3.5
+   ]
+  ],
+  "shortest": [
+   [
+    29.7,
+    0.67
+   ],
+   [
+    33.45,
+    1.13
+   ],
+   [
+    32.28,
+    1.17
+   ],
+   [
+    2.75,
+    1.21
+   ]
+  ],
+  "pct_under_1s": 4,
+  "pct_over_3s": 19,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    58.35,
+    1.65
+   ]
+  ]
+ },
+ "extra_soft_cuts_added": [],
+ "cuts": [
+  2.753,
+  3.962,
+  6.173,
+  7.799,
+  10.844,
+  13.138,
+  15.015,
+  16.475,
+  18.227,
+  20.479,
+  27.611,
+  29.696,
+  30.364,
+  32.282,
+  33.45,
+  34.576,
+  37.371,
+  40.874,
+  42.376,
+  43.961,
+  45.712,
+  47.13,
+  48.799,
+  50.509,
+  54.721,
+  58.35
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 10,
+   "asl": 6.51
+  },
+  "0.25": {
+   "n_shots": 7,
+   "asl": 9.3
+  },
+  "0.3": {
+   "n_shots": 6,
+   "asl": 10.85
+  },
+  "0.35": {
+   "n_shots": 5,
+   "asl": 13.02
+  },
+  "0.4": {
+   "n_shots": 3,
+   "asl": 21.7
+  }
+ },
+ "soft_candidates": [
+  [
+   1.1,
+   0.297
+  ],
+  [
+   9.5,
+   0.129
+  ],
+  [
+   11.7,
+   0.311
+  ],
+  [
+   23.7,
+   0.138
+  ],
+  [
+   25.8,
+   0.506
+  ],
+  [
+   28.5,
+   0.294
+  ],
+  [
+   36.3,
+   0.494
+  ],
+  [
+   38.5,
+   0.635
+  ],
+  [
+   39.2,
+   0.63
+  ],
+  [
+   39.9,
+   0.691
+  ],
+  [
+   52.4,
+   0.214
+  ],
+  [
+   53.4,
+   0.221
+  ],
+  [
+   57.0,
+   0.134
+  ]
+ ],
+ "black_dips": [],
+ "audio_gaps_50ms": [
+  {
+   "start": 43.55,
+   "len": 0.25,
+   "ref": -17.0,
+   "floor": -37.3,
+   "next_peak": -11.4,
+   "peak_t": 43.9
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -8.9,
+   22.8,
+   25.9
+  ],
+  [
+   -9.0,
+   16.5,
+   47.3
+  ],
+  [
+   -9.3,
+   21.7,
+   32.35
+  ],
+  [
+   -10.8,
+   21.7,
+   55.0
+  ],
+  [
+   -10.9,
+   17.5,
+   44.6
+  ],
+  [
+   -11.9,
+   19.3,
+   52.75
+  ],
+  [
+   -12.3,
+   18.4,
+   29.35
+  ],
+  [
+   -12.6,
+   20.6,
+   43.05
+  ],
+  [
+   -12.6,
+   19.6,
+   22.75
+  ],
+  [
+   -13.1,
+   17.7,
+   6.9
+  ]
+ ],
+ "loudness_dropouts_05s": [
+  {
+   "start": 23.5,
+   "end": 24.5,
+   "len": 1.0,
+   "ref": -13.7,
+   "floor": -30.3,
+   "rise_after": 19.1,
+   "next_peak": -11.2
+  },
+  {
+   "start": 53.5,
+   "end": 55.0,
+   "len": 1.5,
+   "ref": -13.1,
+   "floor": -27.3,
+   "rise_after": 14.3,
+   "next_peak": -13.0
+  },
+  {
+   "start": 59.5,
+   "end": 65.5,
+   "len": 6.0,
+   "ref": -16.3,
+   "floor": -146.4,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits_05s": {
+  "loudest_t": 49.0,
+  "loudest_M": -10.2,
+  "big_hits_near_peak": [
+   [
+    18.9,
+    23.0,
+    -11.2
+   ],
+   [
+    17.9,
+    25.5,
+    -12.4
+   ],
+   [
+    17.3,
+    22.5,
+    -12.8
+   ]
+  ],
+  "biggest_rises": [
+   [
+    18.9,
+    23.0,
+    -11.2
+   ],
+   [
+    17.9,
+    25.5,
+    -12.4
+   ],
+   [
+    17.3,
+    22.5,
+    -12.8
+   ],
+   [
+    15.1,
+    24.5,
+    -15.2
+   ],
+   [
+    15.1,
+    25.0,
+    -15.2
+   ]
+  ]
+ },
+ "beat_sync": "onsets/s 0.69 cuts on onset (+-0.1s) 38 % vs chance 13 %",
+ "empty_frames": "apple_detectives_8xzoom: samples 120, letterbox rows 8/36, mostly-empty 17% (on dark 17%, on light 0%), median empty share 58%",
+ "text_measurements": {
+  "'8x zoom'": "centred, white, cap ~7.5% H, over orange product macro, 54.7-56 s",
+  "'Shot on iPhone 17 Pro'": "centred, white, cap ~6.3% H, 56-58.3 s",
+  "legal 'Additional software used'": "grey ~2% H at bottom edge of picture area"
+ },
+ "manual_corrections": "All 26 hard cuts verified real. The comedic 'crash zoom' beats (35-41 s) are in-camera zooms inside one shot, not cuts. Content ends ~60 (Apple logo on black 58.35-60)."
+}

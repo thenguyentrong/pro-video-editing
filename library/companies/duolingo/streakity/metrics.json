@@ -1,0 +1,240 @@
+{
+ "name": "duolingo_streakity",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "3OTzXpz0rOw",
+  "title": "time to do your streakity",
+  "upload_date": "20261007",
+  "duration": 8,
+  "view_count": 3259360,
+  "like_count": 55122,
+  "channel": "Duolingo",
+  "uploader": "Duolingo",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/watch?v=3OTzXpz0rOw",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [],
+  "shots": 1,
+  "ASL_s": 7.5,
+  "median_s": 7.5,
+  "ASL_quarters_s": [
+   1.88,
+   1.88,
+   1.88,
+   1.88
+  ],
+  "longest_start_len": [
+   [
+    0.0,
+    7.5
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    0.0,
+    7.5
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 100,
+  "dropped_false_cuts_s": [],
+  "added_cuts_s": [],
+  "note": "one continuous shot (2D cut-out animation over a split game/Backrooms background), no cuts"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 7.5
+ },
+ "cuts_cuts2": [],
+ "shot_stats_cuts2": {
+  "name": "duolingo_streakity",
+  "length": 7.4,
+  "shots": 1,
+  "ASL": 7.4,
+  "median": 7.4,
+  "ASL_quarters": [
+   1.85,
+   1.85,
+   1.85,
+   1.85
+  ],
+  "longest": [
+   [
+    0.0,
+    7.4
+   ]
+  ],
+  "shortest": [
+   [
+    0.0,
+    7.4
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 100,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 1,
+   "asl": 7.5
+  },
+  "0.25": {
+   "n_shots": 1,
+   "asl": 7.5
+  },
+  "0.3": {
+   "n_shots": 1,
+   "asl": 7.5
+  },
+  "0.35": {
+   "n_shots": 1,
+   "asl": 7.5
+  },
+  "0.4": {
+   "n_shots": 1,
+   "asl": 7.5
+  }
+ },
+ "integrated_lufs": -11.5,
+ "loudness_dropouts": [
+  {
+   "start": 7.5,
+   "end": 8.0,
+   "len": 0.5,
+   "ref": -10.2,
+   "floor": -120.0,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 0.5,
+  "loudest_M": -9.2,
+  "big_hits_near_peak": [
+   [
+    8.4,
+    5.0,
+    -9.5
+   ],
+   [
+    7.7,
+    4.5,
+    -10.2
+   ],
+   [
+    4.9,
+    4.0,
+    -13.0
+   ]
+  ],
+  "biggest_rises": [
+   [
+    8.4,
+    5.0,
+    -9.5
+   ],
+   [
+    7.7,
+    4.5,
+    -10.2
+   ],
+   [
+    4.9,
+    4.0,
+    -13.0
+   ],
+   [
+    3.7,
+    0.5,
+    -9.2
+   ],
+   [
+    3.5,
+    1.0,
+    -9.4
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [
+  {
+   "start": 3.15,
+   "len": 0.15,
+   "ref": -13.5,
+   "floor": -35.6,
+   "next_peak": -14.0,
+   "peak_t": 3.7
+  },
+  {
+   "start": 3.45,
+   "len": 0.25,
+   "ref": -13.7,
+   "floor": -43.6,
+   "next_peak": -14.0,
+   "peak_t": 3.7
+  },
+  {
+   "start": 3.8,
+   "len": 0.15,
+   "ref": -15.7,
+   "floor": -42.2,
+   "next_peak": -11.2,
+   "peak_t": 4.4
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -9.5,
+   21.2,
+   6.8
+  ],
+  [
+   -10.3,
+   22.6,
+   2.8
+  ],
+  [
+   -11.2,
+   31.4,
+   4.4
+  ],
+  [
+   -12.4,
+   107.6,
+   0.5
+  ]
+ ],
+ "beatsync": "duolingo_streakity onsets/s 2.13 cuts on onset (+-0.1s) 0 % vs chance 0 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short",
+  "sub_style": "meme / foreign-language audio trend + translation tiles",
+  "hook_0_2s": "frame 1 already mid-action: Duo is pulled in a tug-of-war between a Minecraft-Steve-style character (left half: Minecraft screenshot) and a pirate bear (right half: yellow Backrooms wallpaper); the Russian lyric 'Верити' + English tile 'Verity's' pop on at 0.0 s",
+  "captions": {
+   "style": "two layers: Russian lyric line in Duolingo Feather-Bold-like font, teal (line 1) then yellow-orange (line 2), no box; English translation as word-bank tiles under it",
+   "word_by_word": true,
+   "ru_cap_height_pct_H": 2.3,
+   "tile_height_pct_H": 6.3,
+   "tile_text_cap_pct_H": 2.3,
+   "position_pct_H": "ru line ~22, tiles 25-31.5",
+   "x_extent_pct_W": "7-91"
+  },
+  "on_screen_text_density": "max 4 tiles + 1 lyric line (about 8 words)",
+  "audio": "Russian-language meme song with vocals (lyrics 'Верити с Майнкрафта / Ему место в Бэкрумс'); integrated -11.5 LUFS; onsets 2.1/s",
+  "audio_type": "trending foreign-language song, translated on screen = the language-learning angle",
+  "voice": false,
+  "loop": "single 7.4 s shot, same tug-of-war pose at start and end, loops cleanly",
+  "views_at_analysis": 3259360,
+  "likes": 55122
+ }
+}

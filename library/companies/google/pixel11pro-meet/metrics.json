@@ -1,0 +1,177 @@
+{
+ "name": "google_pixel11pro_meet",
+ "url": "https://www.youtube.com/watch?v=1xw8-y4duDQ",
+ "analysed": "2026-10-20, 480p YouTube download (media deleted after analysis)",
+ "resolution_analysed": "854,480",
+ "duration_s": 30.05,
+ "fps": 23.976,
+ "cut_detection": "cuts2.py adaptive hard cuts, every cut pair checked by eye (verify.py); soft transitions from soft.py checked by eye (cand.py) and added only when they are real scene changes",
+ "soft_transitions_added_s": [
+  2.5,
+  9.7,
+  27.3
+ ],
+ "false_cuts_dropped_s": [],
+ "shots": 14,
+ "asl_s": 2.15,
+ "median_shot_s": 1.97,
+ "asl_quarters_s": [
+  1.88,
+  1.5,
+  1.88,
+  1.88
+ ],
+ "longest_shots_start_len": [
+  [
+   13.76,
+   4.5
+  ],
+  [
+   22.48,
+   3.29
+  ],
+  [
+   18.27,
+   2.88
+  ],
+  [
+   0.0,
+   2.5
+  ]
+ ],
+ "shortest_shots_start_len": [
+  [
+   29.24,
+   0.79
+  ],
+  [
+   21.15,
+   1.34
+  ],
+  [
+   8.22,
+   1.48
+  ],
+  [
+   4.5,
+   1.5
+  ]
+ ],
+ "pct_shots_under_1s": 7,
+ "pct_shots_over_3s": 14,
+ "black_holds_start_len": [
+  [
+   25.78,
+   1.52
+  ],
+  [
+   29.24,
+   0.79
+  ]
+ ],
+ "cuts_per_10s": {
+  "0-10s": 5,
+  "10-20s": 3,
+  "20-30s": 5,
+  "30-40s": 0
+ },
+ "cut_times_s": [
+  2.5,
+  4.504,
+  6.006,
+  8.217,
+  9.7,
+  12.095,
+  13.764,
+  18.268,
+  21.146,
+  22.481,
+  25.776,
+  27.3,
+  29.238
+ ],
+ "scene_threshold_sweep": {
+  "0.2": {
+   "n_shots": 10,
+   "asl": 3.01
+  },
+  "0.25": {
+   "n_shots": 10,
+   "asl": 3.01
+  },
+  "0.3": {
+   "n_shots": 9,
+   "asl": 3.34
+  },
+  "0.35": {
+   "n_shots": 9,
+   "asl": 3.34
+  },
+  "0.4": {
+   "n_shots": 8,
+   "asl": 3.76
+  }
+ },
+ "audio": {
+  "integrated_lufs": -16.1,
+  "median_rms_dbfs_50ms": -21.1,
+  "loudest_momentary": -12.4,
+  "loudest_at_s": 13.5,
+  "dropouts_ebu_0.5s_bins": [
+   {
+    "start": 30.0,
+    "end": 30.5,
+    "len": 0.5,
+    "ref": -15.6,
+    "floor": -32.7,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "gaps_50ms_rms": [],
+  "hits_dbfs_rise_t": [
+   [
+    -8.8,
+    16.0,
+    18.3
+   ],
+   [
+    -9.2,
+    15.9,
+    11.45
+   ],
+   [
+    -9.4,
+    16.6,
+    28.6
+   ],
+   [
+    -9.5,
+    33.6,
+    6.95
+   ],
+   [
+    -9.8,
+    16.2,
+    25.15
+   ],
+   [
+    -10.2,
+    27.4,
+    27.3
+   ],
+   [
+    -10.2,
+    15.3,
+    21.75
+   ],
+   [
+    -10.6,
+    15.9,
+    8.05
+   ]
+  ],
+  "beat_sync": "google_pixel11pro_meet onsets/s 1.8 cuts on onset (+-0.1s) 46 % vs chance 35 %"
+ },
+ "empty_frame_share": "google_pixel11pro_meet: samples 60, letterbox rows 0/36, mostly-empty 15% (on dark 15%, on light 0%), median empty share 54%"
+}

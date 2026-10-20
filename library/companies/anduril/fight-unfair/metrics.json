@@ -1,0 +1,305 @@
+{
+ "name": "anduril_fight_unfair",
+ "file": "anduril_fight-unfair.webm",
+ "duration_s": 30.981,
+ "fps": 23.976,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 19,
+ "shot_count": 20,
+ "asl_s": 1.55,
+ "median_s": 1.46,
+ "pct_shots_under_1s": 20.0,
+ "pct_shots_over_3s": 5.0,
+ "shots_per_minute": 38.7,
+ "asl_quarters_s": [
+  1.55,
+  1.29,
+  0.97,
+  1.94
+ ],
+ "longest": [
+  {
+   "start": 23.899,
+   "len": 3.462
+  },
+  {
+   "start": 8.133,
+   "len": 2.628
+  },
+  {
+   "start": 0.0,
+   "len": 2.377
+  }
+ ],
+ "shortest": [
+  {
+   "start": 17.852,
+   "len": 0.583
+  },
+  {
+   "start": 18.435,
+   "len": 0.584
+  },
+  {
+   "start": 19.019,
+   "len": 0.876
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 9,
+  "20-30": 5,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 15,
+  "only_in_other": [],
+  "only_in_this": [
+   12.388,
+   23.023,
+   23.899,
+   28.612
+  ]
+ },
+ "mean_luma": 0.355,
+ "soft_transition_candidates": [
+  {
+   "t": 1.0,
+   "score": 0.156
+  },
+  {
+   "t": 9.8,
+   "score": 0.182
+  },
+  {
+   "t": 25.3,
+   "score": 0.566
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.377,
+   "len": 2.377
+  },
+  {
+   "i": 2,
+   "start": 2.377,
+   "end": 3.754,
+   "len": 1.377
+  },
+  {
+   "i": 3,
+   "start": 3.754,
+   "end": 4.755,
+   "len": 1.001
+  },
+  {
+   "i": 4,
+   "start": 4.755,
+   "end": 6.548,
+   "len": 1.793
+  },
+  {
+   "i": 5,
+   "start": 6.548,
+   "end": 8.133,
+   "len": 1.585
+  },
+  {
+   "i": 6,
+   "start": 8.133,
+   "end": 10.761,
+   "len": 2.628
+  },
+  {
+   "i": 7,
+   "start": 10.761,
+   "end": 12.388,
+   "len": 1.627
+  },
+  {
+   "i": 8,
+   "start": 12.388,
+   "end": 14.265,
+   "len": 1.877
+  },
+  {
+   "i": 9,
+   "start": 14.265,
+   "end": 15.474,
+   "len": 1.209
+  },
+  {
+   "i": 10,
+   "start": 15.474,
+   "end": 16.642,
+   "len": 1.168
+  },
+  {
+   "i": 11,
+   "start": 16.642,
+   "end": 17.852,
+   "len": 1.21
+  },
+  {
+   "i": 12,
+   "start": 17.852,
+   "end": 18.435,
+   "len": 0.583
+  },
+  {
+   "i": 13,
+   "start": 18.435,
+   "end": 19.019,
+   "len": 0.584
+  },
+  {
+   "i": 14,
+   "start": 19.019,
+   "end": 19.895,
+   "len": 0.876
+  },
+  {
+   "i": 15,
+   "start": 19.895,
+   "end": 21.438,
+   "len": 1.543
+  },
+  {
+   "i": 16,
+   "start": 21.438,
+   "end": 23.023,
+   "len": 1.585
+  },
+  {
+   "i": 17,
+   "start": 23.023,
+   "end": 23.899,
+   "len": 0.876
+  },
+  {
+   "i": 18,
+   "start": 23.899,
+   "end": 27.361,
+   "len": 3.462
+  },
+  {
+   "i": 19,
+   "start": 27.361,
+   "end": 28.612,
+   "len": 1.251
+  },
+  {
+   "i": 20,
+   "start": 28.612,
+   "end": 30.981,
+   "len": 2.369
+  }
+ ],
+ "cuts": [
+  2.377,
+  3.754,
+  4.755,
+  6.548,
+  8.133,
+  10.761,
+  12.388,
+  14.265,
+  15.474,
+  16.642,
+  17.852,
+  18.435,
+  19.019,
+  19.895,
+  21.438,
+  23.023,
+  23.899,
+  27.361,
+  28.612
+ ],
+ "loudness": {
+  "integrated_lufs": -13.4,
+  "loudness_range_lu": 2.9,
+  "true_peak_dbtp": 0.1
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 29.9,
+    "end": 30.95,
+    "len": 1.05
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 27.35,
+    "level_dbfs": -8.3,
+    "rise_db": 22.3
+   },
+   {
+    "t": 19.5,
+    "level_dbfs": -11.4,
+    "rise_db": 15.7
+   },
+   {
+    "t": 18.4,
+    "level_dbfs": -13.3,
+    "rise_db": 15.3
+   },
+   {
+    "t": 24.05,
+    "level_dbfs": -13.8,
+    "rise_db": 18.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 27.35,
+    "level_dbfs": -8.3,
+    "rise_db": 22.3
+   },
+   {
+    "t": 24.05,
+    "level_dbfs": -13.8,
+    "rise_db": 18.9
+   },
+   {
+    "t": 19.5,
+    "level_dbfs": -11.4,
+    "rise_db": 15.7
+   },
+   {
+    "t": 18.4,
+    "level_dbfs": -13.3,
+    "rise_db": 15.3
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 13.45,
+   "rms_dbfs": -13.9
+  },
+  "median_rms_dbfs": -18.4
+ },
+ "sync": {
+  "onsets_per_s": 1.52,
+  "cuts_on_onset_pct": 47,
+  "chance_pct": 29,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "true peak 0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

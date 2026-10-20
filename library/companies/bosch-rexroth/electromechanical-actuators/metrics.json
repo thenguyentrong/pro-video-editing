@@ -1,0 +1,325 @@
+{
+ "name": "bosch-rexroth_electromechanical-actuators",
+ "file": "bosch-rexroth_electromechanical-actuators.mp4",
+ "duration_s": 140.974,
+ "fps": 30.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 6,
+ "shot_count": 7,
+ "asl_s": 20.14,
+ "median_s": 12.0,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 3.0,
+ "asl_quarters_s": [
+  17.62,
+  8.81,
+  17.62,
+  17.62
+ ],
+ "longest": [
+  {
+   "start": 76.033,
+   "len": 60.5
+  },
+  {
+   "start": 0.0,
+   "len": 24.0
+  },
+  {
+   "start": 24.0,
+   "len": 20.0
+  }
+ ],
+ "shortest": [
+  {
+   "start": 136.533,
+   "len": 4.441
+  },
+  {
+   "start": 66.033,
+   "len": 10.0
+  },
+  {
+   "start": 44.0,
+   "len": 10.033
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 0,
+  "10-20": 0,
+  "20-30": 1,
+  "30-40": 0,
+  "40-50": 1,
+  "50-60": 1,
+  "60-70": 1,
+  "70-80": 1,
+  "80-90": 0,
+  "90-100": 0,
+  "100-110": 0,
+  "110-120": 0,
+  "120-130": 0,
+  "130-140": 1,
+  "140-150": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 1,
+  "only_in_other": [],
+  "only_in_this": [
+   24.0,
+   44.0,
+   54.033,
+   76.033,
+   136.533
+  ]
+ },
+ "mean_luma": 0.552,
+ "soft_transition_candidates": [
+  {
+   "t": 1.0,
+   "score": 0.187
+  },
+  {
+   "t": 1.9,
+   "score": 0.217
+  },
+  {
+   "t": 2.6,
+   "score": 0.211
+  },
+  {
+   "t": 3.6,
+   "score": 0.219
+  },
+  {
+   "t": 4.4,
+   "score": 0.217
+  },
+  {
+   "t": 8.8,
+   "score": 0.273
+  },
+  {
+   "t": 10.2,
+   "score": 0.165
+  },
+  {
+   "t": 11.7,
+   "score": 0.34
+  },
+  {
+   "t": 12.6,
+   "score": 0.364
+  },
+  {
+   "t": 25.0,
+   "score": 0.4
+  },
+  {
+   "t": 34.3,
+   "score": 0.256
+  },
+  {
+   "t": 36.0,
+   "score": 0.18
+  },
+  {
+   "t": 46.5,
+   "score": 0.163
+  },
+  {
+   "t": 60.1,
+   "score": 0.104
+  },
+  {
+   "t": 67.1,
+   "score": 0.379
+  },
+  {
+   "t": 68.2,
+   "score": 0.381
+  },
+  {
+   "t": 85.7,
+   "score": 0.22
+  },
+  {
+   "t": 87.8,
+   "score": 0.212
+  },
+  {
+   "t": 95.6,
+   "score": 1.421
+  },
+  {
+   "t": 98.7,
+   "score": 0.242
+  },
+  {
+   "t": 99.4,
+   "score": 0.278
+  },
+  {
+   "t": 100.9,
+   "score": 0.11
+  },
+  {
+   "t": 102.9,
+   "score": 0.351
+  },
+  {
+   "t": 104.4,
+   "score": 0.14
+  },
+  {
+   "t": 105.8,
+   "score": 0.243
+  },
+  {
+   "t": 107.6,
+   "score": 0.263
+  },
+  {
+   "t": 109.9,
+   "score": 0.181
+  },
+  {
+   "t": 112.6,
+   "score": 0.213
+  },
+  {
+   "t": 113.9,
+   "score": 0.165
+  },
+  {
+   "t": 115.1,
+   "score": 0.187
+  },
+  {
+   "t": 116.8,
+   "score": 0.236
+  },
+  {
+   "t": 119.5,
+   "score": 1.042
+  },
+  {
+   "t": 120.9,
+   "score": 0.484
+  },
+  {
+   "t": 122.1,
+   "score": 0.944
+  },
+  {
+   "t": 128.1,
+   "score": 0.884
+  },
+  {
+   "t": 130.6,
+   "score": 0.152
+  },
+  {
+   "t": 131.4,
+   "score": 0.132
+  },
+  {
+   "t": 138.0,
+   "score": 0.318
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 24.0,
+   "len": 24.0
+  },
+  {
+   "i": 2,
+   "start": 24.0,
+   "end": 44.0,
+   "len": 20.0
+  },
+  {
+   "i": 3,
+   "start": 44.0,
+   "end": 54.033,
+   "len": 10.033
+  },
+  {
+   "i": 4,
+   "start": 54.033,
+   "end": 66.033,
+   "len": 12.0
+  },
+  {
+   "i": 5,
+   "start": 66.033,
+   "end": 76.033,
+   "len": 10.0
+  },
+  {
+   "i": 6,
+   "start": 76.033,
+   "end": 136.533,
+   "len": 60.5
+  },
+  {
+   "i": 7,
+   "start": 136.533,
+   "end": 140.974,
+   "len": 4.441
+  }
+ ],
+ "cuts": [
+  24.0,
+  44.0,
+  54.033,
+  66.033,
+  76.033,
+  136.533
+ ],
+ "loudness": {
+  "integrated_lufs": -70.0,
+  "loudness_range_lu": 0.0,
+  "true_peak_dbtp": -Infinity
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 140.95,
+    "len": 140.95
+   }
+  ],
+  "dropouts": [],
+  "hits": [],
+  "biggest_rises": [],
+  "loudest_0_5s": {
+   "t": 0.0,
+   "rms_dbfs": -120.0
+  },
+  "median_rms_dbfs": -120.0
+ },
+ "sync": {
+  "onsets_per_s": 0.0,
+  "cuts_on_onset_pct": null,
+  "chance_pct": null,
+  "note": "no cuts or no onsets"
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": []
+}

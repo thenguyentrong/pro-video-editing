@@ -1,0 +1,496 @@
+{
+ "name": "a24_zoneofinterest_trailer",
+ "source": {
+  "title": "The Zone of Interest | Official Trailer HD | A24",
+  "full_duration_s": "61",
+  "upload_date": "20231017",
+  "channel": "A24",
+  "url": "https://www.youtube.com/watch?v=r-vfg3KkV54",
+  "analysed_resolution": "854x480"
+ },
+ "analysed_window_s": [
+  0,
+  60.89
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "55 w:854 h:480 x:0 y:0",
+  "5 w:390 h:256 x:232 y:132",
+  "5 w:228 h:40 x:338 y:220",
+  "4 w:796 h:480 x:0 y:0",
+  "4 w:778 h:480 x:0 y:0",
+  "4 w:458 h:20 x:186 y:220"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 60.89,
+  "shots": 33,
+  "ASL": 1.85,
+  "median": 1.96,
+  "ASL_quarters": [
+   2.54,
+   1.52,
+   1.38,
+   1.69
+  ],
+  "longest": [
+   [
+    5.21,
+    5.46
+   ],
+   [
+    52.84,
+    2.92
+   ],
+   [
+    2.29,
+    2.92
+   ],
+   [
+    0.0,
+    2.29
+   ]
+  ],
+  "shortest": [
+   [
+    20.73,
+    0.38
+   ],
+   [
+    29.99,
+    0.58
+   ],
+   [
+    36.74,
+    0.58
+   ],
+   [
+    46.76,
+    1.0
+   ]
+  ],
+  "pct_under_1s": 9,
+  "pct_over_3s": 3,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    0.0,
+    2.29
+   ],
+   [
+    10.68,
+    2.04
+   ],
+   [
+    14.72,
+    2.04
+   ],
+   [
+    18.73,
+    2.0
+   ],
+   [
+    22.81,
+    1.96
+   ],
+   [
+    28.78,
+    1.21
+   ],
+   [
+    31.7,
+    1.75
+   ],
+   [
+    34.7,
+    2.04
+   ],
+   [
+    40.79,
+    2.04
+   ],
+   [
+    44.8,
+    1.96
+   ],
+   [
+    47.76,
+    1.08
+   ],
+   [
+    55.76,
+    2.14
+   ],
+   [
+    57.9,
+    1.58
+   ]
+  ],
+  "cuts_per_10s": [
+   2,
+   5,
+   7,
+   7,
+   6,
+   5,
+   0
+  ],
+  "cut_times": [
+   2.294,
+   5.214,
+   10.677,
+   12.721,
+   14.723,
+   16.767,
+   18.727,
+   20.729,
+   21.104,
+   22.814,
+   24.775,
+   26.902,
+   28.779,
+   29.988,
+   30.572,
+   31.698,
+   33.45,
+   34.701,
+   36.745,
+   37.329,
+   38.705,
+   40.791,
+   42.834,
+   44.795,
+   46.755,
+   47.756,
+   48.84,
+   50.842,
+   52.844,
+   55.764,
+   57.9,
+   59.476
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 30,
+   "asl": 2.03
+  },
+  "0.25": {
+   "n_shots": 26,
+   "asl": 2.34
+  },
+  "0.3": {
+   "n_shots": 22,
+   "asl": 2.77
+  },
+  "0.35": {
+   "n_shots": 20,
+   "asl": 3.05
+  },
+  "0.4": {
+   "n_shots": 19,
+   "asl": 3.21
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   8.3,
+   0.104
+  ],
+  [
+   9.0,
+   0.102
+  ],
+  [
+   57.6,
+   0.213
+  ],
+  [
+   57.7,
+   0.213
+  ],
+  [
+   57.8,
+   0.213
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   10.7,
+   12.7
+  ],
+  [
+   14.7,
+   16.8
+  ],
+  [
+   18.7,
+   20.7
+  ],
+  [
+   22.8,
+   24.8
+  ],
+  [
+   28.8,
+   30.0
+  ],
+  [
+   31.7,
+   33.5
+  ],
+  [
+   34.7,
+   36.7
+  ],
+  [
+   40.8,
+   42.8
+  ],
+  [
+   44.8,
+   46.8
+  ],
+  [
+   47.8,
+   48.8
+  ],
+  [
+   55.8,
+   59.5
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -21.1,
+  "loudest_t_s": 45.0,
+  "loudest_momentary_lufs": -13.5,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 57.0,
+    "end": 61.0,
+    "len": 4.0,
+    "ref": -20.2,
+    "floor": -160.8,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    15.3,
+    53.0,
+    -16.8
+   ],
+   [
+    12.4,
+    53.5,
+    -19.7
+   ],
+   [
+    11.8,
+    52.5,
+    -20.3
+   ],
+   [
+    11.7,
+    51.0,
+    -18.4
+   ],
+   [
+    11.3,
+    49.0,
+    -14.6
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [],
+  "hits_dbfs_rise_t": [
+   [
+    -11.7,
+    15.4,
+    43.35
+   ],
+   [
+    -12.8,
+    24.3,
+    48.9
+   ],
+   [
+    -16.0,
+    15.6,
+    35.5
+   ],
+   [
+    -16.2,
+    24.0,
+    53.1
+   ],
+   [
+    -16.7,
+    25.9,
+    50.85
+   ],
+   [
+    -17.5,
+    24.5,
+    55.8
+   ],
+   [
+    -18.8,
+    19.4,
+    54.15
+   ],
+   [
+    -26.1,
+    93.9,
+    0.5
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.92 cuts on onset (+-0.1s) 69 % vs chance 18 %",
+ "empty_frame": "mostly-empty 56% (on dark 52%, on light 0%), median empty share 75%",
+ "manual_corrections": "Dropped 0.042 and 60.852 (first/last frame). Added 57.9 (title -> Coming soon). Black quote cards counted as shots.",
+ "manual": {
+  "aspect": "full 16:9, no bars",
+  "beatsync_after_corrections": "cuts on onset 69 % vs chance 18 % -> every cut sits on a percussive thump",
+  "rhythm": "strict alternation image / black quote card, ~2.0 s each (10.68-48.84 s); 18 black-card or logo shots out of 33",
+  "no_speech": "faster-whisper found no speech (language prob 0.33); music + thumps only",
+  "text_cards": [
+   {
+    "words": "FILM4 / A24 / ACCESS logos",
+    "t_in": 0.0,
+    "t_out": 2.29,
+    "hold": 2.29,
+    "ink_height_pct_H": 18.5,
+    "placement": "centre row, white on black"
+   },
+   {
+    "words": "FESTIVAL DE CANNES / GRAND PRIX / 2023 (palm laurel)",
+    "t_in": 2.29,
+    "t_out": 5.21,
+    "hold": 2.92,
+    "ink_height_pct_H": {
+     "laurel": 15.8,
+     "text_lines": [
+      2.9,
+      2.3,
+      2.3
+     ]
+    },
+    "colour": "white on #A30001"
+   },
+   {
+    "words": "\"A brilliant examination of human complicity\" - The Playlist",
+    "t_in": 10.68,
+    "t_out": 12.72,
+    "hold": 2.04,
+    "ink_height_pct_H": {
+     "quote_line_incl_descenders": 5.6,
+     "attribution": 3.1
+    }
+   },
+   {
+    "words": "\"An unblinking masterpiece\" ***** BBC",
+    "t_in": 14.72,
+    "t_out": 16.77,
+    "hold": 2.05,
+    "ink_height_pct_H": {
+     "quote": 6.0,
+     "attribution": 2.9
+    }
+   },
+   {
+    "words": "\"Devastating and vital... bold and brilliant\" ***** The Telegraph",
+    "t_in": 18.73,
+    "t_out": 20.73,
+    "hold": 2.0
+   },
+   {
+    "words": "\"Hits with sledgehammer urgency\" ***** The Times",
+    "t_in": 22.81,
+    "t_out": 24.77,
+    "hold": 1.96
+   },
+   {
+    "words": "\"Like an alarm going off\" The Hollywood Reporter",
+    "t_in": 28.78,
+    "t_out": 29.99,
+    "hold": 1.21
+   },
+   {
+    "words": "\"It's about wanting the best for your children...",
+    "t_in": 31.7,
+    "t_out": 33.45,
+    "hold": 1.75,
+    "note": "one TIME quote split over 4 cards"
+   },
+   {
+    "words": "...following the rules and working hard...",
+    "t_in": 34.7,
+    "t_out": 36.74,
+    "hold": 2.04
+   },
+   {
+    "words": "...feeling that you deserve the best in life...",
+    "t_in": 40.79,
+    "t_out": 42.83,
+    "hold": 2.04
+   },
+   {
+    "words": "...entwined with the unspeakable\" Time",
+    "t_in": 44.8,
+    "t_out": 46.76,
+    "hold": 1.96
+   },
+   {
+    "words": "\"Do not look away\" Slash Film",
+    "t_in": 47.76,
+    "t_out": 48.84,
+    "hold": 1.08
+   },
+   {
+    "words": "The Zone of Interest (title)",
+    "t_in": 55.76,
+    "t_out": 57.9,
+    "hold": 2.14,
+    "ink_height_pct_H": 9.8,
+    "bbox_x_pct": [
+     21.9,
+     76.6
+    ],
+    "style": "white mixed case with soft glow / bloom"
+   },
+   {
+    "words": "Coming soon",
+    "t_in": 57.9,
+    "t_out": 59.48,
+    "hold": 1.58,
+    "ink_height_pct_H": 5.6
+   },
+   {
+    "words": "billing block + logos",
+    "t_in": 59.48,
+    "t_out": 60.89,
+    "hold": 1.41
+   }
+  ],
+  "card_style": "white mixed-case condensed sans (DIN Condensed look-alike - guess), centred, quote marks included, attribution right-aligned in small italic with stars; hard cut in and out, no animation",
+  "sound_events_verified": [
+   {
+    "t": "10.75, 12.85, 14.85, 16.8, 18.8, 20.85 ...",
+    "what": "a short thump (+8..10 dB over a -24 dBFS drone) on every cut, period ~2.0 s"
+   },
+   {
+    "t": "43-49",
+    "what": "loudest stretch (-13.5 LUFS momentary at 45 s), pulses get denser 47.8-55.8"
+   },
+   {
+    "t": "57-60",
+    "what": "decay to silence under 'Coming soon' and the billing block"
+   }
+  ],
+  "integrated_note": "-21.1 LUFS integrated: 4-5 LU quieter than the other A24 trailers"
+ }
+}

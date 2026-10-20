@@ -1,0 +1,340 @@
+{
+ "name": "google_mbg26_reveal",
+ "url": "https://www.youtube.com/watch?v=fOry1J5BCkU",
+ "analysed": "2026-10-20, 480p YouTube download (media deleted after analysis)",
+ "resolution_analysed": "854,480",
+ "duration_s": 122.23,
+ "fps": 29.97,
+ "cut_detection": "cuts2.py adaptive hard cuts, every cut pair checked by eye (verify.py); soft transitions from soft.py checked by eye (cand.py) and added only when they are real scene changes",
+ "soft_transitions_added_s": [
+  5.5,
+  26.6,
+  76.8,
+  78.1,
+  79.5
+ ],
+ "false_cuts_dropped_s": [],
+ "shots": 87,
+ "asl_s": 1.4,
+ "median_shot_s": 1.14,
+ "asl_quarters_s": [
+  1.09,
+  1.8,
+  1.61,
+  1.18
+ ],
+ "longest_shots_start_len": [
+  [
+   62.7,
+   5.31
+  ],
+  [
+   68.0,
+   5.17
+  ],
+  [
+   54.72,
+   4.87
+  ],
+  [
+   102.3,
+   3.9
+  ]
+ ],
+ "shortest_shots_start_len": [
+  [
+   115.98,
+   0.23
+  ],
+  [
+   99.13,
+   0.27
+  ],
+  [
+   18.35,
+   0.27
+  ],
+  [
+   116.22,
+   0.27
+  ]
+ ],
+ "pct_shots_under_1s": 37,
+ "pct_shots_over_3s": 8,
+ "black_holds_start_len": [
+  [
+   119.65,
+   2.57
+  ]
+ ],
+ "cuts_per_10s": {
+  "0-10s": 10,
+  "10-20s": 8,
+  "20-30s": 9,
+  "30-40s": 5,
+  "40-50s": 4,
+  "50-60s": 6,
+  "60-70s": 4,
+  "70-80s": 5,
+  "80-90s": 10,
+  "90-100s": 8,
+  "100-110s": 4,
+  "110-120s": 13,
+  "120-130s": 0
+ },
+ "cut_times_s": [
+  1.034,
+  2.169,
+  2.569,
+  3.237,
+  4.238,
+  4.638,
+  5.5,
+  7.241,
+  8.141,
+  9.51,
+  10.477,
+  11.678,
+  12.813,
+  14.314,
+  18.018,
+  18.352,
+  18.619,
+  19.753,
+  21.088,
+  22.489,
+  22.823,
+  23.957,
+  25.025,
+  25.692,
+  26.6,
+  27.861,
+  29.796,
+  31.899,
+  33.634,
+  35.435,
+  37.471,
+  39.339,
+  42.543,
+  43.977,
+  46.079,
+  48.482,
+  50.217,
+  51.184,
+  52.085,
+  52.953,
+  54.721,
+  59.593,
+  60.961,
+  61.428,
+  62.696,
+  68.001,
+  73.173,
+  75.442,
+  76.8,
+  78.1,
+  79.5,
+  80.614,
+  81.181,
+  81.615,
+  82.082,
+  83.116,
+  83.75,
+  84.551,
+  87.087,
+  88.088,
+  89.389,
+  92.392,
+  94.261,
+  94.995,
+  95.429,
+  96.897,
+  98.832,
+  99.132,
+  99.399,
+  100.734,
+  102.302,
+  106.206,
+  107.207,
+  110.177,
+  110.844,
+  111.678,
+  112.813,
+  114.548,
+  115.048,
+  115.549,
+  115.983,
+  116.216,
+  116.483,
+  117.017,
+  118.285,
+  119.653
+ ],
+ "scene_threshold_sweep": {
+  "0.2": {
+   "n_shots": 76,
+   "asl": 1.61
+  },
+  "0.25": {
+   "n_shots": 73,
+   "asl": 1.67
+  },
+  "0.3": {
+   "n_shots": 71,
+   "asl": 1.72
+  },
+  "0.35": {
+   "n_shots": 66,
+   "asl": 1.85
+  },
+  "0.4": {
+   "n_shots": 65,
+   "asl": 1.88
+  }
+ },
+ "audio": {
+  "integrated_lufs": -16.5,
+  "median_rms_dbfs_50ms": -23.2,
+  "loudest_momentary": -10.3,
+  "loudest_at_s": 71.5,
+  "dropouts_ebu_0.5s_bins": [
+   {
+    "start": 44.0,
+    "end": 45.0,
+    "len": 1.0,
+    "ref": -15.8,
+    "floor": -28.2,
+    "rise_after": 14.1,
+    "next_peak": -14.1
+   },
+   {
+    "start": 119.5,
+    "end": 120.0,
+    "len": 0.5,
+    "ref": -14.8,
+    "floor": -27.8,
+    "rise_after": 2.7,
+    "next_peak": -25.1
+   },
+   {
+    "start": 121.0,
+    "end": 122.5,
+    "len": 1.5,
+    "ref": -21.9,
+    "floor": -83.2,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "gaps_50ms_rms": [
+   {
+    "start": 31.55,
+    "len": 0.5,
+    "ref": -22.1,
+    "floor": -62.9,
+    "next_peak": -15.2,
+    "peak_t": 32.45
+   },
+   {
+    "start": 51.5,
+    "len": 0.25,
+    "ref": -24.0,
+    "floor": -50.0,
+    "next_peak": -15.8,
+    "peak_t": 52.05
+   },
+   {
+    "start": 60.9,
+    "len": 0.15,
+    "ref": -21.9,
+    "floor": -50.7,
+    "next_peak": -12.2,
+    "peak_t": 61.15
+   },
+   {
+    "start": 100.2,
+    "len": 0.25,
+    "ref": -22.9,
+    "floor": -51.8,
+    "next_peak": -16.4,
+    "peak_t": 100.7
+   },
+   {
+    "start": 102.15,
+    "len": 0.15,
+    "ref": -22.6,
+    "floor": -54.2,
+    "next_peak": -15.0,
+    "peak_t": 102.6
+   },
+   {
+    "start": 105.0,
+    "len": 0.25,
+    "ref": -22.0,
+    "floor": -58.4,
+    "next_peak": -14.0,
+    "peak_t": 105.7
+   },
+   {
+    "start": 106.0,
+    "len": 0.15,
+    "ref": -21.1,
+    "floor": -42.1,
+    "next_peak": -12.5,
+    "peak_t": 106.5
+   },
+   {
+    "start": 106.2,
+    "len": 0.25,
+    "ref": -22.5,
+    "floor": -50.6,
+    "next_peak": -12.5,
+    "peak_t": 106.5
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -11.2,
+    27.4,
+    65.85
+   ],
+   [
+    -11.3,
+    25.5,
+    70.8
+   ],
+   [
+    -11.8,
+    28.8,
+    107.2
+   ],
+   [
+    -12.0,
+    24.1,
+    47.75
+   ],
+   [
+    -12.1,
+    21.8,
+    7.65
+   ],
+   [
+    -12.1,
+    15.6,
+    116.5
+   ],
+   [
+    -12.2,
+    38.4,
+    61.15
+   ],
+   [
+    -12.3,
+    25.5,
+    94.25
+   ]
+  ],
+  "beat_sync": "google_mbg26_reveal onsets/s 3.13 cuts on onset (+-0.1s) 71 % vs chance 61 %"
+ },
+ "empty_frame_share": "google_mbg26_reveal: samples 244, letterbox rows 0/36, mostly-empty 23% (on dark 7%, on light 10%), median empty share 49%"
+}

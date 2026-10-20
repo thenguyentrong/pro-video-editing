@@ -1,0 +1,334 @@
+{
+ "name": "mercedes-benz_maybach-s-class",
+ "file": "mercedes-benz_maybach-s-class.webm",
+ "duration_s": 47.321,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 20,
+ "shot_count": 21,
+ "asl_s": 2.25,
+ "median_s": 1.64,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 9.5,
+ "shots_per_minute": 26.6,
+ "asl_quarters_s": [
+  1.48,
+  1.48,
+  1.69,
+  11.83
+ ],
+ "longest": [
+  {
+   "start": 33.2,
+   "len": 14.121
+  },
+  {
+   "start": 12.12,
+   "len": 3.52
+  },
+  {
+   "start": 24.16,
+   "len": 2.52
+  }
+ ],
+ "shortest": [
+  {
+   "start": 18.6,
+   "len": 1.0
+  },
+  {
+   "start": 8.6,
+   "len": 1.04
+  },
+  {
+   "start": 9.64,
+   "len": 1.08
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 6,
+  "10-20": 6,
+  "20-30": 6,
+  "30-40": 2,
+  "40-50": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 19,
+  "only_in_other": [
+   15.04
+  ],
+  "only_in_this": [
+   26.68,
+   27.92
+  ]
+ },
+ "mean_luma": 0.269,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.254
+  },
+  {
+   "t": 6.2,
+   "score": 0.316
+  },
+  {
+   "t": 13.5,
+   "score": 1.049
+  },
+  {
+   "t": 14.9,
+   "score": 2.218
+  },
+  {
+   "t": 32.2,
+   "score": 0.506
+  },
+  {
+   "t": 34.6,
+   "score": 0.96
+  },
+  {
+   "t": 37.3,
+   "score": 0.768
+  },
+  {
+   "t": 39.8,
+   "score": 0.476
+  },
+  {
+   "t": 40.8,
+   "score": 0.444
+  },
+  {
+   "t": 42.9,
+   "score": 2.478
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 1.8,
+   "len": 1.8
+  },
+  {
+   "i": 2,
+   "start": 1.8,
+   "end": 3.52,
+   "len": 1.72
+  },
+  {
+   "i": 3,
+   "start": 3.52,
+   "end": 5.08,
+   "len": 1.56
+  },
+  {
+   "i": 4,
+   "start": 5.08,
+   "end": 7.32,
+   "len": 2.24
+  },
+  {
+   "i": 5,
+   "start": 7.32,
+   "end": 8.6,
+   "len": 1.28
+  },
+  {
+   "i": 6,
+   "start": 8.6,
+   "end": 9.64,
+   "len": 1.04
+  },
+  {
+   "i": 7,
+   "start": 9.64,
+   "end": 10.72,
+   "len": 1.08
+  },
+  {
+   "i": 8,
+   "start": 10.72,
+   "end": 12.12,
+   "len": 1.4
+  },
+  {
+   "i": 9,
+   "start": 12.12,
+   "end": 15.64,
+   "len": 3.52
+  },
+  {
+   "i": 10,
+   "start": 15.64,
+   "end": 17.36,
+   "len": 1.72
+  },
+  {
+   "i": 11,
+   "start": 17.36,
+   "end": 18.6,
+   "len": 1.24
+  },
+  {
+   "i": 12,
+   "start": 18.6,
+   "end": 19.6,
+   "len": 1.0
+  },
+  {
+   "i": 13,
+   "start": 19.6,
+   "end": 21.24,
+   "len": 1.64
+  },
+  {
+   "i": 14,
+   "start": 21.24,
+   "end": 22.52,
+   "len": 1.28
+  },
+  {
+   "i": 15,
+   "start": 22.52,
+   "end": 24.16,
+   "len": 1.64
+  },
+  {
+   "i": 16,
+   "start": 24.16,
+   "end": 26.68,
+   "len": 2.52
+  },
+  {
+   "i": 17,
+   "start": 26.68,
+   "end": 27.92,
+   "len": 1.24
+  },
+  {
+   "i": 18,
+   "start": 27.92,
+   "end": 29.84,
+   "len": 1.92
+  },
+  {
+   "i": 19,
+   "start": 29.84,
+   "end": 31.32,
+   "len": 1.48
+  },
+  {
+   "i": 20,
+   "start": 31.32,
+   "end": 33.2,
+   "len": 1.88
+  },
+  {
+   "i": 21,
+   "start": 33.2,
+   "end": 47.321,
+   "len": 14.121
+  }
+ ],
+ "cuts": [
+  1.8,
+  3.52,
+  5.08,
+  7.32,
+  8.6,
+  9.64,
+  10.72,
+  12.12,
+  15.64,
+  17.36,
+  18.6,
+  19.6,
+  21.24,
+  22.52,
+  24.16,
+  26.68,
+  27.92,
+  29.84,
+  31.32,
+  33.2
+ ],
+ "loudness": {
+  "integrated_lufs": -16.0,
+  "loudness_range_lu": 8.7,
+  "true_peak_dbtp": -1.5
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 44.6,
+    "end": 47.3,
+    "len": 2.7
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 26.05,
+    "level_dbfs": -9.9,
+    "rise_db": 20.7
+   },
+   {
+    "t": 5.1,
+    "level_dbfs": -10.3,
+    "rise_db": 18.9
+   },
+   {
+    "t": 0.55,
+    "level_dbfs": -23.6,
+    "rise_db": 17.3
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -27.7,
+    "rise_db": 30.7
+   },
+   {
+    "t": 26.05,
+    "level_dbfs": -9.9,
+    "rise_db": 20.7
+   },
+   {
+    "t": 5.1,
+    "level_dbfs": -10.3,
+    "rise_db": 18.9
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 38.75,
+   "rms_dbfs": -12.4
+  },
+  "median_rms_dbfs": -20.5
+ },
+ "sync": {
+  "onsets_per_s": 0.3,
+  "cuts_on_onset_pct": 20,
+  "chance_pct": 6,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [15.04] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

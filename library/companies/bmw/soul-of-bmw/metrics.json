@@ -1,0 +1,462 @@
+{
+ "name": "bmw_soul-of-bmw",
+ "file": "bmw_soul-of-bmw.webm",
+ "duration_s": 45.021,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 39,
+ "shot_count": 40,
+ "asl_s": 1.13,
+ "median_s": 0.76,
+ "pct_shots_under_1s": 72.5,
+ "pct_shots_over_3s": 5.0,
+ "shots_per_minute": 53.3,
+ "asl_quarters_s": [
+  1.13,
+  1.02,
+  0.59,
+  3.75
+ ],
+ "longest": [
+  {
+   "start": 35.8,
+   "len": 9.221
+  },
+  {
+   "start": 15.44,
+   "len": 3.56
+  },
+  {
+   "start": 0.0,
+   "len": 2.52
+  }
+ ],
+ "shortest": [
+  {
+   "start": 13.48,
+   "len": 0.32
+  },
+  {
+   "start": 29.96,
+   "len": 0.36
+  },
+  {
+   "start": 30.32,
+   "len": 0.4
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 7,
+  "10-20": 9,
+  "20-30": 13,
+  "30-40": 10,
+  "40-50": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 32,
+  "only_in_other": [
+   30.88
+  ],
+  "only_in_this": [
+   2.52,
+   22.96,
+   23.92,
+   25.52,
+   27.8,
+   28.28,
+   34.28
+  ]
+ },
+ "mean_luma": 0.366,
+ "soft_transition_candidates": [
+  {
+   "t": 3.7,
+   "score": 0.467
+  },
+  {
+   "t": 17.4,
+   "score": 1.925
+  },
+  {
+   "t": 38.0,
+   "score": 0.719
+  },
+  {
+   "t": 40.3,
+   "score": 0.282
+  },
+  {
+   "t": 42.7,
+   "score": 1.314
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.52,
+   "len": 2.52
+  },
+  {
+   "i": 2,
+   "start": 2.52,
+   "end": 4.64,
+   "len": 2.12
+  },
+  {
+   "i": 3,
+   "start": 4.64,
+   "end": 5.76,
+   "len": 1.12
+  },
+  {
+   "i": 4,
+   "start": 5.76,
+   "end": 6.36,
+   "len": 0.6
+  },
+  {
+   "i": 5,
+   "start": 6.36,
+   "end": 7.48,
+   "len": 1.12
+  },
+  {
+   "i": 6,
+   "start": 7.48,
+   "end": 8.4,
+   "len": 0.92
+  },
+  {
+   "i": 7,
+   "start": 8.4,
+   "end": 9.64,
+   "len": 1.24
+  },
+  {
+   "i": 8,
+   "start": 9.64,
+   "end": 10.4,
+   "len": 0.76
+  },
+  {
+   "i": 9,
+   "start": 10.4,
+   "end": 11.2,
+   "len": 0.8
+  },
+  {
+   "i": 10,
+   "start": 11.2,
+   "end": 11.96,
+   "len": 0.76
+  },
+  {
+   "i": 11,
+   "start": 11.96,
+   "end": 12.72,
+   "len": 0.76
+  },
+  {
+   "i": 12,
+   "start": 12.72,
+   "end": 13.48,
+   "len": 0.76
+  },
+  {
+   "i": 13,
+   "start": 13.48,
+   "end": 13.8,
+   "len": 0.32
+  },
+  {
+   "i": 14,
+   "start": 13.8,
+   "end": 14.6,
+   "len": 0.8
+  },
+  {
+   "i": 15,
+   "start": 14.6,
+   "end": 15.44,
+   "len": 0.84
+  },
+  {
+   "i": 16,
+   "start": 15.44,
+   "end": 19.0,
+   "len": 3.56
+  },
+  {
+   "i": 17,
+   "start": 19.0,
+   "end": 20.04,
+   "len": 1.04
+  },
+  {
+   "i": 18,
+   "start": 20.04,
+   "end": 21.4,
+   "len": 1.36
+  },
+  {
+   "i": 19,
+   "start": 21.4,
+   "end": 22.24,
+   "len": 0.84
+  },
+  {
+   "i": 20,
+   "start": 22.24,
+   "end": 22.96,
+   "len": 0.72
+  },
+  {
+   "i": 21,
+   "start": 22.96,
+   "end": 23.92,
+   "len": 0.96
+  },
+  {
+   "i": 22,
+   "start": 23.92,
+   "end": 24.68,
+   "len": 0.76
+  },
+  {
+   "i": 23,
+   "start": 24.68,
+   "end": 25.52,
+   "len": 0.84
+  },
+  {
+   "i": 24,
+   "start": 25.52,
+   "end": 26.44,
+   "len": 0.92
+  },
+  {
+   "i": 25,
+   "start": 26.44,
+   "end": 27.16,
+   "len": 0.72
+  },
+  {
+   "i": 26,
+   "start": 27.16,
+   "end": 27.8,
+   "len": 0.64
+  },
+  {
+   "i": 27,
+   "start": 27.8,
+   "end": 28.28,
+   "len": 0.48
+  },
+  {
+   "i": 28,
+   "start": 28.28,
+   "end": 29.32,
+   "len": 1.04
+  },
+  {
+   "i": 29,
+   "start": 29.32,
+   "end": 29.96,
+   "len": 0.64
+  },
+  {
+   "i": 30,
+   "start": 29.96,
+   "end": 30.32,
+   "len": 0.36
+  },
+  {
+   "i": 31,
+   "start": 30.32,
+   "end": 30.72,
+   "len": 0.4
+  },
+  {
+   "i": 32,
+   "start": 30.72,
+   "end": 31.4,
+   "len": 0.68
+  },
+  {
+   "i": 33,
+   "start": 31.4,
+   "end": 32.0,
+   "len": 0.6
+  },
+  {
+   "i": 34,
+   "start": 32.0,
+   "end": 32.52,
+   "len": 0.52
+  },
+  {
+   "i": 35,
+   "start": 32.52,
+   "end": 32.96,
+   "len": 0.44
+  },
+  {
+   "i": 36,
+   "start": 32.96,
+   "end": 33.36,
+   "len": 0.4
+  },
+  {
+   "i": 37,
+   "start": 33.36,
+   "end": 33.76,
+   "len": 0.4
+  },
+  {
+   "i": 38,
+   "start": 33.76,
+   "end": 34.28,
+   "len": 0.52
+  },
+  {
+   "i": 39,
+   "start": 34.28,
+   "end": 35.8,
+   "len": 1.52
+  },
+  {
+   "i": 40,
+   "start": 35.8,
+   "end": 45.021,
+   "len": 9.221
+  }
+ ],
+ "cuts": [
+  2.52,
+  4.64,
+  5.76,
+  6.36,
+  7.48,
+  8.4,
+  9.64,
+  10.4,
+  11.2,
+  11.96,
+  12.72,
+  13.48,
+  13.8,
+  14.6,
+  15.44,
+  19.0,
+  20.04,
+  21.4,
+  22.24,
+  22.96,
+  23.92,
+  24.68,
+  25.52,
+  26.44,
+  27.16,
+  27.8,
+  28.28,
+  29.32,
+  29.96,
+  30.32,
+  30.72,
+  31.4,
+  32.0,
+  32.52,
+  32.96,
+  33.36,
+  33.76,
+  34.28,
+  35.8
+ ],
+ "loudness": {
+  "integrated_lufs": -7.3,
+  "loudness_range_lu": 4.8,
+  "true_peak_dbtp": 2.1
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 20.8,
+    "level_dbfs": -5.0,
+    "rise_db": 18.0
+   },
+   {
+    "t": 3.45,
+    "level_dbfs": -6.4,
+    "rise_db": 17.3
+   },
+   {
+    "t": 13.1,
+    "level_dbfs": -6.6,
+    "rise_db": 16.1
+   },
+   {
+    "t": 5.15,
+    "level_dbfs": -8.2,
+    "rise_db": 15.6
+   },
+   {
+    "t": 21.85,
+    "level_dbfs": -9.5,
+    "rise_db": 18.7
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 21.45,
+    "level_dbfs": -7.6,
+    "rise_db": 20.6
+   },
+   {
+    "t": 3.45,
+    "level_dbfs": -6.4,
+    "rise_db": 17.3
+   },
+   {
+    "t": 13.1,
+    "level_dbfs": -6.6,
+    "rise_db": 16.1
+   },
+   {
+    "t": 5.15,
+    "level_dbfs": -8.2,
+    "rise_db": 15.6
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 27.95,
+   "rms_dbfs": -7.9
+  },
+  "median_rms_dbfs": -11.0
+ },
+ "sync": {
+  "onsets_per_s": 1.0,
+  "cuts_on_onset_pct": 10,
+  "chance_pct": 20,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [30.88] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 2.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

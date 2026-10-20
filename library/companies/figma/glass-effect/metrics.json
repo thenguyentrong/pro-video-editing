@@ -1,0 +1,263 @@
+{
+ "name": "figma_glass-effect",
+ "file": "figma_glass-effect.mp4",
+ "duration_s": 29.574,
+ "fps": 30.0,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 8,
+ "shot_count": 9,
+ "asl_s": 3.29,
+ "median_s": 3.77,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 66.7,
+ "shots_per_minute": 18.3,
+ "asl_quarters_s": [
+  3.7,
+  2.46,
+  1.48,
+  3.7
+ ],
+ "longest": [
+  {
+   "start": 23.73,
+   "len": 5.844
+  },
+  {
+   "start": 0.0,
+   "len": 3.8
+  },
+  {
+   "start": 3.8,
+   "len": 3.8
+  }
+ ],
+ "shortest": [
+  {
+   "start": 22.0,
+   "len": 1.73
+  },
+  {
+   "start": 20.167,
+   "len": 1.833
+  },
+  {
+   "start": 18.3,
+   "len": 1.867
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 3,
+  "20-30": 3
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 23.73,
+   "len": 5.84
+  }
+ ],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 8,
+  "only_in_other": [
+   7.6,
+   11.4,
+   22.0,
+   23.733
+  ],
+  "only_in_this": []
+ },
+ "mean_luma": 0.185,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.612
+  },
+  {
+   "t": 12.7,
+   "score": 0.257
+  },
+  {
+   "t": 25.2,
+   "score": 0.194
+  },
+  {
+   "t": 26.0,
+   "score": 0.105
+  },
+  {
+   "t": 28.1,
+   "score": 0.204
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.8,
+   "len": 3.8
+  },
+  {
+   "i": 2,
+   "start": 3.8,
+   "end": 7.6,
+   "len": 3.8
+  },
+  {
+   "i": 3,
+   "start": 7.6,
+   "end": 11.4,
+   "len": 3.8
+  },
+  {
+   "i": 4,
+   "start": 11.4,
+   "end": 15.167,
+   "len": 3.767
+  },
+  {
+   "i": 5,
+   "start": 15.167,
+   "end": 18.3,
+   "len": 3.133
+  },
+  {
+   "i": 6,
+   "start": 18.3,
+   "end": 20.167,
+   "len": 1.867
+  },
+  {
+   "i": 7,
+   "start": 20.167,
+   "end": 22.0,
+   "len": 1.833
+  },
+  {
+   "i": 8,
+   "start": 22.0,
+   "end": 23.73,
+   "len": 1.73
+  },
+  {
+   "i": 9,
+   "start": 23.73,
+   "end": 29.574,
+   "len": 5.844
+  }
+ ],
+ "cuts": [
+  3.8,
+  7.6,
+  11.4,
+  15.167,
+  18.3,
+  20.167,
+  22.0,
+  23.73
+ ],
+ "loudness": {
+  "integrated_lufs": -9.0,
+  "loudness_range_lu": 1.2,
+  "true_peak_dbtp": 0.1
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 18.9,
+    "level_dbfs": -4.6,
+    "rise_db": 21.9
+   },
+   {
+    "t": 11.5,
+    "level_dbfs": -4.9,
+    "rise_db": 18.8
+   },
+   {
+    "t": 26.3,
+    "level_dbfs": -5.0,
+    "rise_db": 21.9
+   },
+   {
+    "t": 21.65,
+    "level_dbfs": -5.0,
+    "rise_db": 15.4
+   },
+   {
+    "t": 3.2,
+    "level_dbfs": -5.1,
+    "rise_db": 15.3
+   },
+   {
+    "t": 6.85,
+    "level_dbfs": -5.6,
+    "rise_db": 17.3
+   },
+   {
+    "t": 15.2,
+    "level_dbfs": -5.7,
+    "rise_db": 16.7
+   },
+   {
+    "t": 0.65,
+    "level_dbfs": -6.0,
+    "rise_db": 26.4
+   },
+   {
+    "t": 4.3,
+    "level_dbfs": -6.8,
+    "rise_db": 19.1
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -7.4,
+    "rise_db": 37.6
+   },
+   {
+    "t": 18.9,
+    "level_dbfs": -4.6,
+    "rise_db": 21.9
+   },
+   {
+    "t": 26.3,
+    "level_dbfs": -5.0,
+    "rise_db": 21.9
+   },
+   {
+    "t": 3.95,
+    "level_dbfs": -5.7,
+    "rise_db": 20.2
+   },
+   {
+    "t": 11.5,
+    "level_dbfs": -4.9,
+    "rise_db": 18.8
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 18.7,
+   "rms_dbfs": -6.4
+  },
+  "median_rms_dbfs": -10.4
+ },
+ "sync": {
+  "onsets_per_s": 1.49,
+  "cuts_on_onset_pct": 62,
+  "chance_pct": 29,
+  "tolerance_s": 0.1
+ },
+ "sheets": [],
+ "warnings": [
+  "the adaptive detector also finds cuts at [7.6, 11.4, 22.0, 23.733] s: check them (--cut-sheet) and use --add-cuts",
+  "true peak 0.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

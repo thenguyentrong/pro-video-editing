@@ -1,0 +1,731 @@
+{
+ "name": "wb_obaa_trailer2",
+ "source": {
+  "title": "One Battle After Another | Official Trailer 2",
+  "full_duration_s": "144",
+  "upload_date": "20250724",
+  "channel": "Warner Bros.",
+  "url": "https://www.youtube.com/watch?v=kQUPdVxZNPk",
+  "analysed_resolution": "854x480",
+  "note": "source block rebuilt (the metrics script had split the title on '|')"
+ },
+ "analysed_window_s": [
+  0,
+  141.72
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "241 w:854 h:460 x:0 y:10",
+  "5 w:608 h:312 x:122 y:116",
+  "3 w:694 h:460 x:160 y:10",
+  "2 w:854 h:458 x:0 y:10",
+  "2 w:732 h:460 x:122 y:10",
+  "2 w:690 h:248 x:84 y:114"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 141.72,
+  "shots": 123,
+  "ASL": 1.15,
+  "median": 0.96,
+  "ASL_quarters": [
+   1.48,
+   0.98,
+   0.93,
+   1.27
+  ],
+  "longest": [
+   [
+    0.0,
+    6.42
+   ],
+   [
+    123.0,
+    5.88
+   ],
+   [
+    138.97,
+    2.75
+   ],
+   [
+    128.88,
+    2.71
+   ]
+  ],
+  "shortest": [
+   [
+    104.9,
+    0.38
+   ],
+   [
+    97.39,
+    0.42
+   ],
+   [
+    44.54,
+    0.46
+   ],
+   [
+    15.89,
+    0.5
+   ]
+  ],
+  "pct_under_1s": 52,
+  "pct_over_3s": 2,
+  "black_flashes_lt0.5s": 1,
+  "black_holds": [],
+  "cuts_per_10s": [
+   4,
+   8,
+   8,
+   9,
+   10,
+   9,
+   9,
+   9,
+   11,
+   11,
+   10,
+   11,
+   5,
+   8,
+   0
+  ],
+  "cut_times": [
+   6.423,
+   7.925,
+   8.425,
+   9.426,
+   10.552,
+   12.179,
+   13.013,
+   14.932,
+   15.891,
+   16.391,
+   18.143,
+   18.81,
+   20.103,
+   21.146,
+   21.98,
+   23.273,
+   24.316,
+   25.484,
+   27.527,
+   28.779,
+   31.365,
+   32.532,
+   34.243,
+   35.452,
+   37.079,
+   38.08,
+   38.747,
+   39.414,
+   39.957,
+   42.125,
+   43.585,
+   44.544,
+   45.003,
+   46.129,
+   47.005,
+   47.714,
+   48.382,
+   49.258,
+   49.967,
+   50.676,
+   51.677,
+   52.219,
+   53.512,
+   54.263,
+   55.555,
+   56.473,
+   58.058,
+   59.226,
+   60.06,
+   61.645,
+   64.064,
+   65.482,
+   66.65,
+   67.609,
+   68.11,
+   68.86,
+   69.987,
+   70.654,
+   71.613,
+   72.406,
+   73.365,
+   74.032,
+   76.159,
+   77.119,
+   78.37,
+   79.538,
+   80.747,
+   81.456,
+   82.207,
+   83.542,
+   84.668,
+   85.252,
+   86.044,
+   86.712,
+   87.713,
+   88.714,
+   89.506,
+   90.382,
+   91.008,
+   91.925,
+   93.343,
+   94.469,
+   95.262,
+   96.68,
+   97.389,
+   97.806,
+   98.39,
+   99.558,
+   100.183,
+   100.892,
+   102.394,
+   102.936,
+   103.812,
+   104.896,
+   105.272,
+   106.815,
+   108.066,
+   108.817,
+   110.819,
+   112.863,
+   114.031,
+   114.781,
+   115.532,
+   116.199,
+   116.95,
+   117.659,
+   118.368,
+   119.077,
+   119.786,
+   120.495,
+   121.204,
+   121.913,
+   122.998,
+   128.879,
+   131.59,
+   132.466,
+   133.383,
+   134.509,
+   135.385,
+   136.47,
+   137.4,
+   138.972
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 122,
+   "asl": 1.18
+  },
+  "0.25": {
+   "n_shots": 109,
+   "asl": 1.32
+  },
+  "0.3": {
+   "n_shots": 100,
+   "asl": 1.44
+  },
+  "0.35": {
+   "n_shots": 89,
+   "asl": 1.62
+  },
+  "0.4": {
+   "n_shots": 80,
+   "asl": 1.8
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   0.7,
+   0.526
+  ],
+  [
+   2.4,
+   0.785
+  ],
+  [
+   5.0,
+   0.106
+  ],
+  [
+   33.4,
+   0.919
+  ],
+  [
+   125.0,
+   0.143
+  ],
+  [
+   126.1,
+   0.163
+  ],
+  [
+   129.9,
+   0.399
+  ],
+  [
+   130.5,
+   0.232
+  ],
+  [
+   130.6,
+   0.232
+  ],
+  [
+   137.4,
+   1.192
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   105.3,
+   105.7
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.8,
+  "loudest_t_s": 129.0,
+  "loudest_momentary_lufs": -9.6,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 1.5,
+    "end": 2.0,
+    "len": 0.5,
+    "ref": -25.3,
+    "floor": -37.3,
+    "rise_after": 15.0,
+    "next_peak": -22.3
+   },
+   {
+    "start": 54.0,
+    "end": 54.5,
+    "len": 0.5,
+    "ref": -13.6,
+    "floor": -33.5,
+    "rise_after": 22.1,
+    "next_peak": -11.4
+   },
+   {
+    "start": 124.5,
+    "end": 125.0,
+    "len": 0.5,
+    "ref": -11.7,
+    "floor": -34.6,
+    "rise_after": 16.3,
+    "next_peak": -18.3
+   },
+   {
+    "start": 140.5,
+    "end": 144.5,
+    "len": 4.0,
+    "ref": -12.6,
+    "floor": -153.4,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    22.1,
+    54.5,
+    -11.4
+   ],
+   [
+    21.6,
+    55.0,
+    -11.9
+   ],
+   [
+    20.6,
+    55.5,
+    -12.9
+   ],
+   [
+    16.3,
+    125.0,
+    -18.3
+   ],
+   [
+    15.0,
+    2.5,
+    -22.3
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 10.5,
+    "len": 0.15,
+    "ref": -23.0,
+    "floor": -50.6,
+    "next_peak": -20.4,
+    "peak_t": 10.75
+   },
+   {
+    "start": 27.35,
+    "len": 0.35,
+    "ref": -25.3,
+    "floor": -61.0,
+    "next_peak": -20.3,
+    "peak_t": 28.2
+   },
+   {
+    "start": 53.65,
+    "len": 0.7,
+    "ref": -16.8,
+    "floor": -58.4,
+    "next_peak": -10.7,
+    "peak_t": 54.65
+   },
+   {
+    "start": 64.35,
+    "len": 0.45,
+    "ref": -22.0,
+    "floor": -75.1,
+    "next_peak": -15.2,
+    "peak_t": 65.2
+   },
+   {
+    "start": 66.1,
+    "len": 0.3,
+    "ref": -28.3,
+    "floor": -62.1,
+    "next_peak": -17.2,
+    "peak_t": 66.6
+   },
+   {
+    "start": 107.35,
+    "len": 0.15,
+    "ref": -15.7,
+    "floor": -36.9,
+    "next_peak": -18.4,
+    "peak_t": 107.6
+   },
+   {
+    "start": 124.15,
+    "len": 0.7,
+    "ref": -14.4,
+    "floor": -44.1,
+    "next_peak": -18.2,
+    "peak_t": 125.0
+   },
+   {
+    "start": 125.55,
+    "len": 0.25,
+    "ref": -23.2,
+    "floor": -56.8,
+    "next_peak": -19.9,
+    "peak_t": 125.85
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -8.7,
+    17.8,
+    68.25
+   ],
+   [
+    -10.7,
+    46.3,
+    54.65
+   ],
+   [
+    -10.8,
+    17.6,
+    52.1
+   ],
+   [
+    -11.8,
+    15.2,
+    16.2
+   ],
+   [
+    -13.2,
+    23.0,
+    76.85
+   ],
+   [
+    -13.4,
+    28.2,
+    12.2
+   ],
+   [
+    -14.2,
+    19.0,
+    29.35
+   ],
+   [
+    -15.2,
+    59.8,
+    65.2
+   ],
+   [
+    -15.7,
+    28.9,
+    67.15
+   ],
+   [
+    -16.5,
+    19.8,
+    112.55
+   ],
+   [
+    -16.7,
+    24.4,
+    111.15
+   ],
+   [
+    -17.7,
+    16.3,
+    109.45
+   ],
+   [
+    -17.7,
+    15.1,
+    108.4
+   ],
+   [
+    -18.2,
+    25.9,
+    125.0
+   ],
+   [
+    -18.8,
+    19.1,
+    26.0
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 1.4 cuts on onset (+-0.1s) 34 % vs chance 27 % (recomputed on corrected cuts)",
+ "empty_frame": "mostly-empty 15% (on dark 15%, on light 0%), median empty share 37%",
+ "manual_corrections": "Stats trimmed to 141.72 s (2.4 s trailing black). All cuts2 cuts real on verify pairs. Added 105.65 (out of a 0.38 s black flash) and 137.4 (cut hidden in a whip/fast motion). Final 123 shots.",
+ "manual": {
+  "aspect": "16:9 container, 10 px bars at 480p -> active 854x460 = 1.86:1 (VistaVision 1.85); text cards full-frame black",
+  "analysed_end_s": 141.72,
+  "trailing_black_s": [
+   141.72,
+   144.15
+  ],
+  "sections_s": {
+   "cold_open": [
+    0,
+    31.37
+   ],
+   "wb_logo": [
+    31.37,
+    32.53
+   ],
+   "body": [
+    32.53,
+    114.03
+   ],
+   "name_card_run": [
+    114.03,
+    121.91
+   ],
+   "long_hold": [
+    123.0,
+    128.88
+   ],
+   "title_build": [
+    128.88,
+    131.59
+   ],
+   "button": [
+    131.59,
+    138.97
+   ],
+   "billing": [
+    138.97,
+    141.72
+   ]
+  },
+  "asl_by_section_s": {
+   "cold_open_0_31.4": 1.49,
+   "act1_32.5_79.5": 1.07,
+   "act2_80.8_114": 0.98,
+   "name_cards_114_122": 0.66,
+   "hold_title_button_123_141.7": 1.87
+  },
+  "densest_10s_window": {
+   "start_s": 114,
+   "cuts": 13,
+   "pct_of_runtime": "80-87%"
+  },
+  "metric_grid": "name cards and shots alternate every 17 frames = 0.709 s (cut times 116.95, 117.66, 118.37, 119.08, 119.79, 120.50, 121.20, 121.91); title words also step ~0.71 s apart",
+  "text_cards": [
+   {
+    "words": "WB shield (flat white on black)",
+    "t_in": 31.37,
+    "t_out": 32.53,
+    "on_screen_s": 1.16
+   },
+   {
+    "words": "FROM / PAUL THOMAS / ANDERSON",
+    "t_in": 45.0,
+    "t_out": 46.13,
+    "on_screen_s": 1.13,
+    "in": "hard cut",
+    "out": "hard cut",
+    "cap_height_pct_H": {
+     "FROM": 7.7,
+     "name_lines": 20.8
+    },
+    "width_pct_W": 81
+   },
+   {
+    "words": "THIS / SEPTEMBER",
+    "t_in": 79.54,
+    "t_out": 80.75,
+    "on_screen_s": 1.21,
+    "cap_height_pct_H": 16.5,
+    "width_pct_W": 55
+   },
+   {
+    "words": "SOME SEARCH / FOR BATTLE",
+    "t_in": 91.01,
+    "t_out": 91.92,
+    "on_screen_s": 0.91,
+    "cap_height_pct_H": 16.5,
+    "width_pct_W": 64
+   },
+   {
+    "words": "OTHERS ARE / BORN INTO IT",
+    "t_in": 95.26,
+    "t_out": 96.68,
+    "on_screen_s": 1.42,
+    "cap_height_pct_H": 17.2,
+    "width_pct_W": 68
+   },
+   {
+    "words": "LEONARDO / DICAPRIO",
+    "t_in": 114.03,
+    "t_out": 114.78,
+    "on_screen_s": 0.75,
+    "cap_height_pct_H": 16.4
+   },
+   {
+    "words": "SEAN / PENN",
+    "t_in": 115.53,
+    "t_out": 116.2,
+    "on_screen_s": 0.67
+   },
+   {
+    "words": "BENICIO / DEL TORO",
+    "t_in": 116.95,
+    "t_out": 117.66,
+    "on_screen_s": 0.71
+   },
+   {
+    "words": "REGINA / HALL",
+    "t_in": 118.37,
+    "t_out": 119.08,
+    "on_screen_s": 0.71
+   },
+   {
+    "words": "TEYANA / TAYLOR",
+    "t_in": 119.79,
+    "t_out": 120.5,
+    "on_screen_s": 0.71
+   },
+   {
+    "words": "CHASE / INFINITI",
+    "t_in": 121.2,
+    "t_out": 121.91,
+    "on_screen_s": 0.71
+   },
+   {
+    "words": "ONE BATTLE / AFTER / ANOTHER (built word by word, stair-step left indent)",
+    "t_in": 128.88,
+    "steps_s": [
+     128.88,
+     129.59,
+     130.3
+    ],
+    "t_out": 131.59,
+    "on_screen_s": 2.71,
+    "in": "each line hard-cuts on, no animation",
+    "out": "hard cut to action (button)",
+    "cap_height_pct_H": 22.4,
+    "indent_pct_W": [
+     12,
+     21,
+     33
+    ]
+   },
+   {
+    "words": "ONLY IN THEATERS / SEPTEMBER 26 / SHOT ON VISTAVISION / EXPERIENCE IT IN IMAX",
+    "t_in": 138.97,
+    "t_out": 141.72,
+    "on_screen_s": 2.75,
+    "cap_height_pct_H": [
+     13.8,
+     13.8,
+     6.0,
+     5.8
+    ]
+   }
+  ],
+  "typography": "heavy condensed sans caps with chamfered corners and slightly rough edges, cream #EAEECD on pure black, tight leading (~0.95), normal tracking; closest free match (guess): Big Shoulders Display Black or Anton",
+  "audio_events": [
+   {
+    "t_range": [
+     0,
+     7
+    ],
+    "what": "quiet dialogue open, peaks -22..-41 dBFS, minima near -56"
+   },
+   {
+    "t": 27.35,
+    "what": "0.35 s gap to -61 dBFS, next peak 28.2"
+   },
+   {
+    "t": 53.65,
+    "what": "0.7 s silence (-58 dBFS) as a comic beat after the explosion/three men sitting, then +46 dB hit at 54.65"
+   },
+   {
+    "t": 64.35,
+    "what": "0.45 s silence (-75 dBFS) inside the kitchen dialogue, then +60 dB rise at 65.2; another 0.3 s gap at 66.1"
+   },
+   {
+    "t": 68.25,
+    "what": "loudest single hit -8.7 dBFS on the door explosion (cut 68.11)"
+   },
+   {
+    "t_range": [
+     107,
+     113
+    ],
+    "what": "dialogue valley, peaks -16..-18 dBFS"
+   },
+   {
+    "t_range": [
+     114,
+     122
+    ],
+    "what": "name-card run at -9..-12 dBFS peaks"
+   },
+   {
+    "t": 124.15,
+    "what": "0.7 s gap (-44 dBFS) and 0.25 s gap at 125.55 inside the 5.9 s held shot"
+   },
+   {
+    "t": 128.9,
+    "what": "title slam: loudest 0.5 s of the trailer (-9.6 LUFS M), rise from -33 to -8 dBFS"
+   },
+   {
+    "t_range": [
+     139.5,
+     141.7
+    ],
+    "what": "music cuts out under the billing, -45 dBFS by 141"
+   }
+  ]
+ }
+}

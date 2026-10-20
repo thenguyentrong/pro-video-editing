@@ -1,0 +1,632 @@
+{
+ "name": "a24_civilwar_trailer",
+ "source": {
+  "title": "Civil War | Official Trailer HD | A24",
+  "full_duration_s": "143",
+  "upload_date": "20231213",
+  "channel": "A24",
+  "url": "https://www.youtube.com/watch?v=aDyQxtg0V2w",
+  "analysed_resolution": "854x480"
+ },
+ "analysed_window_s": [
+  0,
+  143.43
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "177 w:854 h:460 x:0 y:10",
+  "4 w:854 h:346 x:0 y:10",
+  "4 w:770 h:388 x:66 y:10",
+  "2 w:854 h:52 x:0 y:218",
+  "2 w:854 h:416 x:0 y:10",
+  "2 w:854 h:382 x:0 y:10"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 143.43,
+  "shots": 106,
+  "ASL": 1.35,
+  "median": 1.04,
+  "ASL_quarters": [
+   1.43,
+   1.12,
+   1.28,
+   1.49
+  ],
+  "longest": [
+   [
+    124.58,
+    7.26
+   ],
+   [
+    78.29,
+    5.25
+   ],
+   [
+    131.84,
+    4.06
+   ],
+   [
+    135.9,
+    3.95
+   ]
+  ],
+  "shortest": [
+   [
+    60.89,
+    0.29
+   ],
+   [
+    61.19,
+    0.46
+   ],
+   [
+    25.78,
+    0.5
+   ],
+   [
+    25.27,
+    0.5
+   ]
+  ],
+  "pct_under_1s": 44,
+  "pct_over_3s": 8,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    26.94,
+    1.5
+   ],
+   [
+    99.85,
+    0.92
+   ],
+   [
+    101.85,
+    0.71
+   ],
+   [
+    103.85,
+    0.79
+   ],
+   [
+    139.85,
+    3.59
+   ]
+  ],
+  "cuts_per_10s": [
+   4,
+   5,
+   10,
+   8,
+   8,
+   9,
+   10,
+   6,
+   4,
+   9,
+   12,
+   10,
+   7,
+   3,
+   0
+  ],
+  "cut_times": [
+   3.17,
+   5.589,
+   7.549,
+   8.717,
+   10.135,
+   11.887,
+   13.68,
+   15.015,
+   18.727,
+   20.437,
+   21.813,
+   23.232,
+   24.149,
+   24.691,
+   25.275,
+   25.776,
+   26.276,
+   26.944,
+   28.445,
+   30.155,
+   32.074,
+   33.617,
+   35.035,
+   35.786,
+   36.495,
+   38.163,
+   38.914,
+   40.457,
+   42.417,
+   44.962,
+   45.754,
+   46.63,
+   47.422,
+   48.882,
+   49.883,
+   50.592,
+   51.218,
+   52.219,
+   53.595,
+   54.763,
+   55.472,
+   56.974,
+   58.35,
+   59.643,
+   60.894,
+   61.186,
+   61.645,
+   62.354,
+   63.397,
+   64.356,
+   65.732,
+   67.109,
+   68.151,
+   69.278,
+   70.737,
+   72.406,
+   74.032,
+   74.783,
+   76.034,
+   78.287,
+   83.542,
+   85.127,
+   87.004,
+   88.38,
+   91.425,
+   91.967,
+   92.884,
+   93.802,
+   94.803,
+   95.721,
+   98.348,
+   99.308,
+   99.85,
+   100.767,
+   101.852,
+   102.561,
+   103.27,
+   103.854,
+   104.646,
+   105.355,
+   106.398,
+   107.107,
+   108.275,
+   108.942,
+   109.86,
+   110.861,
+   111.82,
+   112.946,
+   113.53,
+   114.448,
+   115.324,
+   116.783,
+   117.492,
+   118.41,
+   119.578,
+   120.162,
+   120.829,
+   121.58,
+   122.289,
+   122.831,
+   123.498,
+   124.583,
+   131.84,
+   135.9,
+   139.848
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 97,
+   "asl": 1.48
+  },
+  "0.25": {
+   "n_shots": 88,
+   "asl": 1.63
+  },
+  "0.3": {
+   "n_shots": 80,
+   "asl": 1.79
+  },
+  "0.35": {
+   "n_shots": 75,
+   "asl": 1.91
+  },
+  "0.4": {
+   "n_shots": 66,
+   "asl": 2.17
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   81.1,
+   0.221
+  ],
+  [
+   82.3,
+   0.17
+  ],
+  [
+   126.6,
+   0.608
+  ],
+  [
+   127.9,
+   0.627
+  ],
+  [
+   128.5,
+   0.66
+  ],
+  [
+   136.2,
+   0.266
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   27.1,
+   28.4
+  ],
+  [
+   99.8,
+   100.8
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -17.0,
+  "loudest_t_s": 49.5,
+  "loudest_momentary_lufs": -12.6,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 27.5,
+    "end": 28.5,
+    "len": 1.0,
+    "ref": -13.9,
+    "floor": -40.5,
+    "rise_after": 27.6,
+    "next_peak": -12.9
+   },
+   {
+    "start": 79.0,
+    "end": 80.0,
+    "len": 1.0,
+    "ref": -17.4,
+    "floor": -49.2,
+    "rise_after": 31.5,
+    "next_peak": -17.7
+   },
+   {
+    "start": 80.5,
+    "end": 81.0,
+    "len": 0.5,
+    "ref": -19.9,
+    "floor": -34.2,
+    "rise_after": 16.5,
+    "next_peak": -17.7
+   },
+   {
+    "start": 85.5,
+    "end": 86.0,
+    "len": 0.5,
+    "ref": -29.8,
+    "floor": -47.2,
+    "rise_after": 28.1,
+    "next_peak": -19.1
+   },
+   {
+    "start": 87.5,
+    "end": 90.0,
+    "len": 2.5,
+    "ref": -35.6,
+    "floor": -62.8,
+    "rise_after": 48.0,
+    "next_peak": -14.8
+   },
+   {
+    "start": 141.5,
+    "end": 143.5,
+    "len": 2.0,
+    "ref": -16.2,
+    "floor": -61.7,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    35.3,
+    90.0,
+    -27.5
+   ],
+   [
+    34.3,
+    90.5,
+    -28.5
+   ],
+   [
+    30.7,
+    91.0,
+    -29.7
+   ],
+   [
+    28.1,
+    86.0,
+    -19.1
+   ],
+   [
+    27.6,
+    28.5,
+    -12.9
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 27.45,
+    "len": 0.9,
+    "ref": -19.1,
+    "floor": -81.3,
+    "next_peak": -10.8,
+    "peak_t": 28.55
+   },
+   {
+    "start": 65.15,
+    "len": 0.45,
+    "ref": -19.5,
+    "floor": -41.9,
+    "next_peak": -15.1,
+    "peak_t": 65.8
+   },
+   {
+    "start": 78.5,
+    "len": 1.25,
+    "ref": -23.2,
+    "floor": -54.6,
+    "next_peak": -18.4,
+    "peak_t": 79.95
+   },
+   {
+    "start": 80.1,
+    "len": 0.3,
+    "ref": -29.6,
+    "floor": -57.4,
+    "next_peak": -28.0,
+    "peak_t": 80.9
+   },
+   {
+    "start": 85.35,
+    "len": 0.2,
+    "ref": -31.8,
+    "floor": -51.8,
+    "next_peak": -19.2,
+    "peak_t": 86.0
+   },
+   {
+    "start": 85.65,
+    "len": 0.3,
+    "ref": -32.8,
+    "floor": -57.7,
+    "next_peak": -19.2,
+    "peak_t": 86.0
+   },
+   {
+    "start": 86.35,
+    "len": 0.6,
+    "ref": -35.7,
+    "floor": -66.4,
+    "next_peak": -40.3,
+    "peak_t": 87.0
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -10.8,
+    70.5,
+    28.55
+   ],
+   [
+    -13.1,
+    20.2,
+    76.4
+   ],
+   [
+    -13.8,
+    16.6,
+    60.9
+   ],
+   [
+    -13.9,
+    16.2,
+    35.45
+   ],
+   [
+    -14.1,
+    24.4,
+    34.0
+   ],
+   [
+    -14.6,
+    15.8,
+    121.15
+   ],
+   [
+    -14.7,
+    48.2,
+    91.8
+   ],
+   [
+    -14.8,
+    15.7,
+    53.85
+   ],
+   [
+    -14.9,
+    15.8,
+    45.4
+   ],
+   [
+    -15.0,
+    16.9,
+    40.05
+   ],
+   [
+    -15.1,
+    39.5,
+    81.0
+   ],
+   [
+    -15.1,
+    26.8,
+    65.8
+   ],
+   [
+    -15.1,
+    16.8,
+    47.4
+   ],
+   [
+    -15.6,
+    17.4,
+    74.5
+   ],
+   [
+    -16.5,
+    16.6,
+    55.8
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 1.5 cuts on onset (+-0.1s) 30 % vs chance 29 %",
+ "empty_frame": "mostly-empty 22% (on dark 22%, on light 0%), median empty share 34%",
+ "manual_corrections": "Dropped 0.042 (first frame of black). Added 135.9 (title -> date card cut, verified with 24 fps strip). 126.6/127.9/128.5 soft candidates = one aerial move through smoke, not cuts. All 104 detected cuts checked on verify pairs.",
+ "manual": {
+  "aspect": "1.85:1 inside 16:9 (active picture 854x460 at 480p, 10 px bars top and bottom); cards share the same frame",
+  "beatsync_after_corrections": "cuts on onset (+-0.1 s) 31 % vs chance 29 % -> cuts are NOT placed on music onsets",
+  "text_cards": [
+   {
+    "words": "A24 (red serif logo, rack-focus blur to sharp)",
+    "t_in": 26.94,
+    "t_out": 28.45,
+    "hold": 1.51,
+    "ink_height_pct_H": 15.4,
+    "placement": "centre, inside camera-viewfinder corner marks on a 35 mm negative-edge texture with red specks",
+    "colour": "#DA0006 on #000",
+    "in": "out-of-focus 27.0 -> sharp by 27.4",
+    "out": "hard cut on the hit (+28 LU in 0.5 s bins, -11 dBFS peak 50 ms RMS at 28.5 s)",
+    "audio": "silence -78..-81 dBFS 27.5-28.15 s"
+   },
+   {
+    "words": "WRITTEN AND DIRECTED BY / ALEX GARLAND",
+    "t_in": 36.49,
+    "t_out": 38.16,
+    "hold": 1.67,
+    "ink_height_pct_H": [
+     3.8,
+     5.8
+    ],
+    "placement": "centre, slightly below middle",
+    "colour": "warm tan ~#A39077 on black with brown smoke at the bottom",
+    "tracking": "very wide (~0.3 em)"
+   },
+   {
+    "words": "THE WRITER OF / 28 DAYS LATER / EX MACHINA / ANNIHILATION",
+    "t_in": 42.42,
+    "t_out": 44.96,
+    "hold": 2.54,
+    "ink_height_pct_H": [
+     3.5,
+     5.8,
+     5.6,
+     5.8
+    ],
+    "build": "line 1 at 42.42, line 2 within 42.46-42.96, lines 3-4 within 42.96-43.46 (~0.5 s steps)",
+    "placement": "centre stack"
+   },
+   {
+    "words": "THIS SPRING",
+    "t_in": 91.97,
+    "t_out": 92.88,
+    "hold": 0.91,
+    "ink_height_pct_H": 11.5,
+    "bbox_x_pct": [
+     9.8,
+     90.0
+    ],
+    "note": "music returns 0.2 s before the card after ~4 s of near-silence and gunshots"
+   },
+   {
+    "words": "ALL",
+    "t_in": 99.85,
+    "t_out": 100.77,
+    "hold": 0.92,
+    "ink_height_pct_H": 11.9
+   },
+   {
+    "words": "EMPIRES",
+    "t_in": 101.85,
+    "t_out": 102.56,
+    "hold": 0.71,
+    "ink_height_pct_H": 12.3
+   },
+   {
+    "words": "FALL",
+    "t_in": 103.85,
+    "t_out": 104.65,
+    "hold": 0.8,
+    "ink_height_pct_H": 11.9,
+    "note": "3 one-word cards alternating with 1.08 s and 1.29 s of footage"
+   },
+   {
+    "words": "CIVIL WAR (title)",
+    "t_in": 131.84,
+    "t_out": 135.9,
+    "hold": 4.06,
+    "ink_height_pct_H": 12.1,
+    "bbox_x_pct": [
+     12.5,
+     88.1
+    ],
+    "in": "fade up from black over ~1.2 s",
+    "out": "hard cut to date card",
+    "colour": "#A39077 on smoke + embers"
+   },
+   {
+    "words": "EXPERIENCE IT IN IMAX / SPRING 2024",
+    "t_in": 135.9,
+    "t_out": 139.85,
+    "hold": 3.95,
+    "ink_height_pct_H": [
+     4.6,
+     5.6
+    ]
+   }
+  ],
+  "typeface_guess": "geometric sans caps, semibold, very wide tracking (Gotham / Montserrat SemiBold look-alike) - guess",
+  "transcript_summary": "news-radio VO (0-12 s), dialogue scenes, presidential address, Pledge of Allegiance VO over the climax (111-122 s), 'God bless America' 128.8 s (faster-whisper small)",
+  "sound_events_verified": [
+   {
+    "t": "27.0-28.4",
+    "what": "music cut to digital silence under the A24 logo; hit at 28.5 on the flag cut (+28 LU in 0.5 s bins)"
+   },
+   {
+    "t": "78.5-91.5",
+    "what": "music gone for the 'What kind of American are you?' stand-off; floor -60..-72 dBFS for ~4 s (86.5-90.0); gunshots 90.1 and 91.0; music back at 91.5-91.8 right before THIS SPRING"
+   },
+   {
+    "t": "91.5-140",
+    "what": "wall of music at -14..-16 LUFS momentary, no further drop-outs; title lands without a silence"
+   },
+   {
+    "t": "140-143.4",
+    "what": "fade out over black"
+   }
+  ]
+ }
+}

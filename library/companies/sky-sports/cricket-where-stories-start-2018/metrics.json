@@ -1,0 +1,354 @@
+{
+ "name": "sky-sports_cricket-where-stories-start-2018",
+ "file": "sky_cricket-stories.webm",
+ "duration_s": 40.081,
+ "fps": 25.0,
+ "width": 640,
+ "height": 360,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 24,
+ "shot_count": 25,
+ "asl_s": 1.6,
+ "median_s": 1.0,
+ "pct_shots_under_1s": 48.0,
+ "pct_shots_over_3s": 16.0,
+ "shots_per_minute": 37.4,
+ "asl_quarters_s": [
+  1.67,
+  1.67,
+  1.11,
+  1.43
+ ],
+ "longest": [
+  {
+   "start": 35.4,
+   "len": 4.6
+  },
+  {
+   "start": 23.32,
+   "len": 3.84
+  },
+  {
+   "start": 15.6,
+   "len": 3.56
+  }
+ ],
+ "shortest": [
+  {
+   "start": 40.0,
+   "len": 0.081
+  },
+  {
+   "start": 29.16,
+   "len": 0.48
+  },
+  {
+   "start": 31.16,
+   "len": 0.48
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 5,
+  "20-30": 8,
+  "30-40": 5,
+  "40-50": 1
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 16,
+  "only_in_other": [],
+  "only_in_this": [
+   7.4,
+   15.6,
+   20.96,
+   23.32,
+   27.16,
+   28.52,
+   29.16,
+   35.4
+  ]
+ },
+ "mean_luma": 0.345,
+ "soft_transition_candidates": [
+  {
+   "t": 0.5,
+   "score": 0.158
+  },
+  {
+   "t": 3.5,
+   "score": 0.243
+  },
+  {
+   "t": 6.7,
+   "score": 0.856
+  },
+  {
+   "t": 11.5,
+   "score": 0.522
+  },
+  {
+   "t": 17.3,
+   "score": 0.337
+  },
+  {
+   "t": 34.6,
+   "score": 0.554
+  },
+  {
+   "t": 37.8,
+   "score": 0.437
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 1.64,
+   "len": 1.64
+  },
+  {
+   "i": 2,
+   "start": 1.64,
+   "end": 2.44,
+   "len": 0.8
+  },
+  {
+   "i": 3,
+   "start": 2.44,
+   "end": 5.24,
+   "len": 2.8
+  },
+  {
+   "i": 4,
+   "start": 5.24,
+   "end": 7.4,
+   "len": 2.16
+  },
+  {
+   "i": 5,
+   "start": 7.4,
+   "end": 8.36,
+   "len": 0.96
+  },
+  {
+   "i": 6,
+   "start": 8.36,
+   "end": 10.56,
+   "len": 2.2
+  },
+  {
+   "i": 7,
+   "start": 10.56,
+   "end": 13.88,
+   "len": 3.32
+  },
+  {
+   "i": 8,
+   "start": 13.88,
+   "end": 15.6,
+   "len": 1.72
+  },
+  {
+   "i": 9,
+   "start": 15.6,
+   "end": 19.16,
+   "len": 3.56
+  },
+  {
+   "i": 10,
+   "start": 19.16,
+   "end": 19.96,
+   "len": 0.8
+  },
+  {
+   "i": 11,
+   "start": 19.96,
+   "end": 20.96,
+   "len": 1.0
+  },
+  {
+   "i": 12,
+   "start": 20.96,
+   "end": 21.6,
+   "len": 0.64
+  },
+  {
+   "i": 13,
+   "start": 21.6,
+   "end": 23.32,
+   "len": 1.72
+  },
+  {
+   "i": 14,
+   "start": 23.32,
+   "end": 27.16,
+   "len": 3.84
+  },
+  {
+   "i": 15,
+   "start": 27.16,
+   "end": 27.76,
+   "len": 0.6
+  },
+  {
+   "i": 16,
+   "start": 27.76,
+   "end": 28.52,
+   "len": 0.76
+  },
+  {
+   "i": 17,
+   "start": 28.52,
+   "end": 29.16,
+   "len": 0.64
+  },
+  {
+   "i": 18,
+   "start": 29.16,
+   "end": 29.64,
+   "len": 0.48
+  },
+  {
+   "i": 19,
+   "start": 29.64,
+   "end": 30.6,
+   "len": 0.96
+  },
+  {
+   "i": 20,
+   "start": 30.6,
+   "end": 31.16,
+   "len": 0.56
+  },
+  {
+   "i": 21,
+   "start": 31.16,
+   "end": 31.64,
+   "len": 0.48
+  },
+  {
+   "i": 22,
+   "start": 31.64,
+   "end": 33.32,
+   "len": 1.68
+  },
+  {
+   "i": 23,
+   "start": 33.32,
+   "end": 35.4,
+   "len": 2.08
+  },
+  {
+   "i": 24,
+   "start": 35.4,
+   "end": 40.0,
+   "len": 4.6
+  },
+  {
+   "i": 25,
+   "start": 40.0,
+   "end": 40.081,
+   "len": 0.081
+  }
+ ],
+ "cuts": [
+  1.64,
+  2.44,
+  5.24,
+  7.4,
+  8.36,
+  10.56,
+  13.88,
+  15.6,
+  19.16,
+  19.96,
+  20.96,
+  21.6,
+  23.32,
+  27.16,
+  27.76,
+  28.52,
+  29.16,
+  29.64,
+  30.6,
+  31.16,
+  31.64,
+  33.32,
+  35.4,
+  40.0
+ ],
+ "loudness": {
+  "integrated_lufs": -22.9,
+  "loudness_range_lu": 6.3,
+  "true_peak_dbtp": -10.0
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 0.5,
+    "len": 0.5
+   },
+   {
+    "start": 39.45,
+    "end": 40.05,
+    "len": 0.6
+   }
+  ],
+  "dropouts": [
+   {
+    "start": 13.95,
+    "end": 14.65,
+    "len": 0.7,
+    "level_before_db": -22.7,
+    "floor_db": -50.5,
+    "next_peak_db": -25.4,
+    "next_peak_t": 14.85
+   }
+  ],
+  "hits": [
+   {
+    "t": 0.55,
+    "level_dbfs": -24.5,
+    "rise_db": 95.5
+   },
+   {
+    "t": 14.85,
+    "level_dbfs": -25.4,
+    "rise_db": 24.2
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.55,
+    "level_dbfs": -24.5,
+    "rise_db": 95.5
+   },
+   {
+    "t": 14.85,
+    "level_dbfs": -25.4,
+    "rise_db": 24.2
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 11.4,
+   "rms_dbfs": -21.7
+  },
+  "median_rms_dbfs": -26.4
+ },
+ "sync": {
+  "onsets_per_s": 1.2,
+  "cuts_on_onset_pct": 33,
+  "chance_pct": 24,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": []
+}

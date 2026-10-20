@@ -1,0 +1,330 @@
+{
+ "name": "nothing_ear3_cutthrough",
+ "url": "https://www.youtube.com/watch?v=I4_6S6z2bhY",
+ "duration_s": 45.09,
+ "fps": 25.0,
+ "shots": {
+  "name": "nothing_ear3_cutthrough",
+  "length": 45.08,
+  "shots": 24,
+  "ASL": 1.88,
+  "median": 1.6,
+  "ASL_quarters": [
+   1.61,
+   1.13,
+   2.25,
+   2.25
+  ],
+  "longest": [
+   [
+    25.44,
+    5.76
+   ],
+   [
+    41.08,
+    4.0
+   ],
+   [
+    1.0,
+    3.04
+   ],
+   [
+    33.92,
+    2.88
+   ]
+  ],
+  "shortest": [
+   [
+    20.36,
+    0.4
+   ],
+   [
+    19.88,
+    0.48
+   ],
+   [
+    9.76,
+    0.92
+   ],
+   [
+    0.0,
+    1.0
+   ]
+  ],
+  "pct_under_1s": 12,
+  "pct_over_3s": 12,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    0.0,
+    1.0
+   ],
+   [
+    41.08,
+    4.0
+   ]
+  ]
+ },
+ "cuts_s": [
+  1.0,
+  4.04,
+  6.84,
+  7.96,
+  9.76,
+  10.68,
+  11.68,
+  13.24,
+  14.84,
+  16.36,
+  17.96,
+  19.88,
+  20.36,
+  20.76,
+  22.0,
+  23.32,
+  25.44,
+  31.2,
+  32.2,
+  33.92,
+  36.8,
+  39.36,
+  41.08
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 20,
+   "asl": 2.25
+  },
+  "0.25": {
+   "n_shots": 16,
+   "asl": 2.82
+  },
+  "0.3": {
+   "n_shots": 10,
+   "asl": 4.51
+  },
+  "0.35": {
+   "n_shots": 5,
+   "asl": 9.02
+  },
+  "0.4": {
+   "n_shots": 3,
+   "asl": 15.03
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   5.0,
+   0.498
+  ],
+  [
+   26.4,
+   0.486
+  ],
+  [
+   27.5,
+   0.722
+  ],
+  [
+   31.4,
+   0.834
+  ],
+  [
+   35.0,
+   0.105
+  ]
+ ],
+ "black_dips_s": [],
+ "loudness": {
+  "integrated_lufs": -14.1,
+  "median_dbfs_50ms": -18.1,
+  "dropouts_ebu": [
+   {
+    "start": 25.5,
+    "end": 26.0,
+    "len": 0.5,
+    "ref": -9.6,
+    "floor": -23.6,
+    "rise_after": 11.2,
+    "next_peak": -12.4
+   },
+   {
+    "start": 27.0,
+    "end": 28.0,
+    "len": 1.0,
+    "ref": -13.2,
+    "floor": -36.6,
+    "rise_after": 23.1,
+    "next_peak": -13.5
+   },
+   {
+    "start": 45.0,
+    "end": 45.5,
+    "len": 0.5,
+    "ref": -17.6,
+    "floor": -35.4,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 24.5,
+   "loudest_M": -8.2,
+   "big_hits_near_peak": [
+    [
+     15.2,
+     30.0,
+     -13.0
+    ],
+    [
+     15.2,
+     30.5,
+     -13.0
+    ],
+    [
+     14.7,
+     29.5,
+     -13.5
+    ]
+   ],
+   "biggest_rises": [
+    [
+     141.8,
+     2.0,
+     -21.7
+    ],
+    [
+     141.7,
+     1.5,
+     -21.8
+    ],
+    [
+     140.8,
+     1.0,
+     -22.7
+    ],
+    [
+     21.6,
+     28.0,
+     -15.0
+    ],
+    [
+     18.9,
+     28.5,
+     -17.7
+    ]
+   ]
+  },
+  "gaps_50ms": [
+   {
+    "start": 24.75,
+    "len": 1.05,
+    "ref": -11.5,
+    "floor": -45.9,
+    "next_peak": -13.6,
+    "peak_t": 25.9
+   },
+   {
+    "start": 26.5,
+    "len": 0.9,
+    "ref": -16.5,
+    "floor": -48.0,
+    "next_peak": -15.8,
+    "peak_t": 27.95
+   }
+  ],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -13.6,
+    30.0,
+    25.9
+   ],
+   [
+    -14.7,
+    17.4,
+    29.65
+   ],
+   [
+    -15.8,
+    25.3,
+    27.95
+   ],
+   [
+    -21.1,
+    98.9,
+    1.25
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 0.53,
+  "cuts_on_onset_pct": 23,
+  "chance_pct": 10
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 11,
+  "on_dark_pct": 11,
+  "on_light_pct": 0,
+  "median_empty_share_pct": 46
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 0.98,
+  "segs": [
+   {
+    "s": 18.38,
+    "e": 20.38,
+    "t": "Just working hours ago.",
+    "nsp": 0.03,
+    "lp": -0.31
+   },
+   {
+    "s": 20.38,
+    "e": 22.38,
+    "t": "I've been thinking about you.",
+    "nsp": 0.03,
+    "lp": -0.31
+   },
+   {
+    "s": 22.38,
+    "e": 27.18,
+    "t": "And you hear me now?",
+    "nsp": 0.03,
+    "lp": -0.31
+   },
+   {
+    "s": 27.18,
+    "e": 29.18,
+    "t": "Nice.",
+    "nsp": 0.03,
+    "lp": -0.31
+   },
+   {
+    "s": 29.18,
+    "e": 34.41,
+    "t": "It's great to hear your voice too.",
+    "nsp": 0.03,
+    "lp": -0.31
+   },
+   {
+    "s": 34.41,
+    "e": 37.41,
+    "t": "Actually, let me call you right back.",
+    "nsp": 0.03,
+    "lp": -0.31
+   }
+  ]
+ },
+ "manual_notes": "cuts2 missed a cut at 31.2 (found by soft.py, verified on strip) - added. End cards 41.1-45.1 (4 cards ~1 s each) counted as one black hold. Speech 18-37 s = phone-call dialogue (whisper, en 0.98).",
+ "grade_2fps": {
+  "frames": 90,
+  "median_frame_luma": 31.8,
+  "pct_frames_dark_lt40": 89,
+  "pct_frames_bright_gt170": 0,
+  "median_saturation_pct": 33.1,
+  "p90_saturation_pct": 53.0,
+  "median_R_minus_B": -1.6,
+  "median_contrast_p95_minus_p5": 101.2,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

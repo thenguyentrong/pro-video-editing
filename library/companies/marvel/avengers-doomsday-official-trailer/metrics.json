@@ -1,0 +1,470 @@
+{
+ "name": "m2_doomsday",
+ "source": {
+  "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+  "full_duration_s": "146",
+  "upload_date": "20260720",
+  "channel": "Marvel Entertainment",
+  "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+  "analysed_resolution": "854x480",
+  "note": "source block rebuilt (the metrics script had split the title on '|')"
+ },
+ "analysed_window_s": [
+  0,
+  143.0
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": null,
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 143.0,
+  "shots": 65,
+  "ASL": 2.2,
+  "median": 1.46,
+  "ASL_quarters": [
+   3.25,
+   1.38,
+   1.49,
+   5.11
+  ],
+  "longest": [
+   [
+    118.62,
+    24.38
+   ],
+   [
+    17.1,
+    7.34
+   ],
+   [
+    0.0,
+    6.3
+   ],
+   [
+    24.44,
+    5.42
+   ]
+  ],
+  "shortest": [
+   [
+    53.76,
+    0.33
+   ],
+   [
+    56.64,
+    0.42
+   ],
+   [
+    56.18,
+    0.46
+   ],
+   [
+    95.3,
+    0.5
+   ]
+  ],
+  "pct_under_1s": 17,
+  "pct_over_3s": 11,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    6.3,
+    1.9
+   ],
+   [
+    15.5,
+    1.6
+   ],
+   [
+    99.31,
+    2.69
+   ]
+  ],
+  "cuts_per_10s": [
+   2,
+   4,
+   2,
+   3,
+   8,
+   9,
+   6,
+   5,
+   8,
+   9,
+   2,
+   6,
+   0,
+   0,
+   0
+  ],
+  "cut_times": [
+   6.3,
+   8.2,
+   10.886,
+   12.638,
+   15.5,
+   17.1,
+   24.441,
+   29.863,
+   33.742,
+   35.202,
+   37.6,
+   40.457,
+   41.792,
+   43.126,
+   44.419,
+   45.462,
+   46.797,
+   48.0,
+   48.6,
+   50.926,
+   53.762,
+   54.096,
+   54.805,
+   56.181,
+   56.64,
+   57.057,
+   58.0,
+   59.643,
+   60.644,
+   61.812,
+   63.438,
+   64.523,
+   67.109,
+   69.528,
+   71.363,
+   74.283,
+   75.617,
+   77.744,
+   78.954,
+   80.497,
+   81.832,
+   83.166,
+   84.501,
+   85.669,
+   87.129,
+   88.755,
+   89.798,
+   91.174,
+   92.843,
+   93.635,
+   95.304,
+   95.804,
+   96.305,
+   97.806,
+   98.64,
+   99.308,
+   102.0,
+   106.898,
+   111.82,
+   112.904,
+   113.947,
+   115.073,
+   116.658,
+   118.618
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 47,
+   "asl": 3.1
+  },
+  "0.25": {
+   "n_shots": 37,
+   "asl": 3.94
+  },
+  "0.3": {
+   "n_shots": 30,
+   "asl": 4.86
+  },
+  "0.35": {
+   "n_shots": 21,
+   "asl": 6.94
+  },
+  "0.4": {
+   "n_shots": 17,
+   "asl": 8.58
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   6.3,
+   0.517
+  ],
+  [
+   8.4,
+   1.083
+  ],
+  [
+   26.4,
+   0.991
+  ],
+  [
+   37.0,
+   1.153
+  ],
+  [
+   38.0,
+   1.083
+  ],
+  [
+   47.8,
+   0.734
+  ],
+  [
+   48.6,
+   0.815
+  ],
+  [
+   57.8,
+   0.753
+  ],
+  [
+   102.7,
+   0.782
+  ],
+  [
+   103.7,
+   0.793
+  ],
+  [
+   104.6,
+   0.539
+  ],
+  [
+   105.8,
+   0.957
+  ],
+  [
+   120.4,
+   0.555
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   6.0,
+   8.3
+  ],
+  [
+   37.3,
+   37.9
+  ],
+  [
+   41.8,
+   42.1
+  ],
+  [
+   75.6,
+   75.9
+  ],
+  [
+   99.3,
+   103.0
+  ],
+  [
+   118.6,
+   119.1
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.1,
+  "loudest_t_s": 54.5,
+  "loudest_momentary_lufs": -8.6,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 103.5,
+    "end": 106.0,
+    "len": 2.5,
+    "ref": -22.2,
+    "floor": -44.6,
+    "rise_after": 17.0,
+    "next_peak": -27.6
+   },
+   {
+    "start": 117.0,
+    "end": 117.5,
+    "len": 0.5,
+    "ref": -17.0,
+    "floor": -37.8,
+    "rise_after": 28.3,
+    "next_peak": -9.5
+   },
+   {
+    "start": 136.5,
+    "end": 137.0,
+    "len": 0.5,
+    "ref": -11.8,
+    "floor": -24.3,
+    "rise_after": 5.3,
+    "next_peak": -19.0
+   },
+   {
+    "start": 138.0,
+    "end": 146.0,
+    "len": 8.0,
+    "ref": -20.1,
+    "floor": -82.3,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    28.3,
+    118.5,
+    -9.5
+   ],
+   [
+    25.6,
+    118.0,
+    -12.2
+   ],
+   [
+    23.4,
+    114.5,
+    -15.1
+   ],
+   [
+    22.9,
+    114.0,
+    -15.6
+   ],
+   [
+    20.0,
+    117.5,
+    -17.8
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 117.1,
+    "len": 0.35,
+    "ref": -19.3,
+    "floor": -50.9,
+    "next_peak": -14.6,
+    "peak_t": 118.0
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -8.5,
+    15.7,
+    57.95
+   ],
+   [
+    -10.7,
+    21.4,
+    41.85
+   ],
+   [
+    -10.7,
+    18.1,
+    84.6
+   ],
+   [
+    -12.1,
+    18.9,
+    33.9
+   ],
+   [
+    -12.3,
+    16.7,
+    40.5
+   ],
+   [
+    -14.0,
+    28.3,
+    114.45
+   ],
+   [
+    -14.6,
+    18.2,
+    118.0
+   ],
+   [
+    -14.6,
+    17.3,
+    137.15
+   ],
+   [
+    -16.6,
+    25.7,
+    8.2
+   ],
+   [
+    -24.6,
+    26.7,
+    106.35
+   ],
+   [
+    -28.5,
+    21.0,
+    109.55
+   ],
+   [
+    -36.8,
+    25.8,
+    141.25
+   ]
+  ]
+ },
+ "beatsync": null,
+ "empty_frame": null,
+ "manual_corrections": "reused an earlier analysis; black-hold boundaries added there",
+ "manual": {
+  "reuse_note": "Analysed 19-20 Oct 2026 in an earlier analysis run. Media already deleted, not re-downloaded. Key frames are 320 px crops from the contact sheet (burned-in time label). The vertical cut of the same trailer (avengers-doomsday-trailer-vertical) was downloaded fresh and has 854 px-tall frames.",
+  "aspect": "2.39:1 letterbox inside 16:9",
+  "studio_logos": "Marvel Studios logo 24.4-29.9 s after a 24 s cold open (yellow-orange comic burst 24-25, red flip logo 26-29)",
+  "text_cards": [
+   {
+    "t_in": 118.6,
+    "t_out": 129.5,
+    "words": "MARVEL STUDIOS / AVENGERS / DOOMSDAY",
+    "style": "green light through a window 118.6-120, camera pulls back off giant chrome letters ~120-125, full lockup ~125-129.5; chrome AVENGERS with green rim light, DOOMSDAY in spaced green caps"
+   },
+   {
+    "t_in": 129.5,
+    "t_out": 131.5,
+    "words": "SEE IT IN INFINITY VISION",
+    "style": "iridescent chrome caps"
+   },
+   {
+    "t_in": 131.5,
+    "t_out": 137.5,
+    "words": "12. / 12.18. / 12.18.26 IS / 12.18.26 IS DOOMSDAY",
+    "style": "typed one token per ~1 s, condensed chrome caps, wide tracking, starts left at x~16%",
+    "height_pct_H": "~3.3 (sheet crop, coarse)"
+   },
+   {
+    "t_in": 137.5,
+    "t_out": 143.0,
+    "words": "04 : 27 : 16 : 00 : 00 countdown",
+    "style": "real countdown, seconds tick down once per second, tiny unit labels below"
+   }
+  ],
+  "events": {
+   "black_holds": [
+    [
+     6.3,
+     1.9
+    ],
+    [
+     15.5,
+     1.6
+    ],
+    [
+     99.31,
+     2.69
+    ]
+   ],
+   "closing_scene": "102.0-118.6 s Thor + Steve Rogers scene; sound near-silent 101-114 s (-10 -> -45 LUFS)",
+   "pre_title_gap": "117.1 s, 0.35 s at -51 dBFS",
+   "biggest_hit": "118.0 s, +28 dB; title shot cut 0.6 s later at 118.62",
+   "beatsync": "cuts on onset 34% vs chance 19%"
+  },
+  "timing_note": "sheet tiles show the frame ~0.96 s after their label; times below are from the cut list or corrected for that offset (end-card times +-0.5 s)"
+ }
+}

@@ -1,0 +1,450 @@
+{
+ "name": "lego_nascar_prank",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "Sa01say-CmI",
+  "title": "Pranking a Pro NASCAR Driver 🏎️ #LEGO #Nascar #Prank #Shorts",
+  "upload_date": "20260922",
+  "duration": 37,
+  "view_count": 40635,
+  "like_count": 603,
+  "channel": "LEGO",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/shorts/Sa01say-CmI"
+ },
+ "file": "lg_nascar-prank.mkv",
+ "duration_s": 36.701,
+ "fps": 24.0,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 35,
+ "shot_count": 36,
+ "asl_s": 1.02,
+ "median_s": 0.96,
+ "pct_shots_under_1s": 52.8,
+ "pct_shots_over_3s": 0.0,
+ "shots_per_minute": 58.9,
+ "asl_quarters_s": [
+  1.02,
+  1.02,
+  0.92,
+  0.83
+ ],
+ "longest": [
+  {
+   "start": 16.208,
+   "len": 2.667
+  },
+  {
+   "start": 7.458,
+   "len": 2.334
+  },
+  {
+   "start": 22.083,
+   "len": 2.209
+  }
+ ],
+ "shortest": [
+  {
+   "start": 28.25,
+   "len": 0.25
+  },
+  {
+   "start": 28.833,
+   "len": 0.25
+  },
+  {
+   "start": 28.5,
+   "len": 0.333
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 9,
+  "10-20": 9,
+  "20-30": 12,
+  "30-40": 5
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 35,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.415,
+ "soft_transition_candidates": [
+  {
+   "t": 8.6,
+   "score": 0.442
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 0.958,
+   "len": 0.958
+  },
+  {
+   "i": 2,
+   "start": 0.958,
+   "end": 1.833,
+   "len": 0.875
+  },
+  {
+   "i": 3,
+   "start": 1.833,
+   "end": 2.583,
+   "len": 0.75
+  },
+  {
+   "i": 4,
+   "start": 2.583,
+   "end": 3.083,
+   "len": 0.5
+  },
+  {
+   "i": 5,
+   "start": 3.083,
+   "end": 3.917,
+   "len": 0.834
+  },
+  {
+   "i": 6,
+   "start": 3.917,
+   "end": 4.917,
+   "len": 1.0
+  },
+  {
+   "i": 7,
+   "start": 4.917,
+   "end": 6.417,
+   "len": 1.5
+  },
+  {
+   "i": 8,
+   "start": 6.417,
+   "end": 7.458,
+   "len": 1.041
+  },
+  {
+   "i": 9,
+   "start": 7.458,
+   "end": 9.792,
+   "len": 2.334
+  },
+  {
+   "i": 10,
+   "start": 9.792,
+   "end": 10.667,
+   "len": 0.875
+  },
+  {
+   "i": 11,
+   "start": 10.667,
+   "end": 11.833,
+   "len": 1.166
+  },
+  {
+   "i": 12,
+   "start": 11.833,
+   "end": 12.875,
+   "len": 1.042
+  },
+  {
+   "i": 13,
+   "start": 12.875,
+   "end": 13.667,
+   "len": 0.792
+  },
+  {
+   "i": 14,
+   "start": 13.667,
+   "end": 14.75,
+   "len": 1.083
+  },
+  {
+   "i": 15,
+   "start": 14.75,
+   "end": 15.708,
+   "len": 0.958
+  },
+  {
+   "i": 16,
+   "start": 15.708,
+   "end": 16.208,
+   "len": 0.5
+  },
+  {
+   "i": 17,
+   "start": 16.208,
+   "end": 18.875,
+   "len": 2.667
+  },
+  {
+   "i": 18,
+   "start": 18.875,
+   "end": 19.917,
+   "len": 1.042
+  },
+  {
+   "i": 19,
+   "start": 19.917,
+   "end": 20.917,
+   "len": 1.0
+  },
+  {
+   "i": 20,
+   "start": 20.917,
+   "end": 22.083,
+   "len": 1.166
+  },
+  {
+   "i": 21,
+   "start": 22.083,
+   "end": 24.292,
+   "len": 2.209
+  },
+  {
+   "i": 22,
+   "start": 24.292,
+   "end": 25.0,
+   "len": 0.708
+  },
+  {
+   "i": 23,
+   "start": 25.0,
+   "end": 25.917,
+   "len": 0.917
+  },
+  {
+   "i": 24,
+   "start": 25.917,
+   "end": 26.917,
+   "len": 1.0
+  },
+  {
+   "i": 25,
+   "start": 26.917,
+   "end": 27.375,
+   "len": 0.458
+  },
+  {
+   "i": 26,
+   "start": 27.375,
+   "end": 28.25,
+   "len": 0.875
+  },
+  {
+   "i": 27,
+   "start": 28.25,
+   "end": 28.5,
+   "len": 0.25
+  },
+  {
+   "i": 28,
+   "start": 28.5,
+   "end": 28.833,
+   "len": 0.333
+  },
+  {
+   "i": 29,
+   "start": 28.833,
+   "end": 29.083,
+   "len": 0.25
+  },
+  {
+   "i": 30,
+   "start": 29.083,
+   "end": 29.583,
+   "len": 0.5
+  },
+  {
+   "i": 31,
+   "start": 29.583,
+   "end": 31.125,
+   "len": 1.542
+  },
+  {
+   "i": 32,
+   "start": 31.125,
+   "end": 31.833,
+   "len": 0.708
+  },
+  {
+   "i": 33,
+   "start": 31.833,
+   "end": 33.208,
+   "len": 1.375
+  },
+  {
+   "i": 34,
+   "start": 33.208,
+   "end": 33.875,
+   "len": 0.667
+  },
+  {
+   "i": 35,
+   "start": 33.875,
+   "end": 35.458,
+   "len": 1.583
+  },
+  {
+   "i": 36,
+   "start": 35.458,
+   "end": 36.701,
+   "len": 1.243
+  }
+ ],
+ "cuts": [
+  0.958,
+  1.833,
+  2.583,
+  3.083,
+  3.917,
+  4.917,
+  6.417,
+  7.458,
+  9.792,
+  10.667,
+  11.833,
+  12.875,
+  13.667,
+  14.75,
+  15.708,
+  16.208,
+  18.875,
+  19.917,
+  20.917,
+  22.083,
+  24.292,
+  25.0,
+  25.917,
+  26.917,
+  27.375,
+  28.25,
+  28.5,
+  28.833,
+  29.083,
+  29.583,
+  31.125,
+  31.833,
+  33.208,
+  33.875,
+  35.458
+ ],
+ "loudness": {
+  "integrated_lufs": -13.3,
+  "loudness_range_lu": 4.5,
+  "true_peak_dbtp": 0.4
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 35.9,
+    "level_dbfs": -7.2,
+    "rise_db": 16.2
+   },
+   {
+    "t": 28.55,
+    "level_dbfs": -8.3,
+    "rise_db": 19.8
+   },
+   {
+    "t": 34.3,
+    "level_dbfs": -9.4,
+    "rise_db": 15.9
+   },
+   {
+    "t": 12.05,
+    "level_dbfs": -9.8,
+    "rise_db": 22.1
+   },
+   {
+    "t": 24.55,
+    "level_dbfs": -10.6,
+    "rise_db": 18.7
+   },
+   {
+    "t": 5.35,
+    "level_dbfs": -11.1,
+    "rise_db": 17.0
+   },
+   {
+    "t": 8.95,
+    "level_dbfs": -11.7,
+    "rise_db": 18.4
+   },
+   {
+    "t": 17.8,
+    "level_dbfs": -11.8,
+    "rise_db": 15.4
+   },
+   {
+    "t": 1.35,
+    "level_dbfs": -11.9,
+    "rise_db": 17.8
+   },
+   {
+    "t": 7.05,
+    "level_dbfs": -12.2,
+    "rise_db": 18.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 12.05,
+    "level_dbfs": -9.8,
+    "rise_db": 22.1
+   },
+   {
+    "t": 0.5,
+    "level_dbfs": -15.1,
+    "rise_db": 21.4
+   },
+   {
+    "t": 28.55,
+    "level_dbfs": -8.3,
+    "rise_db": 19.8
+   },
+   {
+    "t": 7.05,
+    "level_dbfs": -12.2,
+    "rise_db": 18.9
+   },
+   {
+    "t": 24.55,
+    "level_dbfs": -10.6,
+    "rise_db": 18.7
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 22.85,
+   "rms_dbfs": -12.2
+  },
+  "median_rms_dbfs": -17.8
+ },
+ "sync": {
+  "onsets_per_s": 2.29,
+  "cuts_on_onset_pct": 49,
+  "chance_pct": 45,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak 0.4 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "name": "dyson_airstrait",
+ "url": "https://www.youtube.com/watch?v=3ucfKv2YbU0",
+ "duration_s": 35.01,
+ "fps": 25.0,
+ "shots": {
+  "name": "dyson_airstrait",
+  "length": 30.0,
+  "shots": 10,
+  "ASL": 3.0,
+  "median": 2.6,
+  "ASL_quarters": [
+   2.5,
+   3.75,
+   1.5,
+   2.5
+  ],
+  "longest": [
+   [
+    5.08,
+    8.0
+   ],
+   [
+    0.0,
+    3.16
+   ],
+   [
+    13.08,
+    3.08
+   ],
+   [
+    24.0,
+    3.0
+   ]
+  ],
+  "shortest": [
+   [
+    22.28,
+    1.72
+   ],
+   [
+    20.4,
+    1.88
+   ],
+   [
+    3.16,
+    1.92
+   ],
+   [
+    18.36,
+    2.04
+   ]
+  ],
+  "pct_under_1s": 0,
+  "pct_over_3s": 30,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "cuts_s": [
+  3.16,
+  5.08,
+  13.08,
+  16.16,
+  18.36,
+  20.4,
+  22.28,
+  24.0,
+  27.0
+ ],
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 9,
+   "asl": 3.89
+  },
+  "0.25": {
+   "n_shots": 8,
+   "asl": 4.38
+  },
+  "0.3": {
+   "n_shots": 7,
+   "asl": 5.0
+  },
+  "0.35": {
+   "n_shots": 6,
+   "asl": 5.84
+  },
+  "0.4": {
+   "n_shots": 5,
+   "asl": 7.0
+  }
+ },
+ "soft_transition_candidates_s": [
+  [
+   1.4,
+   0.189
+  ],
+  [
+   9.3,
+   1.006
+  ],
+  [
+   11.6,
+   0.198
+  ],
+  [
+   14.8,
+   0.17
+  ]
+ ],
+ "black_dips_s": [],
+ "loudness": {
+  "integrated_lufs": -22.8,
+  "median_dbfs_50ms": -30.8,
+  "dropouts_ebu": [
+   {
+    "start": 29.0,
+    "end": 35.5,
+    "len": 6.5,
+    "ref": -33.8,
+    "floor": -162.5,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "hits_ebu": {
+   "loudest_t": 14.0,
+   "loudest_M": -18.0,
+   "big_hits_near_peak": [
+    [
+     78.3,
+     0.5,
+     -20.6
+    ],
+    [
+     78.2,
+     1.0,
+     -20.7
+    ],
+    [
+     77.1,
+     1.5,
+     -21.8
+    ]
+   ],
+   "biggest_rises": [
+    [
+     78.3,
+     0.5,
+     -20.6
+    ],
+    [
+     78.2,
+     1.0,
+     -20.7
+    ],
+    [
+     77.1,
+     1.5,
+     -21.8
+    ],
+    [
+     9.3,
+     17.5,
+     -19.1
+    ],
+    [
+     8.0,
+     6.5,
+     -20.1
+    ]
+   ]
+  },
+  "gaps_50ms": [],
+  "hits_50ms_dbfs_rise_t": [
+   [
+    -21.9,
+    17.4,
+    4.45
+   ],
+   [
+    -21.9,
+    16.1,
+    20.95
+   ],
+   [
+    -22.0,
+    21.1,
+    3.35
+   ],
+   [
+    -22.1,
+    27.2,
+    2.1
+   ],
+   [
+    -22.5,
+    97.5,
+    0.65
+   ],
+   [
+    -40.1,
+    18.0,
+    28.4
+   ]
+  ]
+ },
+ "beatsync": {
+  "onsets_per_s": 1.66,
+  "cuts_on_onset_pct": 30,
+  "chance_pct": 33
+ },
+ "empty_frame": {
+  "mostly_empty_pct": 39,
+  "on_dark_pct": 39,
+  "on_light_pct": 0,
+  "median_empty_share_pct": 40
+ },
+ "speech_whisper_small": {
+  "lang": "en",
+  "lang_p": 0.99,
+  "segs": [
+   {
+    "s": 0.14,
+    "e": 13.14,
+    "t": "Dyson Airstraight dries and straightens simultaneously from wet, not with plates and extreme heat but with high-velocity air that's concentrated into powerful focused airflow.",
+    "nsp": 0.02,
+    "lp": -0.25
+   },
+   {
+    "s": 14.14,
+    "e": 23.14,
+    "t": "To dry and straighten, saving time, maintaining hair strength and creating natural straight styles.",
+    "nsp": 0.02,
+    "lp": -0.25
+   }
+  ]
+ },
+ "manual_notes": "Stats and grade trimmed to 30.0 s (30-35 = black YouTube end screen). 10 cuts verified. 5.08-13.08 one continuous 8 s CG move (airflow x-ray -> hair through the device). Live action graded black-and-white with the product left in colour. VO 0-23 s. Integrated -22.8 LUFS (broadcast).",
+ "grade_2fps": {
+  "frames": 60,
+  "end_s": "30",
+  "median_frame_luma": 86.4,
+  "pct_frames_dark_lt40": 30,
+  "pct_frames_bright_gt170": 0,
+  "median_saturation_pct": 3.0,
+  "p90_saturation_pct": 50.8,
+  "median_R_minus_B": -0.7,
+  "median_contrast_p95_minus_p5": 145.5,
+  "note": "luma 0-255 frame means; saturation = HSV S mean (inflated in very dark frames); R-B = warm(+)/cool(-)"
+ }
+}

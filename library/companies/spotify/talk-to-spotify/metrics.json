@@ -1,0 +1,290 @@
+{
+ "name": "spotify_talk_to_spotify",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "Qf-iBP8X7pI",
+  "title": "Now you can talk to Spotify",
+  "upload_date": "20260714",
+  "duration": 33,
+  "view_count": 5376,
+  "like_count": 115,
+  "channel": "Spotify",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/shorts/Qf-iBP8X7pI"
+ },
+ "caveat": "motion-graphics film with liquid morph transitions: adaptive detector used (10 shots); by eye about 13 scenes, most joined by morphs that no detector counts as cuts",
+ "file": "sp_talk-to-spotify.mkv",
+ "duration_s": 33.181,
+ "fps": 30.0,
+ "width": 480,
+ "height": 854,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 9,
+ "shot_count": 10,
+ "asl_s": 3.32,
+ "median_s": 2.55,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 30.0,
+ "shots_per_minute": 18.1,
+ "asl_quarters_s": [
+  2.77,
+  2.07,
+  2.07,
+  4.15
+ ],
+ "longest": [
+  {
+   "start": 22.467,
+   "len": 5.6
+  },
+  {
+   "start": 0.0,
+   "len": 5.333
+  },
+  {
+   "start": 28.067,
+   "len": 5.114
+  }
+ ],
+ "shortest": [
+  {
+   "start": 12.467,
+   "len": 2.233
+  },
+  {
+   "start": 10.233,
+   "len": 2.234
+  },
+  {
+   "start": 5.333,
+   "len": 2.267
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 2,
+  "10-20": 4,
+  "20-30": 3,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 7,
+  "only_in_other": [],
+  "only_in_this": [
+   10.233,
+   28.067
+  ]
+ },
+ "mean_luma": 0.212,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.764
+  },
+  {
+   "t": 1.4,
+   "score": 1.122
+  },
+  {
+   "t": 3.9,
+   "score": 0.878
+  },
+  {
+   "t": 25.2,
+   "score": 0.536
+  },
+  {
+   "t": 25.8,
+   "score": 0.543
+  },
+  {
+   "t": 26.7,
+   "score": 0.534
+  },
+  {
+   "t": 28.9,
+   "score": 1.024
+  },
+  {
+   "t": 30.3,
+   "score": 0.249
+  },
+  {
+   "t": 31.4,
+   "score": 0.319
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 1.5,
+   "end": 3.8
+  },
+  {
+   "start": 7.6,
+   "end": 7.7
+  },
+  {
+   "start": 22.5,
+   "end": 22.6
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 5.333,
+   "len": 5.333
+  },
+  {
+   "i": 2,
+   "start": 5.333,
+   "end": 7.6,
+   "len": 2.267
+  },
+  {
+   "i": 3,
+   "start": 7.6,
+   "end": 10.233,
+   "len": 2.633
+  },
+  {
+   "i": 4,
+   "start": 10.233,
+   "end": 12.467,
+   "len": 2.234
+  },
+  {
+   "i": 5,
+   "start": 12.467,
+   "end": 14.7,
+   "len": 2.233
+  },
+  {
+   "i": 6,
+   "start": 14.7,
+   "end": 17.133,
+   "len": 2.433
+  },
+  {
+   "i": 7,
+   "start": 17.133,
+   "end": 20.0,
+   "len": 2.867
+  },
+  {
+   "i": 8,
+   "start": 20.0,
+   "end": 22.467,
+   "len": 2.467
+  },
+  {
+   "i": 9,
+   "start": 22.467,
+   "end": 28.067,
+   "len": 5.6
+  },
+  {
+   "i": 10,
+   "start": 28.067,
+   "end": 33.181,
+   "len": 5.114
+  }
+ ],
+ "cuts": [
+  5.333,
+  7.6,
+  10.233,
+  12.467,
+  14.7,
+  17.133,
+  20.0,
+  22.467,
+  28.067
+ ],
+ "loudness": {
+  "integrated_lufs": -12.3,
+  "loudness_range_lu": 7.3,
+  "true_peak_dbtp": 1.1
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 7.15,
+    "level_dbfs": -10.2,
+    "rise_db": 17.2
+   },
+   {
+    "t": 26.05,
+    "level_dbfs": -11.9,
+    "rise_db": 19.7
+   },
+   {
+    "t": 29.6,
+    "level_dbfs": -12.4,
+    "rise_db": 16.6
+   },
+   {
+    "t": 5.8,
+    "level_dbfs": -13.8,
+    "rise_db": 19.2
+   },
+   {
+    "t": 22.7,
+    "level_dbfs": -15.9,
+    "rise_db": 26.6
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 6.75,
+    "level_dbfs": -12.9,
+    "rise_db": 37.5
+   },
+   {
+    "t": 22.6,
+    "level_dbfs": -17.8,
+    "rise_db": 32.6
+   },
+   {
+    "t": 26.05,
+    "level_dbfs": -11.9,
+    "rise_db": 19.7
+   },
+   {
+    "t": 5.6,
+    "level_dbfs": -14.4,
+    "rise_db": 18.6
+   },
+   {
+    "t": 29.6,
+    "level_dbfs": -12.4,
+    "rise_db": 16.6
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 12.7,
+   "rms_dbfs": -11.8
+  },
+  "median_rms_dbfs": -15.8
+ },
+ "sync": {
+  "onsets_per_s": 1.21,
+  "cuts_on_onset_pct": 11,
+  "chance_pct": 24,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "frame/pts count mismatch (995 vs 994); used first 994",
+  "true peak 1.1 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

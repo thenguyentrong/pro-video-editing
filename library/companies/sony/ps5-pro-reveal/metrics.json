@@ -1,0 +1,391 @@
+{
+ "name": "sony_ps5-pro-reveal",
+ "file": "sony_ps5pro.mp4",
+ "duration_s": 64.634,
+ "fps": 30.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 17,
+ "shot_count": 18,
+ "asl_s": 3.59,
+ "median_s": 3.0,
+ "pct_shots_under_1s": 11.1,
+ "pct_shots_over_3s": 50.0,
+ "shots_per_minute": 16.7,
+ "asl_quarters_s": [
+  2.31,
+  3.23,
+  3.23,
+  4.04
+ ],
+ "longest": [
+  {
+   "start": 52.633,
+   "len": 10.0
+  },
+  {
+   "start": 22.333,
+   "len": 7.4
+  },
+  {
+   "start": 34.467,
+   "len": 5.533
+  }
+ ],
+ "shortest": [
+  {
+   "start": 0.0,
+   "len": 0.533
+  },
+  {
+   "start": 21.433,
+   "len": 0.9
+  },
+  {
+   "start": 47.7,
+   "len": 1.767
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 3,
+  "10-20": 4,
+  "20-30": 3,
+  "30-40": 1,
+  "40-50": 4,
+  "50-60": 1,
+  "60-70": 1
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 6,
+  "only_in_other": [],
+  "only_in_this": [
+   4.967,
+   7.8,
+   10.033,
+   13.167,
+   16.033,
+   18.567,
+   21.433,
+   29.733,
+   40.0,
+   43.467,
+   47.7
+  ]
+ },
+ "mean_luma": 0.19,
+ "soft_transition_candidates": [
+  {
+   "t": 2.5,
+   "score": 0.393
+  },
+  {
+   "t": 11.2,
+   "score": 0.334
+  },
+  {
+   "t": 20.0,
+   "score": 0.16
+  },
+  {
+   "t": 25.8,
+   "score": 1.739
+  },
+  {
+   "t": 27.4,
+   "score": 1.659
+  },
+  {
+   "t": 30.8,
+   "score": 0.484
+  },
+  {
+   "t": 31.6,
+   "score": 0.482
+  },
+  {
+   "t": 35.8,
+   "score": 1.645
+  },
+  {
+   "t": 36.6,
+   "score": 1.127
+  },
+  {
+   "t": 38.2,
+   "score": 0.965
+  },
+  {
+   "t": 45.5,
+   "score": 0.795
+  },
+  {
+   "t": 50.9,
+   "score": 0.275
+  },
+  {
+   "t": 55.2,
+   "score": 0.681
+  },
+  {
+   "t": 56.6,
+   "score": 3.481
+  },
+  {
+   "t": 59.1,
+   "score": 0.119
+  },
+  {
+   "t": 63.7,
+   "score": 0.569
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 0.533,
+   "len": 0.533
+  },
+  {
+   "i": 2,
+   "start": 0.533,
+   "end": 4.967,
+   "len": 4.434
+  },
+  {
+   "i": 3,
+   "start": 4.967,
+   "end": 7.8,
+   "len": 2.833
+  },
+  {
+   "i": 4,
+   "start": 7.8,
+   "end": 10.033,
+   "len": 2.233
+  },
+  {
+   "i": 5,
+   "start": 10.033,
+   "end": 13.167,
+   "len": 3.134
+  },
+  {
+   "i": 6,
+   "start": 13.167,
+   "end": 16.033,
+   "len": 2.866
+  },
+  {
+   "i": 7,
+   "start": 16.033,
+   "end": 18.567,
+   "len": 2.534
+  },
+  {
+   "i": 8,
+   "start": 18.567,
+   "end": 21.433,
+   "len": 2.866
+  },
+  {
+   "i": 9,
+   "start": 21.433,
+   "end": 22.333,
+   "len": 0.9
+  },
+  {
+   "i": 10,
+   "start": 22.333,
+   "end": 29.733,
+   "len": 7.4
+  },
+  {
+   "i": 11,
+   "start": 29.733,
+   "end": 34.467,
+   "len": 4.734
+  },
+  {
+   "i": 12,
+   "start": 34.467,
+   "end": 40.0,
+   "len": 5.533
+  },
+  {
+   "i": 13,
+   "start": 40.0,
+   "end": 43.467,
+   "len": 3.467
+  },
+  {
+   "i": 14,
+   "start": 43.467,
+   "end": 47.7,
+   "len": 4.233
+  },
+  {
+   "i": 15,
+   "start": 47.7,
+   "end": 49.467,
+   "len": 1.767
+  },
+  {
+   "i": 16,
+   "start": 49.467,
+   "end": 52.633,
+   "len": 3.166
+  },
+  {
+   "i": 17,
+   "start": 52.633,
+   "end": 62.633,
+   "len": 10.0
+  },
+  {
+   "i": 18,
+   "start": 62.633,
+   "end": 64.634,
+   "len": 2.001
+  }
+ ],
+ "cuts": [
+  0.533,
+  4.967,
+  7.8,
+  10.033,
+  13.167,
+  16.033,
+  18.567,
+  21.433,
+  22.333,
+  29.733,
+  34.467,
+  40.0,
+  43.467,
+  47.7,
+  49.467,
+  52.633,
+  62.633
+ ],
+ "loudness": {
+  "integrated_lufs": -14.0,
+  "loudness_range_lu": 9.3,
+  "true_peak_dbtp": -0.3
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.55,
+    "end": 0.95,
+    "len": 0.4
+   },
+   {
+    "start": 64.25,
+    "end": 64.6,
+    "len": 0.35
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 21.55,
+    "level_dbfs": -8.2,
+    "rise_db": 18.9
+   },
+   {
+    "t": 52.75,
+    "level_dbfs": -8.4,
+    "rise_db": 17.5
+   },
+   {
+    "t": 44.0,
+    "level_dbfs": -9.9,
+    "rise_db": 19.8
+   },
+   {
+    "t": 7.9,
+    "level_dbfs": -12.5,
+    "rise_db": 17.2
+   },
+   {
+    "t": 16.1,
+    "level_dbfs": -13.8,
+    "rise_db": 15.8
+   },
+   {
+    "t": 2.2,
+    "level_dbfs": -14.6,
+    "rise_db": 19.9
+   },
+   {
+    "t": 20.45,
+    "level_dbfs": -18.7,
+    "rise_db": 29.1
+   },
+   {
+    "t": 63.4,
+    "level_dbfs": -21.9,
+    "rise_db": 17.7
+   },
+   {
+    "t": 0.5,
+    "level_dbfs": -38.3,
+    "rise_db": 81.7
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -38.3,
+    "rise_db": 81.7
+   },
+   {
+    "t": 20.45,
+    "level_dbfs": -18.7,
+    "rise_db": 29.1
+   },
+   {
+    "t": 21.5,
+    "level_dbfs": -10.7,
+    "rise_db": 20.0
+   },
+   {
+    "t": 2.2,
+    "level_dbfs": -14.6,
+    "rise_db": 19.9
+   },
+   {
+    "t": 44.0,
+    "level_dbfs": -9.9,
+    "rise_db": 19.8
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 48.9,
+   "rms_dbfs": -9.3
+  },
+  "median_rms_dbfs": -16.8
+ },
+ "sync": {
+  "onsets_per_s": 0.68,
+  "cuts_on_onset_pct": 18,
+  "chance_pct": 14,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak -0.3 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

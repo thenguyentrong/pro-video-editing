@@ -1,0 +1,526 @@
+{
+ "name": "netflix_squidgame3_trailer",
+ "source": {
+  "title": "Squid Game: Season 3 | Official Trailer | Netflix",
+  "full_duration_s": "121",
+  "upload_date": "20250601",
+  "channel": "Netflix",
+  "url": "https://www.youtube.com/watch?v=zgGTVaG2UiQ",
+  "analysed_resolution": "854x480",
+  "note": "source fields fixed by hand (title contains |)"
+ },
+ "analysed_window_s": [
+  0,
+  107.6
+ ],
+ "video": "854x480 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "148 w:854 h:428 x:0 y:26",
+  "27 w:854 h:426 x:0 y:26",
+  "25 w:854 h:480 x:0 y:0",
+  "13 w:854 h:426 x:0 y:28",
+  "7 w:854 h:424 x:0 y:28",
+  "1 w:854 h:20 x:0 y:412"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 107.6,
+  "shots": 89,
+  "ASL": 1.21,
+  "median": 0.92,
+  "ASL_quarters": [
+   1.58,
+   0.84,
+   0.79,
+   2.99
+  ],
+  "longest": [
+   [
+    87.84,
+    6.38
+   ],
+   [
+    95.93,
+    6.26
+   ],
+   [
+    0.0,
+    3.0
+   ],
+   [
+    104.7,
+    2.9
+   ]
+  ],
+  "shortest": [
+   [
+    41.0,
+    0.29
+   ],
+   [
+    37.25,
+    0.33
+   ],
+   [
+    40.67,
+    0.33
+   ],
+   [
+    42.33,
+    0.33
+   ]
+  ],
+  "pct_under_1s": 60,
+  "pct_over_3s": 3,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [],
+  "cuts_per_10s": [
+   6,
+   5,
+   7,
+   12,
+   14,
+   10,
+   12,
+   13,
+   5,
+   2,
+   2
+  ],
+  "cut_times": [
+   3.003,
+   4.421,
+   5.923,
+   6.84,
+   8.425,
+   9.343,
+   11.72,
+   13.805,
+   16.642,
+   18.4,
+   18.894,
+   20.312,
+   21.188,
+   22.731,
+   24.441,
+   24.983,
+   27.611,
+   29.404,
+   31.365,
+   32.157,
+   33.116,
+   33.951,
+   34.826,
+   35.619,
+   36.62,
+   37.246,
+   37.579,
+   38.538,
+   39.248,
+   39.831,
+   40.29,
+   40.666,
+   40.999,
+   41.291,
+   41.625,
+   42.334,
+   42.668,
+   43.043,
+   43.835,
+   44.294,
+   44.67,
+   46.588,
+   47.965,
+   49.967,
+   50.884,
+   52.511,
+   53.595,
+   54.263,
+   55.138,
+   55.973,
+   56.723,
+   57.557,
+   58.183,
+   59.059,
+   60.102,
+   61.061,
+   62.104,
+   62.688,
+   63.605,
+   64.356,
+   64.94,
+   65.524,
+   66.108,
+   67.276,
+   68.694,
+   69.444,
+   70.487,
+   71.405,
+   72.364,
+   72.948,
+   73.448,
+   74.449,
+   74.908,
+   75.45,
+   76.493,
+   76.952,
+   77.578,
+   78.954,
+   79.538,
+   80.122,
+   80.706,
+   83.2,
+   85.585,
+   87.838,
+   94.219,
+   95.929,
+   102.185,
+   104.7
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 66,
+   "asl": 1.83
+  },
+  "0.25": {
+   "n_shots": 51,
+   "asl": 2.37
+  },
+  "0.3": {
+   "n_shots": 30,
+   "asl": 4.03
+  },
+  "0.35": {
+   "n_shots": 20,
+   "asl": 6.04
+  },
+  "0.4": {
+   "n_shots": 15,
+   "asl": 8.06
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   1.4,
+   0.605
+  ],
+  [
+   10.4,
+   0.334
+  ],
+  [
+   14.9,
+   0.551
+  ],
+  [
+   17.4,
+   0.994
+  ],
+  [
+   18.2,
+   1.449
+  ],
+  [
+   25.7,
+   0.679
+  ],
+  [
+   26.5,
+   0.679
+  ],
+  [
+   83.5,
+   3.513
+  ],
+  [
+   86.8,
+   0.313
+  ],
+  [
+   90.1,
+   0.16
+  ],
+  [
+   103.8,
+   0.982
+  ],
+  [
+   105.1,
+   1.313
+  ],
+  [
+   106.4,
+   0.952
+  ],
+  [
+   107.9,
+   1.422
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   18.5,
+   18.9
+  ],
+  [
+   36.5,
+   36.6
+  ],
+  [
+   44.7,
+   45.2
+  ],
+  [
+   83.0,
+   83.2
+  ],
+  [
+   106.7,
+   108.0
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -14.1,
+  "loudest_t_s": 71.0,
+  "loudest_momentary_lufs": -7.4,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 68.0,
+    "end": 68.5,
+    "len": 0.5,
+    "ref": -9.9,
+    "floor": -24.1,
+    "rise_after": 6.3,
+    "next_peak": -17.8
+   },
+   {
+    "start": 82.0,
+    "end": 83.5,
+    "len": 1.5,
+    "ref": -10.4,
+    "floor": -32.3,
+    "rise_after": 19.7,
+    "next_peak": -12.6
+   },
+   {
+    "start": 107.0,
+    "end": 121.0,
+    "len": 14.0,
+    "ref": -25.9,
+    "floor": -148.2,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    27.3,
+    3.0,
+    -10.6
+   ],
+   [
+    22.9,
+    3.5,
+    -10.8
+   ],
+   [
+    19.7,
+    84.0,
+    -12.6
+   ],
+   [
+    15.5,
+    16.5,
+    -11.3
+   ],
+   [
+    15.3,
+    71.0,
+    -7.4
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 47.3,
+    "len": 0.9,
+    "ref": -19.5,
+    "floor": -57.5,
+    "next_peak": -19.4,
+    "peak_t": 48.45
+   },
+   {
+    "start": 68.15,
+    "len": 0.25,
+    "ref": -14.3,
+    "floor": -35.1,
+    "next_peak": -15.6,
+    "peak_t": 68.8
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -8.7,
+    21.2,
+    71.0
+   ],
+   [
+    -9.3,
+    25.4,
+    3.15
+   ],
+   [
+    -10.8,
+    17.7,
+    84.0
+   ],
+   [
+    -10.9,
+    16.5,
+    50.35
+   ],
+   [
+    -11.0,
+    17.6,
+    94.1
+   ],
+   [
+    -11.9,
+    17.1,
+    29.75
+   ],
+   [
+    -12.7,
+    20.2,
+    7.2
+   ],
+   [
+    -15.3,
+    18.0,
+    105.4
+   ],
+   [
+    -15.6,
+    19.5,
+    68.8
+   ],
+   [
+    -17.7,
+    17.1,
+    46.7
+   ],
+   [
+    -19.4,
+    38.2,
+    48.45
+   ],
+   [
+    -21.5,
+    17.5,
+    11.5
+   ],
+   [
+    -41.6,
+    23.8,
+    0.5
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.63 cuts on onset (+-0.1s) 13 % vs chance 12 %",
+ "empty_frame": "mostly-empty 6% (on dark 6%, on light 0%), median empty share 43%",
+ "manual_corrections": "Trimmed to 107.6 s (end screen). All 85 detected cuts confirmed by eye on verify pairs; added 3 soft cuts (18.4 maze-N to flat N, 83.2 fade-up of the pink card, 104.7 date card into N transition). Beatsync after correction: 14 % of cuts on onsets vs 12 % chance.",
+ "manual": {
+  "trimmed_end_s": 107.6,
+  "trim_reason": "107.6-120.85 s is the YouTube end screen (N + SUBSCRIBE)",
+  "letterbox": "2.00:1 inside 16:9 (active ~854x427, bars ~27 px = 5.5% H); cards and end logo also letterboxed",
+  "subtitles": "burned-in English subtitles for Korean dialogue and sung lyrics (with note symbols): white italic sans with soft shadow, ~4% H, centred, baseline ~88-90% H; 37 of 108 one-per-second samples (34%) carry a subtitle, most in 0-30 s (18 of 30)",
+  "corner_bug": {
+   "0-4.4 s": "top-left red vertical rule + 'SQUID GAME: / SEASON 3' white sans, cap ~2.1% H at x5-16%, y10-15%; top-right grey N monogram ~7.5% H",
+   "4.4-95.9 s": "'NETFLIX' wordmark top-right ~4% H (ink 4.8%), x85-95%, y10-15%, semi-transparent light grey; hidden on pink cards"
+  },
+  "n_sting": [
+   {
+    "t_in": 16.64,
+    "t_out": 18.89,
+    "len": 2.25,
+    "where": "after the 16.6 s cold open (sung 'Knock knock / who is there' + 'The game will begin momentarily')",
+    "look": "N built from the show's pink/green Escher stair-maze set with pink light streaks (16.6-18.4), cut to flat red N on black (18.4-18.9); the next line of dialogue's subtitle already appears over the flat N at 18.8"
+   },
+   {
+    "t_in": 104.7,
+    "t_out": 107.6,
+    "len": 2.9,
+    "where": "after the date card",
+    "look": "maze dissolves into pink light bars that form the red N (105.1-105.7), N held on black to 107.3, fade out; audio bump 105.25 s (-30 -> -15 dBFS), likely the ta-dum (guess)"
+   }
+  ],
+  "text_cards": [
+   {
+    "words": "EVERY GAME",
+    "t_in": 71.41,
+    "t_out": 72.36,
+    "hold_s": 0.95,
+    "height_pct_H": 13.5,
+    "placement": "centre, x8-91%",
+    "style": "white wide geometric show-font caps, distressed, on hot-pink grunge texture; starts ~1.4x oversize and settles to 1.0 in ~0.4 s, keeps drifting smaller (settle timed on an 8 fps strip, +-0.13 s)"
+   },
+   {
+    "words": "COMES",
+    "t_in": 73.45,
+    "t_out": 74.45,
+    "hold_s": 1.0,
+    "height_pct_H": "~14",
+    "placement": "centre",
+    "style": "same"
+   },
+   {
+    "words": "TO AN END",
+    "t_in": 75.45,
+    "t_out": 76.49,
+    "hold_s": 1.04,
+    "height_pct_H": "~14",
+    "placement": "centre",
+    "style": "same; between cards: 0.5-0.6 s shots with the countdown dialogue 'One.' 'Two.' 'Three.'"
+   },
+   {
+    "words": "THE FINAL SEASON",
+    "t_in": 83.2,
+    "t_out": 85.58,
+    "hold_s": 2.38,
+    "height_pct_H": "~14 per line, 2 lines",
+    "placement": "centre",
+    "style": "same pink card, fades up from a 0.4 s dip to black"
+   },
+   {
+    "words": "SQUID GAME 3 (A NETFLIX SERIES)",
+    "t_in": 95.93,
+    "t_out": 102.19,
+    "hold_s": 6.26,
+    "height_pct_H": "logo two lines ~15% each; eyebrow ~2%",
+    "placement": "centre-left block",
+    "style": "circle/triangle/square on pink morph into the logo by ~98.4 s, held ~3.8 s"
+   },
+   {
+    "words": "ONLY ON NETFLIX / JUNE 27",
+    "t_in": 102.19,
+    "t_out": 104.7,
+    "hold_s": 2.5,
+    "height_pct_H": "date ~8.3% cap, eyebrow ~3.5%",
+    "placement": "centre",
+    "style": "white sans (bold date, light eyebrow) over a rotating aerial of the stair-maze set"
+   }
+  ],
+  "transitions": "hard cuts almost everywhere; dips to black 44.67-45.2 and 82.8-83.2; shape-morph into the title; maze-to-light-bars into the end N",
+  "audio_events": {
+   "open": "0-2.7 s under -34 dBFS (footsteps), first hit 3.0 s -9 dBFS (+25 dB) on the cut to the doll house + sung lyric",
+   "silence_1": "47.25-48.0 s down to -51 dBFS (0.75 s) before 'I'm playing the game.'",
+   "card_run": "71-81 s loudest block, -8 to -13 dBFS steady",
+   "pre_final_season": "81.75-83.5 s down to -33 dBFS under the dip to black, card hit 83.75 s -11 dBFS (+22 dB)",
+   "outro": "title music -20 to -26 dBFS, fades to -38 under the date card, N bump 105.25 s, silence 107.5"
+  }
+ },
+ "timing_note": "All times come from cut detection, cand.py/ffmpeg -ss frames or audio; strip-timed values are flagged. Contact-sheet tile k shows the frame at ~k+0.96 s."
+}

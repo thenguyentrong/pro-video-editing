@@ -1,0 +1,11 @@
+{
+  "name": "pro-video-editing",
+  "owner": { "name": "thenguyentrong" },
+  "plugins": [
+    {
+      "name": "pro-video-editing",
+      "source": "./",
+      "description": "Professional video editing team: skills + agents for style, script, selects, music, voice, sound, edit and QC."
+    }
+  ]
+}

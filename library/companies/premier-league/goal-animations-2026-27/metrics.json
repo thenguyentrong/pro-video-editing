@@ -1,0 +1,140 @@
+{
+ "name": "premier-league_goal-animations-2026-27",
+ "file": "pl_goal-animations-2627v.mkv",
+ "duration_s": 13.081,
+ "fps": 25.0,
+ "width": 480,
+ "height": 854,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 0,
+ "shot_count": 1,
+ "asl_s": 13.08,
+ "median_s": 13.08,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 100.0,
+ "shots_per_minute": 4.6,
+ "asl_quarters_s": [
+  3.27,
+  3.27,
+  3.27,
+  3.27
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 13.081
+  }
+ ],
+ "shortest": [
+  {
+   "start": 0.0,
+   "len": 13.081
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 0,
+  "10-20": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 0,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.82,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.83
+  },
+  {
+   "t": 1.7,
+   "score": 0.32
+  },
+  {
+   "t": 2.5,
+   "score": 0.285
+  },
+  {
+   "t": 4.5,
+   "score": 0.241
+  },
+  {
+   "t": 5.9,
+   "score": 0.863
+  },
+  {
+   "t": 6.7,
+   "score": 0.798
+  },
+  {
+   "t": 7.9,
+   "score": 0.318
+  },
+  {
+   "t": 8.7,
+   "score": 0.273
+  },
+  {
+   "t": 10.7,
+   "score": 0.236
+  },
+  {
+   "t": 12.1,
+   "score": 0.927
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 13.081,
+   "len": 13.081
+  }
+ ],
+ "cuts": [],
+ "loudness": {
+  "integrated_lufs": -9.0,
+  "loudness_range_lu": 0.5,
+  "true_peak_dbtp": 0.3
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 0.7,
+    "level_dbfs": -5.9,
+    "rise_db": 35.0
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.7,
+    "level_dbfs": -5.9,
+    "rise_db": 35.0
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 4.8,
+   "rms_dbfs": -9.8
+  },
+  "median_rms_dbfs": -13.1
+ },
+ "sync": {
+  "onsets_per_s": 2.68,
+  "cuts_on_onset_pct": null,
+  "chance_pct": null,
+  "note": "no cuts or no onsets"
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "warnings": [
+  "true peak 0.3 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

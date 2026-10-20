@@ -1,0 +1,266 @@
+{
+ "name": "trumpf_blechexpo-2025",
+ "file": "trumpf_blechexpo-2025.mp4",
+ "duration_s": 31.414,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 7,
+ "shot_count": 8,
+ "asl_s": 3.93,
+ "median_s": 3.24,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 62.5,
+ "shots_per_minute": 15.3,
+ "asl_quarters_s": [
+  1.96,
+  2.62,
+  2.62,
+  7.85
+ ],
+ "longest": [
+  {
+   "start": 18.72,
+   "len": 12.694
+  },
+  {
+   "start": 8.92,
+   "len": 4.36
+  },
+  {
+   "start": 13.28,
+   "len": 3.76
+  }
+ ],
+ "shortest": [
+  {
+   "start": 6.48,
+   "len": 1.0
+  },
+  {
+   "start": 7.48,
+   "len": 1.44
+  },
+  {
+   "start": 17.04,
+   "len": 1.68
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 4,
+  "10-20": 3,
+  "20-30": 0,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 6,
+  "only_in_other": [
+   0.96
+  ],
+  "only_in_this": [
+   7.48,
+   17.04
+  ]
+ },
+ "mean_luma": 0.45,
+ "soft_transition_candidates": [
+  {
+   "t": 0.8,
+   "score": 1.025
+  },
+  {
+   "t": 2.2,
+   "score": 1.061
+  },
+  {
+   "t": 4.2,
+   "score": 1.358
+  },
+  {
+   "t": 5.2,
+   "score": 1.655
+  },
+  {
+   "t": 10.6,
+   "score": 1.097
+  },
+  {
+   "t": 15.4,
+   "score": 0.905
+  },
+  {
+   "t": 20.2,
+   "score": 1.273
+  },
+  {
+   "t": 22.3,
+   "score": 0.882
+  },
+  {
+   "t": 23.9,
+   "score": 0.275
+  },
+  {
+   "t": 25.3,
+   "score": 1.015
+  },
+  {
+   "t": 27.9,
+   "score": 7.026
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.32,
+   "len": 3.32
+  },
+  {
+   "i": 2,
+   "start": 3.32,
+   "end": 6.48,
+   "len": 3.16
+  },
+  {
+   "i": 3,
+   "start": 6.48,
+   "end": 7.48,
+   "len": 1.0
+  },
+  {
+   "i": 4,
+   "start": 7.48,
+   "end": 8.92,
+   "len": 1.44
+  },
+  {
+   "i": 5,
+   "start": 8.92,
+   "end": 13.28,
+   "len": 4.36
+  },
+  {
+   "i": 6,
+   "start": 13.28,
+   "end": 17.04,
+   "len": 3.76
+  },
+  {
+   "i": 7,
+   "start": 17.04,
+   "end": 18.72,
+   "len": 1.68
+  },
+  {
+   "i": 8,
+   "start": 18.72,
+   "end": 31.414,
+   "len": 12.694
+  }
+ ],
+ "cuts": [
+  3.32,
+  6.48,
+  7.48,
+  8.92,
+  13.28,
+  17.04,
+  18.72
+ ],
+ "loudness": {
+  "integrated_lufs": -19.2,
+  "loudness_range_lu": 5.3,
+  "true_peak_dbtp": -5.3
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 31.1,
+    "end": 31.4,
+    "len": 0.3
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 8.4,
+    "level_dbfs": -15.6,
+    "rise_db": 15.1
+   },
+   {
+    "t": 12.4,
+    "level_dbfs": -15.8,
+    "rise_db": 19.7
+   },
+   {
+    "t": 22.4,
+    "level_dbfs": -16.7,
+    "rise_db": 17.5
+   },
+   {
+    "t": 20.4,
+    "level_dbfs": -17.4,
+    "rise_db": 15.2
+   },
+   {
+    "t": 27.4,
+    "level_dbfs": -23.1,
+    "rise_db": 15.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 12.4,
+    "level_dbfs": -15.8,
+    "rise_db": 19.7
+   },
+   {
+    "t": 22.4,
+    "level_dbfs": -16.7,
+    "rise_db": 17.5
+   },
+   {
+    "t": 26.4,
+    "level_dbfs": -24.1,
+    "rise_db": 15.9
+   },
+   {
+    "t": 20.4,
+    "level_dbfs": -17.4,
+    "rise_db": 15.2
+   },
+   {
+    "t": 8.4,
+    "level_dbfs": -15.6,
+    "rise_db": 15.1
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 16.35,
+   "rms_dbfs": -21.8
+  },
+  "median_rms_dbfs": -26.0
+ },
+ "sync": {
+  "onsets_per_s": 1.75,
+  "cuts_on_onset_pct": 57,
+  "chance_pct": 35,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the scene detector also finds cuts at [0.96] s: check them (--cut-sheet) and use --add-cuts"
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "name": "patek-philippe_next-chapter",
+ "file": "patek-philippe_next-chapter.webm",
+ "duration_s": 37.041,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 19,
+ "shot_count": 20,
+ "asl_s": 1.85,
+ "median_s": 1.46,
+ "pct_shots_under_1s": 30.0,
+ "pct_shots_over_3s": 5.0,
+ "shots_per_minute": 32.4,
+ "asl_quarters_s": [
+  1.54,
+  1.16,
+  1.16,
+  9.26
+ ],
+ "longest": [
+  {
+   "start": 27.28,
+   "len": 9.761
+  },
+  {
+   "start": 17.68,
+   "len": 2.56
+  },
+  {
+   "start": 0.0,
+   "len": 2.48
+  }
+ ],
+ "shortest": [
+  {
+   "start": 21.88,
+   "len": 0.68
+  },
+  {
+   "start": 21.16,
+   "len": 0.72
+  },
+  {
+   "start": 15.4,
+   "len": 0.76
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 7,
+  "20-30": 7,
+  "30-40": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 19,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.463,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.231
+  },
+  {
+   "t": 18.9,
+   "score": 0.571
+  },
+  {
+   "t": 29.3,
+   "score": 0.104
+  },
+  {
+   "t": 32.6,
+   "score": 0.128
+  },
+  {
+   "t": 33.7,
+   "score": 0.126
+  },
+  {
+   "t": 34.3,
+   "score": 0.132
+  },
+  {
+   "t": 35.3,
+   "score": 0.149
+  },
+  {
+   "t": 36.3,
+   "score": 0.145
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.48,
+   "len": 2.48
+  },
+  {
+   "i": 2,
+   "start": 2.48,
+   "end": 4.4,
+   "len": 1.92
+  },
+  {
+   "i": 3,
+   "start": 4.4,
+   "end": 6.28,
+   "len": 1.88
+  },
+  {
+   "i": 4,
+   "start": 6.28,
+   "end": 7.48,
+   "len": 1.2
+  },
+  {
+   "i": 5,
+   "start": 7.48,
+   "end": 8.96,
+   "len": 1.48
+  },
+  {
+   "i": 6,
+   "start": 8.96,
+   "end": 10.4,
+   "len": 1.44
+  },
+  {
+   "i": 7,
+   "start": 10.4,
+   "end": 12.04,
+   "len": 1.64
+  },
+  {
+   "i": 8,
+   "start": 12.04,
+   "end": 13.6,
+   "len": 1.56
+  },
+  {
+   "i": 9,
+   "start": 13.6,
+   "end": 14.44,
+   "len": 0.84
+  },
+  {
+   "i": 10,
+   "start": 14.44,
+   "end": 15.4,
+   "len": 0.96
+  },
+  {
+   "i": 11,
+   "start": 15.4,
+   "end": 16.16,
+   "len": 0.76
+  },
+  {
+   "i": 12,
+   "start": 16.16,
+   "end": 17.68,
+   "len": 1.52
+  },
+  {
+   "i": 13,
+   "start": 17.68,
+   "end": 20.24,
+   "len": 2.56
+  },
+  {
+   "i": 14,
+   "start": 20.24,
+   "end": 21.16,
+   "len": 0.92
+  },
+  {
+   "i": 15,
+   "start": 21.16,
+   "end": 21.88,
+   "len": 0.72
+  },
+  {
+   "i": 16,
+   "start": 21.88,
+   "end": 22.56,
+   "len": 0.68
+  },
+  {
+   "i": 17,
+   "start": 22.56,
+   "end": 24.72,
+   "len": 2.16
+  },
+  {
+   "i": 18,
+   "start": 24.72,
+   "end": 26.08,
+   "len": 1.36
+  },
+  {
+   "i": 19,
+   "start": 26.08,
+   "end": 27.28,
+   "len": 1.2
+  },
+  {
+   "i": 20,
+   "start": 27.28,
+   "end": 37.041,
+   "len": 9.761
+  }
+ ],
+ "cuts": [
+  2.48,
+  4.4,
+  6.28,
+  7.48,
+  8.96,
+  10.4,
+  12.04,
+  13.6,
+  14.44,
+  15.4,
+  16.16,
+  17.68,
+  20.24,
+  21.16,
+  21.88,
+  22.56,
+  24.72,
+  26.08,
+  27.28
+ ],
+ "loudness": {
+  "integrated_lufs": -16.9,
+  "loudness_range_lu": 7.0,
+  "true_peak_dbtp": -1.1
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 0.5,
+    "level_dbfs": -26.3,
+    "rise_db": 93.7
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.5,
+    "level_dbfs": -26.3,
+    "rise_db": 93.7
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 33.7,
+   "rms_dbfs": -14.2
+  },
+  "median_rms_dbfs": -20.4
+ },
+ "sync": {
+  "onsets_per_s": 0.24,
+  "cuts_on_onset_pct": 0,
+  "chance_pct": 5,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": []
+}

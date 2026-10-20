@@ -1,0 +1,677 @@
+{
+ "name": "econ_nvidia",
+ "source": {
+  "title": "Nvidia is funding an AI boom. Will it trigger a financial crash? | The Economist",
+  "full_duration_s": "439",
+  "upload_date": "20260907",
+  "channel": "The Economist",
+  "url": "https://www.youtube.com/watch?v=VF1JES8Sv5U"
+ },
+ "analysed_window_s": [
+  0,
+  150.0
+ ],
+ "video": "r_frame_rate=0/0",
+ "fps": 25.0,
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 150.0,
+  "shots": 17,
+  "ASL": 8.82,
+  "median": 4.88,
+  "ASL_quarters": [
+   12.5,
+   9.38,
+   9.38,
+   4.17
+  ],
+  "longest": [
+   [
+    56.28,
+    26.52
+   ],
+   [
+    87.68,
+    20.04
+   ],
+   [
+    6.72,
+    18.72
+   ],
+   [
+    41.44,
+    14.84
+   ]
+  ],
+  "shortest": [
+   [
+    149.36,
+    0.64
+   ],
+   [
+    122.36,
+    2.88
+   ],
+   [
+    38.08,
+    3.36
+   ],
+   [
+    135.92,
+    3.84
+   ]
+  ],
+  "pct_under_1s": 6,
+  "pct_over_3s": 88,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [],
+  "cuts_per_10s": [
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   0,
+   0,
+   2,
+   0,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "cut_times": [
+   6.72,
+   25.44,
+   38.08,
+   41.44,
+   56.28,
+   82.8,
+   87.68,
+   107.72,
+   112.6,
+   116.48,
+   122.36,
+   125.24,
+   135.92,
+   139.76,
+   144.6,
+   149.36
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 17,
+   "asl": 8.82
+  },
+  "0.25": {
+   "n_shots": 17,
+   "asl": 8.82
+  },
+  "0.3": {
+   "n_shots": 15,
+   "asl": 10.0
+  },
+  "0.35": {
+   "n_shots": 15,
+   "asl": 10.0
+  },
+  "0.4": {
+   "n_shots": 15,
+   "asl": 10.0
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   0.9,
+   0.203
+  ],
+  [
+   15.3,
+   0.111
+  ],
+  [
+   94.6,
+   0.115
+  ],
+  [
+   105.6,
+   0.1
+  ]
+ ],
+ "dips_to_black_or_white": [],
+ "loudness": {
+  "integrated_lufs": -22.3,
+  "loudest_t_s": 4.5,
+  "loudest_momentary_lufs": -15.2,
+  "dropouts_lufs_0.5s_bins": [],
+  "biggest_rises": [
+   [
+    15.7,
+    136.5,
+    -17.7
+   ],
+   [
+    14.1,
+    136.0,
+    -19.3
+   ],
+   [
+    13.0,
+    102.5,
+    -17.7
+   ],
+   [
+    12.2,
+    117.5,
+    -17.7
+   ],
+   [
+    12.2,
+    118.0,
+    -17.7
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [
+   {
+    "start": 6.05,
+    "len": 0.2,
+    "ref": -34.0,
+    "floor": -66.0,
+    "next_peak": -16.4,
+    "peak_t": 6.3
+   },
+   {
+    "start": 12.0,
+    "len": 0.15,
+    "ref": -25.6,
+    "floor": -59.3,
+    "next_peak": -17.7,
+    "peak_t": 12.2
+   },
+   {
+    "start": 14.75,
+    "len": 0.15,
+    "ref": -24.1,
+    "floor": -48.1,
+    "next_peak": -16.5,
+    "peak_t": 15.15
+   },
+   {
+    "start": 14.95,
+    "len": 0.15,
+    "ref": -24.1,
+    "floor": -53.2,
+    "next_peak": -16.5,
+    "peak_t": 15.15
+   },
+   {
+    "start": 16.0,
+    "len": 0.25,
+    "ref": -24.8,
+    "floor": -54.1,
+    "next_peak": -16.5,
+    "peak_t": 16.3
+   },
+   {
+    "start": 18.7,
+    "len": 0.15,
+    "ref": -27.1,
+    "floor": -65.2,
+    "next_peak": -24.2,
+    "peak_t": 18.9
+   },
+   {
+    "start": 20.8,
+    "len": 0.15,
+    "ref": -28.3,
+    "floor": -66.0,
+    "next_peak": -16.7,
+    "peak_t": 21.0
+   },
+   {
+    "start": 22.25,
+    "len": 0.15,
+    "ref": -27.9,
+    "floor": -63.8,
+    "next_peak": -18.9,
+    "peak_t": 22.45
+   },
+   {
+    "start": 23.2,
+    "len": 0.15,
+    "ref": -27.9,
+    "floor": -54.5,
+    "next_peak": -20.1,
+    "peak_t": 23.75
+   },
+   {
+    "start": 25.35,
+    "len": 0.15,
+    "ref": -27.6,
+    "floor": -59.2,
+    "next_peak": -21.0,
+    "peak_t": 25.65
+   },
+   {
+    "start": 27.25,
+    "len": 0.3,
+    "ref": -26.6,
+    "floor": -56.4,
+    "next_peak": -17.9,
+    "peak_t": 27.8
+   },
+   {
+    "start": 30.15,
+    "len": 0.3,
+    "ref": -26.1,
+    "floor": -57.5,
+    "next_peak": -21.5,
+    "peak_t": 30.5
+   },
+   {
+    "start": 31.45,
+    "len": 0.35,
+    "ref": -27.2,
+    "floor": -66.2,
+    "next_peak": -20.5,
+    "peak_t": 31.95
+   },
+   {
+    "start": 33.9,
+    "len": 0.4,
+    "ref": -27.4,
+    "floor": -64.8,
+    "next_peak": -18.6,
+    "peak_t": 34.7
+   },
+   {
+    "start": 36.7,
+    "len": 0.2,
+    "ref": -30.3,
+    "floor": -57.1,
+    "next_peak": -15.9,
+    "peak_t": 37.25
+   },
+   {
+    "start": 39.75,
+    "len": 0.15,
+    "ref": -28.8,
+    "floor": -62.5,
+    "next_peak": -19.0,
+    "peak_t": 40.0
+   },
+   {
+    "start": 41.65,
+    "len": 0.25,
+    "ref": -29.0,
+    "floor": -57.1,
+    "next_peak": -17.9,
+    "peak_t": 41.95
+   },
+   {
+    "start": 43.1,
+    "len": 0.3,
+    "ref": -28.6,
+    "floor": -66.2,
+    "next_peak": -21.6,
+    "peak_t": 43.5
+   },
+   {
+    "start": 45.1,
+    "len": 0.3,
+    "ref": -27.5,
+    "floor": -60.1,
+    "next_peak": -20.1,
+    "peak_t": 45.8
+   },
+   {
+    "start": 50.65,
+    "len": 0.15,
+    "ref": -30.3,
+    "floor": -58.0,
+    "next_peak": -19.8,
+    "peak_t": 51.2
+   },
+   {
+    "start": 52.05,
+    "len": 0.3,
+    "ref": -26.1,
+    "floor": -61.2,
+    "next_peak": -18.2,
+    "peak_t": 52.75
+   },
+   {
+    "start": 56.2,
+    "len": 0.15,
+    "ref": -29.7,
+    "floor": -60.9,
+    "next_peak": -20.9,
+    "peak_t": 56.8
+   },
+   {
+    "start": 57.0,
+    "len": 0.15,
+    "ref": -29.4,
+    "floor": -57.8,
+    "next_peak": -18.3,
+    "peak_t": 57.2
+   },
+   {
+    "start": 59.75,
+    "len": 0.15,
+    "ref": -27.9,
+    "floor": -62.9,
+    "next_peak": -19.7,
+    "peak_t": 59.95
+   },
+   {
+    "start": 61.6,
+    "len": 0.15,
+    "ref": -31.7,
+    "floor": -60.5,
+    "next_peak": -19.6,
+    "peak_t": 61.8
+   },
+   {
+    "start": 67.6,
+    "len": 0.2,
+    "ref": -28.0,
+    "floor": -66.3,
+    "next_peak": -19.4,
+    "peak_t": 67.85
+   },
+   {
+    "start": 68.5,
+    "len": 0.35,
+    "ref": -27.1,
+    "floor": -65.4,
+    "next_peak": -20.5,
+    "peak_t": 68.9
+   },
+   {
+    "start": 71.1,
+    "len": 0.15,
+    "ref": -29.4,
+    "floor": -57.1,
+    "next_peak": -18.0,
+    "peak_t": 71.5
+   },
+   {
+    "start": 72.4,
+    "len": 0.2,
+    "ref": -29.6,
+    "floor": -62.4,
+    "next_peak": -14.3,
+    "peak_t": 73.05
+   },
+   {
+    "start": 74.45,
+    "len": 0.3,
+    "ref": -25.3,
+    "floor": -59.4,
+    "next_peak": -15.9,
+    "peak_t": 75.3
+   },
+   {
+    "start": 77.7,
+    "len": 0.2,
+    "ref": -28.2,
+    "floor": -65.5,
+    "next_peak": -16.8,
+    "peak_t": 78.05
+   },
+   {
+    "start": 80.35,
+    "len": 0.15,
+    "ref": -27.9,
+    "floor": -68.6,
+    "next_peak": -17.0,
+    "peak_t": 80.75
+   },
+   {
+    "start": 81.75,
+    "len": 0.2,
+    "ref": -29.2,
+    "floor": -61.2,
+    "next_peak": -23.7,
+    "peak_t": 82.05
+   },
+   {
+    "start": 82.55,
+    "len": 0.25,
+    "ref": -30.5,
+    "floor": -120.0,
+    "next_peak": -18.1,
+    "peak_t": 82.9
+   },
+   {
+    "start": 87.35,
+    "len": 0.15,
+    "ref": -28.7,
+    "floor": -65.5,
+    "next_peak": -18.4,
+    "peak_t": 87.95
+   },
+   {
+    "start": 90.75,
+    "len": 0.15,
+    "ref": -23.5,
+    "floor": -65.4,
+    "next_peak": -18.7,
+    "peak_t": 91.15
+   },
+   {
+    "start": 93.5,
+    "len": 0.35,
+    "ref": -24.6,
+    "floor": -61.0,
+    "next_peak": -19.0,
+    "peak_t": 93.95
+   },
+   {
+    "start": 94.75,
+    "len": 0.35,
+    "ref": -26.3,
+    "floor": -63.9,
+    "next_peak": -19.0,
+    "peak_t": 95.2
+   },
+   {
+    "start": 101.95,
+    "len": 0.15,
+    "ref": -30.3,
+    "floor": -56.4,
+    "next_peak": -18.2,
+    "peak_t": 102.5
+   },
+   {
+    "start": 103.9,
+    "len": 0.45,
+    "ref": -31.1,
+    "floor": -70.9,
+    "next_peak": -18.1,
+    "peak_t": 104.4
+   },
+   {
+    "start": 107.3,
+    "len": 0.55,
+    "ref": -27.1,
+    "floor": -67.0,
+    "next_peak": -18.5,
+    "peak_t": 108.25
+   },
+   {
+    "start": 111.75,
+    "len": 0.25,
+    "ref": -26.8,
+    "floor": -59.6,
+    "next_peak": -19.9,
+    "peak_t": 112.1
+   },
+   {
+    "start": 114.3,
+    "len": 0.15,
+    "ref": -26.2,
+    "floor": -59.5,
+    "next_peak": -21.9,
+    "peak_t": 114.85
+   },
+   {
+    "start": 116.35,
+    "len": 0.35,
+    "ref": -31.1,
+    "floor": -120.0,
+    "next_peak": -22.1,
+    "peak_t": 117.15
+   },
+   {
+    "start": 118.15,
+    "len": 0.15,
+    "ref": -33.8,
+    "floor": -62.8,
+    "next_peak": -18.2,
+    "peak_t": 118.75
+   },
+   {
+    "start": 124.2,
+    "len": 0.45,
+    "ref": -34.0,
+    "floor": -69.4,
+    "next_peak": -17.9,
+    "peak_t": 125.15
+   },
+   {
+    "start": 135.8,
+    "len": 0.15,
+    "ref": -35.9,
+    "floor": -65.2,
+    "next_peak": -15.3,
+    "peak_t": 136.2
+   },
+   {
+    "start": 138.45,
+    "len": 0.15,
+    "ref": -27.4,
+    "floor": -58.6,
+    "next_peak": -23.9,
+    "peak_t": 138.85
+   },
+   {
+    "start": 139.75,
+    "len": 0.5,
+    "ref": -27.3,
+    "floor": -57.3,
+    "next_peak": -18.4,
+    "peak_t": 140.6
+   },
+   {
+    "start": 143.5,
+    "len": 0.2,
+    "ref": -25.6,
+    "floor": -63.1,
+    "next_peak": -25.8,
+    "peak_t": 143.85
+   },
+   {
+    "start": 144.0,
+    "len": 0.25,
+    "ref": -26.5,
+    "floor": -56.0,
+    "next_peak": -19.3,
+    "peak_t": 144.3
+   },
+   {
+    "start": 147.25,
+    "len": 0.25,
+    "ref": -27.7,
+    "floor": -67.3,
+    "next_peak": -23.4,
+    "peak_t": 147.7
+   }
+  ],
+  "hits_dbfs_rise_t": [
+   [
+    -14.3,
+    48.0,
+    73.05
+   ],
+   [
+    -15.3,
+    49.9,
+    136.2
+   ],
+   [
+    -15.7,
+    39.2,
+    50.45
+   ],
+   [
+    -15.9,
+    41.2,
+    37.25
+   ],
+   [
+    -16.0,
+    46.6,
+    3.4
+   ],
+   [
+    -16.1,
+    20.4,
+    117.65
+   ],
+   [
+    -16.3,
+    40.5,
+    126.8
+   ],
+   [
+    -16.4,
+    49.6,
+    6.3
+   ],
+   [
+    -16.5,
+    37.6,
+    16.3
+   ],
+   [
+    -16.5,
+    36.7,
+    15.15
+   ],
+   [
+    -16.7,
+    49.3,
+    21.0
+   ],
+   [
+    -16.8,
+    48.6,
+    78.05
+   ],
+   [
+    -16.8,
+    27.3,
+    4.4
+   ],
+   [
+    -16.9,
+    38.4,
+    123.45
+   ],
+   [
+    -17.0,
+    51.6,
+    80.75
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 3.21 cuts on onset (+-0.1s) 62 % vs chance 62 %",
+ "empty_frame": "mostly-empty 8% (on dark 8%, on light 0%), median empty share 33%"
+}

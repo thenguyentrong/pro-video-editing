@@ -1,0 +1,312 @@
+{
+ "name": "sonos_sound-for-how-you-live",
+ "file": "sonos__sound-for-how-you-live.mp4",
+ "duration_s": 70.034,
+ "fps": 24.0,
+ "width": 854,
+ "height": 480,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 1,
+ "shot_count": 2,
+ "asl_s": 35.02,
+ "median_s": 35.02,
+ "pct_shots_under_1s": 0.0,
+ "pct_shots_over_3s": 50.0,
+ "shots_per_minute": 1.7,
+ "asl_quarters_s": [
+  17.51,
+  17.51,
+  17.51,
+  8.75
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 67.083
+  },
+  {
+   "start": 67.083,
+   "len": 2.951
+  }
+ ],
+ "shortest": [
+  {
+   "start": 67.083,
+   "len": 2.951
+  },
+  {
+   "start": 0.0,
+   "len": 67.083
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 0,
+  "10-20": 0,
+  "20-30": 0,
+  "30-40": 0,
+  "40-50": 0,
+  "50-60": 0,
+  "60-70": 1,
+  "70-80": 0
+ },
+ "black_flashes_folded": [],
+ "black_holds": [
+  {
+   "start": 67.08,
+   "len": 2.95
+  }
+ ],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 1,
+  "only_in_other": [],
+  "only_in_this": []
+ },
+ "mean_luma": 0.291,
+ "soft_transition_candidates": [
+  {
+   "t": 0.5,
+   "score": 1.488
+  },
+  {
+   "t": 5.0,
+   "score": 0.539
+  },
+  {
+   "t": 6.4,
+   "score": 2.001
+  },
+  {
+   "t": 11.8,
+   "score": 1.771
+  },
+  {
+   "t": 14.1,
+   "score": 2.03
+  },
+  {
+   "t": 19.4,
+   "score": 1.56
+  },
+  {
+   "t": 21.5,
+   "score": 0.256
+  },
+  {
+   "t": 28.1,
+   "score": 0.991
+  },
+  {
+   "t": 29.0,
+   "score": 1.05
+  },
+  {
+   "t": 32.2,
+   "score": 0.93
+  },
+  {
+   "t": 33.0,
+   "score": 1.0
+  },
+  {
+   "t": 35.6,
+   "score": 0.976
+  },
+  {
+   "t": 38.0,
+   "score": 0.746
+  },
+  {
+   "t": 40.1,
+   "score": 0.939
+  },
+  {
+   "t": 41.0,
+   "score": 1.049
+  },
+  {
+   "t": 42.1,
+   "score": 0.852
+  },
+  {
+   "t": 43.6,
+   "score": 0.611
+  },
+  {
+   "t": 44.7,
+   "score": 0.738
+  },
+  {
+   "t": 45.5,
+   "score": 0.608
+  },
+  {
+   "t": 48.4,
+   "score": 1.125
+  },
+  {
+   "t": 49.1,
+   "score": 0.977
+  },
+  {
+   "t": 53.2,
+   "score": 2.117
+  },
+  {
+   "t": 56.7,
+   "score": 0.539
+  },
+  {
+   "t": 60.0,
+   "score": 2.37
+  },
+  {
+   "t": 63.5,
+   "score": 0.203
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 67.083,
+   "len": 67.083
+  },
+  {
+   "i": 2,
+   "start": 67.083,
+   "end": 70.034,
+   "len": 2.951
+  }
+ ],
+ "cuts": [
+  67.083
+ ],
+ "loudness": {
+  "integrated_lufs": -16.5,
+  "loudness_range_lu": 2.9,
+  "true_peak_dbtp": -2.3
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 67.8,
+    "end": 70.0,
+    "len": 2.2
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 36.05,
+    "level_dbfs": -11.8,
+    "rise_db": 15.6
+   },
+   {
+    "t": 29.7,
+    "level_dbfs": -13.0,
+    "rise_db": 19.3
+   },
+   {
+    "t": 4.05,
+    "level_dbfs": -13.3,
+    "rise_db": 17.6
+   },
+   {
+    "t": 2.9,
+    "level_dbfs": -13.9,
+    "rise_db": 26.3
+   },
+   {
+    "t": 23.6,
+    "level_dbfs": -14.0,
+    "rise_db": 17.3
+   },
+   {
+    "t": 64.65,
+    "level_dbfs": -14.3,
+    "rise_db": 17.9
+   },
+   {
+    "t": 59.2,
+    "level_dbfs": -14.5,
+    "rise_db": 16.2
+   },
+   {
+    "t": 57.25,
+    "level_dbfs": -14.8,
+    "rise_db": 20.7
+   },
+   {
+    "t": 20.35,
+    "level_dbfs": -15.4,
+    "rise_db": 16.4
+   },
+   {
+    "t": 51.3,
+    "level_dbfs": -15.9,
+    "rise_db": 17.2
+   },
+   {
+    "t": 67.3,
+    "level_dbfs": -16.2,
+    "rise_db": 31.3
+   },
+   {
+    "t": 62.95,
+    "level_dbfs": -16.3,
+    "rise_db": 17.5
+   },
+   {
+    "t": 0.75,
+    "level_dbfs": -22.4,
+    "rise_db": 20.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 67.3,
+    "level_dbfs": -16.2,
+    "rise_db": 31.3
+   },
+   {
+    "t": 2.9,
+    "level_dbfs": -13.9,
+    "rise_db": 26.3
+   },
+   {
+    "t": 0.6,
+    "level_dbfs": -22.5,
+    "rise_db": 23.8
+   },
+   {
+    "t": 64.45,
+    "level_dbfs": -16.3,
+    "rise_db": 21.6
+   },
+   {
+    "t": 57.25,
+    "level_dbfs": -14.8,
+    "rise_db": 20.7
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 59.75,
+   "rms_dbfs": -14.9
+  },
+  "median_rms_dbfs": -20.4
+ },
+ "sync": {
+  "onsets_per_s": 2.11,
+  "cuts_on_onset_pct": 100,
+  "chance_pct": 41,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [],
+ "warnings": []
+}

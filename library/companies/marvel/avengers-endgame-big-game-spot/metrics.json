@@ -1,0 +1,289 @@
+{
+ "name": "marvel_endgame_biggame_spot",
+ "source": {
+  "title": "Marvel Studios' Avengers: Endgame - Big Game TV Spot",
+  "full_duration_s": "30",
+  "upload_date": "20190203",
+  "channel": "Marvel Entertainment",
+  "url": "https://www.youtube.com/watch?v=-iFq6IcAxBc",
+  "analysed_resolution": "854x354"
+ },
+ "analysed_window_s": [
+  0,
+  30.03
+ ],
+ "video": "854x354 (480p download), 23.976 fps",
+ "fps": 23.976,
+ "active_picture_cropdetect_2fps_top": [
+  "37 w:854 h:354 x:0 y:0",
+  "1 w:850 h:354 x:0 y:0",
+  "1 w:834 h:354 x:20 y:0",
+  "1 w:822 h:354 x:32 y:0",
+  "1 w:748 h:354 x:106 y:0",
+  "1 w:732 h:354 x:0 y:0"
+ ],
+ "cuts": {
+  "method": "cuts2.py adaptive detector (ratio 3.0, abs 0.25); black flashes folded by stats2.py; spot-checked by eye on verify pairs + sheet",
+  "length": 30.03,
+  "shots": 18,
+  "ASL": 1.67,
+  "median": 1.13,
+  "ASL_quarters": [
+   2.5,
+   1.88,
+   0.75,
+   1.88
+  ],
+  "longest": [
+   [
+    10.59,
+    3.5
+   ],
+   [
+    2.92,
+    3.38
+   ],
+   [
+    24.1,
+    3.26
+   ],
+   [
+    0.0,
+    2.92
+   ]
+  ],
+  "shortest": [
+   [
+    16.77,
+    0.46
+   ],
+   [
+    19.02,
+    0.54
+   ],
+   [
+    16.14,
+    0.63
+   ],
+   [
+    20.31,
+    0.75
+   ]
+  ],
+  "pct_under_1s": 44,
+  "pct_over_3s": 17,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": [
+   [
+    23.11,
+    0.99
+   ],
+   [
+    27.36,
+    2.67
+   ]
+  ],
+  "cuts_per_10s": [
+   3,
+   9,
+   5,
+   0
+  ],
+  "cut_times": [
+   2.92,
+   6.298,
+   8.05,
+   10.594,
+   14.097,
+   15.349,
+   16.141,
+   16.767,
+   17.226,
+   18.018,
+   19.019,
+   19.561,
+   20.312,
+   21.063,
+   23.106,
+   24.1,
+   27.361
+  ]
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 19,
+   "asl": 1.58
+  },
+  "0.25": {
+   "n_shots": 18,
+   "asl": 1.67
+  },
+  "0.3": {
+   "n_shots": 17,
+   "asl": 1.77
+  },
+  "0.35": {
+   "n_shots": 14,
+   "asl": 2.15
+  },
+  "0.4": {
+   "n_shots": 13,
+   "asl": 2.31
+  }
+ },
+ "soft_transitions_dissolve_or_fade": [
+  [
+   4.9,
+   0.307
+  ],
+  [
+   24.7,
+   1.969
+  ]
+ ],
+ "dips_to_black_or_white": [
+  [
+   1.9,
+   2.9
+  ],
+  [
+   23.1,
+   24.4
+  ]
+ ],
+ "loudness": {
+  "integrated_lufs": -13.5,
+  "loudest_t_s": 22.5,
+  "loudest_momentary_lufs": -9.4,
+  "dropouts_lufs_0.5s_bins": [
+   {
+    "start": 2.5,
+    "end": 3.0,
+    "len": 0.5,
+    "ref": -11.5,
+    "floor": -29.1,
+    "rise_after": 16.7,
+    "next_peak": -12.4
+   },
+   {
+    "start": 24.5,
+    "end": 25.5,
+    "len": 1.0,
+    "ref": -10.2,
+    "floor": -34.9,
+    "rise_after": 19.1,
+    "next_peak": -15.8
+   },
+   {
+    "start": 29.5,
+    "end": 30.5,
+    "len": 1.0,
+    "ref": -18.5,
+    "floor": -48.3,
+    "rise_after": 0,
+    "next_peak": null
+   }
+  ],
+  "biggest_rises": [
+   [
+    17.0,
+    26.0,
+    -17.9
+   ],
+   [
+    16.7,
+    3.0,
+    -12.4
+   ],
+   [
+    14.2,
+    3.5,
+    -14.9
+   ],
+   [
+    14.1,
+    25.5,
+    -20.8
+   ],
+   [
+    13.8,
+    1.0,
+    -9.5
+   ]
+  ]
+ },
+ "audio_50ms": {
+  "gaps_silences": [],
+  "hits_dbfs_rise_t": [
+   [
+    -13.0,
+    30.7,
+    27.4
+   ],
+   [
+    -15.4,
+    18.1,
+    4.7
+   ],
+   [
+    -15.5,
+    34.4,
+    3.0
+   ],
+   [
+    -15.7,
+    16.0,
+    6.4
+   ],
+   [
+    -15.8,
+    18.9,
+    0.7
+   ],
+   [
+    -17.1,
+    17.5,
+    12.9
+   ],
+   [
+    -20.1,
+    17.6,
+    25.8
+   ]
+  ]
+ },
+ "beatsync": "onsets/s 0.9 cuts on onset (+-0.1s) 27 % vs chance 19 %",
+ "empty_frame": "mostly-empty 35% (on dark 30%, on light 0%), median empty share 63%",
+ "manual_corrections": "stats2: extra 24.1, drop 0.17,0.29,0.83,14.39,14.6,15.14",
+ "manual": {
+  "aspect": "file is 1920x798 (2.41:1, no bars in the file)",
+  "corrections": "dropped 0.17/0.29/0.83 (panels inside the Marvel Studios flip logo) and 14.39/14.60/15.14 (light flicker inside one ship shot); added 24.1 (fade-up out of black)",
+  "text_cards": [
+   {
+    "t_in": 0.0,
+    "t_out": 2.92,
+    "words": "MARVEL STUDIOS logo; 'MARVEL' disintegrates into dust ~1.5-2.9 s"
+   },
+   {
+    "t_in": 8.05,
+    "t_out": 10.59,
+    "hold": 2.54,
+    "words": "WHERE DO WE GO, NOW THAT THEY'RE GONE?",
+    "style": "diegetic: a support-group poster in the set, 5 lines, condensed sans caps"
+   },
+   {
+    "t_in": 27.36,
+    "t_out": 30.0,
+    "words": "Avengers A + APRIL, #AvengersEndgame, NOT YET RATED",
+    "style": "purple glow, extended italic caps, on black"
+   }
+  ],
+  "events": {
+   "montage": "14.1-23.1 s: 11 shots in 9 s (ASL 0.82 s), character beats",
+   "black": "23.11-24.1 s black (music still sounding, decays)",
+   "dropout": "24.0-25.7 s, -10 -> -35 LUFS while the silhouetted team stands in the hangar (24.1-27.36)",
+   "biggest_hit": "27.3-27.4 s, +30.7 dB (-43.7 -> -13 dBFS) on the cut to the A logo",
+   "beatsync": "cuts on onset 27% vs chance 19%"
+  }
+ }
+}

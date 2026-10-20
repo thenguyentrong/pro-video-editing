@@ -1,0 +1,478 @@
+{
+ "name": "lego_spiderman_stopmotion_bts",
+ "analysed": "2026-10-20, 480x854 YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "rPUrpJDGhBE",
+  "title": "LEGO Spider-Man swings through NYC! 🕷️ | Stop motion BTS #Shorts",
+  "upload_date": "20260913",
+  "duration": 20,
+  "view_count": 534580,
+  "like_count": 1139,
+  "channel": "LEGO",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "webpage_url": "https://www.youtube.com/shorts/rPUrpJDGhBE"
+ },
+ "caveat": "stacked split screen (BTS top, finished stop-motion bottom); the 32 detected shots include stop-motion pose steps, by eye about 14 set-ups (about 1.4 s each)",
+ "file": "lg_spiderman-stopmotion-bts.webm",
+ "duration_s": 19.621,
+ "fps": 30.0,
+ "width": 480,
+ "height": 854,
+ "detector": "scene",
+ "threshold": 0.3,
+ "cut_count": 31,
+ "shot_count": 32,
+ "asl_s": 0.61,
+ "median_s": 0.33,
+ "pct_shots_under_1s": 81.2,
+ "pct_shots_over_3s": 3.1,
+ "shots_per_minute": 97.9,
+ "asl_quarters_s": [
+  1.64,
+  0.41,
+  0.55,
+  0.45
+ ],
+ "longest": [
+  {
+   "start": 0.0,
+   "len": 3.766
+  },
+  {
+   "start": 10.367,
+   "len": 2.233
+  },
+  {
+   "start": 13.266,
+   "len": 2.034
+  }
+ ],
+ "shortest": [
+  {
+   "start": 7.667,
+   "len": 0.1
+  },
+  {
+   "start": 8.233,
+   "len": 0.1
+  },
+  {
+   "start": 10.1,
+   "len": 0.1
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 13,
+  "10-20": 18
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "adaptive",
+  "other_cut_count": 54,
+  "only_in_other": [
+   0.333,
+   0.5,
+   0.667,
+   0.833,
+   1.0,
+   1.167,
+   1.333,
+   1.6,
+   1.867,
+   2.033,
+   3.2,
+   3.933,
+   4.033,
+   4.366,
+   4.6,
+   6.466,
+   9.267,
+   9.533,
+   9.767,
+   10.767,
+   11.2,
+   11.433,
+   12.1,
+   13.533,
+   14.666,
+   14.833,
+   16.166,
+   16.566,
+   16.666,
+   17.233,
+   17.433,
+   17.666,
+   18.066,
+   18.233,
+   18.333,
+   19.166
+  ],
+  "only_in_this": [
+   5.333,
+   7.1,
+   7.433,
+   7.667,
+   7.767,
+   8.233,
+   8.333,
+   8.667,
+   12.833,
+   12.933,
+   15.3
+  ]
+ },
+ "mean_luma": 0.42,
+ "soft_transition_candidates": [
+  {
+   "t": 1.2,
+   "score": 0.796
+  },
+  {
+   "t": 2.1,
+   "score": 0.943
+  },
+  {
+   "t": 11.5,
+   "score": 0.938
+  },
+  {
+   "t": 13.9,
+   "score": 0.795
+  },
+  {
+   "t": 17.8,
+   "score": 1.102
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 3.766,
+   "len": 3.766
+  },
+  {
+   "i": 2,
+   "start": 3.766,
+   "end": 4.766,
+   "len": 1.0
+  },
+  {
+   "i": 3,
+   "start": 4.766,
+   "end": 5.333,
+   "len": 0.567
+  },
+  {
+   "i": 4,
+   "start": 5.333,
+   "end": 5.566,
+   "len": 0.233
+  },
+  {
+   "i": 5,
+   "start": 5.566,
+   "end": 7.1,
+   "len": 1.534
+  },
+  {
+   "i": 6,
+   "start": 7.1,
+   "end": 7.433,
+   "len": 0.333
+  },
+  {
+   "i": 7,
+   "start": 7.433,
+   "end": 7.667,
+   "len": 0.234
+  },
+  {
+   "i": 8,
+   "start": 7.667,
+   "end": 7.767,
+   "len": 0.1
+  },
+  {
+   "i": 9,
+   "start": 7.767,
+   "end": 8.233,
+   "len": 0.466
+  },
+  {
+   "i": 10,
+   "start": 8.233,
+   "end": 8.333,
+   "len": 0.1
+  },
+  {
+   "i": 11,
+   "start": 8.333,
+   "end": 8.667,
+   "len": 0.334
+  },
+  {
+   "i": 12,
+   "start": 8.667,
+   "end": 9.1,
+   "len": 0.433
+  },
+  {
+   "i": 13,
+   "start": 9.1,
+   "end": 9.367,
+   "len": 0.267
+  },
+  {
+   "i": 14,
+   "start": 9.367,
+   "end": 10.1,
+   "len": 0.733
+  },
+  {
+   "i": 15,
+   "start": 10.1,
+   "end": 10.2,
+   "len": 0.1
+  },
+  {
+   "i": 16,
+   "start": 10.2,
+   "end": 10.367,
+   "len": 0.167
+  },
+  {
+   "i": 17,
+   "start": 10.367,
+   "end": 12.6,
+   "len": 2.233
+  },
+  {
+   "i": 18,
+   "start": 12.6,
+   "end": 12.7,
+   "len": 0.1
+  },
+  {
+   "i": 19,
+   "start": 12.7,
+   "end": 12.833,
+   "len": 0.133
+  },
+  {
+   "i": 20,
+   "start": 12.833,
+   "end": 12.933,
+   "len": 0.1
+  },
+  {
+   "i": 21,
+   "start": 12.933,
+   "end": 13.266,
+   "len": 0.333
+  },
+  {
+   "i": 22,
+   "start": 13.266,
+   "end": 15.3,
+   "len": 2.034
+  },
+  {
+   "i": 23,
+   "start": 15.3,
+   "end": 16.0,
+   "len": 0.7
+  },
+  {
+   "i": 24,
+   "start": 16.0,
+   "end": 16.333,
+   "len": 0.333
+  },
+  {
+   "i": 25,
+   "start": 16.333,
+   "end": 17.066,
+   "len": 0.733
+  },
+  {
+   "i": 26,
+   "start": 17.066,
+   "end": 18.5,
+   "len": 1.434
+  },
+  {
+   "i": 27,
+   "start": 18.5,
+   "end": 18.666,
+   "len": 0.166
+  },
+  {
+   "i": 28,
+   "start": 18.666,
+   "end": 18.9,
+   "len": 0.234
+  },
+  {
+   "i": 29,
+   "start": 18.9,
+   "end": 19.0,
+   "len": 0.1
+  },
+  {
+   "i": 30,
+   "start": 19.0,
+   "end": 19.4,
+   "len": 0.4
+  },
+  {
+   "i": 31,
+   "start": 19.4,
+   "end": 19.5,
+   "len": 0.1
+  },
+  {
+   "i": 32,
+   "start": 19.5,
+   "end": 19.621,
+   "len": 0.121
+  }
+ ],
+ "cuts": [
+  3.766,
+  4.766,
+  5.333,
+  5.566,
+  7.1,
+  7.433,
+  7.667,
+  7.767,
+  8.233,
+  8.333,
+  8.667,
+  9.1,
+  9.367,
+  10.1,
+  10.2,
+  10.367,
+  12.6,
+  12.7,
+  12.833,
+  12.933,
+  13.266,
+  15.3,
+  16.0,
+  16.333,
+  17.066,
+  18.5,
+  18.666,
+  18.9,
+  19.0,
+  19.4,
+  19.5
+ ],
+ "loudness": {
+  "integrated_lufs": -12.7,
+  "loudness_range_lu": 4.4,
+  "true_peak_dbtp": -0.2
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 9.2,
+    "level_dbfs": -8.5,
+    "rise_db": 15.3
+   },
+   {
+    "t": 7.05,
+    "level_dbfs": -8.9,
+    "rise_db": 16.8
+   },
+   {
+    "t": 13.5,
+    "level_dbfs": -9.2,
+    "rise_db": 15.7
+   },
+   {
+    "t": 4.9,
+    "level_dbfs": -9.9,
+    "rise_db": 22.5
+   },
+   {
+    "t": 3.45,
+    "level_dbfs": -13.3,
+    "rise_db": 19.3
+   },
+   {
+    "t": 19.45,
+    "level_dbfs": -16.6,
+    "rise_db": 19.4
+   },
+   {
+    "t": 15.9,
+    "level_dbfs": -16.7,
+    "rise_db": 18.4
+   },
+   {
+    "t": 16.95,
+    "level_dbfs": -18.0,
+    "rise_db": 22.7
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 16.95,
+    "level_dbfs": -18.0,
+    "rise_db": 22.7
+   },
+   {
+    "t": 4.9,
+    "level_dbfs": -9.9,
+    "rise_db": 22.5
+   },
+   {
+    "t": 19.45,
+    "level_dbfs": -16.6,
+    "rise_db": 19.4
+   },
+   {
+    "t": 3.45,
+    "level_dbfs": -13.3,
+    "rise_db": 19.3
+   },
+   {
+    "t": 7.75,
+    "level_dbfs": -14.0,
+    "rise_db": 18.9
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 9.2,
+   "rms_dbfs": -11.7
+  },
+  "median_rms_dbfs": -16.9
+ },
+ "sync": {
+  "onsets_per_s": 1.58,
+  "cuts_on_onset_pct": 45,
+  "chance_pct": 31,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "the adaptive detector also finds cuts at [0.333, 0.5, 0.667, 0.833, 1.0, 1.167, 1.333, 1.6, 1.867, 2.033] s: check them (--cut-sheet) and use --add-cuts",
+  "adaptive detector finds 54 cuts vs 31: dark/low-contrast footage? try --detector adaptive or a lower --threshold, and check --cut-sheet",
+  "true peak -0.2 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

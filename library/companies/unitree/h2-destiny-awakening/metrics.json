@@ -1,0 +1,277 @@
+{
+ "name": "unitree_h2-destiny-awakening",
+ "file": "unitree_h2-destiny-awakening.webm",
+ "duration_s": 49.961,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 12,
+ "shot_count": 13,
+ "asl_s": 3.84,
+ "median_s": 2.12,
+ "pct_shots_under_1s": 7.7,
+ "pct_shots_over_3s": 30.8,
+ "shots_per_minute": 15.6,
+ "asl_quarters_s": [
+  6.25,
+  4.16,
+  4.16,
+  1.56
+ ],
+ "longest": [
+  {
+   "start": 0.32,
+   "len": 13.88
+  },
+  {
+   "start": 14.2,
+   "len": 10.16
+  },
+  {
+   "start": 24.36,
+   "len": 6.24
+  }
+ ],
+ "shortest": [
+  {
+   "start": 0.0,
+   "len": 0.32
+  },
+  {
+   "start": 42.0,
+   "len": 1.04
+  },
+  {
+   "start": 40.8,
+   "len": 1.2
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 1,
+  "10-20": 1,
+  "20-30": 1,
+  "30-40": 3,
+  "40-50": 6
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 7,
+  "only_in_other": [],
+  "only_in_this": [
+   24.36,
+   36.56,
+   40.8,
+   43.04,
+   47.72
+  ]
+ },
+ "mean_luma": 0.302,
+ "soft_transition_candidates": [
+  {
+   "t": 3.2,
+   "score": 0.333
+  },
+  {
+   "t": 4.5,
+   "score": 0.408
+  },
+  {
+   "t": 6.5,
+   "score": 0.48
+  },
+  {
+   "t": 8.1,
+   "score": 0.478
+  },
+  {
+   "t": 10.2,
+   "score": 0.362
+  },
+  {
+   "t": 11.8,
+   "score": 0.313
+  },
+  {
+   "t": 18.8,
+   "score": 0.492
+  },
+  {
+   "t": 22.8,
+   "score": 0.424
+  },
+  {
+   "t": 27.3,
+   "score": 0.301
+  },
+  {
+   "t": 29.1,
+   "score": 0.6
+  },
+  {
+   "t": 32.5,
+   "score": 0.646
+  },
+  {
+   "t": 35.3,
+   "score": 0.434
+  }
+ ],
+ "black_dips": [
+  {
+   "start": 47.7,
+   "end": 47.9
+  }
+ ],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 0.32,
+   "len": 0.32
+  },
+  {
+   "i": 2,
+   "start": 0.32,
+   "end": 14.2,
+   "len": 13.88
+  },
+  {
+   "i": 3,
+   "start": 14.2,
+   "end": 24.36,
+   "len": 10.16
+  },
+  {
+   "i": 4,
+   "start": 24.36,
+   "end": 30.6,
+   "len": 6.24
+  },
+  {
+   "i": 5,
+   "start": 30.6,
+   "end": 36.56,
+   "len": 5.96
+  },
+  {
+   "i": 6,
+   "start": 36.56,
+   "end": 38.68,
+   "len": 2.12
+  },
+  {
+   "i": 7,
+   "start": 38.68,
+   "end": 40.8,
+   "len": 2.12
+  },
+  {
+   "i": 8,
+   "start": 40.8,
+   "end": 42.0,
+   "len": 1.2
+  },
+  {
+   "i": 9,
+   "start": 42.0,
+   "end": 43.04,
+   "len": 1.04
+  },
+  {
+   "i": 10,
+   "start": 43.04,
+   "end": 44.24,
+   "len": 1.2
+  },
+  {
+   "i": 11,
+   "start": 44.24,
+   "end": 46.16,
+   "len": 1.92
+  },
+  {
+   "i": 12,
+   "start": 46.16,
+   "end": 47.72,
+   "len": 1.56
+  },
+  {
+   "i": 13,
+   "start": 47.72,
+   "end": 49.961,
+   "len": 2.241
+  }
+ ],
+ "cuts": [
+  0.32,
+  14.2,
+  24.36,
+  30.6,
+  36.56,
+  38.68,
+  40.8,
+  42.0,
+  43.04,
+  44.24,
+  46.16,
+  47.72
+ ],
+ "loudness": {
+  "integrated_lufs": -6.9,
+  "loudness_range_lu": 0.8,
+  "true_peak_dbtp": 1.9
+ },
+ "audio": {
+  "silences": [
+   {
+    "start": 0.0,
+    "end": 0.3,
+    "len": 0.3
+   },
+   {
+    "start": 48.3,
+    "end": 49.9,
+    "len": 1.6
+   }
+  ],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 0.65,
+    "level_dbfs": -10.1,
+    "rise_db": 109.9
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 0.65,
+    "level_dbfs": -10.1,
+    "rise_db": 109.9
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 21.1,
+   "rms_dbfs": -7.0
+  },
+  "median_rms_dbfs": -9.1
+ },
+ "sync": {
+  "onsets_per_s": 0.62,
+  "cuts_on_onset_pct": 25,
+  "chance_pct": 12,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": [
+  "true peak 1.9 dBTP above -1 dBTP: clipping risk after platform encoding"
+ ]
+}

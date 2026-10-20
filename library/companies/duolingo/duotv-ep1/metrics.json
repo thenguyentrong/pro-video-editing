@@ -1,0 +1,548 @@
+{
+ "name": "duolingo_duotv_ep1",
+ "analysed": "2026-10-20, 480p YouTube Shorts download, media deleted after analysis",
+ "source": {
+  "id": "Jf2eZ7tI3Os",
+  "title": "Episode 1 - Welcome to DuoMart! (DuoTV)",
+  "upload_date": "20261012",
+  "duration": 85,
+  "view_count": 710911,
+  "like_count": 26319,
+  "channel": "Duolingo",
+  "uploader": "Duolingo",
+  "track": null,
+  "artist": null,
+  "artists": null,
+  "creator": null,
+  "album": null,
+  "width": 480,
+  "height": 854,
+  "fps": 24,
+  "webpage_url": "https://www.youtube.com/watch?v=Jf2eZ7tI3Os",
+  "description_start": ""
+ },
+ "shot_stats_verified": {
+  "cuts_s": [
+   4.88,
+   6.5,
+   17.25,
+   18.12,
+   18.62,
+   19.88,
+   21.0,
+   21.71,
+   24.54,
+   25.42,
+   27.79,
+   29.29,
+   34.25,
+   36.88,
+   37.79,
+   39.04,
+   50.75,
+   55.08,
+   58.21,
+   67.12,
+   67.96,
+   73.54,
+   74.29,
+   74.79,
+   76.17,
+   79.38,
+   82.67
+  ],
+  "shots": 28,
+  "ASL_s": 3.03,
+  "median_s": 1.84,
+  "ASL_quarters_s": [
+   2.65,
+   2.12,
+   5.3,
+   2.35
+  ],
+  "longest_start_len": [
+   [
+    39.04,
+    11.71
+   ],
+   [
+    6.5,
+    10.75
+   ],
+   [
+    58.21,
+    8.92
+   ]
+  ],
+  "shortest_start_len": [
+   [
+    74.29,
+    0.5
+   ],
+   [
+    18.12,
+    0.5
+   ],
+   [
+    21.0,
+    0.71
+   ]
+  ],
+  "pct_under_1s": 29,
+  "pct_over_3s": 36,
+  "dropped_false_cuts_s": [
+   0.125,
+   1.125,
+   30.292,
+   30.417,
+   68.375,
+   68.625,
+   69.625,
+   69.875,
+   70.875,
+   71.125,
+   72.125,
+   72.375,
+   72.875,
+   73.125,
+   73.375
+  ],
+  "added_cuts_s": [],
+  "note": "cuts2 found 42; dropped 15 false cuts (chat bubble pop-ins 0.1/1.1 s, title-card squash 30.3/30.4 s, basement door light colour flashes 68-73.4 s); 27 real cuts kept"
+ },
+ "media_analysed": {
+  "width": 480,
+  "height": 854,
+  "duration": 84.73
+ },
+ "cuts_cuts2": [
+  0.125,
+  1.125,
+  4.875,
+  6.5,
+  17.25,
+  18.125,
+  18.625,
+  19.875,
+  21.0,
+  21.708,
+  24.542,
+  25.417,
+  27.792,
+  29.292,
+  30.292,
+  30.417,
+  34.25,
+  36.875,
+  37.792,
+  39.042,
+  50.75,
+  55.083,
+  58.208,
+  67.125,
+  67.958,
+  68.375,
+  68.625,
+  69.625,
+  69.875,
+  70.875,
+  71.125,
+  72.125,
+  72.375,
+  72.875,
+  73.125,
+  73.375,
+  73.542,
+  74.292,
+  74.792,
+  76.167,
+  79.375,
+  82.667
+ ],
+ "shot_stats_cuts2": {
+  "name": "duolingo_duotv_ep1",
+  "length": 84.67,
+  "shots": 43,
+  "ASL": 1.97,
+  "median": 1.0,
+  "ASL_quarters": [
+   2.12,
+   1.76,
+   5.29,
+   1.06
+  ],
+  "longest": [
+   [
+    39.04,
+    11.71
+   ],
+   [
+    6.5,
+    10.75
+   ],
+   [
+    58.21,
+    8.92
+   ],
+   [
+    50.75,
+    4.33
+   ]
+  ],
+  "shortest": [
+   [
+    0.0,
+    0.12
+   ],
+   [
+    30.29,
+    0.12
+   ],
+   [
+    73.38,
+    0.17
+   ],
+   [
+    68.38,
+    0.25
+   ]
+  ],
+  "pct_under_1s": 44,
+  "pct_over_3s": 21,
+  "black_flashes_lt0.5s": 0,
+  "black_holds": []
+ },
+ "ffmpeg_scene_by_threshold": {
+  "0.2": {
+   "n_shots": 40,
+   "asl": 2.12
+  },
+  "0.25": {
+   "n_shots": 31,
+   "asl": 2.73
+  },
+  "0.3": {
+   "n_shots": 27,
+   "asl": 3.14
+  },
+  "0.35": {
+   "n_shots": 24,
+   "asl": 3.53
+  },
+  "0.4": {
+   "n_shots": 19,
+   "asl": 4.46
+  }
+ },
+ "integrated_lufs": -13.2,
+ "loudness_dropouts": [
+  {
+   "start": 2.0,
+   "end": 3.0,
+   "len": 1.0,
+   "ref": -20.1,
+   "floor": -48.1,
+   "rise_after": 29.6,
+   "next_peak": -18.5
+  },
+  {
+   "start": 4.0,
+   "end": 4.5,
+   "len": 0.5,
+   "ref": -22.6,
+   "floor": -35.9,
+   "rise_after": 18.4,
+   "next_peak": -17.5
+  },
+  {
+   "start": 81.5,
+   "end": 85.0,
+   "len": 3.5,
+   "ref": -12.8,
+   "floor": -56.6,
+   "rise_after": 0,
+   "next_peak": null
+  }
+ ],
+ "loudness_hits": {
+  "loudest_t": 68.0,
+  "loudest_M": -6.6,
+  "big_hits_near_peak": [
+   [
+    14.6,
+    79.0,
+    -12.5
+   ],
+   [
+    12.8,
+    30.5,
+    -8.3
+   ],
+   [
+    12.8,
+    36.5,
+    -12.6
+   ]
+  ],
+  "biggest_rises": [
+   [
+    29.6,
+    3.5,
+    -18.5
+   ],
+   [
+    29.3,
+    3.0,
+    -18.8
+   ],
+   [
+    15.1,
+    4.5,
+    -20.8
+   ],
+   [
+    14.6,
+    5.0,
+    -21.3
+   ],
+   [
+    14.6,
+    79.0,
+    -12.5
+   ]
+  ]
+ },
+ "audio_gaps_50ms": [
+  {
+   "start": 7.15,
+   "len": 0.4,
+   "ref": -23.9,
+   "floor": -50.9,
+   "next_peak": -17.6,
+   "peak_t": 7.85
+  },
+  {
+   "start": 10.7,
+   "len": 0.15,
+   "ref": -18.5,
+   "floor": -43.4,
+   "next_peak": -11.0,
+   "peak_t": 11.05
+  },
+  {
+   "start": 21.4,
+   "len": 0.15,
+   "ref": -16.9,
+   "floor": -38.5,
+   "next_peak": -12.2,
+   "peak_t": 21.95
+  },
+  {
+   "start": 22.8,
+   "len": 0.25,
+   "ref": -19.0,
+   "floor": -46.1,
+   "next_peak": -11.2,
+   "peak_t": 23.45
+  },
+  {
+   "start": 24.95,
+   "len": 0.6,
+   "ref": -20.5,
+   "floor": -52.4,
+   "next_peak": -14.7,
+   "peak_t": 25.8
+  },
+  {
+   "start": 33.9,
+   "len": 0.45,
+   "ref": -16.7,
+   "floor": -37.3,
+   "next_peak": -17.6,
+   "peak_t": 34.55
+  },
+  {
+   "start": 39.7,
+   "len": 0.2,
+   "ref": -22.6,
+   "floor": -50.0,
+   "next_peak": -12.9,
+   "peak_t": 40.3
+  },
+  {
+   "start": 42.0,
+   "len": 0.45,
+   "ref": -20.9,
+   "floor": -54.1,
+   "next_peak": -10.0,
+   "peak_t": 42.85
+  },
+  {
+   "start": 44.8,
+   "len": 0.15,
+   "ref": -22.8,
+   "floor": -50.2,
+   "next_peak": -17.5,
+   "peak_t": 45.5
+  },
+  {
+   "start": 45.0,
+   "len": 0.4,
+   "ref": -22.8,
+   "floor": -50.9,
+   "next_peak": -14.4,
+   "peak_t": 45.9
+  },
+  {
+   "start": 46.45,
+   "len": 0.35,
+   "ref": -21.9,
+   "floor": -51.4,
+   "next_peak": -11.4,
+   "peak_t": 47.15
+  },
+  {
+   "start": 47.75,
+   "len": 0.25,
+   "ref": -29.5,
+   "floor": -52.5,
+   "next_peak": -15.5,
+   "peak_t": 48.4
+  },
+  {
+   "start": 52.15,
+   "len": 0.45,
+   "ref": -20.7,
+   "floor": -49.7,
+   "next_peak": -11.0,
+   "peak_t": 52.8
+  },
+  {
+   "start": 53.1,
+   "len": 0.3,
+   "ref": -23.1,
+   "floor": -49.9,
+   "next_peak": -10.9,
+   "peak_t": 53.7
+  },
+  {
+   "start": 55.3,
+   "len": 0.35,
+   "ref": -19.1,
+   "floor": -49.2,
+   "next_peak": -18.4,
+   "peak_t": 55.7
+  },
+  {
+   "start": 56.05,
+   "len": 0.15,
+   "ref": -22.5,
+   "floor": -44.4,
+   "next_peak": -12.0,
+   "peak_t": 56.6
+  }
+ ],
+ "audio_hits_50ms": [
+  [
+   -7.7,
+   36.7,
+   13.65
+  ],
+  [
+   -7.7,
+   18.0,
+   26.95
+  ],
+  [
+   -8.4,
+   15.4,
+   65.25
+  ],
+  [
+   -9.0,
+   16.8,
+   62.3
+  ],
+  [
+   -9.4,
+   15.1,
+   51.0
+  ],
+  [
+   -9.6,
+   16.4,
+   16.95
+  ],
+  [
+   -9.7,
+   30.6,
+   10.1
+  ],
+  [
+   -9.9,
+   31.6,
+   38.55
+  ],
+  [
+   -10.0,
+   42.6,
+   42.85
+  ],
+  [
+   -10.6,
+   19.1,
+   36.4
+  ],
+  [
+   -10.8,
+   16.7,
+   33.45
+  ],
+  [
+   -10.9,
+   39.0,
+   53.7
+  ],
+  [
+   -10.9,
+   18.2,
+   63.4
+  ],
+  [
+   -11.2,
+   32.8,
+   23.45
+  ],
+  [
+   -11.3,
+   19.2,
+   57.6
+  ]
+ ],
+ "beatsync": "duolingo_duotv_ep1 onsets/s 2.13 cuts on onset (+-0.1s) 33 % vs chance 41 %",
+ "manual": {
+  "format": "9:16 1080x1920 YouTube Short, episodic (Episode 1 of 6)",
+  "sub_style": "2D animated sitcom / micro-series",
+  "hook_0_2s": "phone-chat UI fills the frame: a photo of a green frog with a '#1 BOSS' mug, then the reply bubble 'Why is he green tho?' pops in at 1.0 s; typing dots at 2.5 s; incoming video call 'Mother' at 4.9 s",
+  "cold_open_s": 29.3,
+  "title_card": "29.3-34.2 s 'DUO tv / Episode one / Welcome to DuoMart!' with Duo popping up holding a CLOSED sign",
+  "captions": {
+   "style": "burned-in subtitles: rounded dark plum box ~85% opacity, sentence case, Inter/DIN-like medium; speaker colour-coded (Lily white, Duo lime green)",
+   "word_by_word": false,
+   "cap_height_pct_H": [
+    1.9,
+    2.2
+   ],
+   "lines": "1-2",
+   "box_position_pct_H": "73-80",
+   "x_extent_pct_W": "25-75"
+  },
+  "on_screen_text_density": "one subtitle line per spoken line + diegetic UI text (chat, call screen, CV card, shop posters)",
+  "audio": "voice acting + light music bed + SFX; integrated LUFS see field; 2 hard music drops into silence for comic beats not detected by tool",
+  "audio_type": "original (voice cast)",
+  "voice": true,
+  "loop": "no loop: ends on 'To Be Continued' handwritten card (82.7-84.7 s) = series hook",
+  "views_at_analysis": 710911,
+  "likes": 26319
+ }
+}

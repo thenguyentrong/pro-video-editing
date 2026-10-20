@@ -1,0 +1,356 @@
+{
+ "name": "visit-denmark_holiday-home",
+ "file": "dk_ferienhaus.webm",
+ "duration_s": 45.021,
+ "fps": 25.0,
+ "width": 854,
+ "height": 480,
+ "detector": "adaptive",
+ "threshold": null,
+ "cut_count": 26,
+ "shot_count": 27,
+ "asl_s": 1.67,
+ "median_s": 1.52,
+ "pct_shots_under_1s": 7.4,
+ "pct_shots_over_3s": 3.7,
+ "shots_per_minute": 36.0,
+ "asl_quarters_s": [
+  1.61,
+  1.25,
+  1.25,
+  2.25
+ ],
+ "longest": [
+  {
+   "start": 40.32,
+   "len": 4.701
+  },
+  {
+   "start": 37.88,
+   "len": 2.44
+  },
+  {
+   "start": 0.0,
+   "len": 2.2
+  }
+ ],
+ "shortest": [
+  {
+   "start": 12.16,
+   "len": 0.84
+  },
+  {
+   "start": 22.6,
+   "len": 0.84
+  },
+  {
+   "start": 18.64,
+   "len": 1.0
+  }
+ ],
+ "cuts_per_10s": {
+  "0-10": 5,
+  "10-20": 8,
+  "20-30": 6,
+  "30-40": 6,
+  "40-50": 1
+ },
+ "black_flashes_folded": [],
+ "black_holds": [],
+ "cross_check": {
+  "other_detector": "scene",
+  "other_cut_count": 24,
+  "only_in_other": [],
+  "only_in_this": [
+   13.0,
+   14.36
+  ]
+ },
+ "mean_luma": 0.283,
+ "soft_transition_candidates": [
+  {
+   "t": 0.4,
+   "score": 0.129
+  },
+  {
+   "t": 4.5,
+   "score": 0.14
+  },
+  {
+   "t": 26.3,
+   "score": 0.175
+  },
+  {
+   "t": 39.0,
+   "score": 0.16
+  },
+  {
+   "t": 42.8,
+   "score": 0.15
+  }
+ ],
+ "black_dips": [],
+ "shots": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 2.2,
+   "len": 2.2
+  },
+  {
+   "i": 2,
+   "start": 2.2,
+   "end": 3.36,
+   "len": 1.16
+  },
+  {
+   "i": 3,
+   "start": 3.36,
+   "end": 5.56,
+   "len": 2.2
+  },
+  {
+   "i": 4,
+   "start": 5.56,
+   "end": 7.12,
+   "len": 1.56
+  },
+  {
+   "i": 5,
+   "start": 7.12,
+   "end": 8.16,
+   "len": 1.04
+  },
+  {
+   "i": 6,
+   "start": 8.16,
+   "end": 10.24,
+   "len": 2.08
+  },
+  {
+   "i": 7,
+   "start": 10.24,
+   "end": 12.16,
+   "len": 1.92
+  },
+  {
+   "i": 8,
+   "start": 12.16,
+   "end": 13.0,
+   "len": 0.84
+  },
+  {
+   "i": 9,
+   "start": 13.0,
+   "end": 14.36,
+   "len": 1.36
+  },
+  {
+   "i": 10,
+   "start": 14.36,
+   "end": 16.28,
+   "len": 1.92
+  },
+  {
+   "i": 11,
+   "start": 16.28,
+   "end": 17.32,
+   "len": 1.04
+  },
+  {
+   "i": 12,
+   "start": 17.32,
+   "end": 18.64,
+   "len": 1.32
+  },
+  {
+   "i": 13,
+   "start": 18.64,
+   "end": 19.64,
+   "len": 1.0
+  },
+  {
+   "i": 14,
+   "start": 19.64,
+   "end": 21.16,
+   "len": 1.52
+  },
+  {
+   "i": 15,
+   "start": 21.16,
+   "end": 22.6,
+   "len": 1.44
+  },
+  {
+   "i": 16,
+   "start": 22.6,
+   "end": 23.44,
+   "len": 0.84
+  },
+  {
+   "i": 17,
+   "start": 23.44,
+   "end": 25.4,
+   "len": 1.96
+  },
+  {
+   "i": 18,
+   "start": 25.4,
+   "end": 27.24,
+   "len": 1.84
+  },
+  {
+   "i": 19,
+   "start": 27.24,
+   "end": 28.72,
+   "len": 1.48
+  },
+  {
+   "i": 20,
+   "start": 28.72,
+   "end": 30.04,
+   "len": 1.32
+  },
+  {
+   "i": 21,
+   "start": 30.04,
+   "end": 31.56,
+   "len": 1.52
+  },
+  {
+   "i": 22,
+   "start": 31.56,
+   "end": 32.84,
+   "len": 1.28
+  },
+  {
+   "i": 23,
+   "start": 32.84,
+   "end": 34.52,
+   "len": 1.68
+  },
+  {
+   "i": 24,
+   "start": 34.52,
+   "end": 35.68,
+   "len": 1.16
+  },
+  {
+   "i": 25,
+   "start": 35.68,
+   "end": 37.88,
+   "len": 2.2
+  },
+  {
+   "i": 26,
+   "start": 37.88,
+   "end": 40.32,
+   "len": 2.44
+  },
+  {
+   "i": 27,
+   "start": 40.32,
+   "end": 45.021,
+   "len": 4.701
+  }
+ ],
+ "cuts": [
+  2.2,
+  3.36,
+  5.56,
+  7.12,
+  8.16,
+  10.24,
+  12.16,
+  13.0,
+  14.36,
+  16.28,
+  17.32,
+  18.64,
+  19.64,
+  21.16,
+  22.6,
+  23.44,
+  25.4,
+  27.24,
+  28.72,
+  30.04,
+  31.56,
+  32.84,
+  34.52,
+  35.68,
+  37.88,
+  40.32
+ ],
+ "loudness": {
+  "integrated_lufs": -12.2,
+  "loudness_range_lu": 2.8,
+  "true_peak_dbtp": -2.2
+ },
+ "audio": {
+  "silences": [],
+  "dropouts": [],
+  "hits": [
+   {
+    "t": 8.9,
+    "level_dbfs": -8.5,
+    "rise_db": 15.6
+   },
+   {
+    "t": 5.9,
+    "level_dbfs": -9.1,
+    "rise_db": 15.8
+   },
+   {
+    "t": 10.45,
+    "level_dbfs": -9.9,
+    "rise_db": 17.0
+   },
+   {
+    "t": 12.65,
+    "level_dbfs": -10.2,
+    "rise_db": 15.8
+   }
+  ],
+  "biggest_rises": [
+   {
+    "t": 10.45,
+    "level_dbfs": -9.9,
+    "rise_db": 17.0
+   },
+   {
+    "t": 5.9,
+    "level_dbfs": -9.1,
+    "rise_db": 15.8
+   },
+   {
+    "t": 12.65,
+    "level_dbfs": -10.2,
+    "rise_db": 15.8
+   },
+   {
+    "t": 8.9,
+    "level_dbfs": -8.5,
+    "rise_db": 15.6
+   }
+  ],
+  "loudest_0_5s": {
+   "t": 40.35,
+   "rms_dbfs": -9.2
+  },
+  "median_rms_dbfs": -15.4
+ },
+ "sync": {
+  "onsets_per_s": 1.58,
+  "cuts_on_onset_pct": 23,
+  "chance_pct": 31,
+  "tolerance_s": 0.1
+ },
+ "sheets": [
+  "sheet.jpg"
+ ],
+ "cut_sheets": [
+  "cuts_01.jpg"
+ ],
+ "warnings": []
+}
